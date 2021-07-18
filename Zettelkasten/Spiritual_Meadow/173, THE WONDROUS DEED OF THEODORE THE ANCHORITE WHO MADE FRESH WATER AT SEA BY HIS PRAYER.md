@@ -1,0 +1,3 @@
+[[Spiritual Meadow]]
+ 
+There was an anchorite in the area of the holy Jordan, Theodore by name, who was a eunuch, He was obliged for some reason or other to go to Constantinople so he boarded a ship. The vessel was delayed so Jong on the high sea that they ran out of water. Sailors and passengers alike were greatly afflicted by anxiety and despair. The anchorite stood up and stretched out his hands to heaven, to the God who saves our souls from death. He offered a prayer and sealed the sea with the sign of the cross. Then he said to the sailors: ‘Blessed be the Lord! Draw as much water as you need’. They filled every receptacle with fresh water out of the sea and everybody glorified God.

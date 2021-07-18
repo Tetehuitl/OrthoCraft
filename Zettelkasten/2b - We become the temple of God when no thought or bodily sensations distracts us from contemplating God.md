@@ -1,0 +1,12 @@
+- !!Reference: 
+- Source: [[Letter 2 - St Basil the Great]] | [[St Basil the Great]]
+- Keywords: [[Zettels]] 
+- *[[[[humility]]]]
+- *[[[[howToBehave]]]]
+- *[[[[logismoi]]]]
+- *[[[[spiritualWarfare]]]]
+- Relevant Notes: 
+- * [[2a - We must strive for a quiet mind]]
+- --
+- !!Notes:
+- Spiritual Warfare starts in the mind. If we can detach desire from the body then the thoughts concerning it will not distract us and we will fulfill the command to not love our own lives before God. 

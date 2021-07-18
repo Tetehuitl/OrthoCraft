@@ -1,0 +1,47 @@
+[[Source]]
+- Author:: [[St John Cassian]]
+- Category:: [[Philokalia]]
+- Subject:: [[Spiritual Warfare]] [[Virtue]]
+- Published:: 
+- Thesis::
+- Pagination:: kindle loc
+- Preparatory Brain Dump:: 
+- Table of Contents::
+	- Chapter 1: On Control of the Stomach
+	- Chapter 2: On the Demons of Unchastity and the Desire of the Flesh
+	- Chapter 3: On Avarice
+- Notes::
+	- Chapter 1 Pre Read
+	- Chapter 1
+		- [[Claim]]: There are eight vices [[Gluttony]] [[Unchastity]] [[Avarice]] [[Anger]] [[Dejection]] [[Listlessness]] [[Self-Esteem]] [[Pride]] loc 838
+		- [[Claim]]: The [[Holy Fathers]] haven't given a single [[Fasting]] rule because not everyone has the same strength. but instead a single goal: to avoid overeating and the filling of the stomach. loc 845
+		- [[Claim]]: At day's fast is more beneficial than a prolonged one of three to seven days as people tend to overeat afterward. The overfaster either slacks because of the lack of energy or they are slothful from overeating. loc 845
+		- [[Claim]]: Some people's stomachs cannot handle greens or beans, while others cannot live on dry bread. and some people need more food and some less loc 853
+		- [[Claim]]: It is not just a variety of food that enkindles the passions but also the amount. Even too much water can make one drowsy. "The Sodomites were destroyed not because of too much wine or too much of other foods, but because of a surfeit of bread, as the Prophet tells us" [[Ezekiel 16]]:49 loc 853
+		- [[Claim]]: "Bodily illness is not an obsticle to purity of heart, provided we give the body what its illness requires, not what gratifies our desire for pleasure." to be moderate in eating is to give the body what it needs to help spiritually. loc 853
+		- [[Claim]]: The fathers say clearly to stop eating when still hungry and don't continue until you are satisified. loc 853
+		- [[Claim]]: abstanance from food alone doesn't make one holy, unless it's accompanied by the other virtues as well. loc 863
+		- [[Claim]]: no one who's stomach is full can fight mentally agaist the demon of unchastity. Fasting is like the entryway to the rest of the virtues. loc 863
+		- [[Quote]]: "No one whose stomach is full can fight mentally against the demon of unchastity. Our initial struggle therefore must be to gain control of our stomach and to bring our body into subjection not only through fasting but also through vigils, labours and spiritual, reading, and through concentrating our heart on fear of Gehenna and on longing for the kingdom of heaven."
+	- Chapter 1 Summary
+		- [[Crux]]: Stomach is the gatekeeper of the passions and so fasting essential to conquering the passions. However, fasting alone isn't enough it must be accompanied by keeping the rest of the virtues.
+   - Chapter 2 Pre Read
+	- Chapter 2
+		- [[Claim]]:  The struggle with unchastity starts from youth. It's a harsh struggle that has to be fought on two fronts- in the soul and body. loc 871
+		- [[Quote]]:  "Bodily fasting alone is not enough to bring about perfect self-restraint and true purity; it must be accompanied by contrition of heart, intense prayer to God, frequent meditation on the Scriptures, toil and manual labour. These are able to check the restless impulses of the soul and to recall it from its shameful fantasies. Humility of soul helps more than everything else, however, and without it no one can overcome unchastity or any other sin. In the first place, then, we must take the utmost care to guard the heart from base thoughts, for, according to the Lord, 'out of the heart proceed evil thoughts, murders, adulteries, unchastity' and so on ([[Matthew 15]]:19)." loc 871
+		- [[Claim]]:  We should not spend all our energy on fasting but also we need to keep watch over our thoughts. [[Matthew 23]]:26
+		- [[Quote]]:  "If we are really eager, as the Apostle puts it, to 'struggle lawfully' and to 'be crowned' ([[2 Timothy 2]]:5) for overcoming the impure spirit of unchastity, we should not trust in our own strength and ascetic practice, but in the help of our Master, God. No one ceases to be attacked by this demon until he truly believes that he will be healed and reach the heights of purity not through his own effort and labour, but through the aid and protection of God. For such a victory is beyond man's natural powers. Indeed, he who has trampled down the pleasures and provocations of the flesh is in a certain sense outside the body. Thus, no one can soar to this high and heavenly prize of holiness on his own wings and learn to imitate the angels, unless the grace of God leads him upwards from this earthly mire." loc 880
+		- [[Claim]]:  a mind purified of unchastity is as close to an angelic life as you can get. loc 880
+		- [[Claim]]:  The sign of having purified yourself of unchastity is not being moved by unchaste thoughts in dreams which includes being unaffected by notcturnal emissions. loc 890
+		- [[Claim]]: The most important thing is the guarding of the heart from unchasty and purity of soul . The guarding of the eyes is a means to this end. loc 890
+		- [[Claim]]:  To be watchful and to guard the heart from unchaste thoughts we must expel the fist inkling of the unchaste thought. This includes our female family and pious women. Dwelling on any woman too long can lead our mind to unchaste thoughs. 890
+			- [[Quote]]:  "The commandment given by God to the first man, Adam, told him to keep watch over the head of the serpent ([[Genesis 3]]:15. LXX), that is, over the first inklings of the pernicious thoughts by means of which the serpent tries to creep into our souls." loc 898
+			- [[Quote]]:  "Early in the morning destroy all the wicked from the earth. [[Psalm 101]]:8" loc 900
+			- [[Quote]]:  "While the children of Babylon - by which I mean our wicked thoughts - are still young, we should dash them to the ground and crush them against the rock, which is Christ." [[Psalm 137]]:9 [[1 Corinthians 16]]:4 loc 900
+		- [[Claim]]:  The thoughts will grow very strong and it will be a difficult fight if we assent to unchaste thoughts. loc 900
+		- [[Claim]]:  We cannot acheive real purity of heart unless we acquire true humility. loc 900
+		- [[Quote]]:  "We will not be granted true spiritual knowledge so long as the passion of unchastity lies hidden in the depths of our souls." loc 909
+		- [[Claim]]:  The more we strive for purity the stronger the enemy will fight us. So it's important that we acquire [[Humility]] and [[Contrition of Heart]] with frequent [[Prayer]] and [[Repentance]] so the [[Holy Spirit]] will fight with us and give us consolation. loc 909
+		- [[Claim]]:  [[Vigil]]s bring us holiness at night just like [[Watchfulness]] does during the day. loc 909
+	- Chapter 2 Summary
+		- [[Crux]]: Nothing makes us more angelic than chastity. Abstaining from fornication simply externally isn't enough, we must attain to a pure heart. This is the true meaning of chastity. 

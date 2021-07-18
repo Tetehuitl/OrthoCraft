@@ -1,0 +1,5 @@
+[[Spiritual Meadow]]
+ 
+Abba Stephan Trichinas told us about an elder named Cyriacos living at the Lavra of our saintly father Sabas, who once went down to Coutila. He stayed for a little while there beside the Dead Sea; then he started back to his cell. The heat was so intense that the elder was about to faint. So he stretched out his hands to heaven and prayed to God saying: ‘Lord, you know that I can hardly walk for thirst’, Immediately there came a cloud about him and it was  
+ 
+not taken away from him until he was back at his cell once more. It was a distance of twelve miles. The same Stephan told us this about the same elder: One day some of his relatives came wanting to see him. When they came into the Lavra, they enquired where his cell was. Some people showed them where it was located, so they went and knocked at the door. Realising who they were, the elder prayed God not to let him be seen by them. He opened the door and went out of his cell, but he was not seen by them. He went out into the wilderness and did not return to his cell until they had gone away. 

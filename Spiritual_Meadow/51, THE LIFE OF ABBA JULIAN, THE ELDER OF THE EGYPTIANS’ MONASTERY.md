@@ -1,0 +1,3 @@
+[[Spiritual Meadow]]
+ 
+Anazarbos is the metropolis of Cilicia Secunda. About twelve miles away is the so-called ‘Lavra of the Egyptians’. The fathers of that place told us that, five years earlier, an elder named Julian had died there, They testified that he spent about seventy years in one little cave and that he possessed nothing of this world’s goods other than a hair shirt, a cloak, a book of the gospels, and a wooden bowl. They also said this of him: that all his life long he never lit a lamp to give light, for at night-time a light shone upon him from heaven sufficient for him to discern the sequence of the letters when he was reading. 

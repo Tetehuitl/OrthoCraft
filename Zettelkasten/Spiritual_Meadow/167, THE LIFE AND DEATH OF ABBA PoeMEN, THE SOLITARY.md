@@ -1,0 +1,5 @@
+[[Spiritual Meadow]]
+ 
+Abba Agathonicos, higoumen of the community of our holy father Sabas at Castellium,™ said:  
+ 
+One day I went down to Rouba to visit Abba Poemén the grazer. When I found him, I told him the thoughts which troubled me. ‘When night fell, he Jeft me in a cave. It was winter and that night it got very cold indeed; I was freezing. When the elder came at dawn, he said to me: ‘What is matter, child?’ I said: ‘Forgive me, father, I had a very bad night because of the cold’. He said to me: ‘Indeed, child? I did not feel the cold.’ This amazed me, for he was naked. I asked him of his charity to tell me how he did not feel the cold. He said: ‘A lion came down and lay beside me; he kept me warm. But I tell you, brother: I shal] be devoured by wild beasts.’ I asked him why, and he told me: “Because when I was in our homeland’—we were both from Galatia—‘I was a shepherd. I was hostile to a stranger who came by and my dogs devoured him. I could have saved him, but I did not. I left him to his fate and the dogs killed him. I know that I too must die in that way.’ Three years later that elder was devoured by wild beasts, as he himself had foretold.

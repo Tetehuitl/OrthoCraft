@@ -1,0 +1,16 @@
+- [[Zettels]]
+- [[[[angels]]]] 
+- Sources: [[St Dionysios]]
+- Links: 
+- 
+- --
+- !!Notes:
+- # Seraphim
+- # Cherubim
+- # Powers
+- # Authorities
+- # Principalities
+- # Dominions
+- # Thrones
+- # Archangels
+- # Angels

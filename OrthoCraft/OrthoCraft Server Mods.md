@@ -1,0 +1,28 @@
+- Server Mods:
+	- Fabric Loader
+	- Carpet Mod - https://www.curseforge.com/minecraft/mc-mods/carpet/files
+	- Carpet Extras - https://www.curseforge.com/minecraft/mc-mods/carpet-extra
+	- Carpet AutoCraftingTable - https://github.com/gnembon/carpet-autoCraftingTable/releases/download/1.4.39/carpet-autocraftingtable-1.17-1.4.39.jar
+	- Simple Voice Chat - https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
+	- Lithium - https://github.com/CaffeineMC/lithium-fabric/releases/tag/mc1.17-0.7.2
+	- Scarpet Mods:
+		- Shulkerboxes - https://github.com/gnembon/scarpet/blob/master/programs/survival/shulkerboxes.sc
+		- silk_spawners - https://github.com/gnembon/scarpet/blob/master/programs/survival/silk_spawners.sc
+- Client Mods:
+	- Optifabric Make Optifine work with Fabric - https://www.curseforge.com/minecraft/mc-mods/optifabric/files/3358986
+	- https://www.curseforge.com/minecraft/mc-mods/malilib
+	- https://www.curseforge.com/minecraft/mc-mods/tweakeroo
+	- https://www.curseforge.com/minecraft/mc-mods/item-scroller
+	- https://www.curseforge.com/minecraft/mc-mods/litematica
+	- https://www.curseforge.com/minecraft/mc-mods/minihud
+- DataPacks (VanillaTweaks):
+	- *This is an incomplete list*:
+	- https://vanillatweaks.net/share#7o9fwq
+	- https://vanillatweaks.net/share#jcgiQE
+	- anti creeper grief
+	- anti enderman grief
+	- anti ghast grief
+		- confetti creepers
+		- Custom Villager Shops
+		- Double Shulker Shells
+		- Dragon Drops

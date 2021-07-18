@@ -1,0 +1,16 @@
+---
+aliases: ⭐️
+---
+- Credence levels:
+    - 0
+    - 1
+    - 2
+    - 3: completely unsupported but not actually contraindicated
+    - 4
+    - 5
+    - 6: More likely to be true than not but has no actual evidence
+    - 7
+    - 8
+    - 9
+    - 10
+    - 

@@ -1,0 +1,20 @@
+---
+aliases: 📖
+---
+- Something that generates [[Claim]]s, e.g. a [[Book]] or [[Article]]
+- Typically of the form [ [[Source]]: Name of Piece]
+    - If marked TODO (as a string, not a checkbox) and not of this format: this was copied from a source that referred to it in a different way (probably author and year) and hasn't been converted yet. This will typically happen only in [[Claim]]s. To find the source, go to the Source page of the Claim, and look up the reference in that source's bibliography.
+- Typically has
+    - Author::
+    - Category:: 
+    - Subject:: 
+    - Published:: 
+    - Thesis::
+    - Pagination:: what system I'm following for location references (e.g. kindle loc, epub page number) and what the total is (to account for different editions, iBooks resizing)
+    - Preparatory Brain Dump::
+    - Table of Contents::
+    - Notes::
+        - Chapter 1 Pre Read
+        - Chapter 1
+            - has [[Claim]]s
+        - Chapter 1 Summary

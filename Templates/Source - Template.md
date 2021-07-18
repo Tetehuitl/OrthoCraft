@@ -1,0 +1,14 @@
+- [[Author]]:
+	- [[Category]]:
+	- [[Subject]]:
+	- [[Published]]:
+	- [[Thesis]]:
+	- [[Pagination]]: what system I'm following for location references (e.g. kindle loc, epub page number) and what the total is (to account for different editions, iBooks resizing)
+	- [[Preparatory Brain Dump]]:
+	- [[Table of Contents]]:
+	- [[Notes]]:
+		- Chapter 1 Pre Read:
+		- Chapter 1:
+			- has [[Claim|➡]] "Claims"
+			- and [[Quote|❝]] "Quotes"
+		- Chapter 1 Summary:
