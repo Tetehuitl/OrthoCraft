@@ -6,9 +6,7 @@ links: [[HUB]] [[St Benedict of Nursia]]
 
 ---
 
-_Description_
-
-### Sections
+_Extract from St Benedict's Rule_
 
 Brethren, the sacred Scriptures cry out to us and say: "Every one who exalts himself will be humbled, and every one who humbles himself will be exalted."
 
