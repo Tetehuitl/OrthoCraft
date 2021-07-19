@@ -23,7 +23,7 @@ _Aν πεθάνεις, πριν πεθάνεις, δεν θα πεθάνεις, 
     - [[Writings]] — #HolyFathers | #Theology | #Morality
     - [[Resources]] — #Resources
 - Technology
-    - [[Cheat Sheet]]
+    - [[Cheat Sheets]]
     - [[Manuals]]
     - [[Articles]]
     - [[Tech Resources]]
