@@ -11,8 +11,6 @@ links: [[HUB]]
 
 _Cheat sheets for programming languages_
 
-
-
 - [Markdown](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
 - [Clojure](https://cljs.info/cheatsheet/)
 - [Bash](https://devhints.io/bash)
