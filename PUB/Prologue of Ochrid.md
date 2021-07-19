@@ -20,3 +20,5 @@ Links are new calender references to old calendar readings:
 - [[July 5|July 18]]
 - [[July 6|July 19]]
 - [[July 7|July 20]]
+- [[July 8|July 21]]
+- [[July 9|]
