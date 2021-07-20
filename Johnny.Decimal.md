@@ -1,0 +1,21 @@
+- 00-09 Management & Meta
+	- 00.00 Index
+- 10-19 Note-taking & Scheduling
+	- Obsidian Vault???
+		- Journal & TODO
+		- Zettlekasten
+			- Source Notes
+			- Synthesis Notes
+		- Kindle
+		- LYT Kit
+		- Templates
+- 20-29 Server Admin
+	- OrthoCraft
+- 30-39 Publishing & Websites
+	- Blog
+	- Monastery website
+	- Books
+		- Spiritual_Meadow
+		- Prologue of Ochrid
+		- KJV
+	- E-Books
