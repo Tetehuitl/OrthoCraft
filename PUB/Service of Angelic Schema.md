@@ -1,0 +1,4 @@
+---
+tags:
+	- '#needsEdit'
+aliases
