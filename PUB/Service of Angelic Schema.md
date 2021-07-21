@@ -7,7 +7,6 @@ aliases: "The Great Schema"
 
 ## Rubrics and Service of the Great and Angelic Monastic Schema
 
-
 **Rubrics and Service of the Great and Angelic Monastic Schema**
 
 **The previous evening, all the vestments (garments) of him who is to receive the Great and Angelic Schema which are intended for the purpose are brought and placed in the Holy Sanctuary.**
@@ -20,7 +19,7 @@ aliases: "The Great Schema"
 
 **After the entrance of the Holy Gospel, the priest places the Holy Gospel before the Beautiful Door just in front of the Holy Icon of the Master Christ, also placing upon the Gospel a pair of scissors. He is who going to receive the Holy Schema, standing before the doors of the Church, puts off his head covering and whatever clothing he is wearing, remaining only in his underclothes. The Abbot receives him there and, holding him by the hand and going before him, makes a gesture to him to make—and he makes—one prostration at the time he enters the Church, one in the middle of the Church, one before the Beautiful Doors, one each to the right and left choirs, three each to the Holy Icons of Christ, the Mother of God and the Saint of the Monastery, and one to the Abbot, whose right hand he kisses. The postulant then stands on the Abbot’s left having his arms crossed on his breast.**
 
-**These things having taken place, after they chant the usual Apolytikion of the Saint of the day and of the Saint of the Monastery, the following Antiphons are chanted [alternately] by the cantors of each of the choirs.**
+**These things having taken place, after they chant the usual Apolytikion of the Saint of the day and of the Saint of the Monastery, the following Antiphons are chanted alternately by the cantors of each of the choirs.**
 
 **Antiphon 1. Fourth Tone.**
 
@@ -30,7 +29,7 @@ Who suffering the buffets of winter and running towards this very harbour is not
 
 I am a sheep of your rational flock and to you I flee for refuge, O Good Shepherd. Search me out who has been lost, O God, and have mercy on me.
 
-**Glory, And Now.
+\*\*Glory, And Now.
 
 Blessed Birthgiver of God, preserve your servants from all dangers so that we may glorify you, the hope of our souls.
 
@@ -156,7 +155,7 @@ For yours in the Kingdom and the reign and the authority, and to you is due all 
 
 **Let us pray to the Lord.**
 
-Holy Lord of Hosts, Father of our Lord Jesus Christ bless your servant **\<name\> whom you have called to your spiritual bridal-chamber and make him wholly worthy to be your holy servant. Make him wise, and pour out on him the grace and understanding of your ruling Spirit. Grant him strength in the war against the invisible enemy, put down with your great power the rebellions of the flesh. Grant him to please you in unceasing praise and doxology, in appropriate hymns, in acceptable prayers, in right counsel, in a humble heart, in the practice of life and meekness and truth. Make him utterly worthy to please you in meekness, in love, in perfection, in knowledge, in courage, and to offer to you hymns and doxologies and prayers in the odour of a fragrant smell. Perfect his life in holiness and righteousness, so that having that continuous and spotless union which is with you, he may be found worthy of your heavenly Kingdom.
+Holy Lord of Hosts, Father of our Lord Jesus Christ bless your servant \*\*\<name\> whom you have called to your spiritual bridal-chamber and make him wholly worthy to be your holy servant. Make him wise, and pour out on him the grace and understanding of your ruling Spirit. Grant him strength in the war against the invisible enemy, put down with your great power the rebellions of the flesh. Grant him to please you in unceasing praise and doxology, in appropriate hymns, in acceptable prayers, in right counsel, in a humble heart, in the practice of life and meekness and truth. Make him utterly worthy to please you in meekness, in love, in perfection, in knowledge, in courage, and to offer to you hymns and doxologies and prayers in the odour of a fragrant smell. Perfect his life in holiness and righteousness, so that having that continuous and spotless union which is with you, he may be found worthy of your heavenly Kingdom.
 
 Through the Grace and compassion and love for Mankind of your only-begotten Son, with whom you are blessed, with your all-Holy and good and life-giving Spirit, now and ever and to the Ages of Ages. Amen.
 
@@ -196,51 +195,51 @@ Our brother **\<name\>** is clothed with the tunic of righteousness and exultati
 
 **Giving the Schema the priest says:**
 
-Our brother **(so-and-so)** receives the napkin of the Great and Angelic Schema, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **\<name\>** receives the napkin of the Great and Angelic Schema, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **3.**
 
-**Giving the \_polystaurion,[**[27]**](https://www.blogger.com/post-edit.g?blogID=17052672&postID=8478169397707499220#_ftn27)\_ the priest says:**
+**Giving the _polystavrion,_ the priest says:**
 
-Our brother **(so-and-so)** receives the _analavon_, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **\<name\>** receives the _analavon_, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **4.**
 
-**Giving the belt\_,[**[28]**](https://www.blogger.com/post-edit.g?blogID=17052672&postID=8478169397707499220#_ftn28)\_ the priest says:**
+**Giving the belt, the priest says:**
 
-Our brother **(so-and-so)** is girded in his loin with the power of the truth, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **\<name\>** is girded in his loin with the power of the truth, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **5.**
 
-**Giving the \_pallion,[**[29]**](https://www.blogger.com/post-edit.g?blogID=17052672&postID=8478169397707499220#_ftn29)\_ the priest says:**
+**Giving the pallion, the priest says:**
 
-Our brother **(so-and-so) r**eceives the _pallion_ of the Great and Angelic Schema, for a garment of incorrupt ion and modesty in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **\<name\>** receives the _pallion_ of the Great and Angelic Schema, for a garment of incorruption and modesty in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **6.**
 
 **Giving the footwear*,* the priest says:**
 
-Our brother **(so-and-so)** is shod with the sandals in preparation of the Gospel of Peace, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **\<name\>** is shod with the sandals in preparation of the Gospel of Peace, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **7.**
 
-**Giving the \_kalymauchion,[**[30]**](https://www.blogger.com/post-edit.g?blogID=17052672&postID=8478169397707499220#_ftn30)\_ the priest says:**
+**Giving the kalymavkion, the priest says:**
 
-Our brother **(so-and-so)** is covered with the _kalymauchion_ of guilelessness, for a helmet and hope of salvation, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **\<name\>** is covered with the kalymavkion of guilelessness, for a helmet and hope of salvation, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **8.**
 
-**Giving the veil\_,[**[31]**](https://www.blogger.com/post-edit.g?blogID=17052672&postID=8478169397707499220#_ftn31)\_ the priest says:**
+**Giving the veil, the priest says:**
 
-Our brother **(so-and-so)** is clothed with the veil of guilelessness of the Great and Angelic Schema, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **\<name\>** is clothed with the veil of guilelessness of the Great and Angelic Schema, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **9.**
 
-**Giving the \_mandya,[**[32]**](https://www.blogger.com/post-edit.g?blogID=17052672&postID=8478169397707499220#_ftn32)\_ the priest says:**
+**Giving the mantia, the priest says:**
 
-Our brother **(so-and-so)** receives the _mandya_ of the Great and Angelic Schema, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **\<name\>** receives the mantia of the Great and Angelic Schema, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
-**After these things, the following \_troparia[**[33]**](https://www.blogger.com/post-edit.g?blogID=17052672&postID=8478169397707499220#_ftn33)\_ are chanted by the cantors:**
+**After these things, the following troparia are chanted by the cantors:**
 
 Be clothed with the tunic of salvation, be girded with the belt of chastity, receive the sign of the Cross, arm your intelligible feet with the weapons of temperance and you will find repose for your souls.
 
@@ -250,7 +249,7 @@ My soul rejoices in the Lord for he has clothed me with the _himation_ of salvat
 
 **Let us pray to the Lord.**
 
-O Lord our God who are faithful in your promises and unrepenting in your charisms and unspeakable in your love for Mankind; who have called your creature by a holy calling; and who have led your servant **(so-and-so)** to your spiritual life—grant him a becoming life, a virtuous and irreproachable mode of life, so that living a way of life of sanctification, he may maintain without stain that Schema that he has put on in your strength, being clothed with righteousness by the tunic, bearing about in himself the mortification of body and chastity by the belt, having placed the helmet of salvation by the veil, being adorned utterly with the Cross and Faith by means of the _analavon_, so that he might proceed on the way of peace and salvation by the sandals, that he might become fearful to adversaries, invincible to enemies, alien to every pleasure and shameful desire, trained in obedience, participating in temperance, aiming for the canon of asceticism, so that in psalms and hymns and spiritual odes, he might glorify your most honourable and most dignified Name, walking in the footsteps of the great Prophet Elias and of St John the Prophet and Baptist. So that, having arrived at the measure of perfection, he finish the road, he keep the faith, and he be clothed with the incorrupt ion of the Angels, and be numbered in your holy flock, and attain to the presence at your right, and hear the blessed voice: ‘Come, blessed of my Father, inherit the Kingdom which has been prepared for you from the foundation of the world.’ Of which make us also inheritors in your goodness, O God.
+O Lord our God who are faithful in your promises and unrepenting in your charisms and unspeakable in your love for Mankind; who have called your creature by a holy calling; and who have led your servant **\<name\>** to your spiritual life—grant him a becoming life, a virtuous and irreproachable mode of life, so that living a way of life of sanctification, he may maintain without stain that Schema that he has put on in your strength, being clothed with righteousness by the tunic, bearing about in himself the mortification of body and chastity by the belt, having placed the helmet of salvation by the veil, being adorned utterly with the Cross and Faith by means of the _analavon_, so that he might proceed on the way of peace and salvation by the sandals, that he might become fearful to adversaries, invincible to enemies, alien to every pleasure and shameful desire, trained in obedience, participating in temperance, aiming for the canon of asceticism, so that in psalms and hymns and spiritual odes, he might glorify your most honourable and most dignified Name, walking in the footsteps of the great Prophet Elias and of St John the Prophet and Baptist. So that, having arrived at the measure of perfection, he finish the road, he keep the faith, and he be clothed with the incorrupt ion of the Angels, and be numbered in your holy flock, and attain to the presence at your right, and hear the blessed voice: ‘Come, blessed of my Father, inherit the Kingdom which has been prepared for you from the foundation of the world.’ Of which make us also inheritors in your goodness, O God.
 
 For you are a God of mercy, compassion and love for Mankind, and to you we send up glory, to the Father and to the Son and to the Holy Spirit, now and always and to the Ages of Ages. Amen.
 
@@ -260,17 +259,15 @@ Peace to all. Let us bow our heads to the Lord.
 
 **And, continuing, this prayer:**
 
-Lord our God, lead your servant **(so-and-so)** into your spiritual court and number him together in your rational flock; cleanse his habit of thought from carnal desires and from the empty deceptions of this life; and grant him to recall unceasingly the goods which are stored up for those who love you, and for those who crucify themselves in their life for the sake of your Kingdom.
+Lord our God, lead your servant **\<name\>** into your spiritual court and number him together in your rational flock; cleanse his habit of thought from carnal desires and from the empty deceptions of this life; and grant him to recall unceasingly the goods which are stored up for those who love you, and for those who crucify themselves in their life for the sake of your Kingdom.
 
 For you are the Shepherd and Overseer of our souls, and to you we send up glory, to the Father and to the Son and to the Holy Spirit, now and always and to the Ages of Ages. Amen.
 
-**...[**[34]**](https://www.blogger.com/post-edit.g?blogID=17052672&postID=8478169397707499220#_ftn34)**
-
-**Then the newly tonsured monk is brought to one of the choir stalls in the left choir while the appropriate \_kontakion[**[35]**](https://www.blogger.com/post-edit.g?blogID=17052672&postID=8478169397707499220#_ftn35)\_ is being chanted, after which, instead of the Thrice-Holy Hymn, the following is chanted:**
+**Then the newly tonsured monk is brought to one of the choir stalls in the left choir while the appropriate kontakion is being chanted, after which, instead of the Thrice-Holy Hymn, the following is chanted:**
 
 As many as have been baptized into Christ have put on Christ. Alleluia.
 
-**The** **Reading** **from the Apostle**
+**The Reading from the Apostle**
 
 **Prokeimenon:** The Lord is my light and my salvation.
 
@@ -278,7 +275,7 @@ As many as have been baptized into Christ have put on Christ. Alleluia.
 
 The reading is from the Epistle of Paul to the Ephesians.
 
-(Eph. 6, 10 - 17.)
+([[Ephesians 6|Eph. 6, 10 - 17]])
 
 **Alleluia.**
 
@@ -288,9 +285,9 @@ The reading is from the Epistle of Paul to the Ephesians.
 
 The Reading is from the Holy Gospel according to Matthew.
 
-(Matt 10, 37 - 11, 1.)
+([[Matthew 10|Matt 10, 37 - 11, 1]])
 
-**Then the priest gives the Cross and the \_komvoschoinion[**[36]**](https://www.blogger.com/post-edit.g?blogID=17052672&postID=8478169397707499220#_ftn36)\_ to the newly tonsured monk saying:**
+**Then the priest gives the Cross and the komvoschoinion to the newly tonsured monk saying:**
 
 The Lord said: ‘If anyone wishes to follow after me, let him deny himself and take up his cross and let him follow me.’
 
@@ -302,7 +299,7 @@ The Lord said: ‘Let your light thus shine before men so that they see your goo
 
 **Lord have mercy (three times).**
 
-Again we pray for the remission and forgiveness of sins of the servant of God **(so-and-so)**.
+Again we pray for the remission and forgiveness of sins of the servant of God **\<name\>**.
 
 **Lord have mercy (three times).**
 
@@ -310,11 +307,9 @@ For you are a God who is merciful and a lover of Mankind and to you we send up g
 
 **Note: At the time of Holy Communion, the first to communicate is the newly tonsured monk, led by his Sponsor and without removing the covering of his head.**
 
-**...[**[37]**](https://www.blogger.com/post-edit.g?blogID=17052672&postID=8478169397707499220#_ftn37)**
-
 **Prayer for the Removal of the Veil said by the Priest:**
 
-O most merciful Lord, who has granted to your servant **(so-and-so)** by means of the taking up of the Monastic Habit the veil for a helmet of the hope of salvation, preserve irremovable this grace from his head, securing and cherishing the ruling part of his intellect unshaken from adverse assaults; so that stamping on the head of the most wicked serpent which has been allowed to seize his heel, he raise his intelligible eyes to you the fearsome and only head of all things.
+O most merciful Lord, who has granted to your servant **\<name\>** by means of the taking up of the Monastic Habit the veil for a helmet of the hope of salvation, preserve irremovable this grace from his head, securing and cherishing the ruling part of his intellect unshaken from adverse assaults; so that stamping on the head of the most wicked serpent which has been allowed to seize his heel, he raise his intelligible eyes to you the fearsome and only head of all things.
 
 For you are the enlightenment and sanctification of our souls, and to you we send up glory, to the Father and to the Son and to the Holy Spirit, now and always and to the Ages of Ages. Amen.
 
