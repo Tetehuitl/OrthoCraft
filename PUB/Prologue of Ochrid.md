@@ -23,4 +23,5 @@ Links are new calender references to old calendar readings:
 - [[July 8|July 21]]
 - [[July 9|July 22]]
 - [[July 10|July 23]]
-- [[566-july-11]]
+- [[July 11|July 24]]
+- [[July 12|July 25]]

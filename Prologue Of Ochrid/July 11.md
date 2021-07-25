@@ -14,128 +14,93 @@ Saint Euphemia is commemorated on September 16, the day on which she was martyre
 
 Helena was a great Russian princess, the wife of Prince Igor, whose name before baptism was Olga. She was baptized by Patriarch Polyeuctus in Constantinople and was very zealous for the Orthodox Faith in Russia. She entered into eternal rest in the year 969 A.D.
 
-## THE VENERABLE MARTYR NICODEMUS**
+## THE VENERABLE MARTYR NICODEMUS
 
 Nicodemus was born in Elbasan [in Albania] and was married and had children. Deceived by the Turks, he embraced Islam and forced his children to do likewise, with the exception of one son who fled to the Holy Mt. Athos where he was tonsured a monk. Nicodemus traveled to Mt. Athos to retrieve his son, but Mt. Athos made such an impression on him that he repented and returned to the Faith of Christ, and was tonsured a monk. For three years he mourned over his apostasy, then he finally decided to return to Albania to atone for his sin in the place where he had committed it. Thus he returned and declared openly that he was a Christian, and the Turks beheaded him on July 11, 1722. His wonderworking relics lie, even today, intact and incorrupt.
 
-**4. THE VENERABLE MARTYR NECTARIUS**
+## THE VENERABLE MARTYR NECTARIUS
 
 Nectarius was born in Vryoulla, in Asia Minor. At age seventeen he was forced to embrace Islam. His fate was similar to that of St. Nicodemus. When he appeared before his mother as a Muslim, she cried out: "Depart from me! I know you not. I bore you as a Christian, not as a Muslim." He repented bitterly and went to Mt. Athos. There in the Scete of Saint Anna, he was tonsured a monk. Deciding to suffer for Christ--and thereby to wash away his sin--he returned to Vryoulla, where he suffered martyrdom. He was beheaded for Christ by the Turks in his place of birth, on July 11, 1820, at the age of twenty-one.
 
+## HYMN OF PRAISE
 
-**HYMN OF PRAISE
-**** 
-**
-**SAINT OLGA [HELENA], SAINT NICODEMUS, AND SAINT NECTARIUS
- 
-**
+**SAINT OLGA [HELENA], SAINT NICODEMUS, AND SAINT NECTARIUS**
+
 God loves penitents:
- 
 
 For them, He suffered.
- 
 
 Even now, He beckons sinners
- 
 
 To repentance.
- 
 
 Olga, a penitent was,
- 
 
 By baptism, to true life born,
- 
 
 And she liberated the Russian people
- 
 
 From darkness, by the Cross.
- 
 
 And from Elbasan, Nicodemus
 
-
 From Christ turned away,
- 
 
 But repented and returned--
- 
 
 And for sin, with blood paid.
- 
 
 From Asia, Nectarius,
- 
 
 A flower not yet ripened,
- 
 
 In ignorance, to Islam turned
- 
 
 And saddened the angels.
- 
 
 But then, repenting and in sorrow,
- 
 
 With streams of tears gushed forth,
- 
 
 And loved death more than life,
- 
 
 Even a painful death he loved.
- 
 
 The Moslem turban he removed,
- 
 
 And before the terrible judge set it.
- 
 
 St. Nectarius's head was taken
 
 For the Honorable Cross.
 
-
 Penitents, Christ loves
- 
 
 And will always love them.
- 
 
 To Christ, who is so dear
- 
 
 As a repentant man?
- 
 
-**REFLECTION**
+## REFLECTION
 
-A change of fortune strikes the hardest when it strikes unexpectedly. But to him who anticipates the blow and guards himself against it beforehand, can it be unexpected? The Emperor Charlemagne the Great ordered his sons to learn a trade and his daughters to learn to spin wool, so that they would be able to earn a living, should their fortunes change. The famous and renowned Belissarius, a great general and a great conqueror, was slandered before the king by envious men, and on the basis of these slanders he was blinded and his estate was taken away from him. The blind Belissarius sat before the gates of Rome and begged for alms, saying to passers-by: "Give alms to Belissarius, whom fortune raised on high but envy struck down, depriving him of his sight!" The righteous Job said: *Is not a man's life on earth a drudgery? Are not his days those of a hireling?*(Job 7:1). Therefore, one must be as a watchful guard and be prepared for all that may happen. What is there that cannot happen to a man? Yet in every suffering one must have hope in God. Covered with festering sores and seated in his humiliation upon a dunghill, the righteous Job cried out: *Though He slay me, yet will I trust in Him!* (Job 13:15).
+A change of fortune strikes the hardest when it strikes unexpectedly. But to him who anticipates the blow and guards himself against it beforehand, can it be unexpected? The Emperor Charlemagne the Great ordered his sons to learn a trade and his daughters to learn to spin wool, so that they would be able to earn a living, should their fortunes change. The famous and renowned Belissarius, a great general and a great conqueror, was slandered before the king by envious men, and on the basis of these slanders he was blinded and his estate was taken away from him. The blind Belissarius sat before the gates of Rome and begged for alms, saying to passers-by: "Give alms to Belissarius, whom fortune raised on high but envy struck down, depriving him of his sight!" The righteous Job said: _Is not a man's life on earth a drudgery? Are not his days those of a hireling?_(Job 7:1). Therefore, one must be as a watchful guard and be prepared for all that may happen. What is there that cannot happen to a man? Yet in every suffering one must have hope in God. Covered with festering sores and seated in his humiliation upon a dunghill, the righteous Job cried out: _Though He slay me, yet will I trust in Him!_ ([[Job 13|Job 13:15]]).
 
+## CONTEMPLATION
 
-**CONTEMPLATION**
-
-
-To contemplate the miraculous illumination of the face of Moses (Exodus 34):
+To contemplate the miraculous illumination of the face of Moses ([[Exodus 34]]):
 
 1.  How, after his conversation with God on Mt. Sinai, the face of Moses shone with brilliant light;
 
 1.  How the people saw, and dared not approach Moses, and he placed a veil over his face;
 
-
 1.  How, through sincere prayer and communication with God, the face of a God-pleaser is illuminated.
 
-
-**HOMILY**
-
+## HOMILY
 
 **About obedience and humility**
 
-"Likewise, you younger, submit yourselves, unto the elder. Yes, all of you be subject one to another, and be clothed with humility" (1 Peter 5:5).
+"Likewise, you younger, submit yourselves, unto the elder. Yes, all of you be subject one to another, and be clothed with humility" ([[1 Peter 5|1 Peter 5:5]]).
 
 Here is the principle of the true catholicity (conciliarity-sobornost) of Orthodoxy! It is based on the unconditional obedience of the younger toward the older, on reciprocal obedience of equals among themselves, and on the humility of both the older and the younger. "Lowliness" is a good word, but better is the word "humility," and the best is "humility of wisdom (humble-mindedness)." Humility of wisdom corresponds exactly to the Greek word which the apostle used in his epistle. Humility of wisdom signifies thinking of oneself as lowly and of God as exalted, constantly acknowledging one's helplessness, one's ignorance, one's wickness, one's unworthiness, and constantly acknowledging the power, wisdom, mercy and dignity of God.
 
@@ -145,5 +110,4 @@ The principle of conciliarity is an organic principle, a living principle. It is
 
 O Lord Jesus, obedient and humble Lover of Mankind, plant and confirm in us obedience to Your law, mutual obedience out of love, and humility of wisdom before Your unutterable power and wisdom.
 
-**To Thee be glory and praise forever. Amen.
-**
+**To Thee be glory and praise forever. Amen.**
