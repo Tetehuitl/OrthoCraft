@@ -28,4 +28,4 @@ Links are new calender references to old calendar readings:
 - [[July 13|July 26]]
 - [[July 14|July 27]]
 - [[July 15|July 28]]
-- [[571-july-16]]
+- [[July 16|July 29]]

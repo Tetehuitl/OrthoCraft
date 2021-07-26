@@ -18,85 +18,61 @@ Julia was born in Carthage of a distinguished lineage. When the Persians capture
 
 These fifteen thousand martyrs were beheaded for the Faith of Christ in Persia.
 
-**4. THE HOLY MARTYR ATHENOGENES**
+## THE HOLY MARTYR ATHENOGENES
 
 Athenogenes was the author of the hymn sung at Vespers: "O Gladsome Light" ["Svete Tihi" - Fos Ilaron."] He died for Christ by fire, and was made worthy of eternal glory in the Kingdom of God.
 
-**5. THE COMMEMORATION OF THE FIRST SIX ECUMENICAL COUNCILS**
+## THE COMMEMORATION OF THE FIRST SIX ECUMENICAL COUNCILS
 
 This common commemoration of the first Six Ecumenical Councils occurs on the Sunday between the 13th and the 19th of July.
 
+## HYMN OF PRAISE
 
-**HYMN OF PRAISE
-**** 
-**
-**THE HOLY MARTYR JULIA THE VIRGIN
-**** 
-**
+**THE HOLY MARTYR JULIA THE VIRGIN**
+
 The martyr Julia
- 
 
 Was crucified for her Christ.
- 
 
 The power of Christ, she called upon,
- 
 
 The power of the Honorable Tree.
- 
 
 Blood poured from six wounds,
- 
 
 And blood stained the earth,
- 
 
 For, in Christ, she believed,
- 
 
 And her faith she did not conceal.
- 
 
 Nor did Christ conceal her,
- 
 
 But to the world, proclaimed her,
- 
 
 And in the Kingdom Immortal,
- 
 
 In heaven, He glorified her.
- 
 
 When Julia breathed her last,
- 
 
 Her spirit, pure and holy,
- 
 
 Flew from her mouth--a white dove
- 
 
 To the heights soaring!
- 
 
 When men saw this
- 
 
 All, in fear, cried out:
- 
 
 "Woe to the evil judges--
- 
 
 That righteous blood, they have shed!"
- 
 
-**REFLECTION**
+## REFLECTION
 
-
-The Ecumenical Councils are the greatest duels between Orthodoxy and heretics. Today the Church jointly commemorates the first Six Ecumenical Councils(*):
+The Ecumenical Councils are the greatest duels between Orthodoxy and heretics. Today the Church jointly commemorates the first Six Ecumenical Councils (In some Orthodox traditions, this Sunday commemorates the 4th Ecumenical Council only.):
 
 1.  The First Ecumenical Council at Nicea in 325 A.D., with 318 Holy Fathers participating. It is commemorated separately on May 29 and on the Seventh Sunday of Pascha. This Council refuted the heresy of Arius against the Son of God.
 
@@ -113,13 +89,10 @@ The Ecumenical Councils are the greatest duels between Orthodoxy and heretics. T
 1.  The Seventh Ecumenical Council which was convened at Nicaea in 787 A.D., with 367 Holy Fathers participating. It is not commemorated on this occasion, but is commemorated separately on October 11. This Council refuted the heresy of Iconoclasm.
 
 Through the operation of the Holy Spirit, the Councils condemned all these heresies, and the Faith of Orthodoxy was defined and confirmed for all time.
-(*) In some Orthodox traditions, this Sunday commemorates the 4th Ecumenical Council only.
 
+## CONTEMPLATION
 
-**CONTEMPLATION**
-
-
-To contemplate the miraculous bringing forth of water from the rock in Kadesh (Numbers 20):
+To contemplate the miraculous bringing forth of water from the rock in Kadesh ([[Numbers 20]]):
 
 1.  How Moses, at God's command, struck the rock with his rod, but without faith; and how, through the will of God, water flowed forth;
 
@@ -127,15 +100,13 @@ To contemplate the miraculous bringing forth of water from the rock in Kadesh (N
 
 1.  How this shows that even a great righteous one like Moses is prone to sin, and that no mortal should be carried away into pride by his virtues.
 
-
-**HOMILY**
-
+## HOMILY
 
 **About the participation of the faithful in God's nature**
 
-"That by these you might be partakers of the divine nature" (2 Peter 1:4).
+"That by these you might be partakers of the divine nature" ([[2 Peter 1|2 Peter 1:4]]).
 
-Brethren, how can a mortal man have a part in God's nature? How can the eternal join with temporal, the glorious with the inglorious, the incorruptible with the corruptible, the pure with the impure? It is impossible without particular conditions, and the Apostle Peter tells us what they are: one condition on the part of God and one on the part of men. As the condition on the part of God, the apostle states: *According as His divine power hath given unto us all things that pertain to life and godliness*(2 Peter 1:3). And as the condition on the part of man: *Having escaped the corruption that is in the world through lust* (2 Peter 1:4). God has fulfilled His condition and has given us His power, *through the knowledge of Him that hath called us to glory and virtue* (2 Peter 1:3). Now it is man's turn to fulfill his condition, i.e., in order to know Christ the Lord, to escape from the bodily desires of this world. The Lord Christ opened heaven and all the treasures of heaven; then He called people to draw near and to receive these treasures. How did He invite them? Did He invite them only by words? By words, but not only by words, but by glory and virtue. By glory, i.e., by His glorious Resurrection; by virtue, i.e., by His miraculous service and suffering. In this way, He invited us to receive the *exceeding great and precious promises* (2 Peter 1:4), that by them we may partake in God's nature. But in order to know Christ and hear His invitation, we must first escape the physical desires of this world. If we do not escape them, we will remain blind before Him--before His glory and virtue--and deaf to His invitation!
+Brethren, how can a mortal man have a part in God's nature? How can the eternal join with temporal, the glorious with the inglorious, the incorruptible with the corruptible, the pure with the impure? It is impossible without particular conditions, and the Apostle Peter tells us what they are: one condition on the part of God and one on the part of men. As the condition on the part of God, the apostle states: _According as His divine power hath given unto us all things that pertain to life and godliness_([[2 Peter 1|2 Peter 1:3]]). And as the condition on the part of man: _Having escaped the corruption that is in the world through lust_ ([[2 Peter 1|2 Peter 1:4]]). God has fulfilled His condition and has given us His power, _through the knowledge of Him that hath called us to glory and virtue_ ([[2 Peter 1|2 Peter 1:3]]). Now it is man's turn to fulfill his condition, i.e., in order to know Christ the Lord, to escape from the bodily desires of this world. The Lord Christ opened heaven and all the treasures of heaven; then He called people to draw near and to receive these treasures. How did He invite them? Did He invite them only by words? By words, but not only by words, but by glory and virtue. By glory, i.e., by His glorious Resurrection; by virtue, i.e., by His miraculous service and suffering. In this way, He invited us to receive the _exceeding great and precious promises_ (2 Peter 1:4), that by them we may partake in God's nature. But in order to know Christ and hear His invitation, we must first escape the physical desires of this world. If we do not escape them, we will remain blind before Him--before His glory and virtue--and deaf to His invitation!
 
 O brethren, how enormous is the mercy of God toward us! According to this great mercy, God offers to us mortals adoption by the Immortal One; to us sinners He offers us to be built up into the glorified Body of the Lord Jesus, but only under this condition, which is neither a great yoke nor a heavy cross.
 
