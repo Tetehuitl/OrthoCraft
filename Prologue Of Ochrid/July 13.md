@@ -79,7 +79,7 @@ That his soul to God, Julian had rendered.
 ## REFLECTION
 
 A man adorns simple clothing, but sumptuous clothing adorns a man. Simple clothing calls attention to the man, but sumptuous clothing calls attention to itself. The passion for sumptuous clothing simply drains and withers the soul of man. This is the real reason why the Church has always stood against opulence in dress and recommended simplicity. Among the countless Christian saints, there is not one mentioned whom sumptuous clothing helped to attain sanctity. Many great and wise kings--not only Christians but also heathens--have loved simplicity in dress. Thus, it is said that the Emperor Augustus Octavius, during whose reign the Lord Christ was born, wore only simple clothing, woven for him by his wife, sister or daughter. It is said of King Charles V that he wore such simple clothing that even his most ordinary subjects were better dressed than he was. A man once invited the illustrious Greek military general Philopomenes to dinner. Philopomenes had never been to the man's home before, and he arrived a bit early for the dinner. The host had not yet arrived, but the hostess--not knowing Philopomenes personally and seeing him attired in simple clothing--thought that he was a servant sent in advance to announce the imminent arrival of the general and her husband. Thinking this, she ordered him to chop wood. Philopomenes willing obeyed and began to chop wood. When the host came and saw his honored guest chopping wood like a servant, he was horrified and asked him: "Who dared to give such a task to Philopomenes?" The general quietly answered: "My clothing."
-
+[[1 Peter 5|1 Peter 5:8]] 
 ## CONTEMPLATION
 
 To contemplate the exceedingly great patience of God toward the unbelieving Jewish people, and their deserved punishment ([[Numbers 14]]):
@@ -88,17 +88,17 @@ To contemplate the exceedingly great patience of God toward the unbelieving Jewi
 
 1.  How God punished them, making them wander for forty years in the wilderness, and all of them perished except Joshua the son of Nun, and Caleb;
 
-1.  How some of us also perish in the wilderness of sensuality, and do not attain the land of spiritual milke and honey, the Kingdom of Christ.
+1.  How some of us also perish in the wilderness of sensuality, and do not attain the land of spiritual milk and honey, the Kingdom of Christ.
 
-**HOMILY**
+## HOMILY
 
 **About the indispensability of sobriety in the battle against the devil**
 
-"Be sober, be vigilant; because your adversary the devil, as a roaring lion, walks about, seeking whom he may devour" (1 Peter 5:8).
+"Be sober, be vigilant; because your adversary the devil, as a roaring lion, walks about, seeking whom he may devour" ([[1 Peter 5|1 Peter 5:8]]).
 
 Orthodox monks have emphasized sobriety and vigilance as essential to asceticism. The spirit must be sober, in order to sense danger, and vigilant, in order to recognize from where the danger is coming, and from whom.
 
-"Be vigilant, my child, that you do not tread on a serpent, that you do not fall into a pit, that you do not encounter a wolf, that you do not venture out into deep water, and that you do not stray from the path and get lost in the forest!" Thus a mother counsels her child, fearing for his body. With no less love does the Church counsel a man, fearing for his soul. Therefore, children, *be sober, be vigilant.*Your old adversary, the devil, does not rest or sleep but, like a hungry lion, stalks and seeks someone to devour. _Be sober, be vigilant,_ for you are like sheep and he is as a lion. When sheep sense the foul odor of the wolf, they flee to their shepherd. _Be vigilant,_ and you will sense the foulness of the devil when he approaches you, and flee immediately under the protection of your Shepherd, Christ the Lord. You will sense the stench of the devil through your thoughts, through your feelings, through your intentions, and through your fleshly desires. All that you think, imagine, feel, intend or desire contrary to Christ and the Law of Christ--know that this is the snare of the devil, the stench of the devil. Know this, and flee to your Shepherd, directing your entire mind, heart, soul and body to Him.
+"Be vigilant, my child, that you do not tread on a serpent, that you do not fall into a pit, that you do not encounter a wolf, that you do not venture out into deep water, and that you do not stray from the path and get lost in the forest!" Thus a mother counsels her child, fearing for his body. With no less love does the Church counsel a man, fearing for his soul. Therefore, children, *be sober, be vigilant.* Your old adversary, the devil, does not rest or sleep but, like a hungry lion, stalks and seeks someone to devour. _Be sober, be vigilant,_ for you are like sheep and he is as a lion. When sheep sense the foul odor of the wolf, they flee to their shepherd. _Be vigilant,_ and you will sense the foulness of the devil when he approaches you, and flee immediately under the protection of your Shepherd, Christ the Lord. You will sense the stench of the devil through your thoughts, through your feelings, through your intentions, and through your fleshly desires. All that you think, imagine, feel, intend or desire contrary to Christ and the Law of Christ--know that this is the snare of the devil, the stench of the devil. Know this, and flee to your Shepherd, directing your entire mind, heart, soul and body to Him.
 
 O Lord Jesus, our sober and vigilant Shepherd, make us sober and vigilant at every moment, so that our enemy may not surprise us and devour us.
 

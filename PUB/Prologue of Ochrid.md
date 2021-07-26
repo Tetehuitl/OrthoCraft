@@ -25,4 +25,4 @@ Links are new calender references to old calendar readings:
 - [[July 10|July 23]]
 - [[July 11|July 24]]
 - [[July 12|July 25]]
-- [[568-july-13]]
+- [[July 13]]
