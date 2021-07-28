@@ -18,7 +18,7 @@ WARNING! _This page my contain information that is out of date!_
 ### Testing Server
 
 - Instance:
-    - ["OrthoCraft-1.17.1"](https://1drv.ms/u/s!AjXDDFgGVagYhfhj5puRezCZ_9G6GQ?e=LA6ebd)
+    - ["OrthoCraft-1.17.1"](https://1drv.ms/u/s!AjXDDFgGVagYhfhoam5QISq5XIJCew?e=DzsS0Z)
 
 ### Admin Info
 
