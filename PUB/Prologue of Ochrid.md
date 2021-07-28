@@ -29,3 +29,6 @@ Links are new calender references to old calendar readings:
 - [[July 14|July 27]]
 - [[July 15|July 28]]
 - [[July 16|July 29]]
+- [[July 17|July 30]]
+- [[July 18|July 31]]
+- [[July 19|August 1]]
