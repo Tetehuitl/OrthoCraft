@@ -1,3 +1,7 @@
+---
+publish: false
+---
+
 ![[Core Principles]]
 [[Interstitial Journal]]
  -
