@@ -1,4 +1,21 @@
-- [[Thoughts]]
+---
+publish: false
+tags:
+  - '#needsEdit'
+date updated: '2021-08-05T14:29:22-04:00'
+
+---
+
+links: [[HUB]] [[Thoughts]]
+
+---
+
+_Description_
+
+### Sections
+
+---
+
 - “We decree that from now on the image of the Lord Sabaoth will no longer be painted according to senseless and unsuitable imaginings, for no one has ever seen the Lord Sabaoth (that is, God the Father) in the flesh. Only Christ was seen in the flesh, and in this way He is portrayed, that is, in the flesh and not according to His divinity. Likewise, the most Holy Mother of God and other Saints of God…
 - To paint on icons the Lord Sabaoth (that is, the Father) with a white beard holding the Only-Begotten Son in His lap with a dove between them is altogether absurd and improper, for no one has ever seen the Father in His Divinity.”
 - +Great Council of Moscow 1666-1667

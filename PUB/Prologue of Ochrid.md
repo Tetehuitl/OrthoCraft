@@ -38,8 +38,8 @@ Links are new calender references to old calendar readings:
 - [[July 21|August 3]]
 - [[July 22|August 4]]
 - [[July 23|August 5]]
+- [[July 24|August 6]]
 %%
-- [[579-july-24]]
 - [[580-july-25]]
 - [[581-july-26]]
 - [[582-july-27]]

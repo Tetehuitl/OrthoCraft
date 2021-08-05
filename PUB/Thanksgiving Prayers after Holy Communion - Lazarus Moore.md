@@ -1,10 +1,15 @@
 ---
-tags: #needsEdit 
+publish: true
+tags:
+  - '#needsEdit'
+date updated: '2021-08-05T14:27:59-04:00'
+
 ---
 
 links: [[HUB]] [[Prayer]]
 
 ---
+
 Glory to Thee, O God; Glory to Thee, O God; Glory to Thee, O God.
 
 ## Anonymous
@@ -17,33 +22,33 @@ Lord Christ our God, King of the ages and Creator of all, I thank Thee for all t
 
 ## Prayer of St. Symeon the Translator
 
-O Thou Who givest me willingly Thy Flesh for food,  
-Thou Who art fire, and burnest the unworthy,  
-Scorch me not, O my Maker,  
-But rather pass through me for the integration of my members,  
-Into all my joints, my affections, and my heart.  
-Burn up the thorns of all my sins.  
-Purify my soul, sanctify my mind;  
-Strengthen my knees and bones;  
-Enlighten the simplicity of my five senses.  
-Nail down the whole of me with Thy fear.  
-Ever protect, guard, and keep me  
-From every soul-destroying word and act.  
-Sanctify, purify, attune, and rule me.  
-Adorn me, give me understanding, and enlighten me.  
-Make me the habitation of Thy Spirit alone,  
-And no longer a habitation of sin,  
-That as Thy house from the entry of communion  
-Every evil spirit and passion may flee from me like fire.  
-I offer Thee as intercessors all the sanctified,  
-The Commanders of the Bodiless Hosts,  
-Thy Forerunner, the wise Apostles,  
-And Thy pure and immaculate Mother.  
-Receive their prayers, my compassionate Christ.  
-And make Thy slave a child of light.  
-For Thou alone art our sanctification, O Good One,  
-And the radiance of our souls,  
-And to Thee as our Lord and God as is right  
+O Thou Who givest me willingly Thy Flesh for food,\
+Thou Who art fire, and burnest the unworthy,\
+Scorch me not, O my Maker,\
+But rather pass through me for the integration of my members,\
+Into all my joints, my affections, and my heart.\
+Burn up the thorns of all my sins.\
+Purify my soul, sanctify my mind;\
+Strengthen my knees and bones;\
+Enlighten the simplicity of my five senses.\
+Nail down the whole of me with Thy fear.\
+Ever protect, guard, and keep me\
+From every soul-destroying word and act.\
+Sanctify, purify, attune, and rule me.\
+Adorn me, give me understanding, and enlighten me.\
+Make me the habitation of Thy Spirit alone,\
+And no longer a habitation of sin,\
+That as Thy house from the entry of communion\
+Every evil spirit and passion may flee from me like fire.\
+I offer Thee as intercessors all the sanctified,\
+The Commanders of the Bodiless Hosts,\
+Thy Forerunner, the wise Apostles,\
+And Thy pure and immaculate Mother.\
+Receive their prayers, my compassionate Christ.\
+And make Thy slave a child of light.\
+For Thou alone art our sanctification, O Good One,\
+And the radiance of our souls,\
+And to Thee as our Lord and God as is right\
 We all give glory day and night.
 
 ## Anonymous

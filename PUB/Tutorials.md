@@ -1,4 +1,5 @@
 ---
+publish: true
 tags:
   - '#MOC'
 date updated: '2021-07-16T00:23:34-04:00'

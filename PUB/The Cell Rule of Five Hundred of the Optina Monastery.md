@@ -1,5 +1,9 @@
 ---
-tags: #needsEdit 
+publish: true
+tags:
+  - '#needsEdit'
+date updated: '2021-08-05T14:28:28-04:00'
+
 ---
 
 links: [[HUB]]
