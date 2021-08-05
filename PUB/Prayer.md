@@ -29,3 +29,4 @@ _Various prayers that can be read in private._
   - [[Prayer of Optina Elders]]
   - [[Lenten Prayer of St Ephraim the Syrian]]
   - [[Hymn from the Trisagion for the Dead]]
+  - [[Guide to Confession]]
