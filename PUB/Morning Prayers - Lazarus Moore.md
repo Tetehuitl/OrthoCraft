@@ -1,3 +1,13 @@
+---
+publish: true
+tags:
+  - '#needsEdit'
+date updated: '2021-08-05T14:20:19-04:00'
+
+---
+
+links: [[HUB]]
+
 On rising, make the sign of the Cross and say:
 
 In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.

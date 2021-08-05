@@ -1,7 +1,9 @@
 ---
+publish: true
 tags:
-	- '#needsEdit'
-aliases: "The Great Schema"
+  - '#needsEdit'
+aliases: The Great Schema
+date updated: '2021-08-05T14:27:20-04:00'
 
 ---
 
@@ -29,7 +31,7 @@ Who suffering the buffets of winter and running towards this very harbour is not
 
 I am a sheep of your rational flock and to you I flee for refuge, O Good Shepherd. Search me out who has been lost, O God, and have mercy on me.
 
-\*\*Glory, And Now.
+**Glory, And Now.**
 
 Blessed Birthgiver of God, preserve your servants from all dangers so that we may glorify you, the hope of our souls.
 
@@ -143,7 +145,7 @@ May the most compassionate and merciful God, he who opens the undefiled inward p
 
 **Let us pray to the Lord.**
 
-You who are the Master the Ruler of All, the most high King of Glory; you who are with your living and enhypostatized Word and with the Spirit of Truth that proceeds from you; you who are the Lord of all Creation both visible and invisible; God who is seated on the Cherubim and who is hymned unceasingly with the thrice-holy voice by the Seraphim; you on whom attend thousands of thousands and myriads of myriads of hosts of Angels and Archangels—you are the light that enlightens every man that comes into the world, supplicated by the Holy Ever-Virgin Mary who gave birth to God, and all the Church in Heaven of the First-Born in Jerusalem. Look down with gracious eye upon the humility of your servant **\<name\>** who has agreed and confessed utterly before many witnesses. Join to the charism granted to him from his forbears of adoption as son and your Kingdom through Holy Baptism, this unique and Angel-like profession, unshaken, founded on the hewn and spiritual rock of faith in you.
+You who are the Master the Ruler of All, the most high King of Glory; you who are with your living and enhypostatized Word and with the Spirit of Truth that proceeds from you; you who are the Lord of all Creation both visible and invisible; God who is seated on the Cherubim and who is hymned unceasingly with the thrice-holy voice by the Seraphim; you on whom attend thousands of thousands and myriads of myriads of hosts of Angels and Archangels—you are the light that enlightens every man that comes into the world, supplicated by the Holy Ever-Virgin Mary who gave birth to God, and all the Church in Heaven of the First-Born in Jerusalem. Look down with gracious eye upon the humility of your servant **<name>** who has agreed and confessed utterly before many witnesses. Join to the charism granted to him from his forbears of adoption as son and your Kingdom through Holy Baptism, this unique and Angel-like profession, unshaken, founded on the hewn and spiritual rock of faith in you.
 
 Make him strong in the power of your strength and clothe him in the panoply of your Holy Spirit, for the battle is for him not towards flesh and blood but towards the world-rulers of the darkness of the present Age, towards the spirits of evil. Gird his loin with the power of truth, clothe him with the breastplate of righteousness and exultation, and shoe his feet in the preparation of the Gospel of peace. Make him wise to take up the shield of Faith, with which he will be able to quench all the flaming arrows of the Evil One, and to receive the helmet of salvation, and the sword of the Holy Spirit, which is your word. Share in the unspeakable sighs of his heart. Number him together with your elect, so that he become a vessel of election, a son of light and of the day, of wisdom, righteousness, sanctification, redemption.
 
@@ -155,7 +157,7 @@ For yours in the Kingdom and the reign and the authority, and to you is due all 
 
 **Let us pray to the Lord.**
 
-Holy Lord of Hosts, Father of our Lord Jesus Christ bless your servant \*\*\<name\> whom you have called to your spiritual bridal-chamber and make him wholly worthy to be your holy servant. Make him wise, and pour out on him the grace and understanding of your ruling Spirit. Grant him strength in the war against the invisible enemy, put down with your great power the rebellions of the flesh. Grant him to please you in unceasing praise and doxology, in appropriate hymns, in acceptable prayers, in right counsel, in a humble heart, in the practice of life and meekness and truth. Make him utterly worthy to please you in meekness, in love, in perfection, in knowledge, in courage, and to offer to you hymns and doxologies and prayers in the odour of a fragrant smell. Perfect his life in holiness and righteousness, so that having that continuous and spotless union which is with you, he may be found worthy of your heavenly Kingdom.
+Holy Lord of Hosts, Father of our Lord Jesus Christ bless your servant **<name> whom you have called to your spiritual bridal-chamber and make him wholly worthy to be your holy servant. Make him wise, and pour out on him the grace and understanding of your ruling Spirit. Grant him strength in the war against the invisible enemy, put down with your great power the rebellions of the flesh. Grant him to please you in unceasing praise and doxology, in appropriate hymns, in acceptable prayers, in right counsel, in a humble heart, in the practice of life and meekness and truth. Make him utterly worthy to please you in meekness, in love, in perfection, in knowledge, in courage, and to offer to you hymns and doxologies and prayers in the odour of a fragrant smell. Perfect his life in holiness and righteousness, so that having that continuous and spotless union which is with you, he may be found worthy of your heavenly Kingdom.
 
 Through the Grace and compassion and love for Mankind of your only-begotten Son, with whom you are blessed, with your all-Holy and good and life-giving Spirit, now and ever and to the Ages of Ages. Amen.
 
@@ -179,7 +181,7 @@ Blessed is God who wishes all men to be saved and to come to a knowledge of the 
 
 **He then tonsures him in the form of a cross, saying as follows:**
 
-Our brother **\<name\>** is shorn in the hair of his head, in the name of the Father and the Son and the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **<name>** is shorn in the hair of his head, in the name of the Father and the Son and the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **And there is sung by the brothers the ‘Lord have mercy’ three times.**
 
@@ -189,55 +191,55 @@ Our brother **\<name\>** is shorn in the hair of his head, in the name of the Fa
 
 **Giving the _himation (zostikon),_ the priest says:**
 
-Our brother **\<name\>** is clothed with the tunic of righteousness and exultation of the Great and Angelic Schema, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **<name>** is clothed with the tunic of righteousness and exultation of the Great and Angelic Schema, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **2.**
 
 **Giving the Schema the priest says:**
 
-Our brother **\<name\>** receives the napkin of the Great and Angelic Schema, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **<name>** receives the napkin of the Great and Angelic Schema, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **3.**
 
 **Giving the _polystavrion,_ the priest says:**
 
-Our brother **\<name\>** receives the _analavon_, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **<name>** receives the _analavon_, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **4.**
 
 **Giving the belt, the priest says:**
 
-Our brother **\<name\>** is girded in his loin with the power of the truth, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **<name>** is girded in his loin with the power of the truth, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **5.**
 
 **Giving the pallion, the priest says:**
 
-Our brother **\<name\>** receives the _pallion_ of the Great and Angelic Schema, for a garment of incorruption and modesty in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **<name>** receives the _pallion_ of the Great and Angelic Schema, for a garment of incorruption and modesty in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **6.**
 
-**Giving the footwear*,* the priest says:**
+__Giving the footwear_,_ the priest says:**
 
-Our brother **\<name\>** is shod with the sandals in preparation of the Gospel of Peace, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **<name>** is shod with the sandals in preparation of the Gospel of Peace, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **7.**
 
 **Giving the kalymavkion, the priest says:**
 
-Our brother **\<name\>** is covered with the kalymavkion of guilelessness, for a helmet and hope of salvation, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **<name>** is covered with the kalymavkion of guilelessness, for a helmet and hope of salvation, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **8.**
 
 **Giving the veil, the priest says:**
 
-Our brother **\<name\>** is clothed with the veil of guilelessness of the Great and Angelic Schema, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **<name>** is clothed with the veil of guilelessness of the Great and Angelic Schema, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **9.**
 
 **Giving the mantia, the priest says:**
 
-Our brother **\<name\>** receives the mantia of the Great and Angelic Schema, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
+Our brother **<name>** receives the mantia of the Great and Angelic Schema, in the name of the Father and of the Son and of the Holy Spirit. Let us say on his behalf the ‘Lord have mercy’.
 
 **After these things, the following troparia are chanted by the cantors:**
 
@@ -249,7 +251,7 @@ My soul rejoices in the Lord for he has clothed me with the _himation_ of salvat
 
 **Let us pray to the Lord.**
 
-O Lord our God who are faithful in your promises and unrepenting in your charisms and unspeakable in your love for Mankind; who have called your creature by a holy calling; and who have led your servant **\<name\>** to your spiritual life—grant him a becoming life, a virtuous and irreproachable mode of life, so that living a way of life of sanctification, he may maintain without stain that Schema that he has put on in your strength, being clothed with righteousness by the tunic, bearing about in himself the mortification of body and chastity by the belt, having placed the helmet of salvation by the veil, being adorned utterly with the Cross and Faith by means of the _analavon_, so that he might proceed on the way of peace and salvation by the sandals, that he might become fearful to adversaries, invincible to enemies, alien to every pleasure and shameful desire, trained in obedience, participating in temperance, aiming for the canon of asceticism, so that in psalms and hymns and spiritual odes, he might glorify your most honourable and most dignified Name, walking in the footsteps of the great Prophet Elias and of St John the Prophet and Baptist. So that, having arrived at the measure of perfection, he finish the road, he keep the faith, and he be clothed with the incorrupt ion of the Angels, and be numbered in your holy flock, and attain to the presence at your right, and hear the blessed voice: ‘Come, blessed of my Father, inherit the Kingdom which has been prepared for you from the foundation of the world.’ Of which make us also inheritors in your goodness, O God.
+O Lord our God who are faithful in your promises and unrepenting in your charisms and unspeakable in your love for Mankind; who have called your creature by a holy calling; and who have led your servant **<name>** to your spiritual life—grant him a becoming life, a virtuous and irreproachable mode of life, so that living a way of life of sanctification, he may maintain without stain that Schema that he has put on in your strength, being clothed with righteousness by the tunic, bearing about in himself the mortification of body and chastity by the belt, having placed the helmet of salvation by the veil, being adorned utterly with the Cross and Faith by means of the _analavon_, so that he might proceed on the way of peace and salvation by the sandals, that he might become fearful to adversaries, invincible to enemies, alien to every pleasure and shameful desire, trained in obedience, participating in temperance, aiming for the canon of asceticism, so that in psalms and hymns and spiritual odes, he might glorify your most honourable and most dignified Name, walking in the footsteps of the great Prophet Elias and of St John the Prophet and Baptist. So that, having arrived at the measure of perfection, he finish the road, he keep the faith, and he be clothed with the incorrupt ion of the Angels, and be numbered in your holy flock, and attain to the presence at your right, and hear the blessed voice: ‘Come, blessed of my Father, inherit the Kingdom which has been prepared for you from the foundation of the world.’ Of which make us also inheritors in your goodness, O God.
 
 For you are a God of mercy, compassion and love for Mankind, and to you we send up glory, to the Father and to the Son and to the Holy Spirit, now and always and to the Ages of Ages. Amen.
 
@@ -259,7 +261,7 @@ Peace to all. Let us bow our heads to the Lord.
 
 **And, continuing, this prayer:**
 
-Lord our God, lead your servant **\<name\>** into your spiritual court and number him together in your rational flock; cleanse his habit of thought from carnal desires and from the empty deceptions of this life; and grant him to recall unceasingly the goods which are stored up for those who love you, and for those who crucify themselves in their life for the sake of your Kingdom.
+Lord our God, lead your servant **<name>** into your spiritual court and number him together in your rational flock; cleanse his habit of thought from carnal desires and from the empty deceptions of this life; and grant him to recall unceasingly the goods which are stored up for those who love you, and for those who crucify themselves in their life for the sake of your Kingdom.
 
 For you are the Shepherd and Overseer of our souls, and to you we send up glory, to the Father and to the Son and to the Holy Spirit, now and always and to the Ages of Ages. Amen.
 
@@ -299,7 +301,7 @@ The Lord said: ‘Let your light thus shine before men so that they see your goo
 
 **Lord have mercy (three times).**
 
-Again we pray for the remission and forgiveness of sins of the servant of God **\<name\>**.
+Again we pray for the remission and forgiveness of sins of the servant of God **<name>**.
 
 **Lord have mercy (three times).**
 
@@ -309,7 +311,7 @@ For you are a God who is merciful and a lover of Mankind and to you we send up g
 
 **Prayer for the Removal of the Veil said by the Priest:**
 
-O most merciful Lord, who has granted to your servant **\<name\>** by means of the taking up of the Monastic Habit the veil for a helmet of the hope of salvation, preserve irremovable this grace from his head, securing and cherishing the ruling part of his intellect unshaken from adverse assaults; so that stamping on the head of the most wicked serpent which has been allowed to seize his heel, he raise his intelligible eyes to you the fearsome and only head of all things.
+O most merciful Lord, who has granted to your servant **<name>** by means of the taking up of the Monastic Habit the veil for a helmet of the hope of salvation, preserve irremovable this grace from his head, securing and cherishing the ruling part of his intellect unshaken from adverse assaults; so that stamping on the head of the most wicked serpent which has been allowed to seize his heel, he raise his intelligible eyes to you the fearsome and only head of all things.
 
 For you are the enlightenment and sanctification of our souls, and to you we send up glory, to the Father and to the Son and to the Holy Spirit, now and always and to the Ages of Ages. Amen.
 

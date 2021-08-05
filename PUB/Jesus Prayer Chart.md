@@ -1,4 +1,5 @@
 ---
+publish: true
 tags:
   - '#needsEdit'
 date updated: '2021-07-15T23:05:33-04:00'

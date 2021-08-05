@@ -1,13 +1,23 @@
-tags: [[Angels]] [[St Dionysios]] [[Celestial Hierarchy]]
+---
+publish: true
+tags:
+  - '#needsEdit'
+date updated: '2021-08-05T14:25:53-04:00'
 
 ---
 
+links: [[HUB]] [[Angels]] [[St Dionysios]] [[Celestial Hierarchy]]
+
+---
+
+_Ranks of the angelic powers according to St. Dionysios._
+
 1. Seraphim
-1. Cherubim
-1. Powers
-1. Authorities
-1. Principalities
-1. Dominions
-1. Thrones
-1. Archangels
-1. Angels
+2. Cherubim
+3. Powers
+4. Authorities
+5. Principalities
+6. Dominions
+7. Thrones
+8. Archangels
+9. Angels
