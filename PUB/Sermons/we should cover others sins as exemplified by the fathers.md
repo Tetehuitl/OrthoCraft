@@ -1,6 +1,9 @@
 ---
-tags: 
+publish: true
+tags:
   - '#needsEdit'
+date updated: '2021-08-01T04:58:02-04:00'
+
 ---
 
 #Sermon

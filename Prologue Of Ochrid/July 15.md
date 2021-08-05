@@ -1,4 +1,5 @@
 ---
+publish: true
 tags:
   - '#Prologue'
 aliases: July 28
