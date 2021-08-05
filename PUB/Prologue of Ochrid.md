@@ -15,6 +15,7 @@ St. Nikolai wrote the Ochridski Prolog (The Prologue of Ohrid) during a period i
 
 Links are new calender references to old calendar readings:
 
+- [[July 1|July 14]]
 - [[July 2|July 15]]
 - [[July 3|July 16]]
 - [[July 4|July 17]]
@@ -36,8 +37,8 @@ Links are new calender references to old calendar readings:
 - [[July 20|August 2]]
 - [[July 21|August 3]]
 - [[July 22|August 4]]
+- [[July 23|August 5]]
 %%
-- [[578-july-23]]
 - [[579-july-24]]
 - [[580-july-25]]
 - [[581-july-26]]
