@@ -1,3 +1,13 @@
+---
+title: Joshua_19
+description: 
+published: true
+date: 2022-02-23T04:56:23.602Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:21.736Z
+---
+
  Book:: [[Joshua]]
  1. And the second lot came forth to Simeon, even for the tribe of the children of Simeon according to their families: and their inheritance was within the inheritance of the children of Judah. ^1
  2. And they had in their inheritance Beersheba, and Sheba, and Moladah, ^2

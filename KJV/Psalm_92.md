@@ -1,3 +1,13 @@
+---
+title: Psalm_92
+description: 
+published: true
+date: 2022-02-23T05:15:03.689Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:01.909Z
+---
+
  Book:: [[Psalm]]
  1. IT IS A GOOD THING TO GIVE THANKS UNTO THE LORD, AND TO SING PRAISES UNTO THY NAME, O MOST HIGH: ^1
  2. To shew forth thy lovingkindness in the morning, and thy faithfulness every night, ^2

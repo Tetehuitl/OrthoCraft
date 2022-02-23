@@ -1,3 +1,13 @@
+---
+title: Revelation_1
+description: 
+published: true
+date: 2022-02-23T05:15:28.587Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:26.774Z
+---
+
  Book:: [[Revelation]]
  1. The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John: ^1
  2. Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw. ^2

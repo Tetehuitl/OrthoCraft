@@ -1,3 +1,13 @@
+---
+title: Nahum_3
+description: 
+published: true
+date: 2022-02-23T05:03:53.135Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:03:51.343Z
+---
+
  Book:: [[Nahum]]
  1. Woe to the bloody city! it is all full of lies and robbery; the prey departeth not; ^1
  2. The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots. ^2

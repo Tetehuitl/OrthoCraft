@@ -1,3 +1,13 @@
+---
+title: 736-december-27
+description: 
+published: true
+date: 2022-02-23T05:37:02.618Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:37:00.794Z
+---
+
 
 **1. THE HOLY PROTOMARTYR STEPHEN THE ARCHDEACON**
 

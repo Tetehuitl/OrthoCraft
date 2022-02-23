@@ -1,3 +1,13 @@
+---
+title: Judges
+description: 
+published: true
+date: 2022-02-23T04:57:08.165Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:03.848Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Judges 1]]

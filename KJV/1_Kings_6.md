@@ -1,3 +1,13 @@
+---
+title: 1_Kings_6
+description: 
+published: true
+date: 2022-02-23T04:24:26.715Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:24.887Z
+---
+
  Book:: [[1 Kings]]
  1. And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which is the second month, that he began to build the house of the LORD. ^1
  2. And the house which king Solomon built for the LORD, the length thereof was threescore cubits, and the breadth thereof twenty cubits, and the height thereof thirty cubits. ^2

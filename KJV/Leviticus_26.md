@@ -1,3 +1,13 @@
+---
+title: Leviticus_26
+description: 
+published: true
+date: 2022-02-23T04:59:18.483Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:16.651Z
+---
+
  Book:: [[Leviticus]]
  1. Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the LORD your God. ^1
  2. Ye shall keep my sabbaths, and reverence my sanctuary: I am the LORD. ^2

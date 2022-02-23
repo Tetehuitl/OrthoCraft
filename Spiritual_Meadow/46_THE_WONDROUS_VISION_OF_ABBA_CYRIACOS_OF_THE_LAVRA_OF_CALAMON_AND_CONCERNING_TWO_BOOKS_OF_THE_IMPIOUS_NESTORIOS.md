@@ -1,3 +1,13 @@
+---
+title: 46_THE_WONDROUS_VISION_OF_ABBA_CYRIACOS_OF_THE_LAVRA_OF_CALAMON_AND_CONCERNING_TWO_BOOKS_OF_THE_IMPIOUS_NESTORIOS
+description: 
+published: true
+date: 2022-02-23T05:45:18.684Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:45:16.900Z
+---
+
 [[Spiritual Meadow]]
  
 We once paid a visit to Abba Cyriacos the priest at the Lavra of Calamén on the Holy Jordan and he told us this story:  

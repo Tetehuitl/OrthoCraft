@@ -1,3 +1,13 @@
+---
+title: Exodus_17
+description: 
+published: true
+date: 2022-02-23T04:38:13.506Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:11.710Z
+---
+
  Book:: [[Exodus]]
  1. And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and there was no water for the people to drink. ^1
  2. Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the LORD? ^2

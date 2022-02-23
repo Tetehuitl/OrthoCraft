@@ -1,3 +1,13 @@
+---
+title: 2_Kings_2
+description: 
+published: true
+date: 2022-02-23T04:29:49.433Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:47.608Z
+---
+
  Book:: [[2 Kings]]
  1. And it came to pass, when the LORD would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal. ^1
  2. And Elijah said unto Elisha, Tarry here, I pray thee; for the LORD hath sent me to Bethel. And Elisha said unto him, As the LORD liveth, and as thy soul liveth, I will not leave thee. So they went down to Bethel. ^2

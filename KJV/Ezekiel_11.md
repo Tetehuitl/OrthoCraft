@@ -1,3 +1,13 @@
+---
+title: Ezekiel_11
+description: 
+published: true
+date: 2022-02-23T04:39:49.918Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:48.090Z
+---
+
  Book:: [[Ezekiel]]
  1. Moreover the spirit lifted me up, and brought me unto the east gate of the LORD's house, which looketh eastward: and behold at the door of the gate five and twenty men; among whom I saw Jaazaniah the son of Azur, and Pelatiah the son of Benaiah, princes of the people. ^1
  2. Then said he unto me, Son of man, these are the men that devise mischief, and give wicked counsel in this city: ^2

@@ -1,3 +1,13 @@
+---
+title: Leviticus_21
+description: 
+published: true
+date: 2022-02-23T04:59:04.378Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:02.552Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people: ^1
  2. But for his kin, that is near unto him, that is, for his mother, and for his father, and for his son, and for his daughter, and for his brother. ^2

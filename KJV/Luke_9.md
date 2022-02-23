@@ -1,3 +1,13 @@
+---
+title: Luke_9
+description: 
+published: true
+date: 2022-02-23T05:00:52.485Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:50.623Z
+---
+
  Book:: [[Luke]]
  1. Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases. ^1
  2. And he sent them to preach the kingdom of God, and to heal the sick. ^2

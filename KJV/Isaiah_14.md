@@ -1,3 +1,13 @@
+---
+title: Isaiah_14
+description: 
+published: true
+date: 2022-02-23T04:46:57.676Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:55.885Z
+---
+
  Book:: [[Isaiah]]
  1. For the LORD will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob. ^1
  2. And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the LORD for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors. ^2

@@ -1,3 +1,13 @@
+---
+title: 212_OF_TWO_BROTHERS_WHO_EXERCISED_MARVELLOUS_PATIENCE_IN_DEALING_WITH_ROBBERS
+description: 
+published: true
+date: 2022-02-23T05:43:34.897Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:43:33.160Z
+---
+
 [[Spiritual Meadow]]
  
 ‘One of the elders said:  

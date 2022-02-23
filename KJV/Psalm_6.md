@@ -1,3 +1,13 @@
+---
+title: Psalm_6
+description: 
+published: true
+date: 2022-02-23T05:13:21.639Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:19.914Z
+---
+
  Book:: [[Psalm]]
  1. O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure. ^1
  2. Have mercy upon me, O LORD; for I am weak: O LORD, heal me; for my bones are vexed. ^2

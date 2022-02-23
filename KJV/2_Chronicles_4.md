@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_4
+description: 
+published: true
+date: 2022-02-23T04:28:17.723Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:15.928Z
+---
+
  Book:: [[2 Chronicles]]
  1. Moreover he made an altar of brass, twenty cubits the length thereof, and twenty cubits the breadth thereof, and ten cubits the height thereof. ^1
  2. Also he made a molten sea of ten cubits from brim to brim, round in compass, and five cubits the height thereof; and a line of thirty cubits did compass it round about. ^2

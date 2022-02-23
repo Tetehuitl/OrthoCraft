@@ -1,3 +1,13 @@
+---
+title: Exodus_27
+description: 
+published: true
+date: 2022-02-23T04:38:43.499Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:41.692Z
+---
+
  Book:: [[Exodus]]
  1. And thou shalt make an altar of shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits. ^1
  2. And thou shalt make the horns of it upon the four corners thereof: his horns shall be of the same: and thou shalt overlay it with brass. ^2

@@ -1,3 +1,13 @@
+---
+title: Jeremiah_13
+description: 
+published: true
+date: 2022-02-23T04:50:15.000Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:13.179Z
+---
+
  Book:: [[Jeremiah]]
  1. Thus saith the LORD unto me, Go and get thee a linen girdle, and put it upon thy loins, and put it not in water. ^1
  2. So I got a girdle according to the word of the LORD, and put it on my loins. ^2

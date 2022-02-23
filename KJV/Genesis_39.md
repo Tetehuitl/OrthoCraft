@@ -1,3 +1,13 @@
+---
+title: Genesis_39
+description: 
+published: true
+date: 2022-02-23T04:44:15.246Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:13.449Z
+---
+
  Book:: [[Genesis]]
  1. And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmaelites, which had brought him down thither. ^1
  2. And the LORD was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian. ^2

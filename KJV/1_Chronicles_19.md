@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_19
+description: 
+published: true
+date: 2022-02-23T04:21:43.425Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:41.619Z
+---
+
  Book:: [[1 Chronicles]]
  1. Now it came to pass after this, that Nahash the king of the children of Ammon died, and his son reigned in his stead. ^1
  2. And David said, I will show kindness unto Hanun the son of Nahash, because his father showed kindness to me. And David sent messengers to comfort him concerning his father. So the servants of David came into the land of the children of Ammon to Hanun, to comfort him. ^2

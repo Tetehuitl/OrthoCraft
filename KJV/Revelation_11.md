@@ -1,3 +1,13 @@
+---
+title: Revelation_11
+description: 
+published: true
+date: 2022-02-23T05:15:34.276Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:32.483Z
+---
+
  Book:: [[Revelation]]
  1. And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein. ^1
  2. But the court which is without the temple leave out, and measure it not; for it is given unto the Gentiles: and the holy city shall they tread under foot forty and two months. ^2

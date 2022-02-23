@@ -1,3 +1,13 @@
+---
+title: 28_A_WONDROUS_DEED_OF_ABBA_JULIAN_THE_STYLITE
+description: 
+published: true
+date: 2022-02-23T05:44:19.252Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:44:17.496Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Cyril, the disciple of the aforementioned Abba Julian the Stylite, told this story:  

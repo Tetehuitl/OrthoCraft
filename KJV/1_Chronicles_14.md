@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_14
+description: 
+published: true
+date: 2022-02-23T04:21:30.250Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:28.434Z
+---
+
  Book:: [[1 Chronicles]]
  1. Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house. ^1
  2. And David perceived that the LORD had confirmed him king over Israel, for his kingdom was lifted up on high, because of his people Israel. ^2

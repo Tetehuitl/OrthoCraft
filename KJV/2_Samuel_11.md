@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_11
+description: 
+published: true
+date: 2022-02-23T04:30:46.589Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:44.736Z
+---
+
  Book:: [[2 Samuel]]
  1. And it came to pass, after the year was expired, at the time when kings go forth to battle, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried still at Jerusalem. ^1
  2. And it came to pass in an eveningtide, that David arose from off his bed, and walked upon the roof of the king's house: and from the roof he saw a woman washing herself; and the woman was very beautiful to look upon. ^2

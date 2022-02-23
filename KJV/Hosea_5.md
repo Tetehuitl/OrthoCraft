@@ -1,3 +1,13 @@
+---
+title: Hosea_5
+description: 
+published: true
+date: 2022-02-23T04:46:27.275Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:25.511Z
+---
+
  Book:: [[Hosea]]
  1. Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment is toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor. ^1
  2. And the revolters are profound to make slaughter, though I have been a rebuker of them all. ^2

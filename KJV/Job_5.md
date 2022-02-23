@@ -1,3 +1,13 @@
+---
+title: Job_5
+description: 
+published: true
+date: 2022-02-23T04:54:13.775Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:11.970Z
+---
+
  Book:: [[Job]]
  1. Call now, if there be any that will answer thee; and to which of the saints wilt thou turn? ^1
  2. For wrath killeth the foolish man, and envy slayeth the silly one. ^2

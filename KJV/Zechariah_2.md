@@ -1,3 +1,13 @@
+---
+title: Zechariah_2
+description: 
+published: true
+date: 2022-02-23T05:18:29.506Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:27.729Z
+---
+
  Book:: [[Zechariah]]
  1. I lifted up mine eyes again, and looked, and behold a man with a measuring line in his hand. ^1
  2. Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to see what is the breadth thereof, and what is the length thereof. ^2

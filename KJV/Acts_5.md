@@ -1,3 +1,13 @@
+---
+title: Acts_5
+description: 
+published: true
+date: 2022-02-23T04:33:23.266Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:21.436Z
+---
+
  Book:: [[Acts]]
  1. But a certain man named Ananias, with Sapphira his wife, sold a possession, ^1
  2. And kept back part of the price, his wife also being privy to it, and brought a certain part, and laid it at the apostles' feet. ^2

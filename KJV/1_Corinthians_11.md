@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_11
+description: 
+published: true
+date: 2022-02-23T04:22:41.987Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:40.136Z
+---
+
  Book:: [[1 Corinthians]]
  1. Be ye followers of me, even as I also am of Christ. ^1
  2. Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered them to you. ^2

@@ -1,3 +1,13 @@
+---
+title: Jeremiah_1
+description: 
+published: true
+date: 2022-02-23T04:50:03.826Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:01.998Z
+---
+
  Book:: [[Jeremiah]]
  1. The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin: ^1
  2. To whom the word of the LORD came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign. ^2

@@ -1,3 +1,13 @@
+---
+title: Judges_4
+description: 
+published: true
+date: 2022-02-23T04:57:52.126Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:50.330Z
+---
+
  Book:: [[Judges]]
  1. And the children of Israel again did evil in the sight of the LORD, when Ehud was dead. ^1
  2. And the LORD sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host was Sisera, which dwelt in Harosheth of the Gentiles. ^2

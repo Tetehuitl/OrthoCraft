@@ -1,3 +1,13 @@
+---
+title: Luke_24
+description: 
+published: true
+date: 2022-02-23T05:00:32.532Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:30.693Z
+---
+
  Book:: [[Luke]]
  1. Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them. ^1
  2. And they found the stone rolled away from the sepulchre. ^2

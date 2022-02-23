@@ -1,3 +1,13 @@
+---
+title: 636-september-18
+description: 
+published: true
+date: 2022-02-23T05:32:01.244Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:31:59.419Z
+---
+
 
 **1. SAINT EUMENIUS, BISHOP OF GORTYNA ON CRETE**
 

@@ -1,3 +1,13 @@
+---
+title: Source-_Counsels_from_the_Holy_Mountain
+description: 
+published: true
+date: 2022-02-23T05:49:21.042Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:49:19.123Z
+---
+
 - [[Source]]
 - Author:: [[Elder Ephraim of Arizona]]
 - Category:: [[Hesychia]] 

@@ -1,3 +1,13 @@
+---
+title: Job_11
+description: 
+published: true
+date: 2022-02-23T04:52:36.857Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:35.099Z
+---
+
  Book:: [[Job]]
  1. Then answered Zophar the Naamathite, and said, ^1
  2. Should not the multitude of words be answered? and should a man full of talk be justified? ^2

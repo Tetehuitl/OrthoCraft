@@ -1,3 +1,13 @@
+---
+title: Luke_1
+description: 
+published: true
+date: 2022-02-23T04:59:46.586Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:44.724Z
+---
+
  Book:: [[Luke]]
  1. Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us, ^1
  2. Even as they delivered them unto us, which from the beginning were eyewitnesses, and ministers of the word; ^2

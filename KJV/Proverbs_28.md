@@ -1,3 +1,13 @@
+---
+title: Proverbs_28
+description: 
+published: true
+date: 2022-02-23T05:07:48.795Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:46.969Z
+---
+
  Book:: [[Proverbs]]
  1. The wicked flee when no man pursueth: but the righteous are bold as a lion. ^1
  2. For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged. ^2

@@ -1,3 +1,13 @@
+---
+title: Isaiah_65
+description: 
+published: true
+date: 2022-02-23T04:49:31.299Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:29.470Z
+---
+
  Book:: [[Isaiah]]
  1. I am sought of them that asked not for me; I am found of them that sought me not: I said, Behold me, behold me, unto a nation that was not called by my name. ^1
  2. I have spread out my hands all the day unto a rebellious people, which walketh in a way that was not good, after their own thoughts; ^2

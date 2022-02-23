@@ -1,3 +1,13 @@
+---
+title: Revelation_22
+description: 
+published: true
+date: 2022-02-23T05:16:08.640Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:06.832Z
+---
+
  Book:: [[Revelation]]
  1. And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb. ^1
  2. In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations. ^2

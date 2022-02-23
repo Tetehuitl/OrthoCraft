@@ -1,3 +1,13 @@
+---
+title: Job_27
+description: 
+published: true
+date: 2022-02-23T04:53:23.777Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:22.000Z
+---
+
  Book:: [[Job]]
  1. Moreover Job continued his parable, and said, ^1
  2. As God liveth, who hath taken away my judgment; and the Almighty, who hath vexed my soul; ^2

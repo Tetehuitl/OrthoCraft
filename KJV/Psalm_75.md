@@ -1,3 +1,13 @@
+---
+title: Psalm_75
+description: 
+published: true
+date: 2022-02-23T05:14:09.746Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:07.967Z
+---
+
  Book:: [[Psalm]]
  1. Unto thee, O God, do we give thanks, unto thee do we give thanks: for that thy name is near thy wondrous works declare. ^1
  2. When I shall receive the congregation I will judge uprightly. ^2

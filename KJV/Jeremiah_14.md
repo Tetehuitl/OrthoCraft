@@ -1,3 +1,13 @@
+---
+title: Jeremiah_14
+description: 
+published: true
+date: 2022-02-23T04:50:17.771Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:15.947Z
+---
+
  Book:: [[Jeremiah]]
  1. The word of the LORD that came to Jeremiah concerning the dearth. ^1
  2. Judah mourneth, and the gates thereof languish; they are black unto the ground; and the cry of Jerusalem is gone up. ^2

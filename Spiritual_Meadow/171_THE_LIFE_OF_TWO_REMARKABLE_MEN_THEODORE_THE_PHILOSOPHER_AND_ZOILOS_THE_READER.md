@@ -1,3 +1,13 @@
+---
+title: 171_THE_LIFE_OF_TWO_REMARKABLE_MEN_THEODORE_THE_PHILOSOPHER_AND_ZOILOS_THE_READER
+description: 
+published: true
+date: 2022-02-23T05:41:17.939Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:41:16.202Z
+---
+
 [[Spiritual Meadow]]
  
 In Alexandria there were two wondrously virtuous men, Abba Theodore the philosopher and Zollos the reader; we were well acquainted with both of them, the one from his lectures, the other  

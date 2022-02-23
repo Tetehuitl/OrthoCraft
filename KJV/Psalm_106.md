@@ -1,3 +1,13 @@
+---
+title: Psalm_106
+description: 
+published: true
+date: 2022-02-23T05:08:46.129Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:44.286Z
+---
+
  Book:: [[Psalm]]
  1. Praise ye the LORD. O give thanks unto the LORD; for he is good: for his mercy endureth for ever. ^1
  2. Who can utter the mighty acts of the LORD? who can shew forth all his praise? ^2

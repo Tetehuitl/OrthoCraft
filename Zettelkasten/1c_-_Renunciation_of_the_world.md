@@ -1,3 +1,13 @@
+---
+title: 1c_-_Renunciation_of_the_world
+description: 
+published: true
+date: 2022-02-23T05:48:43.732Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:48:41.956Z
+---
+
 - [[Zettels]]
 - The first step in the spiritual life is the renunciation of everything for the sake of God. We must relinquish our attachment to everything that is not eternal for all things are a passing vanity. Like the scripture says, "17. Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit." (Ecc 2:17)
 - We must not even have attachment to our family: "10. Nor scrip for your journey, neither two coats, neither shoes, nor yet staves: for the workman is worthy of his meat."(Mat 10:37)

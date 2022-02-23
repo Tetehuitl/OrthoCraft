@@ -1,3 +1,13 @@
+---
+title: Psalm_60
+description: 
+published: true
+date: 2022-02-23T05:13:24.481Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:22.702Z
+---
+
  Book:: [[Psalm]]
  1. O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again. ^1
  2. Thou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh. ^2

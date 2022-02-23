@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_23
+description: 
+published: true
+date: 2022-02-23T04:27:37.500Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:35.679Z
+---
+
  Book:: [[2 Chronicles]]
  1. And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him. ^1
  2. And they went about in Judah, and gathered the Levites out of all the cities of Judah, and the chief of the fathers of Israel, and they came to Jerusalem. ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_140
+description: 
+published: true
+date: 2022-02-23T05:10:32.307Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:30.528Z
+---
+
  Book:: [[Psalm]]
  1. Deliver me, O LORD, from the evil man: preserve me from the violent man; ^1
  2. Which imagine mischiefs in their heart; continually are they gathered together for war. ^2

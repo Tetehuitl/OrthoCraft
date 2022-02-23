@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_8
+description: 
+published: true
+date: 2022-02-23T04:26:13.947Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:12.157Z
+---
+
  Book:: [[1 Samuel]]
  1. And it came to pass, when Samuel was old, that he made his sons judges over Israel. ^1
  2. Now the name of his firstborn was Joel; and the name of his second, Abiah: they were judges in Beersheba. ^2

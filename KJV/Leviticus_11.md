@@ -1,3 +1,13 @@
+---
+title: Leviticus_11
+description: 
+published: true
+date: 2022-02-23T04:58:33.354Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:31.490Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses and to Aaron, saying unto them, ^1
  2. Speak unto the children of Israel, saying, These are the beasts which ye shall eat among all the beasts that are on the earth. ^2

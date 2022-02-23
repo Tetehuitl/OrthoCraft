@@ -1,3 +1,13 @@
+---
+title: Jeremiah_28
+description: 
+published: true
+date: 2022-02-23T04:50:59.265Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:57.478Z
+---
+
  Book:: [[Jeremiah]]
  1. And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, which was of Gibeon, spake unto me in the house of the LORD, in the presence of the priests and of all the people, saying, ^1
  2. Thus speaketh the LORD of hosts, the God of Israel, saying, I have broken the yoke of the king of Babylon. ^2

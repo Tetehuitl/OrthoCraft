@@ -1,3 +1,13 @@
+---
+title: Malachi_2
+description: 
+published: true
+date: 2022-02-23T05:01:00.004Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:58.212Z
+---
+
  Book:: [[Malachi]]
  1. And now, O ye priests, this commandment is for you. ^1
  2. If ye will not hear, and if ye will not lay it to heart, to give glory unto my name, saith the LORD of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because ye do not lay it to heart. ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_94
+description: 
+published: true
+date: 2022-02-23T05:15:09.292Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:07.517Z
+---
+
  Book:: [[Psalm]]
  1. O Lord God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself. ^1
  2. Lift up thyself, thou judge of the earth: render a reward to the proud. ^2

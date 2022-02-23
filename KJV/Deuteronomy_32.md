@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_32
+description: 
+published: true
+date: 2022-02-23T04:36:02.691Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:00.818Z
+---
+
  Book:: [[Deuteronomy]]
  1. Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth. ^1
  2. My doctrine shall drop as the rain, my speech shall distil as the dew, as the small rain upon the tender herb, and as the showers upon the grass: ^2

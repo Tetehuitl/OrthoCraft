@@ -1,3 +1,13 @@
+---
+title: Exodus_39
+description: 
+published: true
+date: 2022-02-23T04:39:19.582Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:17.760Z
+---
+
  Book:: [[Exodus]]
  1. And of the blue, and purple, and scarlet, they made cloths of service, to do service in the holy place, and made the holy garments for Aaron; as the LORD commanded Moses. ^1
  2. And he made the ephod of gold, blue, and purple, and scarlet, and fine twined linen. ^2

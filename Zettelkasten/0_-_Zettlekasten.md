@@ -1,3 +1,13 @@
+---
+title: 0_-_Zettlekasten
+description: 
+published: true
+date: 2022-02-23T05:48:31.596Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:48:29.781Z
+---
+
 - [[Zettels]] [[[[noteTaking]]]]
 - Sources: 
     - [[https://youtu.be/rOSZOCoqOo8]]  

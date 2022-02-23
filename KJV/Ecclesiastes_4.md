@@ -1,3 +1,13 @@
+---
+title: Ecclesiastes_4
+description: 
+published: true
+date: 2022-02-23T04:36:45.264Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:43.493Z
+---
+
  Book:: [[Ecclesiastes]]
  1. So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter. ^1
  2. Wherefore I praised the dead which are already dead more than the living which are yet alive. ^2

@@ -1,3 +1,13 @@
+---
+title: Isaiah_8
+description: 
+published: true
+date: 2022-02-23T04:49:39.579Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:37.783Z
+---
+
  Book:: [[Isaiah]]
  1. Moreover the LORD said unto me, Take thee a great roll, and write in it with a man's pen concerning Mahershalalhashbaz. ^1
  2. And I took unto me faithful witnesses to record, Uriah the priest, and Zechariah the son of Jeberechiah. ^2

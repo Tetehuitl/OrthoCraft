@@ -1,3 +1,13 @@
+---
+title: Zechariah_11
+description: 
+published: true
+date: 2022-02-23T05:18:18.022Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:16.250Z
+---
+
  Book:: [[Zechariah]]
  1. Open thy doors, O Lebanon, that the fire may devour thy cedars. ^1
  2. Howl, fir tree; for the cedar is fallen; because the mighty are spoiled: howl, O ye oaks of Bashan; for the forest of the vintage is come down. ^2

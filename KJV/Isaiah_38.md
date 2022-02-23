@@ -1,3 +1,13 @@
+---
+title: Isaiah_38
+description: 
+published: true
+date: 2022-02-23T04:48:08.821Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:07.023Z
+---
+
  Book:: [[Isaiah]]
  1. In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live. ^1
  2. Then Hezekiah turned his face toward the wall, and prayed unto the LORD, ^2

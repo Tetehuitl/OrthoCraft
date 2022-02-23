@@ -1,3 +1,13 @@
+---
+title: Psalm_135
+description: 
+published: true
+date: 2022-02-23T05:10:15.494Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:13.698Z
+---
+
  Book:: [[Psalm]]
  1. Praise ye the LORD. Praise ye the name of the LORD; praise him, O ye servants of the LORD. ^1
  2. Ye that stand in the house of the LORD, in the courts of the house of our God. ^2

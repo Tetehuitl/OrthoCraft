@@ -1,3 +1,13 @@
+---
+title: 019-january-19
+description: 
+published: true
+date: 2022-02-23T05:21:29.235Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:21:27.373Z
+---
+
 
 **1. THE VENERABLE MACARIUS THE GREAT**
 

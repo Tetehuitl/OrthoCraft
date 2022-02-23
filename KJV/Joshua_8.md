@@ -1,3 +1,13 @@
+---
+title: Joshua_8
+description: 
+published: true
+date: 2022-02-23T04:56:57.363Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:55.516Z
+---
+
  Book:: [[Joshua]]
  1. And the LORD said unto Joshua, Fear not, neither be thou dismayed: take all the people of war with thee, and arise, go up to Ai: see, I have given into thy hand the king of Ai, and his people, and his city, and his land: ^1
  2. And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto yourselves: lay thee an ambush for the city behind it. ^2

@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_17
+description: 
+published: true
+date: 2022-02-23T04:35:16.651Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:14.839Z
+---
+
  Book:: [[Deuteronomy]]
  1. Thou shalt not sacrifice unto the LORD thy God any bullock, or sheep, wherein is blemish, or any evilfavouredness: for that is an abomination unto the LORD thy God. ^1
  2. If there be found among you, within any of thy gates which the LORD thy God giveth thee, man or woman, that hath wrought wickedness in the sight of the LORD thy God, in transgressing his covenant, ^2

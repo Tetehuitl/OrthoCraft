@@ -1,3 +1,13 @@
+---
+title: Psalm_90
+description: 
+published: true
+date: 2022-02-23T05:14:58.020Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:56.216Z
+---
+
  Book:: [[Psalm]]
  1. Lord, thou hast been our dwelling place in all generations. ^1
  2. Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God. ^2

@@ -1,3 +1,13 @@
+---
+title: 196_THE_MIRACLE_WHICH_HAPPENED_TO_THE_BOYS_OF_APAMEA_WHO_RECITED_THE_PRAYER_OF_CONSECRATION_IN_A_GAME
+description: 
+published: true
+date: 2022-02-23T05:42:38.533Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:42:36.752Z
+---
+
 [[Spiritual Meadow]]
  
 This is what was told to us by George, the Governor of the Province of Africa; a man who loved Christ, the monks and the poor; one who was endowed with all the virtues which are pleasing to God:  

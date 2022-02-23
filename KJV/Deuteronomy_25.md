@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_25
+description: 
+published: true
+date: 2022-02-23T04:35:40.996Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:39.196Z
+---
+
  Book:: [[Deuteronomy]]
  1. If there be a controversy between men, and they come unto judgment, that the judges may judge them; then they shall justify the righteous, and condemn the wicked. ^1
  2. And it shall be, if the wicked man be worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face, according to his fault, by a certain number. ^2

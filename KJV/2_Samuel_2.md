@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_2
+description: 
+published: true
+date: 2022-02-23T04:31:10.911Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:09.089Z
+---
+
  Book:: [[2 Samuel]]
  1. And it came to pass after this, that David inquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron. ^1
  2. So David went up thither, and his two wives also, Ahinoam the Jezreelitess, and Abigail Nabal's wife the Carmelite. ^2

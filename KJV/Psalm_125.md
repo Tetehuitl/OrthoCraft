@@ -1,3 +1,13 @@
+---
+title: Psalm_125
+description: 
+published: true
+date: 2022-02-23T05:09:44.893Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:43.154Z
+---
+
  Book:: [[Psalm]]
  1. They that trust in the LORD shall be as mount Zion, which cannot be removed, but abideth for ever. ^1
  2. As the mountains are round about Jerusalem, so the LORD is round about his people from henceforth even for ever. ^2

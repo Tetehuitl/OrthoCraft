@@ -1,3 +1,13 @@
+---
+title: Romans_16
+description: 
+published: true
+date: 2022-02-23T05:16:53.881Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:52.063Z
+---
+
  Book:: [[Romans]]
  1. I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea: ^1
  2. That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also. ^2

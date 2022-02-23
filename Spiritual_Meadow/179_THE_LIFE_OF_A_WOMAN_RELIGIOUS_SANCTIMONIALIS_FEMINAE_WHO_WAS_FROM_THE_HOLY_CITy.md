@@ -1,3 +1,13 @@
+---
+title: 179_THE_LIFE_OF_A_WOMAN_RELIGIOUS_SANCTIMONIALIS_FEMINAE_WHO_WAS_FROM_THE_HOLY_CITy
+description: 
+published: true
+date: 2022-02-23T05:41:41.659Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:41:39.892Z
+---
+
 [[Spiritual Meadow]]
  
 We visited John the anchorite, known as ‘the red’, and he told us that he had heard Abba John the Moabite say that there was in the Holy City a nun monastria who was very devout, progressing in the service of God. The devil resented this virgin, so he implanted a satanic desire for her in the heart of a certain young man. That wondrous virgin perceived the demon’s subterfuge and foresaw the young man’s destruction. So she put some beans soaked in water into a basket and went into the wilderness. By her withdrawal she brought peace and serenity to the young man whilst she herself attained the security which is borne of solitide. A long time afterwards, by the providence of God, so that her virtuous conduct should not remain unknown, an anchorite saw her in the wilderness of the holy Jordan and he said to her: ‘Amma, what are you doing in this wilderness?’ Not wishing to reveal herself to the anchorite, she said to him: ‘Forgive me; the fact is that I have lost my way. But of your charity, father, and for the sake of the Lord, show me  

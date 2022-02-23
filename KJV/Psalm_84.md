@@ -1,3 +1,13 @@
+---
+title: Psalm_84
+description: 
+published: true
+date: 2022-02-23T05:14:38.140Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:36.366Z
+---
+
  Book:: [[Psalm]]
  1. How amiable are thy tabernacles, O LORD of hosts! ^1
  2. My soul longeth, yea, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God. ^2

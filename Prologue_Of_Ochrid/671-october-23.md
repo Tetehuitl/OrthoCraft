@@ -1,3 +1,13 @@
+---
+title: 671-october-23
+description: 
+published: true
+date: 2022-02-23T05:33:47.666Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:45.832Z
+---
+
 
 **1. THE HOLY APOSTLE JAMES, BROTHER OF THE LORD** 
 

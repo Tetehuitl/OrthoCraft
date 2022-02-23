@@ -1,3 +1,13 @@
+---
+title: Ezekiel_2
+description: 
+published: true
+date: 2022-02-23T04:40:14.475Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:12.708Z
+---
+
  Book:: [[Ezekiel]]
  1. And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee. ^1
  2. And the spirit entered into me when he spake unto me, and set me upon my feet, that I heard him that spake unto me. ^2

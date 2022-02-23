@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_4
+description: 
+published: true
+date: 2022-02-23T04:22:17.736Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:15.916Z
+---
+
  Book:: [[1 Chronicles]]
  1. The sons of Judah; Pharez, Hezron, and Carmi, and Hur, and Shobal. ^1
  2. And Reaiah the son of Shobal begat Jahath; and Jahath begat Ahumai, and Lahad. These are the families of the Zorathites. ^2

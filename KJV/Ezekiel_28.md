@@ -1,3 +1,13 @@
+---
+title: Ezekiel_28
+description: 
+published: true
+date: 2022-02-23T04:40:39.088Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:37.272Z
+---
+
  Book:: [[Ezekiel]]
  1. The word of the LORD came again unto me, saying, ^1
  2. Son of man, say unto the prince of Tyrus, Thus saith the Lord GOD; Because thine heart is lifted up, and thou hast said, I am a God, I sit in the seat of God, in the midst of the seas; yet thou art a man, and not God, though thou set thine heart as the heart of God: ^2

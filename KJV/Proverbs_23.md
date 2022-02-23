@@ -1,3 +1,13 @@
+---
+title: Proverbs_23
+description: 
+published: true
+date: 2022-02-23T05:07:34.584Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:32.779Z
+---
+
  Book:: [[Proverbs]]
  1. When thou sittest to eat with a ruler, consider diligently what is before thee: ^1
  2. And put a knife to thy throat, if thou be a man given to appetite. ^2

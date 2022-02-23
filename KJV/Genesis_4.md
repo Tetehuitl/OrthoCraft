@@ -1,3 +1,13 @@
+---
+title: Genesis_4
+description: 
+published: true
+date: 2022-02-23T04:44:17.982Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:16.171Z
+---
+
  Book:: [[Genesis]]
  1. And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD. ^1
  2. And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground. ^2

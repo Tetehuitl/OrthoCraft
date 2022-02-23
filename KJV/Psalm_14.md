@@ -1,3 +1,13 @@
+---
+title: Psalm_14
+description: 
+published: true
+date: 2022-02-23T05:10:29.514Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:27.772Z
+---
+
  Book:: [[Psalm]]
  1. The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good. ^1
  2. The LORD looked down from heaven upon the children of men, to see if there were any that did understand, and seek God. ^2

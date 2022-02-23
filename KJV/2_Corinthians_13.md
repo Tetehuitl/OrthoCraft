@@ -1,3 +1,13 @@
+---
+title: 2_Corinthians_13
+description: 
+published: true
+date: 2022-02-23T04:28:47.259Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:45.499Z
+---
+
  Book:: [[2 Corinthians]]
  1. This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established. ^1
  2. I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare: ^2

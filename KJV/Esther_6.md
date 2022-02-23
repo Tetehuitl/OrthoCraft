@@ -1,3 +1,13 @@
+---
+title: Esther_6
+description: 
+published: true
+date: 2022-02-23T04:37:37.916Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:36.145Z
+---
+
  Book:: [[Esther]]
  1. On that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king. ^1
  2. And it was found written, that Mordecai had told of Bigthana and Teresh, two of the king's chamberlains, the keepers of the door, who sought to lay hand on the king Ahasuerus. ^2

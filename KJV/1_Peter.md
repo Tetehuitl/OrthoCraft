@@ -1,3 +1,13 @@
+---
+title: 1_Peter
+description: 
+published: true
+date: 2022-02-23T04:24:37.624Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:35.671Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[1 Peter 1]]

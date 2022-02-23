@@ -1,3 +1,13 @@
+---
+title: Genesis_21
+description: 
+published: true
+date: 2022-02-23T04:43:22.916Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:21.071Z
+---
+
  Book:: [[Genesis]]
  1. And the LORD visited Sarah as he had said, and the LORD did unto Sarah as he had spoken. ^1
  2. For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him. ^2

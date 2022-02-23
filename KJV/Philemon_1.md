@@ -1,3 +1,13 @@
+---
+title: Philemon_1
+description: 
+published: true
+date: 2022-02-23T05:06:33.314Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:31.534Z
+---
+
  Book:: [[Philemon]]
  1. Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer, ^1
  2. And to our beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house: ^2

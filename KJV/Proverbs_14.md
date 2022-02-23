@@ -1,3 +1,13 @@
+---
+title: Proverbs_14
+description: 
+published: true
+date: 2022-02-23T05:07:06.192Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:04.389Z
+---
+
  Book:: [[Proverbs]]
  1. Every wise woman buildeth her house: but the foolish plucketh it down with her hands. ^1
  2. He that walketh in his uprightness feareth the LORD: but he that is perverse in his ways despiseth him. ^2

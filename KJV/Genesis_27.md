@@ -1,3 +1,13 @@
+---
+title: Genesis_27
+description: 
+published: true
+date: 2022-02-23T04:43:39.455Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:37.613Z
+---
+
  Book:: [[Genesis]]
  1. And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I. ^1
  2. And he said, Behold now, I am old, I know not the day of my death: ^2

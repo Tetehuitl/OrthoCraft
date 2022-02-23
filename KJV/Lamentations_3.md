@@ -1,3 +1,13 @@
+---
+title: Lamentations_3
+description: 
+published: true
+date: 2022-02-23T04:58:16.769Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:14.922Z
+---
+
  Book:: [[Lamentations]]
  1. I AM the man that hath seen affliction by the rod of his wrath. ^1
  2. He hath led me, and brought me into darkness, but not into light. ^2

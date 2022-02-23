@@ -1,3 +1,13 @@
+---
+title: Jeremiah_41
+description: 
+published: true
+date: 2022-02-23T04:51:41.199Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:39.405Z
+---
+
  Book:: [[Jeremiah]]
  1. Now it came to pass in the seventh month, that Ishmael the son of Nethaniah the son of Elishama, of the seed royal, and the princes of the king, even ten men with him, came unto Gedaliah the son of Ahikam to Mizpah; and there they did eat bread together in Mizpah. ^1
  2. Then arose Ishmael the son of Nethaniah, and the ten men that were with him, and smote Gedaliah the son of Ahikam the son of Shaphan with the sword, and slew him, whom the king of Babylon had made governor over the land. ^2

@@ -1,3 +1,13 @@
+---
+title: Esther
+description: 
+published: true
+date: 2022-02-23T04:37:19.883Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:37:04.926Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Esther 1]]

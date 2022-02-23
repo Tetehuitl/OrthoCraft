@@ -1,3 +1,13 @@
+---
+title: 114_THE_LIFE_OF_ABBA_DANIEL_THE_EGYPTIAN
+description: 
+published: true
+date: 2022-02-23T05:38:13.179Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:38:11.444Z
+---
+
 [[Spiritual Meadow]]
  
 On another occasion, the same elder told us this about Abba Daniel the Egyptian:  

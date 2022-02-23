@@ -1,3 +1,13 @@
+---
+title: Revelation
+description: 
+published: true
+date: 2022-02-23T05:15:26.687Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:53.685Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[Revelation 1]]

@@ -1,3 +1,13 @@
+---
+title: Matthew_22
+description: 
+published: true
+date: 2022-02-23T05:02:38.722Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:36.909Z
+---
+
  Book:: [[Matthew]]
  1. And Jesus answered and spake unto them again by parables, and said, ^1
  2. The kingdom of heaven is like unto a certain king, which made a marriage for his son, ^2

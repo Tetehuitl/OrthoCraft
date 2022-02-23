@@ -1,3 +1,13 @@
+---
+title: Mark_1
+description: 
+published: true
+date: 2022-02-23T05:01:10.836Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:08.987Z
+---
+
  Book:: [[Mark]]
  1. The beginning of the gospel of Jesus Christ, the Son of God; ^1
  2. As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee. ^2

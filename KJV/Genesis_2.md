@@ -1,3 +1,13 @@
+---
+title: Genesis_2
+description: 
+published: true
+date: 2022-02-23T04:43:17.417Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:15.600Z
+---
+
  Book:: [[Genesis]]
  1. Thus the heavens and the earth were finished, and all the host of them. ^1
  2. And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made. ^2

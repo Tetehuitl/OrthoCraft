@@ -1,3 +1,13 @@
+---
+title: Revelation_17
+description: 
+published: true
+date: 2022-02-23T05:15:51.347Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:49.577Z
+---
+
  Book:: [[Revelation]]
  1. And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters: ^1
  2. With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication. ^2

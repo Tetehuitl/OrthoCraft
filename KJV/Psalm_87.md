@@ -1,3 +1,13 @@
+---
+title: Psalm_87
+description: 
+published: true
+date: 2022-02-23T05:14:46.619Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:44.862Z
+---
+
  Book:: [[Psalm]]
  1. His foundation is in the holy mountains. ^1
  2. The LORD loveth the gates of Zion more than all the dwellings of Jacob. ^2

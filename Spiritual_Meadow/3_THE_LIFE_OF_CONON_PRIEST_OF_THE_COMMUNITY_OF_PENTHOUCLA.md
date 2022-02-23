@@ -1,3 +1,13 @@
+---
+title: 3_THE_LIFE_OF_CONON_PRIEST_OF_THE_COMMUNITY_OF_PENTHOUCLA
+description: 
+published: true
+date: 2022-02-23T05:44:57.866Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:44:56.082Z
+---
+
 [[Spiritual Meadow]]
  
 At the monastery of our holy father Sabas we met Athanasios. The elder told us this tale:  

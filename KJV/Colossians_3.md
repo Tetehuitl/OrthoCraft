@@ -1,3 +1,13 @@
+---
+title: Colossians_3
+description: 
+published: true
+date: 2022-02-23T04:34:12.023Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:10.242Z
+---
+
  Book:: [[Colossians]]
  1. If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God. ^1
  2. Set your affection on things above, not on things on the earth. ^2

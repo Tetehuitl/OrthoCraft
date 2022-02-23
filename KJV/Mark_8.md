@@ -1,3 +1,13 @@
+---
+title: Mark_8
+description: 
+published: true
+date: 2022-02-23T05:01:50.683Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:48.833Z
+---
+
  Book:: [[Mark]]
  1. In those days the multitude being very great, and having nothing to eat, Jesus called his disciples unto him, and saith unto them, ^1
  2. I have compassion on the multitude, because they have now been with me three days, and have nothing to eat: ^2

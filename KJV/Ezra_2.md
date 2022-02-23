@@ -1,3 +1,13 @@
+---
+title: Ezra_2
+description: 
+published: true
+date: 2022-02-23T04:42:03.407Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:01.543Z
+---
+
  Book:: [[Ezra]]
  1. Now these are the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city; ^1
  2. Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mizpar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel: ^2

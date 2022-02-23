@@ -1,3 +1,13 @@
+---
+title: 56_THE_LIFE_OF_JOHN_THE_DISCIPLE_OF_A_GREAT_ELDER_WHO_LIVED_IN_THE_VILLAGE_OF_PARASEMA
+description: 
+published: true
+date: 2022-02-23T05:45:51.763Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:45:50.009Z
+---
+
 [[Spiritual Meadow]]
  
 Ptolemais is a city of Phoenicia. There is a village nearby called Paraséma in which there resided a great elder. He had a disciple named John who was also great and who excelled in obedience. One day the elder sent the disciple to perform a task for him, giving him a little bread to sustain him on the way. The disciple went and completed the task and then came back, bringing the bread with him, untouched. When the elder saw the bread, he said to him: ‘Why did you not eat any of the bread I gave you, my child?” Making an act of obeisance, the disciple said to the elder: ‘Forgive me, father, but when you blessed me and dismissed me, you did not say I was to eat of the bread; and that is why I did not eat it’. Amazed at the disciple’s discernment, the elder gave him his blessing. After the death of this elder, a vision from God appeared  

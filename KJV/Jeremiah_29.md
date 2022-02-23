@@ -1,3 +1,13 @@
+---
+title: Jeremiah_29
+description: 
+published: true
+date: 2022-02-23T04:51:02.127Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:00.241Z
+---
+
  Book:: [[Jeremiah]]
  1. Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon; ^1
  2. (After that Jeconiah the king, and the queen, and the eunuchs, the princes of Judah and Jerusalem, and the carpenters, and the smiths, were departed from Jerusalem;) ^2

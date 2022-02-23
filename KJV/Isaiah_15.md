@@ -1,3 +1,13 @@
+---
+title: Isaiah_15
+description: 
+published: true
+date: 2022-02-23T04:47:00.358Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:58.603Z
+---
+
  Book:: [[Isaiah]]
  1. The burden of Moab. Because in the night Ar of Moab is laid waste, and brought to silence; because in the night Kir of Moab is laid waste, and brought to silence; ^1
  2. He is gone up to Bajith, and to Dibon, the high places, to weep: Moab shall howl over Nebo, and over Medeba: on all their heads shall be baldness, and every beard cut off. ^2

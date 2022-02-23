@@ -1,3 +1,13 @@
+---
+title: 687-november-8
+description: 
+published: true
+date: 2022-02-23T05:34:36.101Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:34:34.223Z
+---
+
 
 **1. THE HOLY ARCHANGEL MICHAEL AND ALL THE BODILESS POWERS OF HEAVEN**
 

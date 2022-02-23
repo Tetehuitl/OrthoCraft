@@ -1,3 +1,13 @@
+---
+title: Ezra_8
+description: 
+published: true
+date: 2022-02-23T04:42:19.881Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:18.076Z
+---
+
  Book:: [[Ezra]]
  1. These are now the chief of their fathers, and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king. ^1
  2. Of the sons of Phinehas; Gershom: of the sons of Ithamar; Daniel: of the sons of David; Hattush. ^2

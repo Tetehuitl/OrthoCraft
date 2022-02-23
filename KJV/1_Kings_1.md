@@ -1,3 +1,13 @@
+---
+title: 1_Kings_1
+description: 
+published: true
+date: 2022-02-23T04:23:38.510Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:36.600Z
+---
+
  Book:: [[1 Kings]]
  1. Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat. ^1
  2. Wherefore his servants said unto him, Let there be sought for my lord the king a young virgin: and let her stand before the king, and let her cherish him, and let her lie in thy bosom, that my lord the king may get heat. ^2

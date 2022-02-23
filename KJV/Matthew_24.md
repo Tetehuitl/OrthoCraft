@@ -1,3 +1,13 @@
+---
+title: Matthew_24
+description: 
+published: true
+date: 2022-02-23T05:02:44.442Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:42.583Z
+---
+
  Book:: [[Matthew]]
  1. And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple. ^1
  2. And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down. ^2

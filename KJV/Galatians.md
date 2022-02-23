@@ -1,3 +1,13 @@
+---
+title: Galatians
+description: 
+published: true
+date: 2022-02-23T04:42:25.517Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:37:17.988Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[Galatians 1]]

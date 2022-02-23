@@ -1,3 +1,13 @@
+---
+title: Psalm_49
+description: 
+published: true
+date: 2022-02-23T05:12:47.370Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:45.616Z
+---
+
  Book:: [[Psalm]]
  1. Hear this, all ye people; give ear, all ye inhabitants of the world: ^1
  2. Both low and high, rich and poor, together. ^2

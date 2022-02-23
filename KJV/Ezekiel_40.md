@@ -1,3 +1,13 @@
+---
+title: Ezekiel_40
+description: 
+published: true
+date: 2022-02-23T04:41:17.426Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:15.590Z
+---
+
  Book:: [[Ezekiel]]
  1. In the five and twentieth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after that the city was smitten, in the selfsame day the hand of the LORD was upon me, and brought me thither. ^1
  2. In the visions of God brought he me into the land of Israel, and set me upon a very high mountain, by which was as the frame of a city on the south. ^2

@@ -1,3 +1,13 @@
+---
+title: 2_Kings_21
+description: 
+published: true
+date: 2022-02-23T04:29:54.789Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:52.949Z
+---
+
  Book:: [[2 Kings]]
  1. Manasseh was twelve years old when he began to reign, and reigned fifty and five years in Jerusalem. And his mother's name was Hephzibah. ^1
  2. And he did that which was evil in the sight of the LORD, after the abominations of the heathen, whom the LORD cast out before the children of Israel. ^2

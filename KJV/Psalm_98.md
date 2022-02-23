@@ -1,3 +1,13 @@
+---
+title: Psalm_98
+description: 
+published: true
+date: 2022-02-23T05:15:20.616Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:18.872Z
+---
+
  Book:: [[Psalm]]
  1. O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory. ^1
  2. The LORD hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen. ^2

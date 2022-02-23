@@ -1,3 +1,13 @@
+---
+title: Ecclesiastes_7
+description: 
+published: true
+date: 2022-02-23T04:36:53.373Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:51.541Z
+---
+
  Book:: [[Ecclesiastes]]
  1. A good name is better than precious ointment; and the day of death than the day of one's birth. ^1
  2. It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart. ^2

@@ -1,3 +1,13 @@
+---
+title: Revelation_9
+description: 
+published: true
+date: 2022-02-23T05:16:28.607Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:26.805Z
+---
+
  Book:: [[Revelation]]
  1. And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit. ^1
  2. And he opened the bottomless pit; and there arose a smoke out of the pit, as the smoke of a great furnace; and the sun and the air were darkened by reason of the smoke of the pit. ^2

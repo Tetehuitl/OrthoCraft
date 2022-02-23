@@ -1,3 +1,13 @@
+---
+title: Nehemiah_13
+description: 
+published: true
+date: 2022-02-23T05:04:09.576Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:07.742Z
+---
+
  Book:: [[Nehemiah]]
  1. On that day they read in the book of Moses in the audience of the people; and therein was found written, that the Ammonite and the Moabite should not come into the congregation of God for ever; ^1
  2. Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: howbeit our God turned the curse into a blessing. ^2

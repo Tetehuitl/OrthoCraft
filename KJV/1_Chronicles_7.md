@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_7
+description: 
+published: true
+date: 2022-02-23T04:22:25.706Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:23.879Z
+---
+
  Book:: [[1 Chronicles]]
  1. Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimrom, four. ^1
  2. And the sons of Tola; Uzzi, and Rephaiah, and Jeriel, and Jahmai, and Jibsam, and Shemuel, heads of their father's house, to wit, of Tola: they were valiant men of might in their generations; whose number was in the days of David two and twenty thousand and six hundred. ^2

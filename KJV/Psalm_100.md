@@ -1,3 +1,13 @@
+---
+title: Psalm_100
+description: 
+published: true
+date: 2022-02-23T05:08:29.002Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:27.256Z
+---
+
  Book:: [[Psalm]]
  1. Make a joyful noise unto the LORD, all ye lands. ^1
  2. Serve the LORD with gladness: come before his presence with singing. ^2

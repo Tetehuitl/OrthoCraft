@@ -1,3 +1,13 @@
+---
+title: 78_THE_AMAZING_MIRACLE_OF_A_DEAD_GIRL_WHO_DETAINED_HER_DESPOILER_AND_WOULD_NOT_LET_HIM_GO_UNTIL_HE_PROMISED_TO_BECOME_A_MONK
+description: 
+published: true
+date: 2022-02-23T05:47:03.245Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:47:01.461Z
+---
+
 [[Spiritual Meadow]]
  
 When we were visiting Abba John, higoumen of the Giants’ Monastery at Theoupolis, he told us a somewhat similar story:  

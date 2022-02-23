@@ -1,3 +1,13 @@
+---
+title: Song_of_Solomon_2
+description: 
+published: true
+date: 2022-02-23T05:17:39.628Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:37.860Z
+---
+
  Book:: [[Song of Solomon]]
  1. I am the rose of Sharon, and the lily of the valleys. ^1
  2. As the lily among thorns, so is my love among the daughters. ^2

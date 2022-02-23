@@ -1,3 +1,13 @@
+---
+title: Exodus_12
+description: 
+published: true
+date: 2022-02-23T04:37:59.869Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:57.971Z
+---
+
  Book:: [[Exodus]]
  1. And the LORD spake unto Moses and Aaron in the land of Egypt saying, ^1
  2. This month shall be unto you the beginning of months: it shall be the first month of the year to you. ^2

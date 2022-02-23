@@ -1,3 +1,13 @@
+---
+title: Exodus_13
+description: 
+published: true
+date: 2022-02-23T04:38:02.588Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:00.792Z
+---
+
  Book:: [[Exodus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, both of man and of beast: it is mine. ^2

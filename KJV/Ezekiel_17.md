@@ -1,3 +1,13 @@
+---
+title: Ezekiel_17
+description: 
+published: true
+date: 2022-02-23T04:40:06.373Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:04.530Z
+---
+
  Book:: [[Ezekiel]]
  1. And the word of the LORD came unto me, saying, ^1
  2. Son of man, put forth a riddle, and speak a parable unto the house of Israel; ^2

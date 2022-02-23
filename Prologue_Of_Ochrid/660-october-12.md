@@ -1,3 +1,13 @@
+---
+title: 660-october-12
+description: 
+published: true
+date: 2022-02-23T05:33:14.249Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:12.386Z
+---
+
 
 **1. THE HOLY MARTYRS TARACHUS, PROBUS AND ANDRONICUS**
 

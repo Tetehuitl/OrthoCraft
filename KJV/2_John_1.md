@@ -1,3 +1,13 @@
+---
+title: 2_John_1
+description: 
+published: true
+date: 2022-02-23T04:29:13.694Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:11.902Z
+---
+
  Book:: [[2 John]]
  1. The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth; ^1
  2. For the truth's sake, which dwelleth in us, and shall be with us for ever. ^2

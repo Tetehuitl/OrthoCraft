@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_12
+description: 
+published: true
+date: 2022-02-23T04:30:49.274Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:47.447Z
+---
+
  Book:: [[2 Samuel]]
  1. And the LORD sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor. ^1
  2. The rich man had exceeding many flocks and herds: ^2

@@ -1,3 +1,13 @@
+---
+title: Proverbs_12
+description: 
+published: true
+date: 2022-02-23T05:07:00.564Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:58.767Z
+---
+
  Book:: [[Proverbs]]
  1. Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish. ^1
  2. A good man obtaineth favour of the LORD: but a man of wicked devices will he condemn. ^2

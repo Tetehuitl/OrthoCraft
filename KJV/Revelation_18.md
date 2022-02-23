@@ -1,3 +1,13 @@
+---
+title: Revelation_18
+description: 
+published: true
+date: 2022-02-23T05:15:54.234Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:52.403Z
+---
+
  Book:: [[Revelation]]
  1. And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory. ^1
  2. And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit, and a cage of every unclean and hateful bird. ^2

@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_19
+description: 
+published: true
+date: 2022-02-23T04:35:22.054Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:20.248Z
+---
+
  Book:: [[Deuteronomy]]
  1. When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses; ^1
  2. Thou shalt separate three cities for thee in the midst of thy land, which the LORD thy God giveth thee to possess it. ^2

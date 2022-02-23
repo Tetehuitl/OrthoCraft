@@ -1,3 +1,13 @@
+---
+title: 629-september-11
+description: 
+published: true
+date: 2022-02-23T05:31:39.997Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:31:38.152Z
+---
+
 
 **1. THE VENERABLE THEODORA**
 

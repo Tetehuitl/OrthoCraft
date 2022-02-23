@@ -1,3 +1,13 @@
+---
+title: James_3
+description: 
+published: true
+date: 2022-02-23T04:49:52.547Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:50.787Z
+---
+
  Book:: [[James]]
  1. My brethren, be not many masters, knowing that we shall receive the greater condemnation. ^1
  2. For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body. ^2

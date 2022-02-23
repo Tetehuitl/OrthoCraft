@@ -1,3 +1,13 @@
+---
+title: Psalm_63
+description: 
+published: true
+date: 2022-02-23T05:13:32.893Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:31.127Z
+---
+
  Book:: [[Psalm]]
  1. O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is; ^1
  2. To see thy power and thy glory, so as I have seen thee in the sanctuary. ^2

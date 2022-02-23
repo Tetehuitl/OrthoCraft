@@ -1,3 +1,13 @@
+---
+title: Numbers_2
+description: 
+published: true
+date: 2022-02-23T05:05:12.627Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:10.797Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses and unto Aaron, saying, ^1
  2. Every man of the children of Israel shall pitch by his own standard, with the ensign of their father's house: far off about the tabernacle of the congregation shall they pitch. ^2

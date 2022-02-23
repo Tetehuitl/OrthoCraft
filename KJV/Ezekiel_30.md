@@ -1,3 +1,13 @@
+---
+title: Ezekiel_30
+description: 
+published: true
+date: 2022-02-23T04:40:47.223Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:45.412Z
+---
+
  Book:: [[Ezekiel]]
  1. The word of the LORD came again unto me, saying, ^1
  2. Son of man, prophesy and say, Thus saith the Lord GOD; Howl ye, Woe worth the day! ^2

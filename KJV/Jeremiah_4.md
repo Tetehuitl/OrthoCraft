@@ -1,3 +1,13 @@
+---
+title: Jeremiah_4
+description: 
+published: true
+date: 2022-02-23T04:51:35.639Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:33.848Z
+---
+
  Book:: [[Jeremiah]]
  1. If thou wilt return, O Israel, saith the LORD, return unto me: and if thou wilt put away thine abominations out of my sight, then shalt thou not remove. ^1
  2. And thou shalt swear, The LORD liveth, in truth, in judgment, and in righteousness; and the nations shall bless themselves in him, and in him shall they glory. ^2

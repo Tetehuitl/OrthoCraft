@@ -1,3 +1,13 @@
+---
+title: Genesis_24
+description: 
+published: true
+date: 2022-02-23T04:43:31.184Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:29.301Z
+---
+
  Book:: [[Genesis]]
  1. And Abraham was old, and well stricken in age: and the LORD had blessed Abraham in all things. ^1
  2. And Abraham said unto his eldest servant of his house, that ruled over all that he had, Put, I pray thee, thy hand under my thigh: ^2

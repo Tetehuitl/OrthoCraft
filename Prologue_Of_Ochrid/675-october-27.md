@@ -1,3 +1,13 @@
+---
+title: 675-october-27
+description: 
+published: true
+date: 2022-02-23T05:33:59.761Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:57.922Z
+---
+
 
 **1. THE HOLY MARTYR NESTOR**
  

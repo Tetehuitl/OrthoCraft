@@ -1,3 +1,13 @@
+---
+title: Joel_1
+description: 
+published: true
+date: 2022-02-23T04:54:29.486Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:27.701Z
+---
+
  Book:: [[Joel]]
  1. The word of the LORD that came to Joel the son of Pethuel. ^1
  2. Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers? ^2

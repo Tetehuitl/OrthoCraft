@@ -1,3 +1,13 @@
+---
+title: Isaiah_2
+description: 
+published: true
+date: 2022-02-23T04:47:14.038Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:12.236Z
+---
+
  Book:: [[Isaiah]]
  1. The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem. ^1
  2. And it shall come to pass in the last days, that the mountain of the LORD's house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it. ^2

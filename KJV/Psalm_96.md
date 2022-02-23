@@ -1,3 +1,13 @@
+---
+title: Psalm_96
+description: 
+published: true
+date: 2022-02-23T05:15:14.964Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:13.194Z
+---
+
  Book:: [[Psalm]]
  1. O sing unto the LORD a new song: sing unto the LORD, all the earth. ^1
  2. Sing unto the LORD, bless his name; shew forth his salvation from day to day. ^2

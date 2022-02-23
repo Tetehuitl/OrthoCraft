@@ -1,3 +1,13 @@
+---
+title: John_15
+description: 
+published: true
+date: 2022-02-23T04:54:57.355Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:55.552Z
+---
+
  Book:: [[John]]
  1. I am the true vine, and my Father is the husbandman. ^1
  2. Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit. ^2

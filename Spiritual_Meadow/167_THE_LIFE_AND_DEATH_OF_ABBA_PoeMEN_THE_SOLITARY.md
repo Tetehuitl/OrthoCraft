@@ -1,3 +1,13 @@
+---
+title: 167_THE_LIFE_AND_DEATH_OF_ABBA_PoeMEN_THE_SOLITARY
+description: 
+published: true
+date: 2022-02-23T05:41:03.196Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:41:01.473Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Agathonicos, higoumen of the community of our holy father Sabas at Castellium,™ said:  

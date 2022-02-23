@@ -1,3 +1,13 @@
+---
+title: Ezra_5
+description: 
+published: true
+date: 2022-02-23T04:42:11.656Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:09.861Z
+---
+
  Book:: [[Ezra]]
  1. Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that were in Judah and Jerusalem in the name of the God of Israel, even unto them. ^1
  2. Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which is at Jerusalem: and with them were the prophets of God helping them. ^2

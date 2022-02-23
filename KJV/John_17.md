@@ -1,3 +1,13 @@
+---
+title: John_17
+description: 
+published: true
+date: 2022-02-23T04:55:03.390Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:01.163Z
+---
+
  Book:: [[John]]
  1. These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee: ^1
  2. As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him. ^2

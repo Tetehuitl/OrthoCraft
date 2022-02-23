@@ -1,3 +1,13 @@
+---
+title: Amos_5
+description: 
+published: true
+date: 2022-02-23T04:33:49.571Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:47.717Z
+---
+
  Book:: [[Amos]]
  1. Hear ye this word which I take up against you, even a lamentation, O house of Israel. ^1
  2. The virgin of Israel is fallen; she shall no more rise: she is forsaken upon her land; there is none to raise her up. ^2

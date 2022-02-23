@@ -1,3 +1,13 @@
+---
+title: Job_21
+description: 
+published: true
+date: 2022-02-23T04:53:07.308Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:05.502Z
+---
+
  Book:: [[Job]]
  1. But Job answered and said, ^1
  2. Hear diligently my speech, and let this be your consolations. ^2

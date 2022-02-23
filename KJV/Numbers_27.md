@@ -1,3 +1,13 @@
+---
+title: Numbers_27
+description: 
+published: true
+date: 2022-02-23T05:05:35.423Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:33.612Z
+---
+
  Book:: [[Numbers]]
  1. Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these are the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah. ^1
  2. And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, by the door of the tabernacle of the congregation, saying, ^2

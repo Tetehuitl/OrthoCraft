@@ -1,3 +1,13 @@
+---
+title: Psalm_137
+description: 
+published: true
+date: 2022-02-23T05:10:21.159Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:19.391Z
+---
+
  Book:: [[Psalm]]
  1. By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion. ^1
  2. We hanged our harps upon the willows in the midst thereof. ^2

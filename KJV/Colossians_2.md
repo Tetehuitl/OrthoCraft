@@ -1,3 +1,13 @@
+---
+title: Colossians_2
+description: 
+published: true
+date: 2022-02-23T04:34:09.383Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:07.588Z
+---
+
  Book:: [[Colossians]]
  1. For I would that ye knew what great conflict I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh; ^1
  2. That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ; ^2

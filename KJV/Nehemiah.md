@@ -1,3 +1,13 @@
+---
+title: Nehemiah
+description: 
+published: true
+date: 2022-02-23T05:03:56.363Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:31.336Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Nehemiah 1]]

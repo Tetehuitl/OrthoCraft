@@ -1,3 +1,13 @@
+---
+title: 39_THE_LIFE_OF_A_MONK_OF_THE_MONASTERY_OF_ABBA_SEVERIAN_AND_HOW_HE_WAS_PRUDENTLY_RESTRAINED_BY_A_COUNTRY-GIRL_FROM_SINNING_WITH_HER
+description: 
+published: true
+date: 2022-02-23T05:44:54.876Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:44:53.108Z
+---
+
 [[Spiritual Meadow]]
  
 When I was in Antioch the Great I heard one of the priests of the church saying the Patriarch Anastasios had told something of this sort:  

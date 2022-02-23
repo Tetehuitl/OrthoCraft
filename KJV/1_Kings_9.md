@@ -1,3 +1,13 @@
+---
+title: 1_Kings_9
+description: 
+published: true
+date: 2022-02-23T04:24:34.852Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:33.047Z
+---
+
  Book:: [[1 Kings]]
  1. And it came to pass, when Solomon had finished the building of the house of the LORD, and the king's house, and all Solomon's desire which he was pleased to do, ^1
  2. That the LORD appeared to Solomon the second time, as he had appeared unto him at Gibeon. ^2

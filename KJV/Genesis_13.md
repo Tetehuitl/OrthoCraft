@@ -1,3 +1,13 @@
+---
+title: Genesis_13
+description: 
+published: true
+date: 2022-02-23T04:42:58.230Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:56.437Z
+---
+
  Book:: [[Genesis]]
  1. And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south. ^1
  2. And Abram was very rich in cattle, in silver, and in gold. ^2

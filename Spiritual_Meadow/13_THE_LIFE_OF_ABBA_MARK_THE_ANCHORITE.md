@@ -1,3 +1,13 @@
+---
+title: 13_THE_LIFE_OF_ABBA_MARK_THE_ANCHORITE
+description: 
+published: true
+date: 2022-02-23T05:39:35.293Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:39:33.585Z
+---
+
 [[Spiritual Meadow]]
  
 They said that Abba Mark the anchorite who lived near the Penthoucla monastery practised the austerity of fasting all week long for sixty-nine years, with the result that some people thought he was  

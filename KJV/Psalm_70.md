@@ -1,3 +1,13 @@
+---
+title: Psalm_70
+description: 
+published: true
+date: 2022-02-23T05:13:55.551Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:53.787Z
+---
+
  Book:: [[Psalm]]
  1. MAKE HASTE, O GOD, TO DELIVER ME; MAKE HASTE TO HELP ME, O LORD. ^1
  2. Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt. ^2

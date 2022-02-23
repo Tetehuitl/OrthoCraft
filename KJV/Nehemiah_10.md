@@ -1,3 +1,13 @@
+---
+title: Nehemiah_10
+description: 
+published: true
+date: 2022-02-23T05:04:01.015Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:03:59.199Z
+---
+
  Book:: [[Nehemiah]]
  1. Now those that sealed were, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah, ^1
  2. Seraiah, Azariah, Jeremiah, ^2

@@ -1,3 +1,13 @@
+---
+title: Daniel_9
+description: 
+published: true
+date: 2022-02-23T04:34:49.519Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:47.667Z
+---
+
  Book:: [[Daniel]]
  1. In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans; ^1
  2. In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the LORD came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem. ^2

@@ -1,3 +1,13 @@
+---
+title: Ecclesiastes_3
+description: 
+published: true
+date: 2022-02-23T04:36:42.593Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:40.805Z
+---
+
  Book:: [[Ecclesiastes]]
  1. To every thing there is a season, and a time to every purpose under the heaven: ^1
  2. A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted; ^2

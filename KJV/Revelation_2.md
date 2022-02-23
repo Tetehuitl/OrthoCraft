@@ -1,3 +1,13 @@
+---
+title: Revelation_2
+description: 
+published: true
+date: 2022-02-23T05:15:59.997Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:58.193Z
+---
+
  Book:: [[Revelation]]
  1. Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks; ^1
  2. I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil: and thou hast tried them which say they are apostles, and are not, and hast found them liars: ^2

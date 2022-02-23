@@ -1,3 +1,13 @@
+---
+title: Job_25
+description: 
+published: true
+date: 2022-02-23T04:53:18.282Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:16.538Z
+---
+
  Book:: [[Job]]
  1. Then answered Bildad the Shuhite, and said, ^1
  2. Dominion and fear are with him, he maketh peace in his high places. ^2

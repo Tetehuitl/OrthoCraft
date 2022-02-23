@@ -1,3 +1,13 @@
+---
+title: Luke_12
+description: 
+published: true
+date: 2022-02-23T04:59:55.159Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:53.283Z
+---
+
  Book:: [[Luke]]
  1. In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy. ^1
  2. For there is nothing covered, that shall not be revealed; neither hid, that shall not be known. ^2

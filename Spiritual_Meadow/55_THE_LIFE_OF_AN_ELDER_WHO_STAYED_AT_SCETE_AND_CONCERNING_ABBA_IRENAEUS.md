@@ -1,3 +1,13 @@
+---
+title: 55_THE_LIFE_OF_AN_ELDER_WHO_STAYED_AT_SCETE_AND_CONCERNING_ABBA_IRENAEUS
+description: 
+published: true
+date: 2022-02-23T05:45:48.773Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:45:47.023Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Irenaeus told us that there was an elder living at Scété who saw the devil at night offering gardening implements ? to the brethren. The elder said to the devil: ‘What are these”? The devil  

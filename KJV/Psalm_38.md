@@ -1,3 +1,13 @@
+---
+title: Psalm_38
+description: 
+published: true
+date: 2022-02-23T05:12:13.592Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:11.791Z
+---
+
  Book:: [[Psalm]]
  1. O lord, rebuke me not in thy wrath: neither chasten me in thy hot displeasure. ^1
  2. For thine arrows stick fast in me, and thy hand presseth me sore. ^2

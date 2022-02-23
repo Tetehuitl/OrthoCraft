@@ -1,3 +1,13 @@
+---
+title: Ecclesiastes_2
+description: 
+published: true
+date: 2022-02-23T04:36:39.911Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:38.055Z
+---
+
  Book:: [[Ecclesiastes]]
  1. I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity. ^1
  2. I said of laughter, It is mad: and of mirth, What doeth it? ^2

@@ -1,3 +1,13 @@
+---
+title: Exodus_22
+description: 
+published: true
+date: 2022-02-23T04:38:29.898Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:28.055Z
+---
+
  Book:: [[Exodus]]
  1. If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep. ^1
  2. If a thief be found breaking up, and be smitten that he die, there shall no blood be shed for him. ^2

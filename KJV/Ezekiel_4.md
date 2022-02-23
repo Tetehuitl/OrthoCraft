@@ -1,3 +1,13 @@
+---
+title: Ezekiel_4
+description: 
+published: true
+date: 2022-02-23T04:41:14.697Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:12.886Z
+---
+
  Book:: [[Ezekiel]]
  1. Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem: ^1
  2. And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set battering rams against it round about. ^2

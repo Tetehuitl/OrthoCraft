@@ -1,3 +1,13 @@
+---
+title: 699-november-20
+description: 
+published: true
+date: 2022-02-23T05:35:12.515Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:35:10.644Z
+---
+
 
 **1. THE VENERABLE GREGORY OF DECAPOLIS**
 

@@ -1,3 +1,13 @@
+---
+title: Psalm_67
+description: 
+published: true
+date: 2022-02-23T05:13:44.148Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:42.404Z
+---
+
  Book:: [[Psalm]]
  1. God be merciful unto us, and bless us; and cause his face to shine upon us; Selah. ^1
  2. That thy way may be known upon earth, thy saving health among all nations. ^2

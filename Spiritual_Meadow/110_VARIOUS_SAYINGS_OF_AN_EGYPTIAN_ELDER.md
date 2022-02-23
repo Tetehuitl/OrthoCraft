@@ -1,3 +1,13 @@
+---
+title: 110_VARIOUS_SAYINGS_OF_AN_EGYPTIAN_ELDER
+description: 
+published: true
+date: 2022-02-23T05:38:01.546Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:37:59.798Z
+---
+
 [[Spiritual Meadow]]
  
 I took my lord Sophronios and we went in search of a’particularly distinguished elder, an Egyptian, at the lavra which is located eighteen miles from Alexandria. I said to the elder: ‘Abba, say something to us, sir, about the way in which we ought to live with each other, for my lord the sophist here has a desire to renounce the world’, The elder said: ‘Well done indeed, my child, if you renounce the world and save your soul. Settle yourselves in a cell. Where does not matter: only that you live there in sobriety and recollection, praying unceasingly. And have a good hope in God, my child, that he will send you knowledge of himself to illuminate your minds.’  

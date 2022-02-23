@@ -1,3 +1,13 @@
+---
+title: 184_THE_LIFE_OF_ABBA_JOHN_THE_EUNUCH_AND_OF_A_YOUNG_MAN_WHO_RESOLVED_NEVER_TO_DRINK_AND_OF_ANOTHER_ELDER_GREATLY_GIVEN_TO_PRAYER
+description: 
+published: true
+date: 2022-02-23T05:41:59.577Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:41:57.783Z
+---
+
 [[Spiritual Meadow]]
  
 When we were at the ninth mile-post from Alexandria, we visited the monastery of Abba John the Eunuch for the benefit of our souls. There we found a very old man who had been at the monastery for about eighty years. He had more compassion than anybody we ever saw, not only for men, but also for animals. What did this ekder do? No other work but this: he would rise early and feed all the dogs at the lavra. He would give flour to the small ants, grain to the bigger ones. He would dampen biscuits and throw them up on the roof-tops for the birds to eat. Living like this, he left nothing to the monastery when he died, neither door nor window nor spy-hole not lamp nor table. In brief (not to say it all and make the story too long), he left nothing whatsoever of the world’s goods behind. Not even for one hour did he ever possess books, money or clothing. He gave everything to those in need, investing his entire concern in those things which were to come.  

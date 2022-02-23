@@ -1,3 +1,13 @@
+---
+title: Joshua_14
+description: 
+published: true
+date: 2022-02-23T04:56:09.557Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:07.772Z
+---
+
  Book:: [[Joshua]]
  1. And these are the countries which the children of Israel inherited in the land of Canaan, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, distributed for inheritance to them. ^1
  2. By lot was their inheritance, as the LORD commanded by the hand of Moses, for the nine tribes, and for the half tribe. ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_105
+description: 
+published: true
+date: 2022-02-23T05:08:43.228Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:41.386Z
+---
+
  Book:: [[Psalm]]
  1. O give thanks unto the LORD; call upon his name: make known his deeds among the people. ^1
  2. Sing unto him, sing psalms unto him: talk ye of all his wondrous works. ^2

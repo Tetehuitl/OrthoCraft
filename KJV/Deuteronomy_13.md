@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_13
+description: 
+published: true
+date: 2022-02-23T04:35:05.805Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:03.996Z
+---
+
  Book:: [[Deuteronomy]]
  1. If there arise among you a prophet, or a dreamer of dreams, and giveth thee a sign or a wonder, ^1
  2. And the sign or the wonder come to pass, whereof he spake unto thee, saying, Let us go after other gods, which thou hast not known, and let us serve them; ^2

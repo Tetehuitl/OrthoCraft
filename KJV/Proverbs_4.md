@@ -1,3 +1,13 @@
+---
+title: Proverbs_4
+description: 
+published: true
+date: 2022-02-23T05:08:02.962Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:01.161Z
+---
+
  Book:: [[Proverbs]]
  1. Hear, ye children, the instruction of a father, and attend to know understanding. ^1
  2. For I give you good doctrine, forsake ye not my law. ^2

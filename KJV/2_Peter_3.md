@@ -1,3 +1,13 @@
+---
+title: 2_Peter_3
+description: 
+published: true
+date: 2022-02-23T04:30:35.192Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:33.365Z
+---
+
  Book:: [[2 Peter]]
  1. This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance: ^1
  2. That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour: ^2

@@ -1,3 +1,13 @@
+---
+title: Genesis_34
+description: 
+published: true
+date: 2022-02-23T04:44:01.523Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:59.719Z
+---
+
  Book:: [[Genesis]]
  1. And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land. ^1
  2. And when Shechem the son of Hamor the Hivite, prince of the country, saw her, he took her, and lay with her, and defiled her. ^2

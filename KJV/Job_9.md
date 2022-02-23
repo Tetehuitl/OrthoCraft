@@ -1,3 +1,13 @@
+---
+title: Job_9
+description: 
+published: true
+date: 2022-02-23T04:54:24.839Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:23.031Z
+---
+
  Book:: [[Job]]
  1. Then Job answered and said, ^1
  2. I know it is so of a truth: but how should man be just with God? ^2

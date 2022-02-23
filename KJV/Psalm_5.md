@@ -1,3 +1,13 @@
+---
+title: Psalm_5
+description: 
+published: true
+date: 2022-02-23T05:12:50.244Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:48.437Z
+---
+
  Book:: [[Psalm]]
  1. Give ear to my words, O LORD, consider my meditation. ^1
  2. Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray. ^2

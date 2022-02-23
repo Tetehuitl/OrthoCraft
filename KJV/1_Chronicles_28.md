@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_28
+description: 
+published: true
+date: 2022-02-23T04:22:09.821Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:07.996Z
+---
+
  Book:: [[1 Chronicles]]
  1. And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, unto Jerusalem. ^1
  2. Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: As for me, I had in mine heart to build an house of rest for the ark of the covenant of the LORD, and for the footstool of our God, and had made ready for the building: ^2

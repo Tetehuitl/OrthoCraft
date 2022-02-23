@@ -1,3 +1,13 @@
+---
+title: Isaiah_60
+description: 
+published: true
+date: 2022-02-23T04:49:17.579Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:15.785Z
+---
+
  Book:: [[Isaiah]]
  1. Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee. ^1
  2. For, behold, the darkness shall cover the earth, and gross darkness the people: but the LORD shall arise upon thee, and his glory shall be seen upon thee. ^2

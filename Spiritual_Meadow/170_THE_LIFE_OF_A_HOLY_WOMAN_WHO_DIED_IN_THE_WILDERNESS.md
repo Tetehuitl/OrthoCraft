@@ -1,3 +1,13 @@
+---
+title: 170_THE_LIFE_OF_A_HOLY_WOMAN_WHO_DIED_IN_THE_WILDERNESS
+description: 
+published: true
+date: 2022-02-23T05:41:15.023Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:41:13.252Z
+---
+
 [[Spiritual Meadow]]
  
 About twenty miles from Jerusalem there is a monastery called Sampson, from which two fathers went up to Sinai to pray. When they returned to the monastery, they told us:  

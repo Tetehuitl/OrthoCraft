@@ -1,3 +1,13 @@
+---
+title: 2_Corinthians_10
+description: 
+published: true
+date: 2022-02-23T04:28:39.303Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:37.474Z
+---
+
  Book:: [[2 Corinthians]]
  1. Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you: ^1
  2. But I beseech you, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh. ^2

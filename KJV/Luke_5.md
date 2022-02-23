@@ -1,3 +1,13 @@
+---
+title: Luke_5
+description: 
+published: true
+date: 2022-02-23T05:00:41.070Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:39.256Z
+---
+
  Book:: [[Luke]]
  1. And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret, ^1
  2. And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing their nets. ^2

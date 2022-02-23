@@ -1,3 +1,13 @@
+---
+title: Psalm_20
+description: 
+published: true
+date: 2022-02-23T05:11:19.920Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:18.196Z
+---
+
  Book:: [[Psalm]]
  1. The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee; ^1
  2. Send thee help from the sanctuary, and strengthen thee out of Zion; ^2

@@ -1,3 +1,13 @@
+---
+title: Luke_18
+description: 
+published: true
+date: 2022-02-23T05:00:12.290Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:10.292Z
+---
+
  Book:: [[Luke]]
  1. And he spake a parable unto them to this end, that men ought always to pray, and not to faint; ^1
  2. Saying, There was in a city a judge, which feared not God, neither regarded man: ^2

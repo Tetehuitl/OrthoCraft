@@ -1,3 +1,13 @@
+---
+title: Ezekiel_23
+description: 
+published: true
+date: 2022-02-23T04:40:25.498Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:23.648Z
+---
+
  Book:: [[Ezekiel]]
  1. The word of the LORD came again unto me, saying, ^1
  2. Son of man, there were two women, the daughters of one mother: ^2

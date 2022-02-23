@@ -1,3 +1,13 @@
+---
+title: Isaiah_42
+description: 
+published: true
+date: 2022-02-23T04:48:22.483Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:20.686Z
+---
+
  Book:: [[Isaiah]]
  1. Behold my servant, whom I uphold; mine elect, in whom my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles. ^1
  2. He shall not cry, nor lift up, nor cause his voice to be heard in the street. ^2

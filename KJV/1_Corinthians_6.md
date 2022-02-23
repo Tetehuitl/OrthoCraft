@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_6
+description: 
+published: true
+date: 2022-02-23T04:23:08.458Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:06.689Z
+---
+
  Book:: [[1 Corinthians]]
  1. Dare any of you, having a matter against another, go to law before the unjust, and not before the saints? ^1
  2. Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters? ^2

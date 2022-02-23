@@ -1,3 +1,13 @@
+---
+title: 1_Kings_12
+description: 
+published: true
+date: 2022-02-23T04:23:46.563Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:44.708Z
+---
+
  Book:: [[1 Kings]]
  1. And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king. ^1
  2. And it came to pass, when Jeroboam the son of Nebat, who was yet in Egypt, heard of it, (for he was fled from the presence of king Solomon, and Jeroboam dwelt in Egypt;) ^2

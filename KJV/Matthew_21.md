@@ -1,3 +1,13 @@
+---
+title: Matthew_21
+description: 
+published: true
+date: 2022-02-23T05:02:35.898Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:34.036Z
+---
+
  Book:: [[Matthew]]
  1. And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples, ^1
  2. Saying unto them, Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose them, and bring them unto me. ^2

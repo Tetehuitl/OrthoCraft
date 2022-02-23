@@ -1,3 +1,13 @@
+---
+title: Romans_9
+description: 
+published: true
+date: 2022-02-23T05:17:17.371Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:15.572Z
+---
+
  Book:: [[Romans]]
  1. I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost, ^1
  2. That I have great heaviness and continual sorrow in my heart. ^2

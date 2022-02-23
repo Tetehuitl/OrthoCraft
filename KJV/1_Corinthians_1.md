@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_1
+description: 
+published: true
+date: 2022-02-23T04:22:36.686Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:34.862Z
+---
+
  Book:: [[1 Corinthians]]
  1. Paul called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother, ^1
  2. Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both their's and our's: ^2

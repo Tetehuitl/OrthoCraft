@@ -1,3 +1,13 @@
+---
+title: Revelation_8
+description: 
+published: true
+date: 2022-02-23T05:16:25.736Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:23.955Z
+---
+
  Book:: [[Revelation]]
  1. And when he had opened the seventh seal, there was silence in heaven about the space of half an hour. ^1
  2. And I saw the seven angels which stood before God; and to them were given seven trumpets. ^2

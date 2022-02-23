@@ -1,3 +1,13 @@
+---
+title: Daniel_7
+description: 
+published: true
+date: 2022-02-23T04:34:44.052Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:42.222Z
+---
+
  Book:: [[Daniel]]
  1. In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, and told the sum of the matters. ^1
  2. Daniel spake and said, I saw in my vision by night, and, behold, the four winds of the heaven strove upon the great sea. ^2

@@ -1,3 +1,13 @@
+---
+title: Mark_12
+description: 
+published: true
+date: 2022-02-23T05:01:19.385Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:17.511Z
+---
+
  Book:: [[Mark]]
  1. And he began to speak unto them by parables. A certain man planted a vineyard, and set an hedge about it, and digged a place for the winefat, and built a tower, and let it out to husbandmen, and went into a far country. ^1
  2. And at the season he sent to the husbandmen a servant, that he might receive from the husbandmen of the fruit of the vineyard. ^2

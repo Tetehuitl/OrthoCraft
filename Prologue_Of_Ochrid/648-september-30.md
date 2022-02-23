@@ -1,3 +1,13 @@
+---
+title: 648-september-30
+description: 
+published: true
+date: 2022-02-23T05:32:37.903Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:32:36.046Z
+---
+
 
 **1. SAINT GREGORY THE ENLIGHTENER, BISHOP OF ARMENIA**
 

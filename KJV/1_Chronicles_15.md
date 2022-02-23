@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_15
+description: 
+published: true
+date: 2022-02-23T04:21:32.899Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:31.079Z
+---
+
  Book:: [[1 Chronicles]]
  1. And David made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent. ^1
  2. Then David said, None ought to carry the ark of God but the Levites: for them hath the LORD chosen to carry the ark of God, and to minister unto him for ever. ^2

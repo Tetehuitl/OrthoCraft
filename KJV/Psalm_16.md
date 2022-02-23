@@ -1,3 +1,13 @@
+---
+title: Psalm_16
+description: 
+published: true
+date: 2022-02-23T05:11:05.778Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:04.041Z
+---
+
  Book:: [[Psalm]]
  1. Preserve me, O God: for in thee do I put my trust. ^1
  2. O my soul, thou hast said unto the LORD, Thou art my Lord: my goodness extendeth not to thee; ^2

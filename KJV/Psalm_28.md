@@ -1,3 +1,13 @@
+---
+title: Psalm_28
+description: 
+published: true
+date: 2022-02-23T05:11:42.516Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:40.726Z
+---
+
  Book:: [[Psalm]]
  1. Unto thee will I cry, O LORD my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit. ^1
  2. Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle. ^2

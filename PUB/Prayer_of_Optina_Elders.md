@@ -1,6 +1,11 @@
 ---
-publish: true
-tags: #needsEdit 
+title: Prayer_of_Optina_Elders
+description: 
+published: true
+date: 2022-02-23T05:20:20.757Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:20:19.029Z
 ---
 
 links: [[HUB]] [[Prayer]]

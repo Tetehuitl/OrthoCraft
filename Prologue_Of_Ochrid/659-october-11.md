@@ -1,3 +1,13 @@
+---
+title: 659-october-11
+description: 
+published: true
+date: 2022-02-23T05:33:11.223Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:09.357Z
+---
+
 
 **1. THE HOLY APOSTLE PHILIP**
 

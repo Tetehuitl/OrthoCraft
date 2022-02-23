@@ -1,3 +1,13 @@
+---
+title: Matthew_7
+description: 
+published: true
+date: 2022-02-23T05:03:10.005Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:03:08.198Z
+---
+
  Book:: [[Matthew]]
  1. Judge not, that ye be not judged. ^1
  2. For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again. ^2

@@ -1,3 +1,13 @@
+---
+title: Romans_8
+description: 
+published: true
+date: 2022-02-23T05:17:14.475Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:12.621Z
+---
+
  Book:: [[Romans]]
  1. There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit. ^1
  2. For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. ^2

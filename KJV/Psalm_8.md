@@ -1,3 +1,13 @@
+---
+title: Psalm_8
+description: 
+published: true
+date: 2022-02-23T05:14:24.002Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:22.248Z
+---
+
  Book:: [[Psalm]]
  1. O LORD, our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens. ^1
  2. Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger. ^2

@@ -1,3 +1,13 @@
+---
+title: Micah_6
+description: 
+published: true
+date: 2022-02-23T05:03:40.031Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:03:38.259Z
+---
+
  Book:: [[Micah]]
  1. Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice. ^1
  2. Hear ye, O mountains, the LORD's controversy, and ye strong foundations of the earth: for the LORD hath a controversy with his people, and he will plead with Israel. ^2

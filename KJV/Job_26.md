@@ -1,3 +1,13 @@
+---
+title: Job_26
+description: 
+published: true
+date: 2022-02-23T04:53:21.061Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:19.301Z
+---
+
  Book:: [[Job]]
  1. But Job answered and said, ^1
  2. How hast thou helped him that is without power? how savest thou the arm that hath no strength? ^2

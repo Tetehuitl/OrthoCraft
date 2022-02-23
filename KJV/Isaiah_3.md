@@ -1,3 +1,13 @@
+---
+title: Isaiah_3
+description: 
+published: true
+date: 2022-02-23T04:47:44.076Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:42.256Z
+---
+
  Book:: [[Isaiah]]
  1. For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water. ^1
  2. The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient, ^2

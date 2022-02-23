@@ -1,3 +1,13 @@
+---
+title: Leviticus_20
+description: 
+published: true
+date: 2022-02-23T04:59:01.566Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:59.750Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Again, thou shalt say to the children of Israel, Whosoever he be of the children of Israel, or of the strangers that sojourn in Israel, that giveth any of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones. ^2

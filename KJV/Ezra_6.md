@@ -1,3 +1,13 @@
+---
+title: Ezra_6
+description: 
+published: true
+date: 2022-02-23T04:42:14.401Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:12.594Z
+---
+
  Book:: [[Ezra]]
  1. Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon. ^1
  2. And there was found at Achmetha, in the palace that is in the province of the Medes, a roll, and therein was a record thus written: ^2

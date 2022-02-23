@@ -1,3 +1,13 @@
+---
+title: Jeremiah_3
+description: 
+published: true
+date: 2022-02-23T04:51:04.905Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:03.073Z
+---
+
  Book:: [[Jeremiah]]
  1. They say, If a man put away his wife, and she go from him, and become another man's, shall he return unto her again? shall not that land be greatly polluted? but thou hast played the harlot with many lovers; yet return again to me, saith the LORD. ^1
  2. Lift up thine eyes unto the high places, and see where thou hast not been lien with. In the ways hast thou sat for them, as the Arabian in the wilderness; and thou hast polluted the land with thy whoredoms and with thy wickedness. ^2

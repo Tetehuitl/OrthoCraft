@@ -1,3 +1,13 @@
+---
+title: Psalm_24
+description: 
+published: true
+date: 2022-02-23T05:11:31.197Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:29.418Z
+---
+
  Book:: [[Psalm]]
  1. The earth is the LORD's, and the fulness thereof; the world, and they that dwell therein. ^1
  2. For he hath founded it upon the seas, and established it upon the floods. ^2

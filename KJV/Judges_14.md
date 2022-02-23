@@ -1,3 +1,13 @@
+---
+title: Judges_14
+description: 
+published: true
+date: 2022-02-23T04:57:24.031Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:22.226Z
+---
+
  Book:: [[Judges]]
  1. And Samson went down to Timnath, and saw a woman in Timnath of the daughters of the Philistines. ^1
  2. And he came up, and told his father and his mother, and said, I have seen a woman in Timnath of the daughters of the Philistines: now therefore get her for me to wife. ^2

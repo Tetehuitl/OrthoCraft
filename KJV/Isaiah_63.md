@@ -1,3 +1,13 @@
+---
+title: Isaiah_63
+description: 
+published: true
+date: 2022-02-23T04:49:25.789Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:24.014Z
+---
+
  Book:: [[Isaiah]]
  1. Who is this that cometh from Edom, with dyed garments from Bozrah? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save. ^1
  2. Wherefore art thou red in thine apparel, and thy garments like him that treadeth in the winefat? ^2

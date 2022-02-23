@@ -1,5 +1,11 @@
 ---
-tags: #needsEdit 
+title: Canon_to_the_Holy_Guardian_Angel
+description: 
+published: true
+date: 2022-02-23T05:20:06.179Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:20:04.316Z
 ---
 
 links: [[HUB]] [[Prayer]]

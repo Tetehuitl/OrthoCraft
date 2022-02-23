@@ -1,3 +1,13 @@
+---
+title: Numbers_28
+description: 
+published: true
+date: 2022-02-23T05:05:38.295Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:36.452Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Command the children of Israel, and say unto them, My offering, and my bread for my sacrifices made by fire, for a sweet savor unto me, shall ye observe to offer unto me in their due season. ^2

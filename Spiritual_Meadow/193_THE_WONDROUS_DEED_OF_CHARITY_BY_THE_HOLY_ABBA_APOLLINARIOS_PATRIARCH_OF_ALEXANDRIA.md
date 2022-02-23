@@ -1,3 +1,13 @@
+---
+title: 193_THE_WONDROUS_DEED_OF_CHARITY_BY_THE_HOLY_ABBA_APOLLINARIOS_PATRIARCH_OF_ALEXANDRIA
+description: 
+published: true
+date: 2022-02-23T05:42:29.580Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:42:27.767Z
+---
+
 [[Spiritual Meadow]]
  
 FOR A RICH YOUNG MAN REDUCED TO PENURY  

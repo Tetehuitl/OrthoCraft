@@ -1,3 +1,13 @@
+---
+title: 634-september-16
+description: 
+published: true
+date: 2022-02-23T05:31:55.214Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:31:53.304Z
+---
+
 
 **1. THE HOLY GREAT-MARTYR EUPHEMIA**
 

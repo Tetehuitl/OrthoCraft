@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_16
+description: 
+published: true
+date: 2022-02-23T04:27:16.158Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:14.362Z
+---
+
  Book:: [[2 Chronicles]]
  1. In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah. ^1
  2. Then Asa brought out silver and gold out of the treasures of the house of the LORD and of the king's house, and sent to Benhadad king of Syria, that dwelt at Damascus, saying, ^2

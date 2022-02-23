@@ -1,3 +1,13 @@
+---
+title: John_4
+description: 
+published: true
+date: 2022-02-23T04:55:23.050Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:21.217Z
+---
+
  Book:: [[John]]
  1. When therefore the LORD knew how the Pharisees had heard that Jesus made and baptized more disciples than John, ^1
  2. (Though Jesus himself baptized not, but his disciples,) ^2

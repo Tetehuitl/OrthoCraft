@@ -1,3 +1,13 @@
+---
+title: Lamentations_5
+description: 
+published: true
+date: 2022-02-23T04:58:22.283Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:20.523Z
+---
+
  Book:: [[Lamentations]]
  1. Remember, O LORD, what is come upon us: consider, and behold our reproach. ^1
  2. Our inheritance is turned to strangers, our houses to aliens. ^2

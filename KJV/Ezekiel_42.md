@@ -1,3 +1,13 @@
+---
+title: Ezekiel_42
+description: 
+published: true
+date: 2022-02-23T04:41:22.898Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:21.070Z
+---
+
  Book:: [[Ezekiel]]
  1. Then he brought me forth into the utter court, the way toward the north: and he brought me into the chamber that was over against the separate place, and which was before the building toward the north. ^1
  2. Before the length of an hundred cubits was the north door, and the breadth was fifty cubits. ^2

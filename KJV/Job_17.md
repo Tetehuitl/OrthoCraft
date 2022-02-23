@@ -1,3 +1,13 @@
+---
+title: Job_17
+description: 
+published: true
+date: 2022-02-23T04:52:53.483Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:51.695Z
+---
+
  Book:: [[Job]]
  1. My breath is corrupt, my days are extinct, the graves are ready for me. ^1
  2. Are there not mockers with me? and doth not mine eye continue in their provocation? ^2

@@ -1,3 +1,13 @@
+---
+title: 2_Kings_22
+description: 
+published: true
+date: 2022-02-23T04:29:57.452Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:55.666Z
+---
+
  Book:: [[2 Kings]]
  1. Josiah was eight years old when he began to reign, and he reigned thirty and one years in Jerusalem. And his mother's name was Jedidah, the daughter of Adaiah of Boscath. ^1
  2. And he did that which was right in the sight of the LORD, and walked in all the way of David his father, and turned not aside to the right hand or to the left. ^2

@@ -1,3 +1,13 @@
+---
+title: John_10
+description: 
+published: true
+date: 2022-02-23T04:54:43.322Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:41.485Z
+---
+
  Book:: [[John]]
  1. Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber. ^1
  2. But he that entereth in by the door is the shepherd of the sheep. ^2

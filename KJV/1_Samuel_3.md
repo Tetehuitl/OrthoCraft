@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_3
+description: 
+published: true
+date: 2022-02-23T04:25:55.425Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:53.608Z
+---
+
  Book:: [[1 Samuel]]
  1. And the child Samuel ministered unto the LORD before Eli. And the word of the LORD was precious in those days; there was no open vision. ^1
  2. And it came to pass at that time, when Eli was laid down in his place, and his eyes began to wax dim, that he could not see; ^2

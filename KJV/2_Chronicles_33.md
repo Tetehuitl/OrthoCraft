@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_33
+description: 
+published: true
+date: 2022-02-23T04:28:07.011Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:05.159Z
+---
+
  Book:: [[2 Chronicles]]
  1. Manasseh was twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem: ^1
  2. But did that which was evil in the sight of the LORD, like unto the abominations of the heathen, whom the LORD had cast out before the children of Israel. ^2

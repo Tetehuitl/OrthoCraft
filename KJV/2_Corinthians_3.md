@@ -1,3 +1,13 @@
+---
+title: 2_Corinthians_3
+description: 
+published: true
+date: 2022-02-23T04:28:52.566Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:50.759Z
+---
+
  Book:: [[2 Corinthians]]
  1. Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you? ^1
  2. Ye are our epistle written in our hearts, known and read of all men: ^2

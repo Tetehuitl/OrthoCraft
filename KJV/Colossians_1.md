@@ -1,3 +1,13 @@
+---
+title: Colossians_1
+description: 
+published: true
+date: 2022-02-23T04:34:06.708Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:04.906Z
+---
+
  Book:: [[Colossians]]
  1. Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother, ^1
  2. To the saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Jesus Christ. ^2

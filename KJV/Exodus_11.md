@@ -1,3 +1,13 @@
+---
+title: Exodus_11
+description: 
+published: true
+date: 2022-02-23T04:37:57.054Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:55.276Z
+---
+
  Book:: [[Exodus]]
  1. And the LORD said unto Moses, Yet will I bring one plague more upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let you go, he shall surely thrust you out hence altogether. ^1
  2. Speak now in the ears of the people, and let every man borrow of his neighbor, and every woman of her neighbor, jewels of silver and jewels of gold. ^2

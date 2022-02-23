@@ -1,3 +1,13 @@
+---
+title: Luke_16
+description: 
+published: true
+date: 2022-02-23T05:00:06.442Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:04.594Z
+---
+
  Book:: [[Luke]]
  1. And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods. ^1
  2. And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward. ^2

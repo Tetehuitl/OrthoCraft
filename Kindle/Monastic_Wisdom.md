@@ -1,3 +1,13 @@
+---
+title: Monastic_Wisdom
+description: 
+published: true
+date: 2022-02-23T05:19:17.447Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:19:15.495Z
+---
+
 # Monastic Wisdom
 
 * Author: [Elder Joseph Hesychast and Elder Ephraim](https://www.amazon.comundefined)

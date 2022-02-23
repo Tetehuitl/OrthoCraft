@@ -1,3 +1,13 @@
+---
+title: Micah_7
+description: 
+published: true
+date: 2022-02-23T05:03:42.844Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:03:41.058Z
+---
+
  Book:: [[Micah]]
  1. Woe is me! for I am as when they have gathered the summer fruits, as the grapegleanings of the vintage: there is no cluster to eat: my soul desired the firstripe fruit. ^1
  2. The good man is perished out of the earth: and there is none upright among men: they all lie in wait for blood; they hunt every man his brother with a net. ^2

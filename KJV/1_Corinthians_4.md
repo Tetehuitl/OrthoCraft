@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_4
+description: 
+published: true
+date: 2022-02-23T04:23:03.253Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:01.464Z
+---
+
  Book:: [[1 Corinthians]]
  1. Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. ^1
  2. Moreover it is required in stewards, that a man be found faithful. ^2

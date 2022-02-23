@@ -1,3 +1,13 @@
+---
+title: 154_THE_LIFE_OF_THEODORE_WHO_LIVED_IN_THE_WORLD_A_MAN_OF_GOD
+description: 
+published: true
+date: 2022-02-23T05:40:22.211Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:40:20.480Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Jordanes the grazer said:  

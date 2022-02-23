@@ -1,3 +1,13 @@
+---
+title: 218_How_ABBA_SERGIOS_PACIFIED_A_CURSING_FARMER_BY_PATIENCE
+description: 
+published: true
+date: 2022-02-23T05:43:52.681Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:43:50.912Z
+---
+
 [[Spiritual Meadow]]
  
 The higoumen of the monastery of Abba Constantine, Abba Sergios, told us:  

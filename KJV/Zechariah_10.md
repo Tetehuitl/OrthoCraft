@@ -1,3 +1,13 @@
+---
+title: Zechariah_10
+description: 
+published: true
+date: 2022-02-23T05:18:15.150Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:13.344Z
+---
+
  Book:: [[Zechariah]]
  1. Ask ye of the LORD rain in the time of the latter rain; so the LORD shall make bright clouds, and give them showers of rain, to every one grass in the field. ^1
  2. For the idols have spoken vanity, and the diviners have seen a lie, and have told false dreams; they comfort in vain: therefore they went their way as a flock, they were troubled, because there was no shepherd. ^2

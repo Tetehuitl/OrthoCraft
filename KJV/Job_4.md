@@ -1,3 +1,13 @@
+---
+title: Job_4
+description: 
+published: true
+date: 2022-02-23T04:54:02.660Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:00.883Z
+---
+
  Book:: [[Job]]
  1. Then Eliphaz the Temanite answered and said, ^1
  2. If we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking? ^2

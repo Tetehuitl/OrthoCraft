@@ -1,3 +1,13 @@
+---
+title: Isaiah_57
+description: 
+published: true
+date: 2022-02-23T04:49:06.588Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:04.820Z
+---
+
  Book:: [[Isaiah]]
  1. The righteous perisheth, and no man layeth it to heart: and merciful men are taken away, none considering that the righteous is taken away from the evil to come. ^1
  2. He shall enter into peace: they shall rest in their beds, each one walking in his uprightness. ^2

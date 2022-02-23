@@ -1,3 +1,13 @@
+---
+title: Jeremiah_27
+description: 
+published: true
+date: 2022-02-23T04:50:56.549Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:54.730Z
+---
+
  Book:: [[Jeremiah]]
  1. In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word unto Jeremiah from the LORD, saying, ^1
  2. Thus saith the LORD to me; Make thee bonds and yokes, and put them upon thy neck, ^2

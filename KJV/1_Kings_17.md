@@ -1,3 +1,13 @@
+---
+title: 1_Kings_17
+description: 
+published: true
+date: 2022-02-23T04:23:59.918Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:58.127Z
+---
+
  Book:: [[1 Kings]]
  1. And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word. ^1
  2. And the word of the LORD came unto him, saying, ^2

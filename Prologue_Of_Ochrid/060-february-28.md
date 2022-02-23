@@ -1,3 +1,13 @@
+---
+title: 060-february-28
+description: 
+published: true
+date: 2022-02-23T05:23:27.823Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:23:25.964Z
+---
+
 
 **1. THE HIEROMARTYR [PRIESTLY-MARTYR] PROTERIUS**
 

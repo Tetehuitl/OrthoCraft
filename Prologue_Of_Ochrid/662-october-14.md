@@ -1,3 +1,13 @@
+---
+title: 662-october-14
+description: 
+published: true
+date: 2022-02-23T05:33:20.409Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:18.484Z
+---
+
 
 **1. THE VENERABLE PARASCEVA [PETKA]**
 

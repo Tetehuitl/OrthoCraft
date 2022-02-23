@@ -1,3 +1,13 @@
+---
+title: The_Complete_Ante-Nicene_&_Nicene_and_Post-Nicene_Church_Fathers_Collection
+description: 
+published: true
+date: 2022-02-23T05:19:29.123Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:19:27.206Z
+---
+
 # The Complete Ante-Nicene & Nicene and Post-Nicene Church Fathers Collection
 
 * Author: [The Church Fathers and Catholic Way Publishing](https://www.amazon.com/The-Church-Fathers/e/B00N9D72CY/ref=dp_byline_cont_ebooks_1)

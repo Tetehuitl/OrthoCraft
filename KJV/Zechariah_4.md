@@ -1,3 +1,13 @@
+---
+title: Zechariah_4
+description: 
+published: true
+date: 2022-02-23T05:18:35.199Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:33.428Z
+---
+
  Book:: [[Zechariah]]
  1. And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep. ^1
  2. And said unto me, What seest thou? And I said, I have looked, and behold a candlestick all of gold, with a bowl upon the top of it, and his seven lamps thereon, and seven pipes to the seven lamps, which are upon the top thereof: ^2

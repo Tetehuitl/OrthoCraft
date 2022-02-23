@@ -1,3 +1,13 @@
+---
+title: Matthew_27
+description: 
+published: true
+date: 2022-02-23T05:02:53.049Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:51.200Z
+---
+
  Book:: [[Matthew]]
  1. When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death: ^1
  2. And when they had bound him, they led him away, and delivered him to Pontius Pilate the governor. ^2

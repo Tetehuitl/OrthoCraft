@@ -1,3 +1,13 @@
+---
+title: Jeremiah_36
+description: 
+published: true
+date: 2022-02-23T04:51:24.542Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:22.711Z
+---
+
  Book:: [[Jeremiah]]
  1. And it came to pass in the fourth year of Jehoiakim the son of Josiah king of Judah, that this word came unto Jeremiah from the LORD, saying, ^1
  2. Take thee a roll of a book, and write therein all the words that I have spoken unto thee against Israel, and against Judah, and against all the nations, from the day I spake unto thee, from the days of Josiah, even unto this day. ^2

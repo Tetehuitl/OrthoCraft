@@ -1,3 +1,13 @@
+---
+title: Psalm_111
+description: 
+published: true
+date: 2022-02-23T05:09:02.942Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:01.225Z
+---
+
  Book:: [[Psalm]]
  1. Praise ye the LORD. I will praise the LORD with my whole heart, in the assembly of the upright, and in the congregation. ^1
  2. The works of the LORD are great, sought out of all them that have pleasure therein. ^2

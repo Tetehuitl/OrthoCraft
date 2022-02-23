@@ -1,3 +1,13 @@
+---
+title: 174_THE_DEED_OF_A_RELIGIOUS_SHIP-MASTER_WHO_PRAYED_TO_THE_LORD_FOR_RAIN
+description: 
+published: true
+date: 2022-02-23T05:41:26.832Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:41:25.093Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Gregory the anchorite told us:  

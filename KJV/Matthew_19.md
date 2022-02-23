@@ -1,3 +1,13 @@
+---
+title: Matthew_19
+description: 
+published: true
+date: 2022-02-23T05:02:27.463Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:25.656Z
+---
+
  Book:: [[Matthew]]
  1. And it came to pass, that when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan; ^1
  2. And great multitudes followed him; and he healed them there. ^2

@@ -1,3 +1,13 @@
+---
+title: Hosea_11
+description: 
+published: true
+date: 2022-02-23T04:46:08.125Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:06.302Z
+---
+
  Book:: [[Hosea]]
  1. When Israel was a child, then I loved him, and called my son out of Egypt. ^1
  2. As they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images. ^2

@@ -1,3 +1,13 @@
+---
+title: Acts_27
+description: 
+published: true
+date: 2022-02-23T04:33:12.054Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:10.231Z
+---
+
  Book:: [[Acts]]
  1. And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto one named Julius, a centurion of Augustus' band. ^1
  2. And entering into a ship of Adramyttium, we launched, meaning to sail by the coasts of Asia; one Aristarchus, a Macedonian of Thessalonica, being with us. ^2

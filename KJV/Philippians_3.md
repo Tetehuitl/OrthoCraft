@@ -1,3 +1,13 @@
+---
+title: Philippians_3
+description: 
+published: true
+date: 2022-02-23T05:06:43.738Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:41.939Z
+---
+
  Book:: [[Philippians]]
  1. Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not grievous, but for you it is safe. ^1
  2. Beware of dogs, beware of evil workers, beware of the concision. ^2

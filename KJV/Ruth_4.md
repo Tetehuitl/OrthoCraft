@@ -1,3 +1,13 @@
+---
+title: Ruth_4
+description: 
+published: true
+date: 2022-02-23T05:17:30.932Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:29.130Z
+---
+
  Book:: [[Ruth]]
  1. Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down. ^1
  2. And he took ten men of the elders of the city, and said, Sit ye down here. And they sat down. ^2

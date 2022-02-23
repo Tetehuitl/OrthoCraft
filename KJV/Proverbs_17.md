@@ -1,3 +1,13 @@
+---
+title: Proverbs_17
+description: 
+published: true
+date: 2022-02-23T05:07:14.727Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:12.914Z
+---
+
  Book:: [[Proverbs]]
  1. Better is a dry morsel, and quietness therewith, than an house full of sacrifices with strife. ^1
  2. A wise servant shall have rule over a son that causeth shame, and shall have part of the inheritance among the brethren. ^2

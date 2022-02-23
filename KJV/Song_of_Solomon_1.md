@@ -1,3 +1,13 @@
+---
+title: Song_of_Solomon_1
+description: 
+published: true
+date: 2022-02-23T05:17:36.804Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:34.998Z
+---
+
  Book:: [[Song of Solomon]]
  1. The song of songs, which is Solomon's. ^1
  2. Let him kiss me with the kisses of his mouth: for thy love is better than wine. ^2

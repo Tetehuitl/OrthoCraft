@@ -1,3 +1,13 @@
+---
+title: Ezra_3
+description: 
+published: true
+date: 2022-02-23T04:42:06.120Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:04.323Z
+---
+
  Book:: [[Ezra]]
  1. And when the seventh month was come, and the children of Israel were in the cities, the people gathered themselves together as one man to Jerusalem. ^1
  2. Then stood up Jeshua the son of Jozadak, and his brethren the priests, and Zerubbabel the son of Shealtiel, and his brethren, and builded the altar of the God of Israel, to offer burnt offerings thereon, as it is written in the law of Moses the man of God. ^2

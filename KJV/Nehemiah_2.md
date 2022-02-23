@@ -1,3 +1,13 @@
+---
+title: Nehemiah_2
+description: 
+published: true
+date: 2022-02-23T05:04:12.368Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:10.561Z
+---
+
  Book:: [[Nehemiah]]
  1. And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it unto the king. Now I had not been beforetime sad in his presence. ^1
  2. Wherefore the king said unto me, Why is thy countenance sad, seeing thou art not sick? this is nothing else but sorrow of heart. Then I was very sore afraid, ^2

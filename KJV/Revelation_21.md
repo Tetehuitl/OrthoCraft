@@ -1,3 +1,13 @@
+---
+title: Revelation_21
+description: 
+published: true
+date: 2022-02-23T05:16:05.753Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:03.913Z
+---
+
  Book:: [[Revelation]]
  1. And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea. ^1
  2. And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband. ^2

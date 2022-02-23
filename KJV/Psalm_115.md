@@ -1,3 +1,13 @@
+---
+title: Psalm_115
+description: 
+published: true
+date: 2022-02-23T05:09:14.083Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:12.297Z
+---
+
  Book:: [[Psalm]]
  1. Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, and for thy truth's sake. ^1
  2. Wherefore should the heathen say, Where is now their God? ^2

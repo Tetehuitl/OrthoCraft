@@ -1,3 +1,13 @@
+---
+title: Nehemiah_1
+description: 
+published: true
+date: 2022-02-23T05:03:58.210Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:03:56.415Z
+---
+
  Book:: [[Nehemiah]]
  1. The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace, ^1
  2. That Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem. ^2

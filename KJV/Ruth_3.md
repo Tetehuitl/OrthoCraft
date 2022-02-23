@@ -1,3 +1,13 @@
+---
+title: Ruth_3
+description: 
+published: true
+date: 2022-02-23T05:17:28.032Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:26.236Z
+---
+
  Book:: [[Ruth]]
  1. Then Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee? ^1
  2. And now is not Boaz of our kindred, with whose maidens thou wast? Behold, he winnoweth barley to night in the threshingfloor. ^2

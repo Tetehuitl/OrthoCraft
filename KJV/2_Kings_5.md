@@ -1,3 +1,13 @@
+---
+title: 2_Kings_5
+description: 
+published: true
+date: 2022-02-23T04:30:13.666Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:11.834Z
+---
+
  Book:: [[2 Kings]]
  1. Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honorable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valor, but he was a leper. ^1
  2. And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman's wife. ^2

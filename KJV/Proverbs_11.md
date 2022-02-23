@@ -1,3 +1,13 @@
+---
+title: Proverbs_11
+description: 
+published: true
+date: 2022-02-23T05:06:57.755Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:55.932Z
+---
+
  Book:: [[Proverbs]]
  1. A false balance is abomination to the LORD: but a just weight is his delight. ^1
  2. When pride cometh, then cometh shame: but with the lowly is wisdom. ^2

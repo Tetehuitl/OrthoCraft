@@ -1,3 +1,13 @@
+---
+title: Jeremiah_35
+description: 
+published: true
+date: 2022-02-23T04:51:21.779Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:19.939Z
+---
+
  Book:: [[Jeremiah]]
  1. The word which came unto Jeremiah from the LORD in the days of Jehoiakim the son of Josiah king of Judah, saying, ^1
  2. Go unto the house of the Rechabites, and speak unto them, and bring them into the house of the LORD, into one of the chambers, and give them wine to drink. ^2

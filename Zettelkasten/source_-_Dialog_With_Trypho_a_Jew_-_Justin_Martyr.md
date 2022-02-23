@@ -1,3 +1,13 @@
+---
+title: source_-_Dialog_With_Trypho_a_Jew_-_Justin_Martyr
+description: 
+published: true
+date: 2022-02-23T05:49:40.199Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:49:38.394Z
+---
+
 [[Source]]
 
 - [[Literature Notes]]

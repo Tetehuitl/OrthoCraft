@@ -1,3 +1,13 @@
+---
+title: Ezra_9
+description: 
+published: true
+date: 2022-02-23T04:42:22.582Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:20.781Z
+---
+
  Book:: [[Ezra]]
  1. Now when these things were done, the princes came to me, saying, The people of Israel, and the priests, and the Levites, have not separated themselves from the people of the lands, doing according to their abominations, even of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites. ^1
  2. For they have taken of their daughters for themselves, and for their sons: so that the holy seed have mingled themselves with the people of those lands: yea, the hand of the princes and rulers hath been chief in this trespass. ^2

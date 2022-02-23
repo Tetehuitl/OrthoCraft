@@ -1,3 +1,13 @@
+---
+title: Psalm_42
+description: 
+published: true
+date: 2022-02-23T05:12:27.683Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:25.923Z
+---
+
  Book:: [[Psalm]]
  1. As the hart panteth after the water brooks, so panteth my soul after thee, O God. ^1
  2. My soul thirsteth for God, for the living God: when shall I come and appear before God? ^2

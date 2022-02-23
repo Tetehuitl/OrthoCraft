@@ -1,3 +1,13 @@
+---
+title: Genesis_40
+description: 
+published: true
+date: 2022-02-23T04:44:20.730Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:18.916Z
+---
+
  Book:: [[Genesis]]
  1. And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt. ^1
  2. And Pharaoh was wroth against two of his officers, against the chief of the butlers, and against the chief of the bakers. ^2

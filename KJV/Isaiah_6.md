@@ -1,3 +1,13 @@
+---
+title: Isaiah_6
+description: 
+published: true
+date: 2022-02-23T04:49:14.841Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:13.043Z
+---
+
  Book:: [[Isaiah]]
  1. In the year that king Uzziah died I saw also the LORD sitting upon a throne, high and lifted up, and his train filled the temple. ^1
  2. Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly. ^2

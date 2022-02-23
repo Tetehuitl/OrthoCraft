@@ -1,3 +1,13 @@
+---
+title: 2_Kings_12
+description: 
+published: true
+date: 2022-02-23T04:29:27.779Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:25.977Z
+---
+
  Book:: [[2 Kings]]
  1. In the seventh year of Jehu Jehoash began to reign; and forty years reigned he in Jerusalem. And his mother's name was Zibiah of Beersheba. ^1
  2. And Jehoash did that which was right in the sight of the LORD all his days wherein Jehoiada the priest instructed him. ^2

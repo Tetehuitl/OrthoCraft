@@ -1,3 +1,13 @@
+---
+title: Genesis_50
+description: 
+published: true
+date: 2022-02-23T04:44:51.442Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:49.623Z
+---
+
  Book:: [[Genesis]]
  1. And Joseph fell upon his father's face, and wept upon him, and kissed him. ^1
  2. And Joseph commanded his servants the physicians to embalm his father: and the physicians embalmed Israel. ^2

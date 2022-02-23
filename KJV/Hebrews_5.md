@@ -1,3 +1,13 @@
+---
+title: Hebrews_5
+description: 
+published: true
+date: 2022-02-23T04:45:46.823Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:45:45.067Z
+---
+
  Book:: [[Hebrews]]
  1. For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins: ^1
  2. Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity. ^2

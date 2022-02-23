@@ -1,3 +1,13 @@
+---
+title: Proverbs_1
+description: 
+published: true
+date: 2022-02-23T05:06:52.034Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:50.207Z
+---
+
  Book:: [[Proverbs]]
  1. The proverbs of Solomon the son of David, king of Israel; ^1
  2. To know wisdom and instruction; to perceive the words of understanding; ^2

@@ -1,3 +1,13 @@
+---
+title: 185_THE_LIFE_OF_A_FAITHFUL_WOMAN_WHO_WITH_WONDROUS_WISDOM_CONVERTED_HER_GENTILE_HUSBAND_TO_THE_FAITH
+description: 
+published: true
+date: 2022-02-23T05:42:02.563Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:42:00.799Z
+---
+
 [[Spiritual Meadow]]
  
 On the island of Samos, Mary, the friend of both God and the poor, the mother of Master Paul, the military official attached to the court kandidatos, told us that there was a christian woman in Nisbis whose husband was a pagan Hellén. They possessed fifty :méiarisia. One day, the husband said to his wife: ‘Let us lend out that moncy and get some advantage from it, for in drawing on it a little at a time, we are going to spend it all’. The wife answered: ‘If you insist on lending this moncy, come: lend it to the God of the Christians’. He said to her: ‘Well, where is this God of the Chris- tians, so we can lend it to him”? She said: ‘I will show you. Not only shal] you not lose your money, but it shall even earn interest for you and the capital shall be doubled.’ He said to her: ‘Come on  

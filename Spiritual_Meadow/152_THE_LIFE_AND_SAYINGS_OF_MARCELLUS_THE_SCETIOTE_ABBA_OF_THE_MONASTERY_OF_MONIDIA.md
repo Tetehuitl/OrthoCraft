@@ -1,3 +1,13 @@
+---
+title: 152_THE_LIFE_AND_SAYINGS_OF_MARCELLUS_THE_SCETIOTE_ABBA_OF_THE_MONASTERY_OF_MONIDIA
+description: 
+published: true
+date: 2022-02-23T05:40:16.341Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:40:14.541Z
+---
+
 [[Spiritual Meadow]]
  
 At the Lavra of Monidia we encountered Abba Marcellus the Scetiote. Wishing to edify us somewhat, he told us this:  

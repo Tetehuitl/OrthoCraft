@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_10
+description: 
+published: true
+date: 2022-02-23T04:22:39.304Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:37.492Z
+---
+
  Book:: [[1 Corinthians]]
  1. Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea; ^1
  2. And were all baptized unto Moses in the cloud and in the sea; ^2

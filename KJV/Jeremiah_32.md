@@ -1,3 +1,13 @@
+---
+title: Jeremiah_32
+description: 
+published: true
+date: 2022-02-23T04:51:13.388Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:11.512Z
+---
+
  Book:: [[Jeremiah]]
  1. The word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadrezzar. ^1
  2. For then the king of Babylon's army besieged Jerusalem: and Jeremiah the prophet was shut up in the court of the prison, which was in the king of Judah's house. ^2

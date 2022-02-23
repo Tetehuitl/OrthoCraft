@@ -1,3 +1,13 @@
+---
+title: Psalm_120
+description: 
+published: true
+date: 2022-02-23T05:09:31.075Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:29.309Z
+---
+
  Book:: [[Psalm]]
  1. In my distress I cried unto the LORD, and he heard me. ^1
  2. Deliver my soul, O LORD, from lying lips, and from a deceitful tongue. ^2

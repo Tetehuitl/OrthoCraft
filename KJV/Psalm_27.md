@@ -1,3 +1,13 @@
+---
+title: Psalm_27
+description: 
+published: true
+date: 2022-02-23T05:11:39.667Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:37.904Z
+---
+
  Book:: [[Psalm]]
  1. The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid? ^1
  2. When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell. ^2

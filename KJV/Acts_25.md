@@ -1,3 +1,13 @@
+---
+title: Acts_25
+description: 
+published: true
+date: 2022-02-23T04:33:06.646Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:04.842Z
+---
+
  Book:: [[Acts]]
  1. Now when Festus was come into the province, after three days he ascended from Caesarea to Jerusalem. ^1
  2. Then the high priest and the chief of the Jews informed him against Paul, and besought him, ^2

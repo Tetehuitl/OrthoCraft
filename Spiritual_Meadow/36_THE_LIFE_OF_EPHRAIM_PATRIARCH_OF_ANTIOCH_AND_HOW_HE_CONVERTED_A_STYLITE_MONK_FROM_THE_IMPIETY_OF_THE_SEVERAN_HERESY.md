@@ -1,3 +1,13 @@
+---
+title: 36_THE_LIFE_OF_EPHRAIM_PATRIARCH_OF_ANTIOCH_AND_HOW_HE_CONVERTED_A_STYLITE_MONK_FROM_THE_IMPIETY_OF_THE_SEVERAN_HERESY
+description: 
+published: true
+date: 2022-02-23T05:44:45.922Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:44:44.172Z
+---
+
 [[Spiritual Meadow]]
  
 One of the fathers told us that the blessed Ephraim, Patriarch of Antioch,” had a great deal of zeal and fervour for the orthodox faith. One day he learned that a stylite in one of the regions around Hierapolis was one of Severus’ excommunicate Acephalites. He went to this stylite with the intention of talking him round. When he got there the godly Ephraim began to urge and entreat the stylite to take refuge in the apostolic throne® and to enter into communion with the catholic and apostolic church. In answer the stylite said to him: ‘It will never be the case that I will communicate with the orthodox Synod’. The godly Ephraim rejoined: ‘Well then, what have I got to do to convince you that, by the grace of Christ Jesus our Lord, the holy Church has been set free of every trace of heretical teaching”? The stylite said: ‘Let us light a fire, my lord  

@@ -1,3 +1,13 @@
+---
+title: Ezekiel_1
+description: 
+published: true
+date: 2022-02-23T04:39:44.445Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:42.596Z
+---
+
  Book:: [[Ezekiel]]
  1. Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God. ^1
  2. In the fifth day of the month, which was the fifth year of king Jehoiachin's captivity, ^2

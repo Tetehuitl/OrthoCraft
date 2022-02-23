@@ -1,3 +1,13 @@
+---
+title: 598-august-11
+description: 
+published: true
+date: 2022-02-23T05:30:06.409Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:30:04.525Z
+---
+
 **1. THE HOLY MARTYR EUPLUS**
 
 Euplus was a deacon in Catania, Sicily. Emperor Diocletian dispatched the Roman commander, Pentagurus, to Sicily to exterminate any Christians he found there. Pentagurus did not find a single Christian, for the few that were there hid from the persecutor and did not reveal themselves. Even so, someone accused Euplus of taking a book to secret Christians and reading to them. This book was the Holy Gospel. They soon brought him to court, hung that book around his neck, and led him to prison. After seven days of imprisonment and hunger, Euplus was given over for torture. While they were beating him with iron rods, Euplus mockingly said to the torturing judge: "O ignorant one, do you not see that, by God's grace, these tortures are like a cobweb to me? If you can, find other, harsher tortures, for all of these are as toys." After more of the same, they led the martyr of Christ to the scaffold. There St. Euplus opened the Holy Gospel and read from it to the people for a long time. Many converted to the Christian Faith. St. Euplus was beheaded in the year 304 A.D., and took up his habitation in the Kingdom of Heaven. His miracle-working relics repose in a village near Naples, called Vico della Batonia.

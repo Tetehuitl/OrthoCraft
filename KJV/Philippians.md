@@ -1,3 +1,13 @@
+---
+title: Philippians
+description: 
+published: true
+date: 2022-02-23T05:06:36.253Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:43.089Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[Philippians 1]]

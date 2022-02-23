@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_23
+description: 
+published: true
+date: 2022-02-23T04:21:56.618Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:54.794Z
+---
+
  Book:: [[1 Chronicles]]
  1. So when David was old and full of days, he made Solomon his son king over Israel. ^1
  2. And he gathered together all the princes of Israel, with the priests and the Levites. ^2

@@ -1,3 +1,13 @@
+---
+title: 667-october-19
+description: 
+published: true
+date: 2022-02-23T05:33:35.568Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:33.702Z
+---
+
 
 **1. THE HOLY PROPHET JOEL**
 

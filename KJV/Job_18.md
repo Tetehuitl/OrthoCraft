@@ -1,3 +1,13 @@
+---
+title: Job_18
+description: 
+published: true
+date: 2022-02-23T04:52:56.181Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:54.423Z
+---
+
  Book:: [[Job]]
  1. Then answered Bildad the Shuhite, and said, ^1
  2. How long will it be ere ye make an end of words? mark, and afterwards we will speak. ^2

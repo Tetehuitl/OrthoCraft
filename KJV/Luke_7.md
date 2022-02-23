@@ -1,3 +1,13 @@
+---
+title: Luke_7
+description: 
+published: true
+date: 2022-02-23T05:00:46.746Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:44.896Z
+---
+
  Book:: [[Luke]]
  1. Now when he had ended all his sayings in the audience of the people, he entered into Capernaum. ^1
  2. And a certain centurion's servant, who was dear unto him, was sick, and ready to die. ^2

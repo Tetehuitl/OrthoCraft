@@ -1,3 +1,13 @@
+---
+title: Ezekiel_33
+description: 
+published: true
+date: 2022-02-23T04:40:55.554Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:53.723Z
+---
+
  Book:: [[Ezekiel]]
  1. Again the word of the LORD came unto me, saying, ^1
  2. Son of man, speak to the children of thy people, and say unto them, When I bring the sword upon a land, if the people of the land take a man of their coasts, and set him for their watchman: ^2

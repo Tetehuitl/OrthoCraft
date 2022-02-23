@@ -1,3 +1,13 @@
+---
+title: Numbers_26
+description: 
+published: true
+date: 2022-02-23T05:05:32.623Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:30.768Z
+---
+
  Book:: [[Numbers]]
  1. And it came to pass after the plague, that the LORD spake unto Moses and unto Eleazar the son of Aaron the priest, saying, ^1
  2. Take the sum of all the congregation of the children of Israel, from twenty years old and upward, throughout their fathers' house, all that are able to go to war in Israel. ^2

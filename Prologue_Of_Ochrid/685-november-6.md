@@ -1,3 +1,13 @@
+---
+title: 685-november-6
+description: 
+published: true
+date: 2022-02-23T05:34:30.031Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:34:28.160Z
+---
+
 
 **1. SAINT PAUL THE CONFESSOR, PATRIARCH OF CONSTANTINOPLE**
 

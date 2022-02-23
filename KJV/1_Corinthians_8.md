@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_8
+description: 
+published: true
+date: 2022-02-23T04:23:13.802Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:12.004Z
+---
+
  Book:: [[1 Corinthians]]
  1. Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth. ^1 ^1
  2. And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know. ^2

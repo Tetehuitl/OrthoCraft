@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_9
+description: 
+published: true
+date: 2022-02-23T04:26:16.640Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:14.810Z
+---
+
  Book:: [[1 Samuel]]
  1. Now there was a man of Benjamin, whose name was Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power. ^1
  2. And he had a son, whose name was Saul, a choice young man, and a goodly: and there was not among the children of Israel a goodlier person than he: from his shoulders and upward he was higher than any of the people. ^2

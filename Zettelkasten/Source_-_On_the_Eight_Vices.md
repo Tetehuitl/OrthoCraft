@@ -1,3 +1,13 @@
+---
+title: Source_-_On_the_Eight_Vices
+description: 
+published: true
+date: 2022-02-23T05:49:32.275Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:49:30.427Z
+---
+
 [[Source]]
 - Author:: [[St John Cassian]]
 - Category:: [[Philokalia]]

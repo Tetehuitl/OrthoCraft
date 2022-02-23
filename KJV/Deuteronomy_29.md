@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_29
+description: 
+published: true
+date: 2022-02-23T04:35:51.909Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:50.061Z
+---
+
  Book:: [[Deuteronomy]]
  1. These are the words of the covenant, which the LORD commanded Moses to make with the children of Israel in the land of Moab, beside the covenant which he made with them in Horeb. ^1
  2. And Moses called unto all Israel, and said unto them, Ye have seen all that the LORD did before your eyes in the land of Egypt unto Pharaoh, and unto all his servants, and unto all his land; ^2

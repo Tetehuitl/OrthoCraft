@@ -1,3 +1,13 @@
+---
+title: 2_Corinthians_12
+description: 
+published: true
+date: 2022-02-23T04:28:44.648Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:42.833Z
+---
+
  Book:: [[2 Corinthians]]
  1. It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord. ^1
  2. I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven. ^2

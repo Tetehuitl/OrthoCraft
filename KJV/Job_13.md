@@ -1,3 +1,13 @@
+---
+title: Job_13
+description: 
+published: true
+date: 2022-02-23T04:52:42.411Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:40.633Z
+---
+
  Book:: [[Job]]
  1. Lo, mine eye hath seen all this, mine ear hath heard and understood it. ^1
  2. What ye know, the same do I know also: I am not inferior unto you. ^2

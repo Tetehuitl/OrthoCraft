@@ -1,3 +1,13 @@
+---
+title: Mark_5
+description: 
+published: true
+date: 2022-02-23T05:01:42.164Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:40.329Z
+---
+
  Book:: [[Mark]]
  1. And they came over unto the other side of the sea, into the country of the Gadarenes. ^1
  2. And when he was come out of the ship, immediately there met him out of the tombs a man with an unclean spirit, ^2

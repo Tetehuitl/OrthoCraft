@@ -1,3 +1,13 @@
+---
+title: 049-february-17
+description: 
+published: true
+date: 2022-02-23T05:22:55.174Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:22:53.329Z
+---
+
 
 **1. THE HOLY GREAT-MARTYR THEODORE THE TYRO**
 

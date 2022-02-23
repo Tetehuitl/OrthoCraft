@@ -1,3 +1,13 @@
+---
+title: Lamentations_1
+description: 
+published: true
+date: 2022-02-23T04:58:11.102Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:09.271Z
+---
+
  Book:: [[Lamentations]]
  1. How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary! ^1
  2. She weepeth sore in the night, and her tears are on her cheeks: among all her lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her enemies. ^2

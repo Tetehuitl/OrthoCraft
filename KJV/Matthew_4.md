@@ -1,3 +1,13 @@
+---
+title: Matthew_4
+description: 
+published: true
+date: 2022-02-23T05:03:01.485Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:59.669Z
+---
+
  Book:: [[Matthew]]
  1. Then was Jesus led up of the spirit into the wilderness to be tempted of the devil. ^1
  2. And when he had fasted forty days and forty nights, he was afterward an hungred. ^2

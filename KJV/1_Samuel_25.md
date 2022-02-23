@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_25
+description: 
+published: true
+date: 2022-02-23T04:25:42.150Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:40.305Z
+---
+
  Book:: [[1 Samuel]]
  1. And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran. ^1
  2. And there was a man in Maon, whose possessions were in Carmel; and the man was very great, and he had three thousand sheep, and a thousand goats: and he was shearing his sheep in Carmel. ^2

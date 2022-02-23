@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_22
+description: 
+published: true
+date: 2022-02-23T04:31:19.037Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:17.181Z
+---
+
  Book:: [[2 Samuel]]
  1. And David spake unto the LORD the words of this song in the day that the LORD had delivered him out of the hand of all his enemies, and out of the hand of Saul: ^1
  2. And he said, The LORD is my rock, and my fortress, and my deliverer; ^2

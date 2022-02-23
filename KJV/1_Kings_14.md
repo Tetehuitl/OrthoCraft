@@ -1,3 +1,13 @@
+---
+title: 1_Kings_14
+description: 
+published: true
+date: 2022-02-23T04:23:51.951Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:50.077Z
+---
+
  Book:: [[1 Kings]]
  1. At that time Abijah the son of Jeroboam fell sick. ^1
  2. And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there is Ahijah the prophet, which told me that I should be king over this people. ^2

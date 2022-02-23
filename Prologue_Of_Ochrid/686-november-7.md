@@ -1,3 +1,13 @@
+---
+title: 686-november-7
+description: 
+published: true
+date: 2022-02-23T05:34:33.071Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:34:31.222Z
+---
+
 
 **1. THE HOLY MARTYR HIERON AND HIS COMPANIONS**
 

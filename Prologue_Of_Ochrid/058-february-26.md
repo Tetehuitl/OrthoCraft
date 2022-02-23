@@ -1,3 +1,13 @@
+---
+title: 058-february-26
+description: 
+published: true
+date: 2022-02-23T05:23:21.920Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:23:20.050Z
+---
+
 
 **1. SAINT PORPHYRIUS, BISHOP OF GAZA**
 

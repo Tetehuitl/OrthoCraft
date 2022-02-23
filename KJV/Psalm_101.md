@@ -1,3 +1,13 @@
+---
+title: Psalm_101
+description: 
+published: true
+date: 2022-02-23T05:08:31.827Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:30.073Z
+---
+
  Book:: [[Psalm]]
  1. I will sing of mercy and judgment: unto thee, O LORD, will I sing. ^1
  2. I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart. ^2

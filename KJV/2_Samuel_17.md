@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_17
+description: 
+published: true
+date: 2022-02-23T04:31:02.757Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:00.929Z
+---
+
  Book:: [[2 Samuel]]
  1. Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night: ^1
  2. And I will come upon him while he is weary and weak handed, and will make him afraid: and all the people that are with him shall flee; and I will smite the king only: ^2

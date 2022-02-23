@@ -1,3 +1,13 @@
+---
+title: Matthew_5
+description: 
+published: true
+date: 2022-02-23T05:03:04.352Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:03:02.528Z
+---
+
  Book:: [[Matthew]]
  1. And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him: ^1
  2. And he opened his mouth, and taught them, saying, ^2

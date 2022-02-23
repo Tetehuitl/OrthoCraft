@@ -1,3 +1,13 @@
+---
+title: Isaiah_62
+description: 
+published: true
+date: 2022-02-23T04:49:23.045Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:21.277Z
+---
+
  Book:: [[Isaiah]]
  1. For Zion's sake will I not hold my peace, and for Jerusalem's sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth. ^1
  2. And the Gentiles shall see thy righteousness, and all kings thy glory: and thou shalt be called by a new name, which the mouth of the LORD shall name. ^2

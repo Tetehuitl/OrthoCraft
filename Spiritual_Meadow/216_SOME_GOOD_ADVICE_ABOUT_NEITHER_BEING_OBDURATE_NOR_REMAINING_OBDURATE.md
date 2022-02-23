@@ -1,3 +1,13 @@
+---
+title: 216_SOME_GOOD_ADVICE_ABOUT_NEITHER_BEING_OBDURATE_NOR_REMAINING_OBDURATE
+description: 
+published: true
+date: 2022-02-23T05:43:46.728Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:43:44.990Z
+---
+
 [[Spiritual Meadow]]
  
 Once when J was in the Holy City a person who loved Christ came to me and said: ‘There had been a small altercation between my brother and me and he will not be reconciled with me. You go speak to him and reason with him’, I received this commission joyfully. I called the brother and spoke to him of those things which tend to love and peace, and it seemed as though he was coming _ Found to my point of view. At last, he said to me: ‘I cannot be reconciled with him because I swore on the cross’. I said to him with a smile: ‘Your oath was equivalent to saying: “Oh Christ, by  

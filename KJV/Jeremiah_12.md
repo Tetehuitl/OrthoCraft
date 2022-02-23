@@ -1,3 +1,13 @@
+---
+title: Jeremiah_12
+description: 
+published: true
+date: 2022-02-23T04:50:12.217Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:10.422Z
+---
+
  Book:: [[Jeremiah]]
  1. Righteous art thou, O LORD, when I plead with thee: yet let me talk with thee of thy judgments: Wherefore doth the way of the wicked prosper? wherefore are all they happy that deal very treacherously? ^1
  2. Thou hast planted them, yea, they have taken root: they grow, yea, they bring forth fruit: thou art near in their mouth, and far from their reins. ^2

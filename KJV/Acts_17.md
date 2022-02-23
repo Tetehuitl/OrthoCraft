@@ -1,3 +1,13 @@
+---
+title: Acts_17
+description: 
+published: true
+date: 2022-02-23T04:32:42.329Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:40.511Z
+---
+
  Book:: [[Acts]]
  1. Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where was a synagogue of the Jews: ^1
  2. And Paul, as his manner was, went in unto them, and three sabbath days reasoned with them out of the scriptures, ^2

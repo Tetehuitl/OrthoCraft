@@ -1,3 +1,13 @@
+---
+title: 72_ABBA_PALLADIOS’_STORY_OF_AN_OLD_MAN_WHO_COMMITTED_MURDER_AND_FALSELY_ACCUSED_A_YOUTH_OF_THE_SAME_CRIME
+description: 
+published: true
+date: 2022-02-23T05:46:45.262Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:46:43.510Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Palladios told us that an old fellow living in the world was arrested for murder. When he was tortured by the magistrate of Alexandria he said that somebody else had been involved in the murder as his accomplice, a young fellow about twenty years old. They were both severely tortured. The old fellow said: “You were  

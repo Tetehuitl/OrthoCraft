@@ -1,3 +1,13 @@
+---
+title: Haggai_1
+description: 
+published: true
+date: 2022-02-23T04:45:17.172Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:45:15.377Z
+---
+
  Book:: [[Haggai]]
  1. In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying, ^1
  2. Thus speaketh the LORD of hosts, saying, This people say, The time is not come, the time that the LORD's house should be built. ^2

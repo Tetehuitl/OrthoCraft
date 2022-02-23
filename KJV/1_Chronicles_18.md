@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_18
+description: 
+published: true
+date: 2022-02-23T04:21:40.805Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:38.966Z
+---
+
  Book:: [[1 Chronicles]]
  1. Now after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines. ^1
  2. And he smote Moab; and the Moabites became David's servants, and brought gifts. ^2

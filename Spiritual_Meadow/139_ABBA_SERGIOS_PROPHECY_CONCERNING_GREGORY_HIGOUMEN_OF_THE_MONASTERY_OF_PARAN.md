@@ -1,3 +1,13 @@
+---
+title: 139_ABBA_SERGIOS_PROPHECY_CONCERNING_GREGORY_HIGOUMEN_OF_THE_MONASTERY_OF_PARAN
+description: 
+published: true
+date: 2022-02-23T05:39:32.386Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:39:30.631Z
+---
+
 [[Spiritual Meadow]]
  
 Concerning this Abba Sergios the anchorite, his attendant, Abba Sergios the Armenian, told us that Abba Gregory, higoumen of the Javra at Paran, was very insistent that he should be taken to the elder. ‘So one day’, said the attendant, ‘I took him to the elder who, in those days, was in the region of the Dead Sea. When the  

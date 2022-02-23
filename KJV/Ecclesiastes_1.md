@@ -1,3 +1,13 @@
+---
+title: Ecclesiastes_1
+description: 
+published: true
+date: 2022-02-23T04:36:29.179Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:27.422Z
+---
+
  Book:: [[Ecclesiastes]]
  1. The words of the Preacher, the son of David, king in Jerusalem. ^1
  2. Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity. ^2

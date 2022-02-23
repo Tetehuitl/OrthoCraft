@@ -1,3 +1,13 @@
+---
+title: Galatians_5
+description: 
+published: true
+date: 2022-02-23T04:42:38.772Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:36.965Z
+---
+
  Book:: [[Galatians]]
  1. Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage. ^1
  2. Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing. ^2

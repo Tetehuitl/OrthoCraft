@@ -1,3 +1,13 @@
+---
+title: Acts_10
+description: 
+published: true
+date: 2022-02-23T04:32:23.306Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:21.463Z
+---
+
  Book:: [[Acts]]
  1. There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band, ^1
  2. A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway. ^2

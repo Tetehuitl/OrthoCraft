@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_6
+description: 
+published: true
+date: 2022-02-23T04:31:35.202Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:33.409Z
+---
+
  Book:: [[2 Samuel]]
  1. Again, David gathered together all the chosen men of Israel, thirty thousand. ^1
  2. And David arose, and went with all the people that were with him from Baale of Judah, to bring up from thence the ark of God, whose name is called by the name of the LORD of hosts that dwelleth between the cherubim. ^2

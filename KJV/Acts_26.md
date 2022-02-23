@@ -1,3 +1,13 @@
+---
+title: Acts_26
+description: 
+published: true
+date: 2022-02-23T04:33:09.359Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:07.520Z
+---
+
  Book:: [[Acts]]
  1. Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself: ^1
  2. I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews: ^2

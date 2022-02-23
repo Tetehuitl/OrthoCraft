@@ -1,3 +1,13 @@
+---
+title: Psalm_37
+description: 
+published: true
+date: 2022-02-23T05:12:10.716Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:08.884Z
+---
+
  Book:: [[Psalm]]
  1. Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity. ^1
  2. For they shall soon be cut down like the grass, and wither as the green herb. ^2

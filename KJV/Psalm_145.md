@@ -1,3 +1,13 @@
+---
+title: Psalm_145
+description: 
+published: true
+date: 2022-02-23T05:10:46.292Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:44.515Z
+---
+
  Book:: [[Psalm]]
  1. I will extol thee, my God, O king; and I will bless thy name for ever and ever. ^1
  2. Every day will I bless thee; and I will praise thy name for ever and ever. ^2

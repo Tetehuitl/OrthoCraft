@@ -1,3 +1,13 @@
+---
+title: 49_THE_WONDROUS_VISION_OF_THE_DUKE_OF_PALESTINE_BY_WHICH_HE_WAS_COMPELLED_TO_RENOUNCE_THE_AFOREMENTIONED_HERESY_AND_TO_ENTER_INTO_COMMUNION_WITH_THE_CHURCH_OF_CHRIST
+description: 
+published: true
+date: 2022-02-23T05:45:27.590Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:45:25.827Z
+---
+
 [[Spiritual Meadow]]
  
 Anastasios the Priest also told us that when Gébémer became the military governor of Palestine, his first act was to come and worship  

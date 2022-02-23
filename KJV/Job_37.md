@@ -1,3 +1,13 @@
+---
+title: Job_37
+description: 
+published: true
+date: 2022-02-23T04:53:54.286Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:52.499Z
+---
+
  Book:: [[Job]]
  1. At this also my heart trembleth, and is moved out of his place. ^1
  2. Hear attentively the noise of his voice, and the sound that goeth out of his mouth. ^2

@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_10
+description: 
+published: true
+date: 2022-02-23T04:27:00.302Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:58.518Z
+---
+
  Book:: [[2 Chronicles]]
  1. And Rehoboam went to Shechem: for to Shechem were all Israel come to make him king. ^1
  2. And it came to pass, when Jeroboam the son of Nebat, who was in Egypt, whither he fled from the presence of Solomon the king, heard it, that Jeroboam returned out of Egypt. ^2

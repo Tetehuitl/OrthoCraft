@@ -1,3 +1,13 @@
+---
+title: 2_Peter
+description: 
+published: true
+date: 2022-02-23T04:30:27.166Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:25.298Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[2 Peter 1]]

@@ -1,3 +1,13 @@
+---
+title: 1_Kings_10
+description: 
+published: true
+date: 2022-02-23T04:23:41.187Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:39.355Z
+---
+
  Book:: [[1 Kings]]
  1. And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions. ^1
  2. And she came to Jerusalem with a very great train, with camels that bare spices, and very much gold, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart. ^2

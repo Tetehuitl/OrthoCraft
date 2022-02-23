@@ -1,3 +1,13 @@
+---
+title: Numbers_35
+description: 
+published: true
+date: 2022-02-23T05:06:01.315Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:59.447Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying, ^1
  2. Command the children of Israel, that they give unto the Levites of the inheritance of their possession cities to dwell in; and ye shall give also unto the Levites suburbs for the cities round about them. ^2

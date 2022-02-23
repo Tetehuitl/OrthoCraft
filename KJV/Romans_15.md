@@ -1,3 +1,13 @@
+---
+title: Romans_15
+description: 
+published: true
+date: 2022-02-23T05:16:50.998Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:49.182Z
+---
+
  Book:: [[Romans]]
  1. We then that are strong ought to bear the infirmities of the weak, and not to please ourselves. ^1
  2. Let every one of us please his neighbour for his good to edification. ^2

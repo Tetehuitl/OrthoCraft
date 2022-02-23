@@ -1,3 +1,13 @@
+---
+title: Luke_2
+description: 
+published: true
+date: 2022-02-23T05:00:18.253Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:16.395Z
+---
+
  Book:: [[Luke]]
  1. And it came to pass in those days, that there went out a decree from Caesar Augustus that all the world should be taxed. ^1
  2. (And this taxing was first made when Cyrenius was governor of Syria.) ^2

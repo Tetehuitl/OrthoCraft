@@ -1,6 +1,11 @@
 ---
-publish: true
-tags: #needsEdit 
+title: Evening_Prayers_-_Lazarus_Moore
+description: 
+published: true
+date: 2022-02-23T05:20:09.246Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:20:07.279Z
 ---
 
 links: [[HUB]] [[Prayer]]

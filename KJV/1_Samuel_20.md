@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_20
+description: 
+published: true
+date: 2022-02-23T04:25:28.873Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:27.026Z
+---
+
  Book:: [[1 Samuel]]
  1. And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what is mine iniquity? and what is my sin before thy father, that he seeketh my life? ^1
  2. And he said unto him, God forbid; thou shalt not die: behold, my father will do nothing either great or small, but that he will show it me: and why should my father hide this thing from me? it is not so. ^2

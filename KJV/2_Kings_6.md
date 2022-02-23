@@ -1,3 +1,13 @@
+---
+title: 2_Kings_6
+description: 
+published: true
+date: 2022-02-23T04:30:16.372Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:14.527Z
+---
+
  Book:: [[2 Kings]]
  1. And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us. ^1
  2. Let us go, we pray thee, unto Jordan, and take thence every man a beam, and let us make us a place there, where we may dwell. And he answered, Go ye. ^2

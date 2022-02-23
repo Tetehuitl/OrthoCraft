@@ -1,3 +1,13 @@
+---
+title: Judges_18
+description: 
+published: true
+date: 2022-02-23T04:57:35.254Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:33.406Z
+---
+
  Book:: [[Judges]]
  1. In those days there was no king in Israel: and in those days the tribe of the Danites sought them an inheritance to dwell in; for unto that day all their inheritance had not fallen unto them among the tribes of Israel. ^1
  2. And the children of Dan sent of their family five men from their coasts, men of valor, from Zorah, and from Eshtaol, to spy out the land, and to search it; and they said unto them, Go, search the land: who when they came to mount Ephraim, to the house of Micah, they lodged there. ^2

@@ -1,3 +1,13 @@
+---
+title: Nehemiah_9
+description: 
+published: true
+date: 2022-02-23T05:04:32.622Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:30.770Z
+---
+
  Book:: [[Nehemiah]]
  1. Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them. ^1
  2. And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers. ^2

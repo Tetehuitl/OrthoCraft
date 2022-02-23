@@ -1,3 +1,13 @@
+---
+title: Leviticus_6
+description: 
+published: true
+date: 2022-02-23T04:59:32.552Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:30.727Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. If a soul sin, and commit a trespass against the LORD, and lie unto his neighbor in that which was delivered him to keep, or in fellowship, or in a thing taken away by violence, or hath deceived his neighbor; ^2

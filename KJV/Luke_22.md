@@ -1,3 +1,13 @@
+---
+title: Luke_22
+description: 
+published: true
+date: 2022-02-23T05:00:26.830Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:24.966Z
+---
+
  Book:: [[Luke]]
  1. Now the feast of unleavened bread drew nigh, which is called the Passover. ^1
  2. And the chief priests and scribes sought how they might kill him; for they feared the people. ^2

@@ -1,3 +1,13 @@
+---
+title: 106_ABBA_THEQDORE’S_STORY_OF_THE_SYRIAN_MONK_SEVERIAN
+description: 
+published: true
+date: 2022-02-23T05:37:46.804Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:37:45.062Z
+---
+
 [[Spiritual Meadow]]
  
 This same Abba Theodoulos spoke to us again, saying:  

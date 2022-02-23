@@ -1,3 +1,13 @@
+---
+title: Joshua_9
+description: 
+published: true
+date: 2022-02-23T04:57:00.141Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:58.356Z
+---
+
  Book:: [[Joshua]]
  1. And it came to pass, when all the kings which were on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea over against Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard thereof; ^1
  2. That they gathered themselves together, to fight with Joshua and with Israel, with one accord. ^2

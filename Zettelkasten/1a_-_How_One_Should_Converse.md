@@ -1,3 +1,13 @@
+---
+title: 1a_-_How_One_Should_Converse
+description: 
+published: true
+date: 2022-02-23T05:48:37.670Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:48:35.897Z
+---
+
 - Reference:
 - Source: [[Letter 2 - St Basil the Great]] [[St Basil the Great]]
 - Keywords: [[Zettels]]

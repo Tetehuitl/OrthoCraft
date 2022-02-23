@@ -1,3 +1,13 @@
+---
+title: Revelation_3
+description: 
+published: true
+date: 2022-02-23T05:16:11.441Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:09.665Z
+---
+
  Book:: [[Revelation]]
  1. And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead. ^1
  2. Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God. ^2

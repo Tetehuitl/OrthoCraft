@@ -1,3 +1,13 @@
+---
+title: 2_Timothy_3
+description: 
+published: true
+date: 2022-02-23T04:32:04.587Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:02.815Z
+---
+
  Book:: [[2 Timothy]]
  1. This know also, that in the last days perilous times shall come. ^1
  2. For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy, ^2

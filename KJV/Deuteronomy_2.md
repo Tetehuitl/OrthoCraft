@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_2
+description: 
+published: true
+date: 2022-02-23T04:35:24.777Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:22.942Z
+---
+
  Book:: [[Deuteronomy]]
  1. Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spake unto me: and we compassed mount Seir many days. ^1
  2. And the LORD spake unto me, saying, ^2

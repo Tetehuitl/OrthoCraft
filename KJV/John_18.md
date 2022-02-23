@@ -1,3 +1,13 @@
+---
+title: John_18
+description: 
+published: true
+date: 2022-02-23T04:55:06.203Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:04.357Z
+---
+
  Book:: [[John]]
  1. When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples. ^1
  2. And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples. ^2

@@ -1,6 +1,13 @@
 ---
-aliases: ➡
+title: Claim
+description: 
+published: true
+date: 2022-02-23T05:49:14.245Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:39:23.680Z
 ---
+
 ### A claim is:
 - An assertion made by a [[Source]] (very rarely can be sourceless, if it's something I am very sure of but can't remember where I learned it).
 - Can be assembled into [[Synthesis]]es .

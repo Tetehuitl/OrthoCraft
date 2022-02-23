@@ -1,3 +1,13 @@
+---
+title: 7_-_Feynmen_Technique
+description: 
+published: true
+date: 2022-02-23T05:49:11.226Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:49:09.468Z
+---
+
 - [[Zettels]]
 - [[[[zettelkasten]]]] [[[[noteTaking]]]]
 - Sources: [[Richard Feynman]]

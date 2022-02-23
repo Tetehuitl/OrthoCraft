@@ -1,3 +1,13 @@
+---
+title: 2_Corinthians_4
+description: 
+published: true
+date: 2022-02-23T04:28:55.239Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:53.443Z
+---
+
  Book:: [[2 Corinthians]]
  1. Therefore seeing we have this ministry, as we have received mercy, we faint not; ^1
  2. But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man's conscience in the sight of God. ^2

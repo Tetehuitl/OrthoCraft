@@ -1,3 +1,13 @@
+---
+title: Genesis_37
+description: 
+published: true
+date: 2022-02-23T04:44:09.753Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:07.925Z
+---
+
  Book:: [[Genesis]]
  1. And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan. ^1
  2. These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brethren; and the lad was with the sons of Bilhah, and with the sons of Zilpah, his father's wives: and Joseph brought unto his father their evil report. ^2

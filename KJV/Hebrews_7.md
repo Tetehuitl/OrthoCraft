@@ -1,3 +1,13 @@
+---
+title: Hebrews_7
+description: 
+published: true
+date: 2022-02-23T04:45:52.295Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:45:50.486Z
+---
+
  Book:: [[Hebrews]]
  1. For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him; ^1
  2. To whom also Abraham gave a tenth part of all; first being by interpretation King of righteousness, and after that also King of Salem, which is, King of peace; ^2

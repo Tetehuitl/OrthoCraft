@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_12
+description: 
+published: true
+date: 2022-02-23T04:21:25.026Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:23.141Z
+---
+
  Book:: [[1 Chronicles]]
  1. Now these are they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they were among the mighty men, helpers of the war. ^1
  2. They were armed with bows, and could use both the right hand and the left in hurling stones and shooting arrows out of a bow, even of Saul's brethren of Benjamin. ^2

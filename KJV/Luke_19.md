@@ -1,3 +1,13 @@
+---
+title: Luke_19
+description: 
+published: true
+date: 2022-02-23T05:00:15.425Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:13.481Z
+---
+
  Book:: [[Luke]]
  1. And Jesus entered and passed through Jericho. ^1
  2. And, behold, there was a man named Zacchaeus, which was the chief among the publicans, and he was rich. ^2

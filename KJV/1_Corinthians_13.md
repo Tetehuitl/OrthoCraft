@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_13
+description: 
+published: true
+date: 2022-02-23T04:22:47.228Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:45.494Z
+---
+
  Book:: [[1 Corinthians]]
  1. Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal. ^1
  2. And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing. ^2

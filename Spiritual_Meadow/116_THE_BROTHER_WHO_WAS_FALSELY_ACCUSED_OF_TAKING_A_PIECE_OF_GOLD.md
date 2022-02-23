@@ -1,3 +1,13 @@
+---
+title: 116_THE_BROTHER_WHO_WAS_FALSELY_ACCUSED_OF_TAKING_A_PIECE_OF_GOLD
+description: 
+published: true
+date: 2022-02-23T05:38:18.996Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:38:17.244Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Andrew of Messenia® told us:  

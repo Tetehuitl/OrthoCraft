@@ -1,3 +1,13 @@
+---
+title: Isaiah_13
+description: 
+published: true
+date: 2022-02-23T04:46:54.904Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:53.136Z
+---
+
  Book:: [[Isaiah]]
  1. The burden of Babylon, which Isaiah the son of Amoz did see. ^1
  2. Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand, that they may go into the gates of the nobles. ^2

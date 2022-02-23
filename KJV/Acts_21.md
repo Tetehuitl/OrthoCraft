@@ -1,3 +1,13 @@
+---
+title: Acts_21
+description: 
+published: true
+date: 2022-02-23T04:32:55.862Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:54.010Z
+---
+
  Book:: [[Acts]]
  1. And it came to pass, that after we were gotten from them, and had launched, we came with a straight course unto Coos, and the day following unto Rhodes, and from thence unto Patara: ^1
  2. And finding a ship sailing over unto Phenicia, we went aboard, and set forth. ^2

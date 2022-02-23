@@ -1,3 +1,13 @@
+---
+title: Zechariah_5
+description: 
+published: true
+date: 2022-02-23T05:18:38.063Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:36.282Z
+---
+
  Book:: [[Zechariah]]
  1. Then I turned, and lifted up mine eyes, and looked, and behold a flying roll. ^1
  2. And he said unto me, What seest thou? And I answered, I see a flying roll; the length thereof is twenty cubits, and the breadth thereof ten cubits. ^2

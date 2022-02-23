@@ -1,3 +1,13 @@
+---
+title: 2_Kings_11
+description: 
+published: true
+date: 2022-02-23T04:29:25.113Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:23.237Z
+---
+
  Book:: [[2 Kings]]
  1. And when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal. ^1
  2. But Jehosheba, the daughter of king Joram, sister of Ahaziah, took Joash the son of Ahaziah, and stole him from among the king's sons which were slain; and they hid him, even him and his nurse, in the bedchamber from Athaliah, so that he was not slain. ^2

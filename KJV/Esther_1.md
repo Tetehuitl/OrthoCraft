@@ -1,3 +1,13 @@
+---
+title: Esther_1
+description: 
+published: true
+date: 2022-02-23T04:37:21.759Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:19.954Z
+---
+
  Book:: [[Esther]]
  1. Now it came to pass in the days of Ahasuerus, (this is Ahasuerus which reigned, from India even unto Ethiopia, over an hundred and seven and twenty provinces:) ^1
  2. That in those days, when the king Ahasuerus sat on the throne of his kingdom, which was in Shushan the palace, ^2

@@ -1,3 +1,13 @@
+---
+title: Titus_2
+description: 
+published: true
+date: 2022-02-23T05:18:04.381Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:02.606Z
+---
+
  Book:: [[Titus]]
  1. But speak thou the things which become sound doctrine: ^1
  2. That the aged men be sober, grave, temperate, sound in faith, in charity, in patience. ^2

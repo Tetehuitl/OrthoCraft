@@ -1,3 +1,13 @@
+---
+title: Matthew_8
+description: 
+published: true
+date: 2022-02-23T05:03:12.853Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:03:11.008Z
+---
+
  Book:: [[Matthew]]
  1. When he was come down from the mountain, great multitudes followed him. ^1
  2. And, behold, there came a leper and worshipped him, saying, Lord, if thou wilt, thou canst make me clean. ^2

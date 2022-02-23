@@ -1,3 +1,13 @@
+---
+title: John_14
+description: 
+published: true
+date: 2022-02-23T04:54:54.595Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:52.783Z
+---
+
  Book:: [[John]]
  1. Let not your heart be troubled: ye believe in God, believe also in me. ^1
  2. In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you. ^2

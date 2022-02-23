@@ -1,3 +1,13 @@
+---
+title: Ezekiel_43
+description: 
+published: true
+date: 2022-02-23T04:41:25.625Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:23.825Z
+---
+
  Book:: [[Ezekiel]]
  1. Afterward he brought me to the gate, even the gate that looketh toward the east: ^1
  2. And, behold, the glory of the God of Israel came from the way of the east: and his voice was like a noise of many waters: and the earth shined with his glory. ^2

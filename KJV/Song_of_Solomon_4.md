@@ -1,3 +1,13 @@
+---
+title: Song_of_Solomon_4
+description: 
+published: true
+date: 2022-02-23T05:17:45.356Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:43.534Z
+---
+
  Book:: [[Song of Solomon]]
  1. Behold, thou art fair, my love; behold, thou art fair; thou hast doves' eyes within thy locks: thy hair is as a flock of goats, that appear from mount Gilead. ^1
  2. Thy teeth are like a flock of sheep that are even shorn, which came up from the washing; whereof every one bear twins, and none is barren among them. ^2

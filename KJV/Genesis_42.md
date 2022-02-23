@@ -1,3 +1,13 @@
+---
+title: Genesis_42
+description: 
+published: true
+date: 2022-02-23T04:44:26.309Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:24.503Z
+---
+
  Book:: [[Genesis]]
  1. Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another? ^1
  2. And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die. ^2

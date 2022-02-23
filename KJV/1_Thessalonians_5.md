@@ -1,3 +1,13 @@
+---
+title: 1_Thessalonians_5
+description: 
+published: true
+date: 2022-02-23T04:26:32.558Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:30.785Z
+---
+
  Book:: [[1 Thessalonians]]
  1. But of the times and the seasons, brethren, ye have no need that I write unto you. ^1
  2. For yourselves know perfectly that the day of the Lord so cometh as a thief in the night. ^2

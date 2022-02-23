@@ -1,3 +1,13 @@
+---
+title: Psalm_13
+description: 
+published: true
+date: 2022-02-23T05:09:58.798Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:57.070Z
+---
+
  Book:: [[Psalm]]
  1. How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me? ^1
  2. How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me? ^2

@@ -1,3 +1,13 @@
+---
+title: Leviticus_18
+description: 
+published: true
+date: 2022-02-23T04:58:53.115Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:51.282Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Speak unto the children of Israel, and say unto them, I am the LORD your God. ^2

@@ -1,3 +1,13 @@
+---
+title: Genesis_22
+description: 
+published: true
+date: 2022-02-23T04:43:25.631Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:23.839Z
+---
+
  Book:: [[Genesis]]
  1. And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am. ^1
  2. And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of. ^2

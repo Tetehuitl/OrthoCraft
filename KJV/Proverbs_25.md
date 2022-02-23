@@ -1,3 +1,13 @@
+---
+title: Proverbs_25
+description: 
+published: true
+date: 2022-02-23T05:07:40.270Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:38.444Z
+---
+
  Book:: [[Proverbs]]
  1. These are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out. ^1
  2. It is the glory of God to conceal a thing: but the honour of kings is to search out a matter. ^2

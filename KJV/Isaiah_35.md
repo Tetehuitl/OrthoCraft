@@ -1,3 +1,13 @@
+---
+title: Isaiah_35
+description: 
+published: true
+date: 2022-02-23T04:48:00.488Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:58.740Z
+---
+
  Book:: [[Isaiah]]
  1. The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose. ^1
  2. It shall blossom abundantly, and rejoice even with joy and singing: the glory of Lebanon shall be given unto it, the excellency of Carmel and Sharon, they shall see the glory of the LORD, and the excellency of our God. ^2

@@ -1,3 +1,13 @@
+---
+title: Numbers_36
+description: 
+published: true
+date: 2022-02-23T05:06:04.119Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:02.344Z
+---
+
  Book:: [[Numbers]]
  1. And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel: ^1
  2. And they said, The LORD commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the LORD to give the inheritance of Zelophehad our brother unto his daughters. ^2

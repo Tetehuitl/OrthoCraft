@@ -1,3 +1,13 @@
+---
+title: Amos_8
+description: 
+published: true
+date: 2022-02-23T04:33:57.539Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:55.764Z
+---
+
  Book:: [[Amos]]
  1. Thus hath the Lord GOD shewed unto me: and behold a basket of summer fruit. ^1
  2. And he said, Amos, what seest thou? And I said, A basket of summer fruit. Then said the LORD unto me, The end is come upon my people of Israel; I will not again pass by them any more. ^2

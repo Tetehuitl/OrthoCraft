@@ -1,3 +1,13 @@
+---
+title: Genesis_38
+description: 
+published: true
+date: 2022-02-23T04:44:12.517Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:10.679Z
+---
+
  Book:: [[Genesis]]
  1. And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name was Hirah. ^1
  2. And Judah saw there a daughter of a certain Canaanite, whose name was Shuah; and he took her, and went in unto her. ^2

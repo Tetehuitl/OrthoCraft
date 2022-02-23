@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_9
+description: 
+published: true
+date: 2022-02-23T04:28:31.062Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:29.243Z
+---
+
  Book:: [[2 Chronicles]]
  1. And when the queen of Sheba heard of the fame of Solomon, she came to prove Solomon with hard questions at Jerusalem, with a very great company, and camels that bare spices, and gold in abundance, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart. ^1
  2. And Solomon told her all her questions: and there was nothing hid from Solomon which he told her not. ^2

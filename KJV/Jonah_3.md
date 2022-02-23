@@ -1,3 +1,13 @@
+---
+title: Jonah_3
+description: 
+published: true
+date: 2022-02-23T04:55:47.404Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:45.621Z
+---
+
  Book:: [[Jonah]]
  1. And the word of the LORD came unto Jonah the second time, saying, ^1
  2. Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee. ^2

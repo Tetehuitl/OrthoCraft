@@ -1,3 +1,13 @@
+---
+title: 150_THE_LIFE_AND_HOLINESS_OF_THE_BISHOP_OF_ROMILLA
+description: 
+published: true
+date: 2022-02-23T05:40:10.410Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:40:08.624Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Theodore told us that thirty miles from Rome there is a small town called Romilla. In that town there was a very great and virtuous bishop. One day some of the people of Romilla came in to the most blessed Agapetos, Pope of Rome, and made charges against their own bishop to the pope, saying that he ate from a consecrated paten. The pope was shocked when he heard this. He sent two clerics to bring the bishop, bound, to Rome, on foot; and  

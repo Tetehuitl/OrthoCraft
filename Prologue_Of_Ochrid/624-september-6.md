@@ -1,3 +1,13 @@
+---
+title: 624-september-6
+description: 
+published: true
+date: 2022-02-23T05:31:24.915Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:31:23.069Z
+---
+
 
 **1. THE COMMEMORATION OF THE MIRACLES OF THE HOLY ARCHANGEL MICHAEL**
 

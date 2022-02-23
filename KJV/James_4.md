@@ -1,3 +1,13 @@
+---
+title: James_4
+description: 
+published: true
+date: 2022-02-23T04:49:55.276Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:53.488Z
+---
+
  Book:: [[James]]
  1. From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members? ^1
  2. Ye lust, and have not: ye kill, and desire to have, and cannot obtain: ye fight and war, yet ye have not, because ye ask not. ^2

@@ -1,3 +1,13 @@
+---
+title: 3_John
+description: 
+published: true
+date: 2022-02-23T04:32:09.880Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:08.114Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[3 John 1]]

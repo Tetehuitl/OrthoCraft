@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_32
+description: 
+published: true
+date: 2022-02-23T04:28:04.281Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:02.399Z
+---
+
  Book:: [[2 Chronicles]]
  1. After these things, and the establishment thereof, Sennacherib king of Assyria came, and entered into Judah, and encamped against the fenced cities, and thought to win them for himself. ^1
  2. And when Hezekiah saw that Sennacherib was come, and that he was purposed to fight against Jerusalem, ^2

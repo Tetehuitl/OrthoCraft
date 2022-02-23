@@ -1,3 +1,13 @@
+---
+title: Romans_13
+description: 
+published: true
+date: 2022-02-23T05:16:45.219Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:43.389Z
+---
+
  Book:: [[Romans]]
  1. Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God. ^1
  2. Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation. ^2

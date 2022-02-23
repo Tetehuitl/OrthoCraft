@@ -1,3 +1,13 @@
+---
+title: 612-august-25
+description: 
+published: true
+date: 2022-02-23T05:30:48.727Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:30:46.850Z
+---
+
 
 **1. THE HOLY APOSTLE BARTHOLOMEW**
 

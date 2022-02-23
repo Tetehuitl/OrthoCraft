@@ -1,3 +1,13 @@
+---
+title: The_Philokalia
+description: 
+published: true
+date: 2022-02-23T05:19:35.352Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:19:33.039Z
+---
+
 # The Philokalia
 
 * Author: [Bishop of Diokleia Kallistos, St. Makarios of Corinth, G. E. H. Palmer, Philip Sherrard, and Kallistos Ware](https://www.amazon.comundefined)

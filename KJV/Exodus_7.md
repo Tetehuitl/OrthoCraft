@@ -1,3 +1,13 @@
+---
+title: Exodus_7
+description: 
+published: true
+date: 2022-02-23T04:39:33.243Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:31.429Z
+---
+
  Book:: [[Exodus]]
  1. And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet. ^1
  2. Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land. ^2

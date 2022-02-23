@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_5
+description: 
+published: true
+date: 2022-02-23T04:28:20.339Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:18.564Z
+---
+
  Book:: [[2 Chronicles]]
  1. Thus all the work that Solomon made for the house of the LORD was finished: and Solomon brought in all the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God. ^1
  2. Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto Jerusalem, to bring up the ark of the covenant of the LORD out of the city of David, which is Zion. ^2

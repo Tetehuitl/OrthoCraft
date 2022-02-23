@@ -1,3 +1,13 @@
+---
+title: Amos_7
+description: 
+published: true
+date: 2022-02-23T04:33:54.895Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:53.101Z
+---
+
  Book:: [[Amos]]
  1. Thus hath the Lord GOD shewed unto me; and, behold, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, lo, it was the latter growth after the king's mowings. ^1
  2. And it came to pass, that when they had made an end of eating the grass of the land, then I said, O Lord GOD, forgive, I beseech thee: by whom shall Jacob arise? for he is small. ^2

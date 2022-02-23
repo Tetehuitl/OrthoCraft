@@ -1,3 +1,13 @@
+---
+title: 1_Timothy_5
+description: 
+published: true
+date: 2022-02-23T04:26:48.534Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:46.714Z
+---
+
  Book:: [[1 Timothy]]
  1. Rebuke not an elder, but intreat him as a father; and the younger men as brethren; ^1
  2. The elder women as mothers; the younger as sisters, with all purity. ^2

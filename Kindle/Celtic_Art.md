@@ -1,3 +1,13 @@
+---
+title: Celtic_Art
+description: 
+published: true
+date: 2022-02-23T05:19:05.802Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:19:04.010Z
+---
+
 # Celtic Art
 
 * Author: [George Bain](https://www.amazon.com/George-Bain/e/B001IO8D9C/ref=dp_byline_cont_ebooks_1)

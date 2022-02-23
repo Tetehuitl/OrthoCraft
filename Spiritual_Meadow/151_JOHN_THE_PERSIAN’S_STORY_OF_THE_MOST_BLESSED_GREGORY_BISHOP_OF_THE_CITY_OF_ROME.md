@@ -1,3 +1,13 @@
+---
+title: 151_JOHN_THE_PERSIAN’S_STORY_OF_THE_MOST_BLESSED_GREGORY_BISHOP_OF_THE_CITY_OF_ROME
+description: 
+published: true
+date: 2022-02-23T05:40:13.351Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:40:11.626Z
+---
+
 [[Spiritual Meadow]]
  
 We encountered Abba John the Persian at the Lavra of Monidia and he told us this about Gregory.the Great, the most blessed Bishop of Rome:  

@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_18
+description: 
+published: true
+date: 2022-02-23T04:25:20.840Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:19.028Z
+---
+
  Book:: [[1 Samuel]]
  1. And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul. ^1
  2. And Saul took him that day, and would let him go no more home to his father's house. ^2

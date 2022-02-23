@@ -1,3 +1,13 @@
+---
+title: Acts_20
+description: 
+published: true
+date: 2022-02-23T04:32:53.152Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:51.304Z
+---
+
  Book:: [[Acts]]
  1. And after the uproar was ceased, Paul called unto him the disciples, and embraced them, and departed for to go into Macedonia. ^1
  2. And when he had gone over those parts, and had given them much exhortation, he came into Greece, ^2

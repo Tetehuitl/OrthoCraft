@@ -1,3 +1,13 @@
+---
+title: Proverbs_27
+description: 
+published: true
+date: 2022-02-23T05:07:45.949Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:44.160Z
+---
+
  Book:: [[Proverbs]]
  1. Boast not thyself of to morrow; for thou knowest not what a day may bring forth. ^1
  2. Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips. ^2

@@ -1,3 +1,13 @@
+---
+title: 1_John_2
+description: 
+published: true
+date: 2022-02-23T04:23:24.446Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:22.635Z
+---
+
  Book:: [[1 John]]
  1. My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous: ^1
  2. And he is the propitiation for our sins: and not for our's only, but also for the sins of the whole world. ^2

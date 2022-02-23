@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_13
+description: 
+published: true
+date: 2022-02-23T04:25:07.440Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:05.638Z
+---
+
  Book:: [[1 Samuel]]
  1. Saul reigned one year; and when he had reigned two years over Israel, ^1
  2. Saul chose him three thousand men of Israel; whereof two thousand were with Saul in Michmash and in mount Bethel, and a thousand were with Jonathan in Gibeah of Benjamin: and the rest of the people he sent every man to his tent. ^2

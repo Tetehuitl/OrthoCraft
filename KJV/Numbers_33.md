@@ -1,3 +1,13 @@
+---
+title: Numbers_33
+description: 
+published: true
+date: 2022-02-23T05:05:55.563Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:53.696Z
+---
+
  Book:: [[Numbers]]
  1. These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron. ^1
  2. And Moses wrote their goings out according to their journeys by the commandment of the LORD: and these are their journeys according to their goings out. ^2

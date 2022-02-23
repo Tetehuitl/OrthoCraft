@@ -1,3 +1,13 @@
+---
+title: Psalm_109
+description: 
+published: true
+date: 2022-02-23T05:08:54.656Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:52.834Z
+---
+
  Book:: [[Psalm]]
  1. Hold not thy peace, O God of my praise; ^1
  2. For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue. ^2

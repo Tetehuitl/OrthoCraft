@@ -1,3 +1,13 @@
+---
+title: Leviticus_9
+description: 
+published: true
+date: 2022-02-23T04:59:41.008Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:39.217Z
+---
+
  Book:: [[Leviticus]]
  1. And it came to pass on the eighth day, that Moses called Aaron and his sons, and the elders of Israel; ^1
  2. And he said unto Aaron, Take thee a young calf for a sin offering, and a ram for a burnt offering, without blemish, and offer them before the LORD. ^2

@@ -1,3 +1,13 @@
+---
+title: Ezekiel_26
+description: 
+published: true
+date: 2022-02-23T04:40:33.681Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:31.867Z
+---
+
  Book:: [[Ezekiel]]
  1. And it came to pass in the eleventh year, in the first day of the month, that the word of the LORD came unto me, saying, ^1
  2. Son of man, because that Tyrus hath said against Jerusalem, Aha, she is broken that was the gates of the people: she is turned unto me: I shall be replenished, now she is laid waste: ^2

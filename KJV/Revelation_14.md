@@ -1,3 +1,13 @@
+---
+title: Revelation_14
+description: 
+published: true
+date: 2022-02-23T05:15:42.827Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:41.021Z
+---
+
  Book:: [[Revelation]]
  1. And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand, having his Father's name written in their foreheads. ^1
  2. And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps: ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_2
+description: 
+published: true
+date: 2022-02-23T05:11:17.111Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:15.357Z
+---
+
  Book:: [[Psalm]]
  1. Why do the heathen rage, and the people imagine a vain thing? ^1
  2. The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, saying, ^2

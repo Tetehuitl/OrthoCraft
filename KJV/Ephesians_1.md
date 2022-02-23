@@ -1,3 +1,13 @@
+---
+title: Ephesians_1
+description: 
+published: true
+date: 2022-02-23T04:37:03.470Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:01.653Z
+---
+
  Book:: [[Ephesians]]
  1. Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus: ^1
  2. Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ. ^2

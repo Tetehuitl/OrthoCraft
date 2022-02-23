@@ -1,3 +1,13 @@
+---
+title: Ezekiel_6
+description: 
+published: true
+date: 2022-02-23T04:41:44.785Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:42.984Z
+---
+
  Book:: [[Ezekiel]]
  1. And the word of the LORD came unto me, saying, ^1
  2. Son of man, set thy face toward the mountains of Israel, and prophesy against them, ^2

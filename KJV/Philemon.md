@@ -1,3 +1,13 @@
+---
+title: Philemon
+description: 
+published: true
+date: 2022-02-23T05:06:31.504Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:40.474Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[Philemon 1]]

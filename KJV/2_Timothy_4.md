@@ -1,3 +1,13 @@
+---
+title: 2_Timothy_4
+description: 
+published: true
+date: 2022-02-23T04:32:07.246Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:05.461Z
+---
+
  Book:: [[2 Timothy]]
  1. I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom; ^1
  2. Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine. ^2

@@ -1,3 +1,13 @@
+---
+title: Jeremiah_37
+description: 
+published: true
+date: 2022-02-23T04:51:27.312Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:25.498Z
+---
+
  Book:: [[Jeremiah]]
  1. And king Zedekiah the son of Josiah reigned instead of Coniah the son of Jehoiakim, whom Nebuchadrezzar king of Babylon made king in the land of Judah. ^1
  2. But neither he, nor his servants, nor the people of the land, did hearken unto the words of the LORD, which he spake by the prophet Jeremiah. ^2

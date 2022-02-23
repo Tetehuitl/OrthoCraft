@@ -1,3 +1,13 @@
+---
+title: Ecclesiastes_5
+description: 
+published: true
+date: 2022-02-23T04:36:48.007Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:46.167Z
+---
+
  Book:: [[Ecclesiastes]]
  1. Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil. ^1
  2. Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few. ^2

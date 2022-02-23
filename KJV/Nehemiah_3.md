@@ -1,3 +1,13 @@
+---
+title: Nehemiah_3
+description: 
+published: true
+date: 2022-02-23T05:04:15.215Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:13.405Z
+---
+
  Book:: [[Nehemiah]]
  1. Then Eliashib the high priest rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel. ^1
  2. And next unto him builded the men of Jericho. And next to them builded Zaccur the son of Imri. ^2

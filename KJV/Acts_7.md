@@ -1,3 +1,13 @@
+---
+title: Acts_7
+description: 
+published: true
+date: 2022-02-23T04:33:28.781Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:26.870Z
+---
+
  Book:: [[Acts]]
  1. Then said the high priest, Are these things so? ^1
  2. And he said, Men, brethren, and fathers, hearken; The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Charran, ^2

@@ -1,3 +1,13 @@
+---
+title: Job_33
+description: 
+published: true
+date: 2022-02-23T04:53:43.161Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:41.365Z
+---
+
  Book:: [[Job]]
  1. Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words. ^1
  2. Behold, now I have opened my mouth, my tongue hath spoken in my mouth. ^2

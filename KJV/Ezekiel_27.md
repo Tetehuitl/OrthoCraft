@@ -1,3 +1,13 @@
+---
+title: Ezekiel_27
+description: 
+published: true
+date: 2022-02-23T04:40:36.378Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:34.590Z
+---
+
  Book:: [[Ezekiel]]
  1. The word of the LORD came again unto me, saying, ^1
  2. Now, thou son of man, take up a lamentation for Tyrus; ^2

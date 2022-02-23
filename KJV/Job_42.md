@@ -1,3 +1,13 @@
+---
+title: Job_42
+description: 
+published: true
+date: 2022-02-23T04:54:10.994Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:09.171Z
+---
+
  Book:: [[Job]]
  1. Then Job answered the LORD, and said, ^1
  2. I know that thou canst do every thing, and that no thought can be withholden from thee. ^2

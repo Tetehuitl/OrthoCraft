@@ -1,3 +1,13 @@
+---
+title: 710-december-1
+description: 
+published: true
+date: 2022-02-23T05:35:43.028Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:35:41.167Z
+---
+
 
 **1. THE HOLY PROPHET NAHUM**
 

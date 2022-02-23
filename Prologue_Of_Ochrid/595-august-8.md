@@ -1,3 +1,13 @@
+---
+title: 595-august-8
+description: 
+published: true
+date: 2022-02-23T05:29:57.318Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:29:55.484Z
+---
+
 
 **1. SAINT EMILIAN THE CONFESSOR, BISHOP OF CYZICUS**
 

@@ -1,3 +1,13 @@
+---
+title: 161_THE_LIFE_OF_ABBA_ISAAC_OF_THEBES_AND_HOW_A_DEMON_APPEARED_TO_HIM_IN_THE_FORM_OF_A_YOUTH
+description: 
+published: true
+date: 2022-02-23T05:40:45.628Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:40:43.887Z
+---
+
 [[Spiritual Meadow]]
  
 There is a city in the Thebaid called Lycos. Six miles from it there is a mountain on which there are monks living: some in caves, others in cells. When we went there we met Abba Isaac the Theban, who said:  

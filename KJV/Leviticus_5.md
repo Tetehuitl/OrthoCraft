@@ -1,3 +1,13 @@
+---
+title: Leviticus_5
+description: 
+published: true
+date: 2022-02-23T04:59:29.747Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:27.960Z
+---
+
  Book:: [[Leviticus]]
  1. And if a soul sin, and hear the voice of swearing, and is a witness, whether he hath seen or known of it; if he do not utter it, then he shall bear his iniquity. ^1
  2. Or if a soul touch any unclean thing, whether it be a carcass of an unclean beast, or a carcass of unclean cattle, or the carcass of unclean creeping things, and if it be hidden from him; he also shall be unclean, and guilty. ^2

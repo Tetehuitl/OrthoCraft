@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_27
+description: 
+published: true
+date: 2022-02-23T04:25:47.483Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:45.690Z
+---
+
  Book:: [[1 Samuel]]
  1. And David said in his heart, I shall now perish one day by the hand of Saul: there is nothing better for me than that I should speedily escape into the land of the Philistines; and Saul shall despair of me, to seek me any more in any coast of Israel: so shall I escape out of his hand. ^1
  2. And David arose, and he passed over with the six hundred men that were with him unto Achish, the son of Maoch, king of Gath. ^2

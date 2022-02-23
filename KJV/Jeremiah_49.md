@@ -1,3 +1,13 @@
+---
+title: Jeremiah_49
+description: 
+published: true
+date: 2022-02-23T04:52:03.418Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:01.545Z
+---
+
  Book:: [[Jeremiah]]
  1. Concerning the Ammonites, thus saith the LORD; Hath Israel no sons? hath he no heir? why then doth their king inherit Gad, and his people dwell in his cities? ^1
  2. Therefore, behold, the days come, saith the LORD, that I will cause an alarm of war to be heard in Rabbah of the Ammonites; and it shall be a desolate heap, and her daughters shall be burned with fire: then shall Israel be heir unto them that were his heirs, saith the LORD. ^2

@@ -1,3 +1,13 @@
+---
+title: Titus_1
+description: 
+published: true
+date: 2022-02-23T05:18:01.545Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:59.753Z
+---
+
  Book:: [[Titus]]
  1. Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness; ^1
  2. In hope of eternal life, which God, that cannot lie, promised before the world began; ^2

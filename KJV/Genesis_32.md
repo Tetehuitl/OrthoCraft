@@ -1,3 +1,13 @@
+---
+title: Genesis_32
+description: 
+published: true
+date: 2022-02-23T04:43:56.049Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:54.218Z
+---
+
  Book:: [[Genesis]]
  1. And Jacob went on his way, and the angels of God met him. ^1
  2. And when Jacob saw them, he said, This is God's host: and he called the name of that place Mahanaim. ^2

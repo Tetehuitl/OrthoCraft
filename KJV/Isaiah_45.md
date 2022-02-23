@@ -1,3 +1,13 @@
+---
+title: Isaiah_45
+description: 
+published: true
+date: 2022-02-23T04:48:30.791Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:28.976Z
+---
+
  Book:: [[Isaiah]]
  1. Thus saith the LORD to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him; and I will loose the loins of kings, to open before him the two leaved gates; and the gates shall not be shut; ^1
  2. I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron: ^2

@@ -1,3 +1,13 @@
+---
+title: Nahum
+description: 
+published: true
+date: 2022-02-23T05:03:45.704Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:28.673Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Nahum 1]]

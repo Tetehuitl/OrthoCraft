@@ -1,3 +1,13 @@
+---
+title: 694-november-15
+description: 
+published: true
+date: 2022-02-23T05:34:57.471Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:34:55.598Z
+---
+
 
 **1. THE HOLY MARTYRS GURIAS, SAMONAS AND ABIBUS**
 

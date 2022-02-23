@@ -1,3 +1,13 @@
+---
+title: Esther_2
+description: 
+published: true
+date: 2022-02-23T04:37:27.118Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:25.318Z
+---
+
  Book:: [[Esther]]
  1. After these things, when the wrath of king Ahasuerus was appeased, he remembered Vashti, and what she had done, and what was decreed against her. ^1
  2. Then said the king's servants that ministered unto him, Let there be fair young virgins sought for the king: ^2

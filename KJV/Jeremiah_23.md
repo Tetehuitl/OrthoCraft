@@ -1,3 +1,13 @@
+---
+title: Jeremiah_23
+description: 
+published: true
+date: 2022-02-23T04:50:45.479Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:43.636Z
+---
+
  Book:: [[Jeremiah]]
  1. Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the LORD. ^1
  2. Therefore thus saith the LORD God of Israel against the pastors that feed my people; Ye have scattered my flock, and driven them away, and have not visited them: behold, I will visit upon you the evil of your doings, saith the LORD. ^2

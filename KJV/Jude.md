@@ -1,3 +1,13 @@
+---
+title: Jude
+description: 
+published: true
+date: 2022-02-23T04:57:02.946Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:01.178Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[Jude 1]]

@@ -1,3 +1,13 @@
+---
+title: Exodus
+description: 
+published: true
+date: 2022-02-23T04:37:49.747Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:37:07.864Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Exodus 1]]

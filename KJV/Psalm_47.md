@@ -1,3 +1,13 @@
+---
+title: Psalm_47
+description: 
+published: true
+date: 2022-02-23T05:12:41.761Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:40.027Z
+---
+
  Book:: [[Psalm]]
  1. O clap your hands, all ye people; shout unto God with the voice of triumph. ^1
  2. For the LORD most high is terrible; he is a great King over all the earth. ^2

@@ -1,3 +1,13 @@
+---
+title: 2_Corinthians_6
+description: 
+published: true
+date: 2022-02-23T04:29:00.491Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:58.737Z
+---
+
  Book:: [[2 Corinthians]]
  1. We then, as workers together with him, beseech you also that ye receive not the grace of God in vain. ^1
  2. (For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.) ^2

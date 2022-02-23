@@ -1,3 +1,13 @@
+---
+title: Daniel_3
+description: 
+published: true
+date: 2022-02-23T04:34:33.176Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:31.356Z
+---
+
  Book:: [[Daniel]]
  1. Nebuchadnezzar the king made an image of gold, whose height was threescore cubits, and the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon. ^1
  2. Then Nebuchadnezzar the king sent to gather together the princes, the governors, and the captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up. ^2

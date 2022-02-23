@@ -1,3 +1,13 @@
+---
+title: Proverbs
+description: 
+published: true
+date: 2022-02-23T05:06:50.124Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:45.893Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Proverbs 1]]

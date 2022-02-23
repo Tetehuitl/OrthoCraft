@@ -1,3 +1,13 @@
+---
+title: Joshua_11
+description: 
+published: true
+date: 2022-02-23T04:56:01.148Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:59.322Z
+---
+
  Book:: [[Joshua]]
  1. And it came to pass, when Jabin king of Hazor had heard those things, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph, ^1
  2. And to the kings that were on the north of the mountains, and of the plains south of Chinneroth, and in the valley, and in the borders of Dor on the west, ^2

@@ -1,3 +1,13 @@
+---
+title: Ezekiel_3
+description: 
+published: true
+date: 2022-02-23T04:40:44.534Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:42.717Z
+---
+
  Book:: [[Ezekiel]]
  1. Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel. ^1
  2. So I opened my mouth, and he caused me to eat that roll. ^2

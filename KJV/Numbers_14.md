@@ -1,3 +1,13 @@
+---
+title: Numbers_14
+description: 
+published: true
+date: 2022-02-23T05:04:55.486Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:53.602Z
+---
+
  Book:: [[Numbers]]
  1. And all the congregation lifted up their voice, and cried; and the people wept that night. ^1
  2. And all the children of Israel murmured against Moses and against Aaron: and the whole congregation said unto them, Would God that we had died in the land of Egypt! or would God we had died in this wilderness! ^2

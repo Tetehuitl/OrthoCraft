@@ -1,3 +1,13 @@
+---
+title: Isaiah_22
+description: 
+published: true
+date: 2022-02-23T04:47:22.200Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:20.383Z
+---
+
  Book:: [[Isaiah]]
  1. The burden of the valley of vision. What aileth thee now, that thou art wholly gone up to the housetops? ^1
  2. Thou that art full of stirs, a tumultuous city, joyous city: thy slain men are not slain with the sword, nor dead in battle. ^2

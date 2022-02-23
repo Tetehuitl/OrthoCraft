@@ -1,3 +1,13 @@
+---
+title: Jeremiah_47
+description: 
+published: true
+date: 2022-02-23T04:51:57.756Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:56.005Z
+---
+
  Book:: [[Jeremiah]]
  1. The word of the LORD that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza. ^1
  2. Thus saith the LORD; Behold, waters rise up out of the north, and shall be an overflowing flood, and shall overflow the land, and all that is therein; the city, and them that dwell therein: then the men shall cry, and all the inhabitants of the land shall howl. ^2

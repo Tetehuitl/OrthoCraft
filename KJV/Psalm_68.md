@@ -1,3 +1,13 @@
+---
+title: Psalm_68
+description: 
+published: true
+date: 2022-02-23T05:13:47.009Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:45.197Z
+---
+
  Book:: [[Psalm]]
  1. Let God arise, let his enemies be scattered: let them also that hate him flee before him. ^1
  2. As smoke is driven away, so drive them away: as wax melteth before the fire, so let the wicked perish at the presence of God. ^2

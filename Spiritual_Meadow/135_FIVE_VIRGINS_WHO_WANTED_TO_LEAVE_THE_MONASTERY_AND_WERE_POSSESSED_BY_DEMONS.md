@@ -1,3 +1,13 @@
+---
+title: 135_FIVE_VIRGINS_WHO_WANTED_TO_LEAVE_THE_MONASTERY_AND_WERE_POSSESSED_BY_DEMONS
+description: 
+published: true
+date: 2022-02-23T05:39:20.702Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:39:18.978Z
+---
+
 [[Spiritual Meadow]]
  
 When Brother Sophronios and I visited the Monastery of the Eunuchs by the holy Jordan, Abba Nicholas, the priest of the monastery, told us this:  

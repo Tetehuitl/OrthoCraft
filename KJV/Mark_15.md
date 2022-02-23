@@ -1,3 +1,13 @@
+---
+title: Mark_15
+description: 
+published: true
+date: 2022-02-23T05:01:27.944Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:26.125Z
+---
+
  Book:: [[Mark]]
  1. And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried him away, and delivered him to Pilate. ^1
  2. And Pilate asked him, Art thou the King of the Jews? And he answering said unto them, Thou sayest it. ^2

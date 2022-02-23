@@ -1,3 +1,13 @@
+---
+title: Psalm_118
+description: 
+published: true
+date: 2022-02-23T05:09:22.548Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:20.759Z
+---
+
  Book:: [[Psalm]]
  1. O give thanks unto the LORD; for he is good: because his mercy endureth for ever. ^1
  2. Let Israel now say, that his mercy endureth for ever. ^2

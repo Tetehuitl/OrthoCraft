@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_11
+description: 
+published: true
+date: 2022-02-23T04:27:02.933Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:01.148Z
+---
+
  Book:: [[2 Chronicles]]
  1. And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin an hundred and fourscore thousand chosen men, which were warriors, to fight against Israel, that he might bring the kingdom again to Rehoboam. ^1
  2. But the word of the LORD came to Shemaiah the man of God, saying, ^2

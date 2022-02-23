@@ -1,3 +1,13 @@
+---
+title: 656-october-8
+description: 
+published: true
+date: 2022-02-23T05:33:02.119Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:00.204Z
+---
+
 
 **1. THE VENERABLE PELAGIA**
 

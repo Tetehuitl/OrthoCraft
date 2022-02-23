@@ -1,3 +1,13 @@
+---
+title: 1d_-_Every_Christian_can_accept_martyrdom_for_the_Faith
+description: 
+published: true
+date: 2022-02-23T05:48:46.778Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:48:44.980Z
+---
+
 - [[Zettels]]
 - [[[[humility]]]] [[[[howToBehave]]]]
 - Source:: [[Prologue of Ochrid]] [web.archive.org](https://web.archive.org/web/20170502031227/http://westserbdio.org/en/prologue/502-may-9)

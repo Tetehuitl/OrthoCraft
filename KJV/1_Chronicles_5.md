@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_5
+description: 
+published: true
+date: 2022-02-23T04:22:20.390Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:18.562Z
+---
+
  Book:: [[1 Chronicles]]
  1. Now the sons of Reuben the firstborn of Israel, (for he was the firstborn; but forasmuch as he defiled his father's bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright. ^1
  2. For Judah prevailed above his brethren, and of him came the chief ruler; but the birthright was Joseph's:) ^2

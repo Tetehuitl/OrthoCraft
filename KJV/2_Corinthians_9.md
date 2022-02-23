@@ -1,3 +1,13 @@
+---
+title: 2_Corinthians_9
+description: 
+published: true
+date: 2022-02-23T04:29:08.460Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:06.685Z
+---
+
  Book:: [[2 Corinthians]]
  1. For as touching the ministering to the saints, it is superfluous for me to write to you: ^1
  2. For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many. ^2

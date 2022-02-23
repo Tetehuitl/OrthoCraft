@@ -1,3 +1,13 @@
+---
+title: Daniel_12
+description: 
+published: true
+date: 2022-02-23T04:34:27.694Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:25.938Z
+---
+
  Book:: [[Daniel]]
  1. And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book. ^1
  2. And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt. ^2

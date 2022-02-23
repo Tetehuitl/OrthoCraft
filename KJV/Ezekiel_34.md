@@ -1,3 +1,13 @@
+---
+title: Ezekiel_34
+description: 
+published: true
+date: 2022-02-23T04:40:58.303Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:56.460Z
+---
+
  Book:: [[Ezekiel]]
  1. And the word of the LORD came unto me, saying, ^1
  2. Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord GOD unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks? ^2

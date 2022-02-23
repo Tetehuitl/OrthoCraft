@@ -1,3 +1,13 @@
+---
+title: Ezekiel_18
+description: 
+published: true
+date: 2022-02-23T04:40:09.106Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:07.290Z
+---
+
  Book:: [[Ezekiel]]
  1. The word of the LORD came unto me again, saying, ^1
  2. What mean ye, that ye use this proverb concerning the land of Israel, saying, The fathers have eaten sour grapes, and the children's teeth are set on edge? ^2

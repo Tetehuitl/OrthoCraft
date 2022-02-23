@@ -1,3 +1,13 @@
+---
+title: Luke_4
+description: 
+published: true
+date: 2022-02-23T05:00:38.231Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:36.376Z
+---
+
  Book:: [[Luke]]
  1. And Jesus being full of the Holy Ghost returned from Jordan, and was led by the Spirit into the wilderness, ^1
  2. Being forty days tempted of the devil. And in those days he did eat nothing: and when they were ended, he afterward hungered. ^2

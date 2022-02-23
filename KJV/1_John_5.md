@@ -1,3 +1,13 @@
+---
+title: 1_John_5
+description: 
+published: true
+date: 2022-02-23T04:23:32.328Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:30.516Z
+---
+
  Book:: [[1 John]]
  1. Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him. ^1
  2. By this we know that we love the children of God, when we love God, and keep his commandments. ^2

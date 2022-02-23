@@ -1,3 +1,13 @@
+---
+title: 186_THE_LIFE_OF_MoscHos_THE_MERCHANT_OF_TYRE
+description: 
+published: true
+date: 2022-02-23T05:42:05.672Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:42:03.872Z
+---
+
 [[Spiritual Meadow]]
  
 At the community of the Cave of Saint Sabas, we visited Abba Eustathios, the higoumen. He told us:  

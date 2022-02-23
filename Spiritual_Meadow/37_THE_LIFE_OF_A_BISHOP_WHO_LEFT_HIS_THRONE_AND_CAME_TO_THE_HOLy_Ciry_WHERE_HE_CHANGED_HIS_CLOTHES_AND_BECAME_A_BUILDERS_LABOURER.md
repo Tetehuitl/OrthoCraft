@@ -1,3 +1,13 @@
+---
+title: 37_THE_LIFE_OF_A_BISHOP_WHO_LEFT_HIS_THRONE_AND_CAME_TO_THE_HOLy_Ciry_WHERE_HE_CHANGED_HIS_CLOTHES_AND_BECAME_A_BUILDERS_LABOURER
+description: 
+published: true
+date: 2022-02-23T05:44:48.947Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:44:47.158Z
+---
+
 [[Spiritual Meadow]]
  
 One of the fathers told of a bishop who left his own diocese and came into Theoupolis, where he worked as Jabourer. At that time the Count of the East was Ephraim, a merciful and compassionate man; so much so that he was rebuilding the public edifices (the city having been dilapidated by an earthquake). In his sleep one night Ephraim saw the bishop lying down and a column of fire standing over him which reached up into heaven. As he had this vision not once, but several times, Ephraim was greatly amazed, for it was an awesome and truly astounding apparition, He asked himself what it might be, for he had no idea the workman was a bishop. How could he have known the labourer was a bishop, in view of his uncombed hair and shabby clothing? This was a poverty-stricken man, broken down by much endurance, much asceticism and labour, plus the continuous burden of much toil. One day Ephraim sent for the labourer who was once a bishop, to learn from him who he was. He took him aside and began asking him where he was from and what his name was. The sometime bishop said: ‘I am one of the poor men of this city. For lack of any support I work as a labourer and God sustains me by my toil.’ God prompted Ephraim to answer him: ‘Believe me, I shall not Jet you go until you tell me the whole truth about yourself’. Since he could conceal himself no longer, the bishop said to him: ‘Give me your word that you will never tell anybody what you are about to hear from me as long as I am still alive, and I will tell you about myself. But I will not tell you my name or the name of my city’. The godly Ephraim swore to him: ‘I will not tell anybody what you are about to tell me for as Jong as it pleases God to keep you in this life’. The other said to him: ‘I am a bishop. At the behest of God, I left my diocese and  

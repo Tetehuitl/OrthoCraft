@@ -1,3 +1,13 @@
+---
+title: 682-november-3
+description: 
+published: true
+date: 2022-02-23T05:34:20.971Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:34:19.108Z
+---
+
 
 **1. THE HIEROMARTYR ACEPSIMAS, BISHOP OF NAESON, AND OTHERS WITH HIM**
 

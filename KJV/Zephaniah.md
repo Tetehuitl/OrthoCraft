@@ -1,3 +1,13 @@
+---
+title: Zephaniah
+description: 
+published: true
+date: 2022-02-23T05:18:52.487Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:39:07.912Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Zephaniah 1]]

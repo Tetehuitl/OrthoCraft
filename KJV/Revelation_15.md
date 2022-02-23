@@ -1,3 +1,13 @@
+---
+title: Revelation_15
+description: 
+published: true
+date: 2022-02-23T05:15:45.643Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:43.903Z
+---
+
  Book:: [[Revelation]]
  1. And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God. ^1
  2. And I saw as it were a sea of glass mingled with fire: and them that had gotten the victory over the beast, and over his image, and over his mark, and over the number of his name, stand on the sea of glass, having the harps of God. ^2

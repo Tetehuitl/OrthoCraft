@@ -1,3 +1,13 @@
+---
+title: Psalm_133
+description: 
+published: true
+date: 2022-02-23T05:10:09.917Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:08.194Z
+---
+
  Book:: [[Psalm]]
  1. Behold, how good and how pleasant it is for brethren to dwell together in unity! ^1
  2. It is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: that went down to the skirts of his garments; ^2

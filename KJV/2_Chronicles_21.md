@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_21
+description: 
+published: true
+date: 2022-02-23T04:27:32.202Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:30.380Z
+---
+
  Book:: [[2 Chronicles]]
  1. Now Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David. And Jehoram his son reigned in his stead. ^1
  2. And he had brethren the sons of Jehoshaphat, Azariah, and Jehiel, and Zechariah, and Azariah, and Michael, and Shephatiah: all these were the sons of Jehoshaphat king of Israel. ^2

@@ -1,3 +1,13 @@
+---
+title: Numbers_6
+description: 
+published: true
+date: 2022-02-23T05:06:12.609Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:10.814Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Speak unto the children of Israel, and say unto them, When either man or woman shall separate themselves to vow a vow of a Nazarite, to separate themselves unto the LORD: ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_79
+description: 
+published: true
+date: 2022-02-23T05:14:21.220Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:19.433Z
+---
+
  Book:: [[Psalm]]
  1. O god, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps. ^1
  2. The dead bodies of thy servants have they given to be meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth. ^2

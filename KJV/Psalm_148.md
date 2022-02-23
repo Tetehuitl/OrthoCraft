@@ -1,3 +1,13 @@
+---
+title: Psalm_148
+description: 
+published: true
+date: 2022-02-23T05:10:54.670Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:52.918Z
+---
+
  Book:: [[Psalm]]
  1. Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights. ^1
  2. Praise ye him, all his angels: praise ye him, all his hosts. ^2

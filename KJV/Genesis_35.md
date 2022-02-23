@@ -1,3 +1,13 @@
+---
+title: Genesis_35
+description: 
+published: true
+date: 2022-02-23T04:44:04.282Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:02.455Z
+---
+
  Book:: [[Genesis]]
  1. And God said unto Jacob, Arise, go up to Bethel, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau thy brother. ^1
  2. Then Jacob said unto his household, and to all that were with him, Put away the strange gods that are among you, and be clean, and change your garments: ^2

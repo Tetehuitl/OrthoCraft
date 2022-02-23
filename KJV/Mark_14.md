@@ -1,3 +1,13 @@
+---
+title: Mark_14
+description: 
+published: true
+date: 2022-02-23T05:01:25.103Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:23.209Z
+---
+
  Book:: [[Mark]]
  1. After two days was the feast of the passover, and of unleavened bread: and the chief priests and the scribes sought how they might take him by craft, and put him to death. ^1
  2. But they said, Not on the feast day, lest there be an uproar of the people. ^2

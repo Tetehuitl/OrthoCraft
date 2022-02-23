@@ -1,3 +1,13 @@
+---
+title: Source_-_Template
+description: 
+published: true
+date: 2022-02-23T05:48:26.740Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:48:25.007Z
+---
+
 - [[Author]]:
 	- [[Category]]:
 	- [[Subject]]:

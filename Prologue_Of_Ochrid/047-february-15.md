@@ -1,3 +1,13 @@
+---
+title: 047-february-15
+description: 
+published: true
+date: 2022-02-23T05:22:49.256Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:22:47.370Z
+---
+
 
 **1. THE HOLY APOSTLE ONESIMUS**
 

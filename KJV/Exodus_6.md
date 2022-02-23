@@ -1,3 +1,13 @@
+---
+title: Exodus_6
+description: 
+published: true
+date: 2022-02-23T04:39:30.462Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:28.646Z
+---
+
  Book:: [[Exodus]]
  1. Then the LORD said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land. ^1
  2. And God spake unto Moses, and said unto him, I am the LORD: ^2

@@ -1,3 +1,13 @@
+---
+title: Mark_11
+description: 
+published: true
+date: 2022-02-23T05:01:16.520Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:14.718Z
+---
+
  Book:: [[Mark]]
  1. And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples, ^1
  2. And saith unto them, Go your way into the village over against you: and as soon as ye be entered into it, ye shall find a colt tied, whereon never man sat; loose him, and bring him. ^2

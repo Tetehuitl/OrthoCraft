@@ -1,3 +1,13 @@
+---
+title: Judges_2
+description: 
+published: true
+date: 2022-02-23T04:57:40.870Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:39.062Z
+---
+
  Book:: [[Judges]]
  1. And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you. ^1
  2. And ye shall make no league with the inhabitants of this land; ye shall throw down their altars: but ye have not obeyed my voice: why have ye done this? ^2

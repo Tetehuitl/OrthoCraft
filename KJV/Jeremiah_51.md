@@ -1,3 +1,13 @@
+---
+title: Jeremiah_51
+description: 
+published: true
+date: 2022-02-23T04:52:11.902Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:10.014Z
+---
+
  Book:: [[Jeremiah]]
  1. Thus saith the LORD; Behold, I will raise up against Babylon, and against them that dwell in the midst of them that rise up against me, a destroying wind; ^1
  2. And will send unto Babylon fanners, that shall fan her, and shall empty her land: for in the day of trouble they shall be against her round about. ^2

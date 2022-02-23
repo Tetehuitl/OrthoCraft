@@ -1,3 +1,13 @@
+---
+title: Hosea_1
+description: 
+published: true
+date: 2022-02-23T04:46:02.611Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:00.841Z
+---
+
  Book:: [[Hosea]]
  1. The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel. ^1
  2. The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD. ^2

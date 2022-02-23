@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_28
+description: 
+published: true
+date: 2022-02-23T04:35:49.165Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:47.292Z
+---
+
  Book:: [[Deuteronomy]]
  1. And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe and to do all his commandments which I command thee this day, that the LORD thy God will set thee on high above all nations of the earth: ^1
  2. And all these blessings shall come on thee, and overtake thee, if thou shalt hearken unto the voice of the LORD thy God. ^2

@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_5
+description: 
+published: true
+date: 2022-02-23T04:36:13.606Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:11.756Z
+---
+
  Book:: [[Deuteronomy]]
  1. And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them. ^1
  2. The LORD our God made a covenant with us in Horeb. ^2

@@ -1,3 +1,13 @@
+---
+title: 1_Samuel
+description: 
+published: true
+date: 2022-02-23T04:24:54.075Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:51.600Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[1 Samuel 1]]

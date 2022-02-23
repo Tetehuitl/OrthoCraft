@@ -1,3 +1,13 @@
+---
+title: Matthew_20
+description: 
+published: true
+date: 2022-02-23T05:02:33.049Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:31.253Z
+---
+
  Book:: [[Matthew]]
  1. For the kingdom of heaven is like unto a man that is an householder, which went out early in the morning to hire labourers into his vineyard. ^1
  2. And when he had agreed with the labourers for a penny a day, he sent them into his vineyard. ^2

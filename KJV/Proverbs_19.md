@@ -1,3 +1,13 @@
+---
+title: Proverbs_19
+description: 
+published: true
+date: 2022-02-23T05:07:20.385Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:18.589Z
+---
+
  Book:: [[Proverbs]]
  1. Better is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool. ^1
  2. Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth. ^2

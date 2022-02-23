@@ -1,3 +1,13 @@
+---
+title: Numbers_4
+description: 
+published: true
+date: 2022-02-23T05:06:06.968Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:05.124Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses and unto Aaron, saying, ^1
  2. Take the sum of the sons of Kohath from among the sons of Levi, after their families, by the house of their fathers, ^2

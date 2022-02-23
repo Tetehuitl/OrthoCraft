@@ -1,3 +1,13 @@
+---
+title: Genesis_48
+description: 
+published: true
+date: 2022-02-23T04:44:42.765Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:40.943Z
+---
+
  Book:: [[Genesis]]
  1. And it came to pass after these things, that one told Joseph, Behold, thy father is sick: and he took with him his two sons, Manasseh and Ephraim. ^1
  2. And one told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed. ^2

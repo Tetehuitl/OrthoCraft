@@ -1,3 +1,13 @@
+---
+title: Leviticus_2
+description: 
+published: true
+date: 2022-02-23T04:58:58.747Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:56.963Z
+---
+
  Book:: [[Leviticus]]
  1. And when any will offer a meat offering unto the LORD, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon: ^1
  2. And he shall bring it to Aaron's sons the priests: and he shall take thereout his handful of the flour thereof, and of the oil thereof, with all the frankincense thereof; and the priest shall burn the memorial of it upon the altar, to be an offering made by fire, of a sweet savor unto the LORD: ^2

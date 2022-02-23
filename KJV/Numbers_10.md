@@ -1,3 +1,13 @@
+---
+title: Numbers_10
+description: 
+published: true
+date: 2022-02-23T05:04:44.058Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:42.211Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps. ^2

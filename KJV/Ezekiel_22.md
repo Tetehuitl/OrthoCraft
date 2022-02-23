@@ -1,3 +1,13 @@
+---
+title: Ezekiel_22
+description: 
+published: true
+date: 2022-02-23T04:40:22.747Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:20.869Z
+---
+
  Book:: [[Ezekiel]]
  1. Moreover the word of the LORD came unto me, saying, ^1
  2. Now, thou son of man, wilt thou judge, wilt thou judge the bloody city? yea, thou shalt shew her all her abominations. ^2

@@ -1,3 +1,13 @@
+---
+title: 670-october-22
+description: 
+published: true
+date: 2022-02-23T05:33:44.669Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:42.787Z
+---
+
 
 **1. SAINT ABERCIUS, EQUAL TO THE APOSTLES**
 

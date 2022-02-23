@@ -1,3 +1,13 @@
+---
+title: Joshua_6
+description: 
+published: true
+date: 2022-02-23T04:56:51.742Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:49.892Z
+---
+
  Book:: [[Joshua]]
  1. Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in. ^1
  2. And the LORD said unto Joshua, See, I have given into thine hand Jericho, and the king thereof, and the mighty men of valor. ^2

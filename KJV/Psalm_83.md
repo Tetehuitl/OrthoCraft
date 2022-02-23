@@ -1,3 +1,13 @@
+---
+title: Psalm_83
+description: 
+published: true
+date: 2022-02-23T05:14:35.311Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:33.566Z
+---
+
  Book:: [[Psalm]]
  1. Keep not thou silence, O God: hold not thy peace, and be not still, O God. ^1
  2. For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head. ^2

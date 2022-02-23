@@ -1,3 +1,13 @@
+---
+title: Psalm_26
+description: 
+published: true
+date: 2022-02-23T05:11:36.862Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:35.118Z
+---
+
  Book:: [[Psalm]]
  1. Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; therefore I shall not slide. ^1
  2. Examine me, O LORD, and prove me; try my reins and my heart. ^2

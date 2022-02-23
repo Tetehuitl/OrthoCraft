@@ -1,3 +1,13 @@
+---
+title: Mark_9
+description: 
+published: true
+date: 2022-02-23T05:01:53.513Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:51.692Z
+---
+
  Book:: [[Mark]]
  1. And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power. ^1
  2. And after six days Jesus taketh with him Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them. ^2

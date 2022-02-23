@@ -1,3 +1,13 @@
+---
+title: Romans_3
+description: 
+published: true
+date: 2022-02-23T05:16:59.693Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:57.854Z
+---
+
  Book:: [[Romans]]
  1. What advantage then hath the Jew? or what profit is there of circumcision? ^1
  2. Much every way: chiefly, because that unto them were committed the oracles of God. ^2

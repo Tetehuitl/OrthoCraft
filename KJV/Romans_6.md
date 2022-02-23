@@ -1,3 +1,13 @@
+---
+title: Romans_6
+description: 
+published: true
+date: 2022-02-23T05:17:08.684Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:06.886Z
+---
+
  Book:: [[Romans]]
  1. What shall we say then? Shall we continue in sin, that grace may abound? ^1
  2. God forbid. How shall we, that are dead to sin, live any longer therein? ^2

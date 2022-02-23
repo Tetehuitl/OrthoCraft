@@ -1,3 +1,13 @@
+---
+title: Romans_10
+description: 
+published: true
+date: 2022-02-23T05:16:36.590Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:34.815Z
+---
+
  Book:: [[Romans]]
  1. Brethren, my heart's desire and prayer to God for Israel is, that they might be saved. ^1
  2. For I bear them record that they have a zeal of God, but not according to knowledge. ^2

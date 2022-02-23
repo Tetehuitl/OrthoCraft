@@ -1,3 +1,13 @@
+---
+title: Job_8
+description: 
+published: true
+date: 2022-02-23T04:54:22.070Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:20.289Z
+---
+
  Book:: [[Job]]
  1. Then answered Bildad the Shuhite, and said, ^1
  2. How long wilt thou speak these things? and how long shall the words of thy mouth be like a strong wind? ^2

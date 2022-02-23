@@ -1,3 +1,13 @@
+---
+title: Matthew_16
+description: 
+published: true
+date: 2022-02-23T05:02:18.941Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:17.141Z
+---
+
  Book:: [[Matthew]]
  1. The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven. ^1
  2. He answered and said unto them, When it is evening, ye say, It will be fair weather: for the sky is red. ^2

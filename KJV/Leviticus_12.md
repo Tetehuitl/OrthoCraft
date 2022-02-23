@@ -1,3 +1,13 @@
+---
+title: Leviticus_12
+description: 
+published: true
+date: 2022-02-23T04:58:36.114Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:34.369Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean. ^2

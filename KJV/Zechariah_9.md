@@ -1,3 +1,13 @@
+---
+title: Zechariah_9
+description: 
+published: true
+date: 2022-02-23T05:18:49.523Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:47.751Z
+---
+
  Book:: [[Zechariah]]
  1. The burden of the word of the LORD in the land of Hadrach, and Damascus shall be the rest thereof: when the eyes of man, as of all the tribes of Israel, shall be toward the LORD. ^1
  2. And Hamath also shall border thereby; Tyrus, and Zidon, though it be very wise. ^2

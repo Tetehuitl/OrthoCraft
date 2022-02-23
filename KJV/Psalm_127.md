@@ -1,3 +1,13 @@
+---
+title: Psalm_127
+description: 
+published: true
+date: 2022-02-23T05:09:50.490Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:48.752Z
+---
+
  Book:: [[Psalm]]
  1. Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain. ^1
  2. It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep. ^2

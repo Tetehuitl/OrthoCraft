@@ -1,3 +1,13 @@
+---
+title: Jeremiah_42
+description: 
+published: true
+date: 2022-02-23T04:51:43.973Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:42.157Z
+---
+
  Book:: [[Jeremiah]]
  1. Then all the captains of the forces, and Johanan the son of Kareah, and Jezaniah the son of Hoshaiah, and all the people from the least even unto the greatest, came near, ^1
  2. And said unto Jeremiah the prophet, Let, we beseech thee, our supplication be accepted before thee, and pray for us unto the LORD thy God, even for all this remnant; (for we are left but a few of many, as thine eyes do behold us:) ^2

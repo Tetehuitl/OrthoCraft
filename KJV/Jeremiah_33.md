@@ -1,3 +1,13 @@
+---
+title: Jeremiah_33
+description: 
+published: true
+date: 2022-02-23T04:51:16.203Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:14.379Z
+---
+
  Book:: [[Jeremiah]]
  1. Moreover the word of the LORD came unto Jeremiah the second time, while he was yet shut up in the court of the prison, saying, ^1
  2. Thus saith the LORD the maker thereof, the LORD that formed it, to establish it; the LORD is his name; ^2

@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_1
+description: 
+published: true
+date: 2022-02-23T04:34:54.952Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:53.106Z
+---
+
  Book:: [[Deuteronomy]]
  1. These be the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab. ^1
  2. (There are eleven days' journey from Horeb by the way of mount Seir unto Kadeshbarnea.) ^2

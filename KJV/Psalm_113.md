@@ -1,3 +1,13 @@
+---
+title: Psalm_113
+description: 
+published: true
+date: 2022-02-23T05:09:08.500Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:06.740Z
+---
+
  Book:: [[Psalm]]
  1. Praise ye the LORD. Praise, O ye servants of the LORD, praise the name of the LORD. ^1
  2. Blessed be the name of the LORD from this time forth and for evermore. ^2

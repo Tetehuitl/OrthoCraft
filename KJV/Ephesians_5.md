@@ -1,3 +1,13 @@
+---
+title: Ephesians_5
+description: 
+published: true
+date: 2022-02-23T04:37:14.263Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:12.415Z
+---
+
  Book:: [[Ephesians]]
  1. Be ye therefore followers of God, as dear children; ^1
  2. And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour. ^2

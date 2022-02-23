@@ -1,3 +1,13 @@
+---
+title: Amos_9
+description: 
+published: true
+date: 2022-02-23T04:34:00.203Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:58.397Z
+---
+
  Book:: [[Amos]]
  1. I saw the LORD standing upon the altar: and he said, Smite the lintel of the door, that the posts may shake: and cut them in the head, all of them; and I will slay the last of them with the sword: he that fleeth of them shall not flee away, and he that escapeth of them shall not be delivered. ^1
  2. Though they dig into hell, thence shall mine hand take them; though they climb up to heaven, thence will I bring them down: ^2

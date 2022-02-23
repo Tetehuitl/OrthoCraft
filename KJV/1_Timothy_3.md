@@ -1,3 +1,13 @@
+---
+title: 1_Timothy_3
+description: 
+published: true
+date: 2022-02-23T04:26:43.240Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:41.449Z
+---
+
  Book:: [[1 Timothy]]
  1. This is a true saying, If a man desire the office of a bishop, he desireth a good work. ^1
  2. A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach; ^2

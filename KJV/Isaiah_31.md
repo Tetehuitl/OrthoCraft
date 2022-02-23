@@ -1,3 +1,13 @@
+---
+title: Isaiah_31
+description: 
+published: true
+date: 2022-02-23T04:47:49.528Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:47.773Z
+---
+
  Book:: [[Isaiah]]
  1. Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because they are many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the LORD! ^1
  2. Yet he also is wise, and will bring evil, and will not call back his words: but will arise against the house of the evildoers, and against the help of them that work iniquity. ^2

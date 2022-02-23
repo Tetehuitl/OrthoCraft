@@ -1,3 +1,13 @@
+---
+title: Exodus_14
+description: 
+published: true
+date: 2022-02-23T04:38:05.303Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:03.470Z
+---
+
  Book:: [[Exodus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Speak unto the children of Israel, that they turn and encamp before Pihahiroth, between Migdol and the sea, over against Baalzephon: before it shall ye encamp by the sea. ^2

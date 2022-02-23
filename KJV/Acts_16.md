@@ -1,3 +1,13 @@
+---
+title: Acts_16
+description: 
+published: true
+date: 2022-02-23T04:32:39.628Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:37.787Z
+---
+
  Book:: [[Acts]]
  1. Then came he to Derbe and Lystra: and, behold, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father was a Greek: ^1
  2. Which was well reported of by the brethren that were at Lystra and Iconium. ^2

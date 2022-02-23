@@ -1,3 +1,13 @@
+---
+title: Psalm_25
+description: 
+published: true
+date: 2022-02-23T05:11:34.059Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:32.274Z
+---
+
  Book:: [[Psalm]]
  1. Unto thee, O LORD, do I lift up my soul. ^1
  2. O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me. ^2

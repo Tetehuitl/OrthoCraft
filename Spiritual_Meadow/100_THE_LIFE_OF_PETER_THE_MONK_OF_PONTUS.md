@@ -1,3 +1,13 @@
+---
+title: 100_THE_LIFE_OF_PETER_THE_MONK_OF_PONTUS
+description: 
+published: true
+date: 2022-02-23T05:37:29.264Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:37:27.432Z
+---
+
 [[Spiritual Meadow]]
  
 Again the fathers of the same place told us that there had been a priest there whose name was Peter, a native of Pontus, who did many great and wondrous deeds. Theodore (who became Bishop of Rossos) told us something about this elder:  

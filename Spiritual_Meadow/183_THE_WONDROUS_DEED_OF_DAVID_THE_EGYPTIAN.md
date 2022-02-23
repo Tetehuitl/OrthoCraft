@@ -1,3 +1,13 @@
+---
+title: 183_THE_WONDROUS_DEED_OF_DAVID_THE_EGYPTIAN
+description: 
+published: true
+date: 2022-02-23T05:41:56.589Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:41:54.798Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Theodore the Cilician said:  

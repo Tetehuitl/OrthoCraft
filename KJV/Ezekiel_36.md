@@ -1,3 +1,13 @@
+---
+title: Ezekiel_36
+description: 
+published: true
+date: 2022-02-23T04:41:03.826Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:01.954Z
+---
+
  Book:: [[Ezekiel]]
  1. Also, thou son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the LORD: ^1
  2. Thus saith the Lord GOD; Because the enemy hath said against you, Aha, even the ancient high places are ours in possession: ^2

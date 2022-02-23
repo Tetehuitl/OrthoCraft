@@ -1,3 +1,13 @@
+---
+title: 2_Timothy_1
+description: 
+published: true
+date: 2022-02-23T04:31:59.305Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:57.530Z
+---
+
  Book:: [[2 Timothy]]
  1. Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus, ^1
  2. To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord. ^2

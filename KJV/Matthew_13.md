@@ -1,3 +1,13 @@
+---
+title: Matthew_13
+description: 
+published: true
+date: 2022-02-23T05:02:10.427Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:08.581Z
+---
+
  Book:: [[Matthew]]
  1. The same day went Jesus out of the house, and sat by the sea side. ^1
  2. And great multitudes were gathered together unto him, so that he went into a ship, and sat; and the whole multitude stood on the shore. ^2

@@ -1,3 +1,13 @@
+---
+title: Ezekiel_25
+description: 
+published: true
+date: 2022-02-23T04:40:30.935Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:29.164Z
+---
+
  Book:: [[Ezekiel]]
  1. The word of the LORD came again unto me, saying, ^1
  2. Son of man, set thy face against the Ammonites, and prophesy against them; ^2

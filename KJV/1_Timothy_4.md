@@ -1,3 +1,13 @@
+---
+title: 1_Timothy_4
+description: 
+published: true
+date: 2022-02-23T04:26:45.867Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:44.087Z
+---
+
  Book:: [[1 Timothy]]
  1. Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils; ^1
  2. Speaking lies in hypocrisy; having their conscience seared with a hot iron; ^2

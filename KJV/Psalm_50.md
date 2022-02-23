@@ -1,3 +1,13 @@
+---
+title: Psalm_50
+description: 
+published: true
+date: 2022-02-23T05:12:53.081Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:51.269Z
+---
+
  Book:: [[Psalm]]
  1. The mighty God, even the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof. ^1
  2. Out of Zion, the perfection of beauty, God hath shined. ^2

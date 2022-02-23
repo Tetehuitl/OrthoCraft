@@ -1,3 +1,13 @@
+---
+title: Genesis_14
+description: 
+published: true
+date: 2022-02-23T04:43:00.962Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:59.141Z
+---
+
  Book:: [[Genesis]]
  1. And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations; ^1
  2. That these made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar. ^2

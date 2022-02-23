@@ -1,3 +1,13 @@
+---
+title: Hebrews_8
+description: 
+published: true
+date: 2022-02-23T04:45:55.058Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:45:53.248Z
+---
+
  Book:: [[Hebrews]]
  1. Now of the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens; ^1
  2. A minister of the sanctuary, and of the true tabernacle, which the Lord pitched, and not man. ^2

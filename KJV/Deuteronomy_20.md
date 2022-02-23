@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_20
+description: 
+published: true
+date: 2022-02-23T04:35:27.489Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:25.700Z
+---
+
  Book:: [[Deuteronomy]]
  1. When thou goest out to battle against thine enemies, and seest horses, and chariots, and a people more than thou, be not afraid of them: for the LORD thy God is with thee, which brought thee up out of the land of Egypt. ^1
  2. And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people, ^2

@@ -1,3 +1,13 @@
+---
+title: Isaiah_18
+description: 
+published: true
+date: 2022-02-23T04:47:08.523Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:06.777Z
+---
+
  Book:: [[Isaiah]]
  1. Woe to the land shadowing with wings, which is beyond the rivers of Ethiopia: ^1
  2. That sendeth ambassadors by the sea, even in vessels of bulrushes upon the waters, saying, Go, ye swift messengers, to a nation scattered and peeled, to a people terrible from their beginning hitherto; a nation meted out and trodden down, whose land the rivers have spoiled! ^2

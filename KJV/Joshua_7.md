@@ -1,3 +1,13 @@
+---
+title: Joshua_7
+description: 
+published: true
+date: 2022-02-23T04:56:54.529Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:52.704Z
+---
+
  Book:: [[Joshua]]
  1. But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the LORD was kindled against the children of Israel. ^1
  2. And Joshua sent men from Jericho to Ai, which is beside Bethaven, on the east of Bethel, and spake unto them, saying, Go up and view the country. And the men went up and viewed Ai. ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_97
+description: 
+published: true
+date: 2022-02-23T05:15:17.794Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:16.012Z
+---
+
  Book:: [[Psalm]]
  1. The LORD reigneth; let the earth rejoice; let the multitude of isles be glad thereof. ^1
  2. Clouds and darkness are round about him: righteousness and judgment are the habitation of his throne. ^2

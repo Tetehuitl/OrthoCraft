@@ -1,3 +1,13 @@
+---
+title: 663-october-15
+description: 
+published: true
+date: 2022-02-23T05:33:23.436Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:21.588Z
+---
+
 
 **1. THE VENERABLE MARTYR LUCIAN, PRESBYTER OF ANTIOCH**
 

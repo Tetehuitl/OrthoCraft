@@ -1,3 +1,13 @@
+---
+title: Exodus_34
+description: 
+published: true
+date: 2022-02-23T04:39:05.501Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:03.683Z
+---
+
  Book:: [[Exodus]]
  1. And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon these tables the words that were in the first tables, which thou brakest. ^1
  2. And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount. ^2

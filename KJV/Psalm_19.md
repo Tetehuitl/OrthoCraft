@@ -1,3 +1,13 @@
+---
+title: Psalm_19
+description: 
+published: true
+date: 2022-02-23T05:11:14.320Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:12.559Z
+---
+
  Book:: [[Psalm]]
  1. The heavens declare the glory of God; and the firmament sheweth his handywork. ^1
  2. Day unto day uttereth speech, and night unto night sheweth knowledge. ^2

@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_22
+description: 
+published: true
+date: 2022-02-23T04:25:34.159Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:32.338Z
+---
+
  Book:: [[1 Samuel]]
  1. David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father's house heard it, they went down thither to him. ^1
  2. And every one that was in distress, and every one that was in debt, and every one that was discontented, gathered themselves unto him; and he became a captain over them: and there were with him about four hundred men. ^2

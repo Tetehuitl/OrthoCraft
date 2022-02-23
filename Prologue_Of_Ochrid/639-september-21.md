@@ -1,3 +1,13 @@
+---
+title: 639-september-21
+description: 
+published: true
+date: 2022-02-23T05:32:10.349Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:32:08.513Z
+---
+
 
 **1. THE HOLY APOSTLE QUADRATUS**
 

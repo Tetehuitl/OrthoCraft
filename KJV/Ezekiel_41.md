@@ -1,3 +1,13 @@
+---
+title: Ezekiel_41
+description: 
+published: true
+date: 2022-02-23T04:41:20.174Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:18.350Z
+---
+
  Book:: [[Ezekiel]]
  1. Afterward he brought me to the temple, and measured the posts, six cubits broad on the one side, and six cubits broad on the other side, which was the breadth of the tabernacle. ^1
  2. And the breadth of the door was ten cubits; and the sides of the door were five cubits on the one side, and five cubits on the other side: and he measured the length thereof, forty cubits: and the breadth, twenty cubits. ^2

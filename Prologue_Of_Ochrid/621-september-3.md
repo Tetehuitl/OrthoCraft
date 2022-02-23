@@ -1,3 +1,13 @@
+---
+title: 621-september-3
+description: 
+published: true
+date: 2022-02-23T05:31:15.859Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:31:13.992Z
+---
+
 
 **1. THE HIEROMARTYR (PRIESTLY-MARTYR) ANTHIMUS**
 

@@ -1,3 +1,13 @@
+---
+title: Zechariah_14
+description: 
+published: true
+date: 2022-02-23T05:18:26.647Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:24.809Z
+---
+
  Book:: [[Zechariah]]
  1. Behold, the day of the LORD cometh, and thy spoil shall be divided in the midst of thee. ^1
  2. For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished; and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city. ^2

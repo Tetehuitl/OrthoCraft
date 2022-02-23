@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_7
+description: 
+published: true
+date: 2022-02-23T04:31:37.937Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:36.102Z
+---
+
  Book:: [[2 Samuel]]
  1. And it came to pass, when the king sat in his house, and the LORD had given him rest round about from all his enemies; ^1
  2. That the king said unto Nathan the prophet, See now, I dwell in an house of cedar, but the ark of God dwelleth within curtains. ^2

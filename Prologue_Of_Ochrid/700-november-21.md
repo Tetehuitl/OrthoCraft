@@ -1,3 +1,13 @@
+---
+title: 700-november-21
+description: 
+published: true
+date: 2022-02-23T05:35:15.507Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:35:13.651Z
+---
+
 
 **1. THE ENTRY INTO THE TEMPLE OF THE MOST-HOLY THEOTOKOS**
 

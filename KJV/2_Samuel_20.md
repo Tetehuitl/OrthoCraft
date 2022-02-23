@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_20
+description: 
+published: true
+date: 2022-02-23T04:31:13.608Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:11.772Z
+---
+
  Book:: [[2 Samuel]]
  1. And there happened to be there a man of Belial, whose name was Sheba, the son of Bichri, a Benjamite: and he blew a trumpet, and said, We have no part in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel. ^1
  2. So every man of Israel went up from after David, and followed Sheba the son of Bichri: but the men of Judah clave unto their king, from Jordan even to Jerusalem. ^2

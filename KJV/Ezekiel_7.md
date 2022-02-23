@@ -1,3 +1,13 @@
+---
+title: Ezekiel_7
+description: 
+published: true
+date: 2022-02-23T04:41:47.498Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:45.692Z
+---
+
  Book:: [[Ezekiel]]
  1. Moreover the word of the LORD came unto me, saying, ^1
  2. Also, thou son of man, thus saith the Lord GOD unto the land of Israel; An end, the end is come upon the four corners of the land. ^2

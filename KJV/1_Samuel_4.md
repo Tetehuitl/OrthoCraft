@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_4
+description: 
+published: true
+date: 2022-02-23T04:26:03.318Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:01.489Z
+---
+
  Book:: [[1 Samuel]]
  1. And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Ebenezer: and the Philistines pitched in Aphek. ^1
  2. And the Philistines put themselves in array against Israel: and when they joined battle, Israel was smitten before the Philistines: and they slew of the army in the field about four thousand men. ^2

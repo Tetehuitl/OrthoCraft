@@ -1,3 +1,13 @@
+---
+title: Job_23
+description: 
+published: true
+date: 2022-02-23T04:53:12.812Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:11.041Z
+---
+
  Book:: [[Job]]
  1. Then Job answered and said, ^1
  2. Even to day is my complaint bitter: my stroke is heavier than my groaning. ^2

@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_10
+description: 
+published: true
+date: 2022-02-23T04:24:59.483Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:57.657Z
+---
+
  Book:: [[1 Samuel]]
  1. Then Samuel took a vial of oil, and poured it upon his head, and kissed him, and said, Is it not because the LORD hath anointed thee to be captain over his inheritance? ^1
  2. When thou art departed from me to day, then thou shalt find two men by Rachel's sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for you, saying, What shall I do for my son? ^2

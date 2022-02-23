@@ -1,3 +1,13 @@
+---
+title: 646-september-28
+description: 
+published: true
+date: 2022-02-23T05:32:31.860Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:32:30.008Z
+---
+
 
 **1. THE VENERABLE CHARITON THE CONFESSOR**
 

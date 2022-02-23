@@ -1,3 +1,13 @@
+---
+title: Psalm_44
+description: 
+published: true
+date: 2022-02-23T05:12:33.333Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:31.529Z
+---
+
  Book:: [[Psalm]]
  1. We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old. ^1
  2. How thou didst drive out the heathen with thy hand, and plantedst them; how thou didst afflict the people, and cast them out. ^2

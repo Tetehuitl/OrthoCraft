@@ -1,3 +1,13 @@
+---
+title: Exodus_36
+description: 
+published: true
+date: 2022-02-23T04:39:10.986Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:09.136Z
+---
+
  Book:: [[Exodus]]
  1. Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the LORD put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the LORD had commanded. ^1
  2. And Moses called Bezaleel and Aholiab, and every wise hearted man, in whose heart the LORD had put wisdom, even every one whose heart stirred him up to come unto the work to do it: ^2

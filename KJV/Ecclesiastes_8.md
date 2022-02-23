@@ -1,3 +1,13 @@
+---
+title: Ecclesiastes_8
+description: 
+published: true
+date: 2022-02-23T04:36:56.053Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:54.266Z
+---
+
  Book:: [[Ecclesiastes]]
  1. Who is as the wise man? and who knoweth the interpretation of a thing? a man's wisdom maketh his face to shine, and the boldness of his face shall be changed. ^1
  2. I counsel thee to keep the king's commandment, and that in regard of the oath of God. ^2

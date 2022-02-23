@@ -1,3 +1,13 @@
+---
+title: Philippians_4
+description: 
+published: true
+date: 2022-02-23T05:06:46.599Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:44.785Z
+---
+
  Book:: [[Philippians]]
  1. Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved. ^1
  2. I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord. ^2

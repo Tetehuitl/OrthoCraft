@@ -1,3 +1,13 @@
+---
+title: 1_Timothy_1
+description: 
+published: true
+date: 2022-02-23T04:26:37.973Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:36.184Z
+---
+
  Book:: [[1 Timothy]]
  1. Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope; ^1
  2. Unto Timothy, my own son in the faith: Grace, mercy, and peace, from God our Father and Jesus Christ our Lord. ^2

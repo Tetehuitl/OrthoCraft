@@ -1,3 +1,13 @@
+---
+title: 2_Kings_9
+description: 
+published: true
+date: 2022-02-23T04:30:24.425Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:22.582Z
+---
+
  Book:: [[2 Kings]]
  1. And Elisha the prophet called one of the children of the prophets, and said unto him, Gird up thy loins, and take this box of oil in thine hand, and go to Ramothgilead: ^1
  2. And when thou comest thither, look out there Jehu the son of Jehoshaphat the son of Nimshi, and go in, and make him arise up from among his brethren, and carry him to an inner chamber; ^2

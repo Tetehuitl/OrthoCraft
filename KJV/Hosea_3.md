@@ -1,3 +1,13 @@
+---
+title: Hosea_3
+description: 
+published: true
+date: 2022-02-23T04:46:21.801Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:20.059Z
+---
+
  Book:: [[Hosea]]
  1. Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine. ^1
  2. So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley: ^2

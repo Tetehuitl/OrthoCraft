@@ -1,3 +1,13 @@
+---
+title: Isaiah_17
+description: 
+published: true
+date: 2022-02-23T04:47:05.862Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:04.064Z
+---
+
  Book:: [[Isaiah]]
  1. The burden of Damascus. Behold, Damascus is taken away from being a city, and it shall be a ruinous heap. ^1
  2. The cities of Aroer are forsaken: they shall be for flocks, which shall lie down, and none shall make them afraid. ^2

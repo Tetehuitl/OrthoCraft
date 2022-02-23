@@ -1,3 +1,13 @@
+---
+title: Ezekiel_45
+description: 
+published: true
+date: 2022-02-23T04:41:31.135Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:29.331Z
+---
+
  Book:: [[Ezekiel]]
  1. Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the LORD, an holy portion of the land: the length shall be the length of five and twenty thousand reeds, and the breadth shall be ten thousand. This shall be holy in all the borders thereof round about. ^1
  2. Of this there shall be for the sanctuary five hundred in length, with five hundred in breadth, square round about; and fifty cubits round about for the suburbs thereof. ^2

@@ -1,3 +1,13 @@
+---
+title: Acts_24
+description: 
+published: true
+date: 2022-02-23T04:33:03.955Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:02.131Z
+---
+
  Book:: [[Acts]]
  1. And after five days Ananias the high priest descended with the elders, and with a certain orator named Tertullus, who informed the governor against Paul. ^1
  2. And when he was called forth, Tertullus began to accuse him, saying, Seeing that by thee we enjoy great quietness, and that very worthy deeds are done unto this nation by thy providence, ^2

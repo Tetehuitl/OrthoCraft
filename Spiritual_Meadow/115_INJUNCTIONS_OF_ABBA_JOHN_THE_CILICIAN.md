@@ -1,3 +1,13 @@
+---
+title: 115_INJUNCTIONS_OF_ABBA_JOHN_THE_CILICIAN
+description: 
+published: true
+date: 2022-02-23T05:38:16.096Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:38:14.334Z
+---
+
 [[Spiritual Meadow]]
  
 Abba John the Cilician, higoumen of Raithou, said to his brethren: “Brethren: as we fled from the world, so let us flee from the desires of the flesh’.  

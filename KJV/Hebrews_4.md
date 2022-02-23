@@ -1,3 +1,13 @@
+---
+title: Hebrews_4
+description: 
+published: true
+date: 2022-02-23T04:45:44.109Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:45:42.306Z
+---
+
  Book:: [[Hebrews]]
  1. Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it. ^1
  2. For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it. ^2

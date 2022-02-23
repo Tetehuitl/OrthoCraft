@@ -1,3 +1,13 @@
+---
+title: Psalm_4
+description: 
+published: true
+date: 2022-02-23T05:12:19.192Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:17.421Z
+---
+
  Book:: [[Psalm]]
  1. Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer. ^1
  2. O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah. ^2

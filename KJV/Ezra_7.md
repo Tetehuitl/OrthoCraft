@@ -1,3 +1,13 @@
+---
+title: Ezra_7
+description: 
+published: true
+date: 2022-02-23T04:42:17.182Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:15.352Z
+---
+
  Book:: [[Ezra]]
  1. Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah, ^1
  2. The son of Shallum, the son of Zadok, the son of Ahitub, ^2

@@ -1,3 +1,13 @@
+---
+title: Lamentations_2
+description: 
+published: true
+date: 2022-02-23T04:58:13.910Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:12.069Z
+---
+
  Book:: [[Lamentations]]
  1. How hath the LORD covered the daughter of Zion with a cloud in his anger, and cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger! ^1
  2. The LORD hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought them down to the ground: he hath polluted the kingdom and the princes thereof. ^2

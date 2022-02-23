@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_6
+description: 
+published: true
+date: 2022-02-23T04:26:08.661Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:06.861Z
+---
+
  Book:: [[1 Samuel]]
  1. And the ark of the LORD was in the country of the Philistines seven months. ^1
  2. And the Philistines called for the priests and the diviners, saying, What shall we do to the ark of the LORD? tell us wherewith we shall send it to his place. ^2

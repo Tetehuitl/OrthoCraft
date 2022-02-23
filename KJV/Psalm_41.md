@@ -1,3 +1,13 @@
+---
+title: Psalm_41
+description: 
+published: true
+date: 2022-02-23T05:12:24.871Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:23.080Z
+---
+
  Book:: [[Psalm]]
  1. Blessed is he that considereth the poor: the LORD will deliver him in time of trouble. ^1
  2. The LORD will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies. ^2

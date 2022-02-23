@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_19
+description: 
+published: true
+date: 2022-02-23T04:31:08.205Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:06.331Z
+---
+
  Book:: [[2 Samuel]]
  1. And it was told Joab, Behold, the king weepeth and mourneth for Absalom. ^1
  2. And the victory that day was turned into mourning unto all the people: for the people heard say that day how the king was grieved for his son. ^2

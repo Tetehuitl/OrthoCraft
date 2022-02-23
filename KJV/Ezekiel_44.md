@@ -1,3 +1,13 @@
+---
+title: Ezekiel_44
+description: 
+published: true
+date: 2022-02-23T04:41:28.400Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:26.563Z
+---
+
  Book:: [[Ezekiel]]
  1. Then he brought me back the way of the gate of the outward sanctuary which looketh toward the east; and it was shut. ^1
  2. Then said the LORD unto me; This gate shall be shut, it shall not be opened, and no man shall enter in by it; because the LORD, the God of Israel, hath entered in by it, therefore it shall be shut. ^2

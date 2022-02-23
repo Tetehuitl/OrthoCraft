@@ -1,3 +1,13 @@
+---
+title: 129_THE_LIFE_OF_A_STYLITE
+description: 
+published: true
+date: 2022-02-23T05:38:59.930Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:38:58.182Z
+---
+
 [[Spiritual Meadow]]
  
 The same Abba Athanasios said that he had heard Abba Atheno- genes, Bishop of Petra, say that in his territory there was a stylite. Everybody who came to him would stand down below to speak to him, for there was no ladder. Whenever a brother said to him: ‘I wish to tell you a private thought’, the stylite would reply in a gentle voice: ‘Come to the base of the column’, and he would himself move to the other side of the plinth. Thus placed, they would converse: the stylite on high, the brother down below. And none of the others who were standing there could hear what was being said.  

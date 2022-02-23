@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_17
+description: 
+published: true
+date: 2022-02-23T04:27:18.790Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:16.997Z
+---
+
  Book:: [[2 Chronicles]]
  1. And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel. ^1
  2. And he placed forces in all the fenced cities of Judah, and set garrisons in the land of Judah, and in the cities of Ephraim, which Asa his father had taken. ^2

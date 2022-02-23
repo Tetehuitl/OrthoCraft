@@ -1,3 +1,13 @@
+---
+title: 14_A_BROTHER_ASSAILED_BY_A_LASCIVIOUS_SPIRIT_WHO_WAS_STRICKEN_WITH_LEPROSY
+description: 
+published: true
+date: 2022-02-23T05:40:07.442Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:40:05.726Z
+---
+
 [[Spiritual Meadow]]
  
 On another occasion Abba Polychronios told us the following tale: In the Community of Penthoucla there was a brother who was extremely ascetic and attentive to his soul’s health. He had, however, to strive against sexual temptation. As he was not winning the battle, he left the monastery and went off to Jericho to satisfy his desires. Just as he was entering the den of fornication, he was suddenly afflicted with leprosy all over. When he saw himself in such a condition, he immediately returned to the monastery, giving thanks to God and saying: ‘God has stricken me with this terrible disease in order that my soul should be saved’, and he glorified God exceedingly.  

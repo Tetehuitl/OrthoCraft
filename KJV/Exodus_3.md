@@ -1,3 +1,13 @@
+---
+title: Exodus_3
+description: 
+published: true
+date: 2022-02-23T04:38:51.789Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:49.933Z
+---
+
  Book:: [[Exodus]]
  1. Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb. ^1
  2. And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed. ^2

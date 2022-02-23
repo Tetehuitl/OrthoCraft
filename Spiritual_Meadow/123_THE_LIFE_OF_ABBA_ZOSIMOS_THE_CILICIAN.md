@@ -1,3 +1,13 @@
+---
+title: 123_THE_LIFE_OF_ABBA_ZOSIMOS_THE_CILICIAN
+description: 
+published: true
+date: 2022-02-23T05:38:42.406Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:38:40.671Z
+---
+
 [[Spiritual Meadow]]
  
 When I was staying at Mount Sinai I met Abba Zosimos the Cilician there, This elder renounced episcopal office and returned to his cell; he was greatly advanced in asceticism, and this is what he told me:  

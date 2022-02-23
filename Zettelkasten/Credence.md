@@ -1,6 +1,13 @@
 ---
-aliases: ⭐️
+title: Credence
+description: 
+published: true
+date: 2022-02-23T05:49:16.054Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:39:26.228Z
 ---
+
 - Credence levels:
     - 0
     - 1

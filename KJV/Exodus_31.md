@@ -1,3 +1,13 @@
+---
+title: Exodus_31
+description: 
+published: true
+date: 2022-02-23T04:38:57.238Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:55.445Z
+---
+
  Book:: [[Exodus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah: ^2

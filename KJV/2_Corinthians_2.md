@@ -1,3 +1,13 @@
+---
+title: 2_Corinthians_2
+description: 
+published: true
+date: 2022-02-23T04:28:49.914Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:48.120Z
+---
+
  Book:: [[2 Corinthians]]
  1. But I determined this with myself, that I would not come again to you in heaviness. ^1
  2. For if I make you sorry, who is he then that maketh me glad, but the same which is made sorry by me? ^2

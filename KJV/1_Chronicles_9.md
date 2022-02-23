@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_9
+description: 
+published: true
+date: 2022-02-23T04:22:31.038Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:29.157Z
+---
+
  Book:: [[1 Chronicles]]
  1. So all Israel were reckoned by genealogies; and, behold, they were written in the book of the kings of Israel and Judah, who were carried away to Babylon for their transgression. ^1
  2. Now the first inhabitants that dwelt in their possessions in their cities were, the Israelites, the priests, Levites, and the Nethinims. ^2

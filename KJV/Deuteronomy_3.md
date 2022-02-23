@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_3
+description: 
+published: true
+date: 2022-02-23T04:35:54.572Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:52.771Z
+---
+
  Book:: [[Deuteronomy]]
  1. Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, to battle at Edrei. ^1
  2. And the LORD said unto me, Fear him not: for I will deliver him, and all his people, and his land, into thy hand; and thou shalt do unto him as thou didst unto Sihon king of the Amorites, which dwelt at Heshbon. ^2

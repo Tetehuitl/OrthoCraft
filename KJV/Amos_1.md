@@ -1,3 +1,13 @@
+---
+title: Amos_1
+description: 
+published: true
+date: 2022-02-23T04:33:38.926Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:37.094Z
+---
+
  Book:: [[Amos]]
  1. The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake. ^1
  2. And he said, The LORD will roar from Zion, and utter his voice from Jerusalem; and the habitations of the shepherds shall mourn, and the top of Carmel shall wither. ^2

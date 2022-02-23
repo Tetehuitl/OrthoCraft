@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles
+description: 
+published: true
+date: 2022-02-23T04:21:14.288Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:11.791Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[1 Chronicles 1]]

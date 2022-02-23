@@ -1,3 +1,13 @@
+---
+title: Jeremiah_7
+description: 
+published: true
+date: 2022-02-23T04:52:20.348Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:18.504Z
+---
+
  Book:: [[Jeremiah]]
  1. The word that came to Jeremiah from the LORD, saying, ^1
  2. Stand in the gate of the LORD's house, and proclaim there this word, and say, Hear the word of the LORD, all ye of Judah, that enter in at these gates to worship the LORD. ^2

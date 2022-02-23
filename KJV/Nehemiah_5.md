@@ -1,3 +1,13 @@
+---
+title: Nehemiah_5
+description: 
+published: true
+date: 2022-02-23T05:04:20.835Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:19.036Z
+---
+
  Book:: [[Nehemiah]]
  1. And there was a great cry of the people and of their wives against their brethren the Jews. ^1
  2. For there were that said, We, our sons, and our daughters, are many: therefore we take up corn for them, that we may eat, and live. ^2

@@ -1,3 +1,13 @@
+---
+title: 2_Kings_10
+description: 
+published: true
+date: 2022-02-23T04:29:22.400Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:20.557Z
+---
+
  Book:: [[2 Kings]]
  1. And Ahab had seventy sons in Samaria. And Jehu wrote letters, and sent to Samaria, unto the rulers of Jezreel, to the elders, and to them that brought up Ahab's children, saying, ^1
  2. Now as soon as this letter cometh to you, seeing your master's sons are with you, and there are with you chariots and horses, a fenced city also, and armor; ^2

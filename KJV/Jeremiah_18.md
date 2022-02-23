@@ -1,3 +1,13 @@
+---
+title: Jeremiah_18
+description: 
+published: true
+date: 2022-02-23T04:50:28.839Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:27.017Z
+---
+
  Book:: [[Jeremiah]]
  1. The word which came to Jeremiah from the LORD, saying, ^1
  2. Arise, and go down to the potter's house, and there I will cause thee to hear my words. ^2

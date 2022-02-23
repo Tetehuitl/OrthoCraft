@@ -1,3 +1,13 @@
+---
+title: 649-october-1
+description: 
+published: true
+date: 2022-02-23T05:32:40.930Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:32:39.067Z
+---
+
 
 **1. THE PROTECTION OF THE MOST-HOLY THEOTOKOS**
 

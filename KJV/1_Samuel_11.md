@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_11
+description: 
+published: true
+date: 2022-02-23T04:25:02.123Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:00.306Z
+---
+
  Book:: [[1 Samuel]]
  1. Then Nahash the Ammonite came up, and encamped against Jabeshgilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee. ^1
  2. And Nahash the Ammonite answered them, On this condition will I make a covenant with you, that I may thrust out all your right eyes, and lay it for a reproach upon all Israel. ^2

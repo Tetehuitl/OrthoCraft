@@ -1,3 +1,13 @@
+---
+title: Esther_5
+description: 
+published: true
+date: 2022-02-23T04:37:35.248Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:33.464Z
+---
+
  Book:: [[Esther]]
  1. Now it came to pass on the third day, that Esther put on her royal apparel, and stood in the inner court of the king's house, over against the king's house: and the king sat upon his royal throne in the royal house, over against the gate of the house. ^1
  2. And it was so, when the king saw Esther the queen standing in the court, that she obtained favour in his sight: and the king held out to Esther the golden sceptre that was in his hand. So Esther drew near, and touched the top of the sceptre. ^2

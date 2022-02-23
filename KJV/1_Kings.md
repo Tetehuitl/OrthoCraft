@@ -1,3 +1,13 @@
+---
+title: 1_Kings
+description: 
+published: true
+date: 2022-02-23T04:23:35.650Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:33.162Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[1 Kings 1]]

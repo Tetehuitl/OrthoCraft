@@ -1,3 +1,13 @@
+---
+title: Psalm_58
+description: 
+published: true
+date: 2022-02-23T05:13:16.013Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:14.272Z
+---
+
  Book:: [[Psalm]]
  1. Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men? ^1
  2. Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth. ^2

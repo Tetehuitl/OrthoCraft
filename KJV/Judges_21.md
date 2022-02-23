@@ -1,3 +1,13 @@
+---
+title: Judges_21
+description: 
+published: true
+date: 2022-02-23T04:57:46.546Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:44.728Z
+---
+
  Book:: [[Judges]]
  1. Now the men of Israel had sworn in Mizpeh, saying, There shall not any of us give his daughter unto Benjamin to wife. ^1
  2. And the people came to the house of God, and abode there till even before God, and lifted up their voices, and wept sore; ^2

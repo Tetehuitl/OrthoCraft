@@ -1,3 +1,13 @@
+---
+title: 676-october-28
+description: 
+published: true
+date: 2022-02-23T05:34:02.776Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:34:00.930Z
+---
+
 
 **1. THE HOLY MARTYR PARASCEVA** 
 

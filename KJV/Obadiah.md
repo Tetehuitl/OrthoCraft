@@ -1,3 +1,13 @@
+---
+title: Obadiah
+description: 
+published: true
+date: 2022-02-23T05:06:24.059Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:37.899Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Obadiah 1]]

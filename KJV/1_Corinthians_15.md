@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_15
+description: 
+published: true
+date: 2022-02-23T04:22:52.600Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:50.759Z
+---
+
  Book:: [[1 Corinthians]]
  1. Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand; ^1
  2. By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain. ^2

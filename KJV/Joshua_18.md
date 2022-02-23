@@ -1,3 +1,13 @@
+---
+title: Joshua_18
+description: 
+published: true
+date: 2022-02-23T04:56:20.715Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:18.905Z
+---
+
  Book:: [[Joshua]]
  1. And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them. ^1
  2. And there remained among the children of Israel seven tribes, which had not yet received their inheritance. ^2

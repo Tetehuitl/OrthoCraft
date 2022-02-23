@@ -1,3 +1,13 @@
+---
+title: Ezekiel_19
+description: 
+published: true
+date: 2022-02-23T04:40:11.788Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:10.004Z
+---
+
  Book:: [[Ezekiel]]
  1. Moreover take thou up a lamentation for the princes of Israel, ^1
  2. And say, What is thy mother? A lioness: she lay down among lions, she nourished her whelps among young lions. ^2

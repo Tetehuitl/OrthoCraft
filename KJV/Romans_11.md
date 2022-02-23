@@ -1,3 +1,13 @@
+---
+title: Romans_11
+description: 
+published: true
+date: 2022-02-23T05:16:39.491Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:37.639Z
+---
+
  Book:: [[Romans]]
  1. I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin. ^1
  2. God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel saying, ^2

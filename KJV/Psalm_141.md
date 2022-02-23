@@ -1,3 +1,13 @@
+---
+title: Psalm_141
+description: 
+published: true
+date: 2022-02-23T05:10:35.123Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:33.376Z
+---
+
  Book:: [[Psalm]]
  1. Lord, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee. ^1
  2. Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice. ^2

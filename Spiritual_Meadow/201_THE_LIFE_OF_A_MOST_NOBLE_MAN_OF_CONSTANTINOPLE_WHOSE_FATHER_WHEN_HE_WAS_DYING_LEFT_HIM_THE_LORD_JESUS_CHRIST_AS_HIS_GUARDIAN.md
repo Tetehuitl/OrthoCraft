@@ -1,3 +1,13 @@
+---
+title: 201_THE_LIFE_OF_A_MOST_NOBLE_MAN_OF_CONSTANTINOPLE_WHOSE_FATHER_WHEN_HE_WAS_DYING_LEFT_HIM_THE_LORD_JESUS_CHRIST_AS_HIS_GUARDIAN
+description: 
+published: true
+date: 2022-02-23T05:42:59.338Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:42:57.582Z
+---
+
 [[Spiritual Meadow]]
  
 One of the fathers who had gone to Constantinople to attend to some necessary business said:  

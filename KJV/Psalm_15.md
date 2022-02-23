@@ -1,3 +1,13 @@
+---
+title: Psalm_15
+description: 
+published: true
+date: 2022-02-23T05:11:00.198Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:58.483Z
+---
+
  Book:: [[Psalm]]
  1. Lord, who shall abide in thy tabernacle? who shall dwell in thy holy hill? ^1
  2. He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart. ^2

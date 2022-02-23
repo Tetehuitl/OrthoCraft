@@ -1,3 +1,13 @@
+---
+title: 1_Kings_7
+description: 
+published: true
+date: 2022-02-23T04:24:29.435Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:27.574Z
+---
+
  Book:: [[1 Kings]]
  1. But Solomon was building his own house thirteen years, and he finished all his house. ^1
  2. He built also the house of the forest of Lebanon; the length thereof was an hundred cubits, and the breadth thereof fifty cubits, and the height thereof thirty cubits, upon four rows of cedar pillars, with cedar beams upon the pillars. ^2

@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_16
+description: 
+published: true
+date: 2022-02-23T04:21:35.519Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:33.693Z
+---
+
  Book:: [[1 Chronicles]]
  1. So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God. ^1
  2. And when David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of the LORD. ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_9
+description: 
+published: true
+date: 2022-02-23T05:14:55.158Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:53.386Z
+---
+
  Book:: [[Psalm]]
  1. I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works. ^1
  2. I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High. ^2

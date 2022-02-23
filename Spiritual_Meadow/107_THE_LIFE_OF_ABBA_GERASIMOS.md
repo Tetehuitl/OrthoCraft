@@ -1,3 +1,13 @@
+---
+title: 107_THE_LIFE_OF_ABBA_GERASIMOS
+description: 
+published: true
+date: 2022-02-23T05:37:49.802Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:37:47.983Z
+---
+
 [[Spiritual Meadow]]
  
 About a mile from the holy River of Jordan there is a place which is known as the Lavra of the holy Abba Gerasimos. When we were there, the residents told us that this Saint Gerasimos was walking one day by the banks of the holy Jordan when he met a lion, roaring mightily with pain in its paw. The point of a reed was deeply embedded in it, causing inflammation and suppuration. ‘When the lion saw the elder, it came to him and showed him the foot, wounded by the point embedded in it, whimpering and begging some healing of him. When the elder saw the lion in such distress, he sat down and, taking the paw, he lanced it. The point was removed, and also much puss. He cleansed the wound well, bound it up and dismissed the beast. But the healed lion would not leave the elder. It followed him like a noble disciple wherever he went. The elder was amazed at the gentle disposition of the beast and, from then on, he began feeding it, throwing it bread and boiled vegetables.  

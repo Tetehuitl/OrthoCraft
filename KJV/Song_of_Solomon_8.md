@@ -1,3 +1,13 @@
+---
+title: Song_of_Solomon_8
+description: 
+published: true
+date: 2022-02-23T05:17:56.814Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:55.028Z
+---
+
  Book:: [[Song of Solomon]]
  1. O that thou wert as my brother, that sucked the breasts of my mother! when I should find thee without, I would kiss thee; yea, I should not be despised. ^1
  2. I would lead thee, and bring thee into my mother's house, who would instruct me: I would cause thee to drink of spiced wine of the juice of my pomegranate. ^2

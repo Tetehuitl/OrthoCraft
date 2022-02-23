@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_34
+description: 
+published: true
+date: 2022-02-23T04:36:08.043Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:06.259Z
+---
+
  Book:: [[Deuteronomy]]
  1. And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is over against Jericho. And the LORD showed him all the land of Gilead, unto Dan, ^1
  2. And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the utmost sea, ^2

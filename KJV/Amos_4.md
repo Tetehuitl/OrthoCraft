@@ -1,3 +1,13 @@
+---
+title: Amos_4
+description: 
+published: true
+date: 2022-02-23T04:33:46.831Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:45.064Z
+---
+
  Book:: [[Amos]]
  1. Hear this word, ye kine of Bashan, that are in the mountain of Samaria, which oppress the poor, which crush the needy, which say to their masters, Bring, and let us drink. ^1
  2. The Lord GOD hath sworn by his holiness, that, lo, the days shall come upon you, that he will take you away with hooks, and your posterity with fishhooks. ^2

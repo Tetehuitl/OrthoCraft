@@ -1,3 +1,13 @@
+---
+title: Joshua_17
+description: 
+published: true
+date: 2022-02-23T04:56:17.921Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:16.118Z
+---
+
  Book:: [[Joshua]]
  1. There was also a lot for the tribe of Manasseh; for he was the firstborn of Joseph; to wit, for Machir the firstborn of Manasseh, the father of Gilead: because he was a man of war, therefore he had Gilead and Bashan. ^1
  2. There was also a lot for the rest of the children of Manasseh by their families; for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these were the male children of Manasseh the son of Joseph by their families. ^2

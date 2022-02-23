@@ -1,3 +1,13 @@
+---
+title: Psalm_64
+description: 
+published: true
+date: 2022-02-23T05:13:35.710Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:33.954Z
+---
+
  Book:: [[Psalm]]
  1. Hear my voice, O God, in my prayer: preserve my life from fear of the enemy. ^1
  2. Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity: ^2

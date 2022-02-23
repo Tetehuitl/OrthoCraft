@@ -1,3 +1,13 @@
+---
+title: Psalm_56
+description: 
+published: true
+date: 2022-02-23T05:13:10.385Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:08.623Z
+---
+
  Book:: [[Psalm]]
  1. Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me. ^1
  2. Mine enemies would daily swallow me up: for they be many that fight against me, O thou most High. ^2

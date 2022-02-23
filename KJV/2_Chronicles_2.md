@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_2
+description: 
+published: true
+date: 2022-02-23T04:27:26.808Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:24.958Z
+---
+
  Book:: [[2 Chronicles]]
  1. And Solomon determined to build an house for the name of the LORD, and an house for his kingdom. ^1
  2. And Solomon told out threescore and ten thousand men to bear burdens, and fourscore thousand to hew in the mountain, and three thousand and six hundred to oversee them. ^2

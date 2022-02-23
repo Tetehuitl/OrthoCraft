@@ -1,3 +1,13 @@
+---
+title: may-29--jun-11
+description: 
+published: true
+date: 2022-02-23T05:37:21.027Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:37:19.175Z
+---
+
 
 **1. COMMEMORATION OF THE FIRST ECUMENICAL COUNCIL**
 

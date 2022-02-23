@@ -1,3 +1,13 @@
+---
+title: 611-august-24
+description: 
+published: true
+date: 2022-02-23T05:30:45.673Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:30:43.802Z
+---
+
 
 **1. THE PRIESTLY-MARTYR EUTYCHES**
 

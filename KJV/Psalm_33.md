@@ -1,3 +1,13 @@
+---
+title: Psalm_33
+description: 
+published: true
+date: 2022-02-23T05:11:59.399Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:57.635Z
+---
+
  Book:: [[Psalm]]
  1. Rejoice in the LORD, O ye righteous: for praise is comely for the upright. ^1
  2. Praise the LORD with harp: sing unto him with the psaltery and an instrument of ten strings. ^2

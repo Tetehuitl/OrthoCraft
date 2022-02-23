@@ -1,3 +1,13 @@
+---
+title: Hosea_13
+description: 
+published: true
+date: 2022-02-23T04:46:13.627Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:11.842Z
+---
+
  Book:: [[Hosea]]
  1. When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died. ^1
  2. And now they sin more and more, and have made them molten images of their silver, and idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves. ^2

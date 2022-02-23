@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_26
+description: 
+published: true
+date: 2022-02-23T04:35:43.690Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:41.891Z
+---
+
  Book:: [[Deuteronomy]]
  1. And it shall be, when thou art come in unto the land which the LORD thy God giveth thee for an inheritance, and possessest it, and dwellest therein; ^1
  2. That thou shalt take of the first of all the fruit of the earth, which thou shalt bring of thy land that the LORD thy God giveth thee, and shalt put it in a basket, and shalt go unto the place which the LORD thy God shall choose to place his name there. ^2

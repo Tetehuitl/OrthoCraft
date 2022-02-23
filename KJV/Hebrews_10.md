@@ -1,3 +1,13 @@
+---
+title: Hebrews_10
+description: 
+published: true
+date: 2022-02-23T04:45:27.572Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:45:25.738Z
+---
+
  Book:: [[Hebrews]]
  1. For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect. ^1
  2. For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins. ^2

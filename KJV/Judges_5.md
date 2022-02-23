@@ -1,3 +1,13 @@
+---
+title: Judges_5
+description: 
+published: true
+date: 2022-02-23T04:57:54.940Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:53.119Z
+---
+
  Book:: [[Judges]]
  1. Then sang Deborah and Barak the son of Abinoam on that day, saying, ^1
  2. Praise ye the LORD for the avenging of Israel, when the people willingly offered themselves. ^2

@@ -1,3 +1,13 @@
+---
+title: 134_THE_LIFE_OF_THEODORE_THE_ANCHORITE
+description: 
+published: true
+date: 2022-02-23T05:39:17.819Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:39:16.044Z
+---
+
 [[Spiritual Meadow]]
  
 [When we met Abba John at the Lavra of the Aliotes, he told us this story:]  

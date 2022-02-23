@@ -1,3 +1,13 @@
+---
+title: Numbers_1
+description: 
+published: true
+date: 2022-02-23T05:04:41.176Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:39.306Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying, ^1
  2. Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, every male by their polls; ^2

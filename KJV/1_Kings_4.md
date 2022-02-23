@@ -1,3 +1,13 @@
+---
+title: 1_Kings_4
+description: 
+published: true
+date: 2022-02-23T04:24:21.391Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:19.564Z
+---
+
  Book:: [[1 Kings]]
  1. So king Solomon was king over all Israel. ^1
  2. And these were the princes which he had; Azariah the son of Zadok the priest, ^2

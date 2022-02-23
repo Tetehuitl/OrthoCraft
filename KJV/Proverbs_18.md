@@ -1,3 +1,13 @@
+---
+title: Proverbs_18
+description: 
+published: true
+date: 2022-02-23T05:07:17.551Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:15.737Z
+---
+
  Book:: [[Proverbs]]
  1. Through desire a man, having separated himself, seeketh and intermeddleth with all wisdom. ^1
  2. A fool hath no delight in understanding, but that his heart may discover itself. ^2

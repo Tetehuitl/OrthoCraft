@@ -1,3 +1,13 @@
+---
+title: Psalm_36
+description: 
+published: true
+date: 2022-02-23T05:12:07.882Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:06.123Z
+---
+
  Book:: [[Psalm]]
  1. The transgression of the wicked saith within my heart, that there is no fear of God before his eyes. ^1
  2. For he flattereth himself in his own eyes, until his iniquity be found to be hateful. ^2

@@ -1,3 +1,13 @@
+---
+title: Judges_13
+description: 
+published: true
+date: 2022-02-23T04:57:21.235Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:19.434Z
+---
+
  Book:: [[Judges]]
  1. And the children of Israel did evil again in the sight of the LORD; and the LORD delivered them into the hand of the Philistines forty years. ^1
  2. And there was a certain man of Zorah, of the family of the Danites, whose name was Manoah; and his wife was barren, and bare not. ^2

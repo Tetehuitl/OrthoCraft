@@ -1,3 +1,13 @@
+---
+title: 19_ABBA_ELIJAH’S_STORY_ABOUT_HIMSELF
+description: 
+published: true
+date: 2022-02-23T05:42:50.404Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:42:48.638Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Elijah the grazer told us that he was once living in a cave in the area around Jordan because he was not in communion with Abba Macarios, the Bishop of Jerusalem:  

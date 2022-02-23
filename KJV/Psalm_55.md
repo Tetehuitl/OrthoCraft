@@ -1,3 +1,13 @@
+---
+title: Psalm_55
+description: 
+published: true
+date: 2022-02-23T05:13:07.579Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:05.779Z
+---
+
  Book:: [[Psalm]]
  1. Give ear to my prayer, O God; and hide not thyself from my supplication. ^1
  2. Attend unto me, and hear me: I mourn in my complaint, and make a noise; ^2

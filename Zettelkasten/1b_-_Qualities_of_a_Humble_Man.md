@@ -1,3 +1,13 @@
+---
+title: 1b_-_Qualities_of_a_Humble_Man
+description: 
+published: true
+date: 2022-02-23T05:48:40.689Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:48:38.913Z
+---
+
 - [[Zettels]]
 - [[[[humility]]]] [[[[howToBehave]]]]
 - Sources: [[St John Chrysostom]]

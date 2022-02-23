@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_25
+description: 
+published: true
+date: 2022-02-23T04:27:42.864Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:41.010Z
+---
+
  Book:: [[2 Chronicles]]
  1. Amaziah was twenty and five years old when he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem. ^1
  2. And he did that which was right in the sight of the LORD, but not with a perfect heart. ^2

@@ -1,3 +1,13 @@
+---
+title: 665-october-17
+description: 
+published: true
+date: 2022-02-23T05:33:29.492Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:27.617Z
+---
+
 
 **1. THE HOLY PROPHET HOSEA**
 

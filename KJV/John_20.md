@@ -1,3 +1,13 @@
+---
+title: John_20
+description: 
+published: true
+date: 2022-02-23T04:55:14.627Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:12.805Z
+---
+
  Book:: [[John]]
  1. The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre. ^1
  2. Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the LORD out of the sepulchre, and we know not where they have laid him. ^2

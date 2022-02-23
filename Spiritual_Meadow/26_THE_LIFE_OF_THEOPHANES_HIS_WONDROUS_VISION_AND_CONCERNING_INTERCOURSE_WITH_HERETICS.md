@@ -1,3 +1,13 @@
+---
+title: 26_THE_LIFE_OF_THEOPHANES_HIS_WONDROUS_VISION_AND_CONCERNING_INTERCOURSE_WITH_HERETICS
+description: 
+published: true
+date: 2022-02-23T05:44:13.336Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:44:11.546Z
+---
+
 [[Spiritual Meadow]]
  
 There was an elder residing at the Lavra of Calamén on the holy Jordan whose name was Cyriacos. He was a great elder in the sight of God. A brother came to him, a stranger from the land of Dara, named Theophanes, to ask the elder about lewd thoughts. The  

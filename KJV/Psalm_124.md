@@ -1,3 +1,13 @@
+---
+title: Psalm_124
+description: 
+published: true
+date: 2022-02-23T05:09:42.140Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:40.403Z
+---
+
  Book:: [[Psalm]]
  1. If it had not been the LORD who was on our side, now may Israel say; ^1
  2. If it had not been the LORD who was on our side, when men rose up against us: ^2

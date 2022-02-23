@@ -1,3 +1,13 @@
+---
+title: Acts_18
+description: 
+published: true
+date: 2022-02-23T04:32:45.037Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:43.223Z
+---
+
  Book:: [[Acts]]
  1. After these things Paul departed from Athens, and came to Corinth; ^1
  2. And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them. ^2

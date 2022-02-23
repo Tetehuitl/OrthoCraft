@@ -1,3 +1,13 @@
+---
+title: Numbers_30
+description: 
+published: true
+date: 2022-02-23T05:05:46.788Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:45.030Z
+---
+
  Book:: [[Numbers]]
  1. And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This is the thing which the LORD hath commanded. ^1
  2. If a man vow a vow unto the LORD, or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth. ^2

@@ -1,3 +1,13 @@
+---
+title: Judges_20
+description: 
+published: true
+date: 2022-02-23T04:57:43.741Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:41.881Z
+---
+
  Book:: [[Judges]]
  1. Then all the children of Israel went out, and the congregation was gathered together as one man, from Dan even to Beersheba, with the land of Gilead, unto the LORD in Mizpeh. ^1
  2. And the chief of all the people, even of all the tribes of Israel, presented themselves in the assembly of the people of God, four hundred thousand footmen that drew sword. ^2

@@ -1,3 +1,13 @@
+---
+title: 144_INJUNCTIONS_OF_ONE_OF_THE_ELDERS_WHO_WERE_AT_THE_CELLS
+description: 
+published: true
+date: 2022-02-23T05:39:49.961Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:39:48.199Z
+---
+
 [[Spiritual Meadow]]
  
 One of the elders said to the brethren at The Cells: ‘Let us not enslave ourselves to the pleasures of Egypt which deliver us into the hands of the wicked tyrant, Pharaoh’.  

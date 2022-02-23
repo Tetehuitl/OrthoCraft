@@ -1,3 +1,13 @@
+---
+title: Mark_3
+description: 
+published: true
+date: 2022-02-23T05:01:36.470Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:34.618Z
+---
+
  Book:: [[Mark]]
  1. And he entered again into the synagogue; and there was a man there which had a withered hand. ^1
  2. And they watched him, whether he would heal him on the sabbath day; that they might accuse him. ^2

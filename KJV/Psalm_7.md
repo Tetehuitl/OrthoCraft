@@ -1,3 +1,13 @@
+---
+title: Psalm_7
+description: 
+published: true
+date: 2022-02-23T05:13:52.738Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:50.935Z
+---
+
  Book:: [[Psalm]]
  1. O LORD my God, in thee do I put my trust: save me from all them that persecute me, and deliver me: ^1
  2. Lest he tear my soul like a lion, rending it in pieces, while there is none to deliver. ^2

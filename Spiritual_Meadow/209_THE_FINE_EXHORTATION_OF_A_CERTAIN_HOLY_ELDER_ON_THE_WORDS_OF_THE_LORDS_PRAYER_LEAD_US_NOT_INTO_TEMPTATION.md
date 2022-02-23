@@ -1,3 +1,13 @@
+---
+title: 209_THE_FINE_EXHORTATION_OF_A_CERTAIN_HOLY_ELDER_ON_THE_WORDS_OF_THE_LORDS_PRAYER_LEAD_US_NOT_INTO_TEMPTATION
+description: 
+published: true
+date: 2022-02-23T05:43:23.059Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:43:21.328Z
+---
+
 [[Spiritual Meadow]]
  
 One of the saints said:  

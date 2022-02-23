@@ -1,3 +1,13 @@
+---
+title: 112_THE_LIFE_AND_DEATH_OF_LEO_A_CAPPADOCIAN_MONK
+description: 
+published: true
+date: 2022-02-23T05:38:07.357Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:38:05.608Z
+---
+
 [[Spiritual Meadow]]
  
 In the reign of the Emperor and most faithful Caesar, Tiberius, we went to the Great Oasis and when we were there, we saw a monk, a Cappadocian by race, who was great in the eyes of God. Many people told us a multitude of wondrous stories about this monk, When we made contact with him and gained some experience of him, we reaped considerable benefits; especially from the  

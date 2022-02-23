@@ -1,3 +1,13 @@
+---
+title: Job_32
+description: 
+published: true
+date: 2022-02-23T04:53:40.435Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:38.608Z
+---
+
  Book:: [[Job]]
  1. So these three men ceased to answer Job, because he was righteous in his own eyes. ^1
  2. Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God. ^2

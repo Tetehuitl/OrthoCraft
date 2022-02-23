@@ -1,3 +1,13 @@
+---
+title: Revelation_10
+description: 
+published: true
+date: 2022-02-23T05:15:31.406Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:29.649Z
+---
+
  Book:: [[Revelation]]
  1. And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as it were the sun, and his feet as pillars of fire: ^1
  2. And he had in his hand a little book open: and he set his right foot upon the sea, and his left foot on the earth, ^2

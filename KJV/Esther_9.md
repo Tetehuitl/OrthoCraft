@@ -1,3 +1,13 @@
+---
+title: Esther_9
+description: 
+published: true
+date: 2022-02-23T04:37:46.112Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:44.273Z
+---
+
  Book:: [[Esther]]
  1. Now in the twelfth month, that is, the month Adar, on the thirteenth day of the same, when the king's commandment and his decree drew near to be put in execution, in the day that the enemies of the Jews hoped to have power over them, (though it was turned to the contrary, that the Jews had rule over them that hated them;) ^1
  2. The Jews gathered themselves together in their cities throughout all the provinces of the king Ahasuerus, to lay hand on such as sought their hurt: and no man could withstand them; for the fear of them fell upon all people. ^2

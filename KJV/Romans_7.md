@@ -1,3 +1,13 @@
+---
+title: Romans_7
+description: 
+published: true
+date: 2022-02-23T05:17:11.514Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:09.736Z
+---
+
  Book:: [[Romans]]
  1. Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth? ^1
  2. For the woman which hath an husband is bound by the law to her husband so long as he liveth; but if the husband be dead, she is loosed from the law of her husband. ^2

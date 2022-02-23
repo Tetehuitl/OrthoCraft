@@ -1,3 +1,13 @@
+---
+title: Ezekiel_20
+description: 
+published: true
+date: 2022-02-23T04:40:17.237Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:15.378Z
+---
+
  Book:: [[Ezekiel]]
  1. And it came to pass in the seventh year, in the fifth month, the tenth day of the month, that certain of the elders of Israel came to enquire of the LORD, and sat before me. ^1
  2. Then came the word of the LORD unto me, saying, ^2

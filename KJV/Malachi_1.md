@@ -1,3 +1,13 @@
+---
+title: Malachi_1
+description: 
+published: true
+date: 2022-02-23T05:00:57.222Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:55.459Z
+---
+
  Book:: [[Malachi]]
  1. The burden of the word of the LORD to Israel by Malachi. ^1
  2. I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob's brother? saith the LORD: yet I loved Jacob, ^2

@@ -1,3 +1,13 @@
+---
+title: Joshua_20
+description: 
+published: true
+date: 2022-02-23T04:56:29.159Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:27.383Z
+---
+
  Book:: [[Joshua]]
  1. The LORD also spake unto Joshua, saying, ^1
  2. Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spake unto you by the hand of Moses: ^2

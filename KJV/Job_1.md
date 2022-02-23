@@ -1,3 +1,13 @@
+---
+title: Job_1
+description: 
+published: true
+date: 2022-02-23T04:52:31.369Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:29.566Z
+---
+
  Book:: [[Job]]
  1. There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil. ^1
  2. And there were born unto him seven sons and three daughters. ^2

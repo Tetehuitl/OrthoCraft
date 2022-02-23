@@ -1,3 +1,13 @@
+---
+title: Ruth_2
+description: 
+published: true
+date: 2022-02-23T05:17:25.138Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:23.304Z
+---
+
  Book:: [[Ruth]]
  1. And Naomi had a kinsman of her husband's, a mighty man of wealth, of the family of Elimelech; and his name was Boaz. ^1
  2. And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after him in whose sight I shall find grace. And she said unto her, Go, my daughter. ^2

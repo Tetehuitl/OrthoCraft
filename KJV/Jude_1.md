@@ -1,3 +1,13 @@
+---
+title: Jude_1
+description: 
+published: true
+date: 2022-02-23T04:57:04.826Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:03.002Z
+---
+
  Book:: [[Jude]]
  1. Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called: ^1
  2. Mercy unto you, and peace, and love, be multiplied. ^2

@@ -1,3 +1,13 @@
+---
+title: 650-october-2
+description: 
+published: true
+date: 2022-02-23T05:32:43.962Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:32:42.089Z
+---
+
 
 **1. SAINT ANDREW THE FOOL-FOR-CHRIST**
 

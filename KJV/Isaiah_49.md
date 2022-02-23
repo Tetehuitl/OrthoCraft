@@ -1,3 +1,13 @@
+---
+title: Isaiah_49
+description: 
+published: true
+date: 2022-02-23T04:48:41.816Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:39.991Z
+---
+
  Book:: [[Isaiah]]
  1. Listen, O isles, unto me; and hearken, ye people, from far; The LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name. ^1
  2. And he hath made my mouth like a sharp sword; in the shadow of his hand hath he hid me, and made me a polished shaft; in his quiver hath he hid me; ^2

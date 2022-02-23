@@ -1,3 +1,13 @@
+---
+title: Genesis_31
+description: 
+published: true
+date: 2022-02-23T04:43:53.280Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:51.387Z
+---
+
  Book:: [[Genesis]]
  1. And he heard the words of Laban's sons, saying, Jacob hath taken away all that was our father's; and of that which was our father's hath he gotten all this glory. ^1
  2. And Jacob beheld the countenance of Laban, and, behold, it was not toward him as before. ^2

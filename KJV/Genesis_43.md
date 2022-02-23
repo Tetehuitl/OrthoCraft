@@ -1,3 +1,13 @@
+---
+title: Genesis_43
+description: 
+published: true
+date: 2022-02-23T04:44:29.036Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:27.211Z
+---
+
  Book:: [[Genesis]]
  1. And the famine was sore in the land. ^1
  2. And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food. ^2

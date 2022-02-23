@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_3
+description: 
+published: true
+date: 2022-02-23T04:31:27.147Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:25.283Z
+---
+
  Book:: [[2 Samuel]]
  1. Now there was long war between the house of Saul and the house of David: but David waxed stronger and stronger, and the house of Saul waxed weaker and weaker. ^1
  2. And unto David were sons born in Hebron: and his firstborn was Amnon, of Ahinoam the Jezreelitess; ^2

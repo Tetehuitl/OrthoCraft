@@ -1,3 +1,13 @@
+---
+title: 615-august-28
+description: 
+published: true
+date: 2022-02-23T05:30:57.792Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:30:55.946Z
+---
+
 
 **1. THE VENERABLE MOSES THE BLACK [THE ROBBER]**
 

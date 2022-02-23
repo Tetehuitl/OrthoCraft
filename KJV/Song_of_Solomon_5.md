@@ -1,3 +1,13 @@
+---
+title: Song_of_Solomon_5
+description: 
+published: true
+date: 2022-02-23T05:17:48.191Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:46.411Z
+---
+
  Book:: [[Song of Solomon]]
  1. I am come into my garden, my sister, my spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved. ^1
  2. I sleep, but my heart waketh: it is the voice of my beloved that knocketh, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night. ^2

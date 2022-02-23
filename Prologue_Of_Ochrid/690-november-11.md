@@ -1,3 +1,13 @@
+---
+title: 690-november-11
+description: 
+published: true
+date: 2022-02-23T05:34:45.272Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:34:43.378Z
+---
+
 
 **1. THE HOLY GREAT-MARTYR MENAS**
 

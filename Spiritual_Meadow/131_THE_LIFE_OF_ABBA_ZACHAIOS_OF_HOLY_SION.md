@@ -1,3 +1,13 @@
+---
+title: 131_THE_LIFE_OF_ABBA_ZACHAIOS_OF_HOLY_SION
+description: 
+published: true
+date: 2022-02-23T05:39:09.057Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:39:07.289Z
+---
+
 [[Spiritual Meadow]]
  
 Procopios the lawyer, who came from Porphyreéa, told us this about Abba Zachaios:  

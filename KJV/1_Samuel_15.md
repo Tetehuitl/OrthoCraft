@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_15
+description: 
+published: true
+date: 2022-02-23T04:25:12.826Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:10.976Z
+---
+
  Book:: [[1 Samuel]]
  1. Samuel also said unto Saul, The LORD sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the LORD. ^1
  2. Thus saith the LORD of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way, when he came up from Egypt. ^2

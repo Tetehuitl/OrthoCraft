@@ -1,3 +1,13 @@
+---
+title: Isaiah_9
+description: 
+published: true
+date: 2022-02-23T04:49:42.311Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:40.537Z
+---
+
  Book:: [[Isaiah]]
  1. Nevertheless the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations. ^1
  2. The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined. ^2

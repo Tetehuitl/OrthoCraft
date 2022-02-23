@@ -1,3 +1,13 @@
+---
+title: Isaiah_1
+description: 
+published: true
+date: 2022-02-23T04:46:43.960Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:42.140Z
+---
+
  Book:: [[Isaiah]]
  1. The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah. ^1
  2. Hear, O heavens, and give ear, O earth: for the LORD hath spoken, I have nourished and brought up children, and they have rebelled against me. ^2

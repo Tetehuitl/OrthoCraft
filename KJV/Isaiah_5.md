@@ -1,3 +1,13 @@
+---
+title: Isaiah_5
+description: 
+published: true
+date: 2022-02-23T04:48:44.615Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:42.807Z
+---
+
  Book:: [[Isaiah]]
  1. Now will I sing to my wellbeloved a song of my beloved touching his vineyard. My wellbeloved hath a vineyard in a very fruitful hill: ^1
  2. And he fenced it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also made a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes. ^2

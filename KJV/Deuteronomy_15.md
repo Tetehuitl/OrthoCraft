@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_15
+description: 
+published: true
+date: 2022-02-23T04:35:11.268Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:09.446Z
+---
+
  Book:: [[Deuteronomy]]
  1. At the end of every seven years thou shalt make a release. ^1
  2. And this is the manner of the release: Every creditor that lendeth ought unto his neighbor shall release it; he shall not exact it of his neighbor, or of his brother; because it is called the LORD's release. ^2

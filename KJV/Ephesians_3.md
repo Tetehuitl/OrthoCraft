@@ -1,3 +1,13 @@
+---
+title: Ephesians_3
+description: 
+published: true
+date: 2022-02-23T04:37:08.830Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:07.035Z
+---
+
  Book:: [[Ephesians]]
  1. For this cause I Paul, the prisoner of Jesus Christ for you Gentiles, ^1
  2. If ye have heard of the dispensation of the grace of God which is given me to you-ward: ^2

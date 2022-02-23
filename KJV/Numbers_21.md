@@ -1,3 +1,13 @@
+---
+title: Numbers_21
+description: 
+published: true
+date: 2022-02-23T05:05:18.352Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:16.498Z
+---
+
  Book:: [[Numbers]]
  1. And when king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took some of them prisoners. ^1
  2. And Israel vowed a vow unto the LORD, and said, If thou wilt indeed deliver this people into my hand, then I will utterly destroy their cities. ^2

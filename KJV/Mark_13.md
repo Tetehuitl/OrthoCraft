@@ -1,3 +1,13 @@
+---
+title: Mark_13
+description: 
+published: true
+date: 2022-02-23T05:01:22.187Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:20.376Z
+---
+
  Book:: [[Mark]]
  1. And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings are here! ^1
  2. And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down. ^2

@@ -1,3 +1,13 @@
+---
+title: Old_Testament
+description: 
+published: true
+date: 2022-02-23T05:06:28.709Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:26.952Z
+---
+
  Bible:: #Bible
  #[[Table of Contents]]
  [[Genesis]]

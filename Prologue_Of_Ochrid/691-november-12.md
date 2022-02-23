@@ -1,3 +1,13 @@
+---
+title: 691-november-12
+description: 
+published: true
+date: 2022-02-23T05:34:48.358Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:34:46.478Z
+---
+
 
 **1. ST. JOHN THE MERCIFUL, PATRIARCH OF ALEXANDRIA**
 

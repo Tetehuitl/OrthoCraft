@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_31
+description: 
+published: true
+date: 2022-02-23T04:28:01.538Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:59.719Z
+---
+
  Book:: [[2 Chronicles]]
  1. Now when all this was finished, all Israel that were present went out to the cities of Judah, and brake the images in pieces, and cut down the groves, and threw down the high places and the altars out of all Judah and Benjamin, in Ephraim also and Manasseh, until they had utterly destroyed them all. Then all the children of Israel returned, every man to his possession, into their own cities. ^1
  2. And Hezekiah appointed the courses of the priests and the Levites after their courses, every man according to his service, the priests and Levites for burnt offerings and for peace offerings, to minister, and to give thanks, and to praise in the gates of the tents of the LORD. ^2

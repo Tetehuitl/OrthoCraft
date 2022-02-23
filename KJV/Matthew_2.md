@@ -1,3 +1,13 @@
+---
+title: Matthew_2
+description: 
+published: true
+date: 2022-02-23T05:02:30.236Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:28.439Z
+---
+
  Book:: [[Matthew]]
  1. Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem, ^1
  2. Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him. ^2

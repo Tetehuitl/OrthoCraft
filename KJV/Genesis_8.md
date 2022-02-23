@@ -1,3 +1,13 @@
+---
+title: Genesis_8
+description: 
+published: true
+date: 2022-02-23T04:44:59.702Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:57.916Z
+---
+
  Book:: [[Genesis]]
  1. And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters assuaged; ^1
  2. The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained; ^2

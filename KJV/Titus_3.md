@@ -1,3 +1,13 @@
+---
+title: Titus_3
+description: 
+published: true
+date: 2022-02-23T05:18:07.271Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:05.497Z
+---
+
  Book:: [[Titus]]
  1. Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work, ^1
  2. To speak evil of no man, to be no brawlers, but gentle, shewing all meekness unto all men. ^2

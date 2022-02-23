@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_31
+description: 
+published: true
+date: 2022-02-23T04:35:59.951Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:58.128Z
+---
+
  Book:: [[Deuteronomy]]
  1. And Moses went and spake these words unto all Israel. ^1
  2. And he said unto them, I am an hundred and twenty years old this day; I can no more go out and come in: also the LORD hath said unto me, Thou shalt not go over this Jordan. ^2

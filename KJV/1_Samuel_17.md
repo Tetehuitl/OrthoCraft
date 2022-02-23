@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_17
+description: 
+published: true
+date: 2022-02-23T04:25:18.149Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:16.295Z
+---
+
  Book:: [[1 Samuel]]
  1. Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which belongeth to Judah, and pitched between Shochoh and Azekah, in Ephesdammim. ^1
  2. And Saul and the men of Israel were gathered together, and pitched by the valley of Elah, and set the battle in array against the Philistines. ^2

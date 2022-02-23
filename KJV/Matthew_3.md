@@ -1,3 +1,13 @@
+---
+title: Matthew_3
+description: 
+published: true
+date: 2022-02-23T05:02:58.689Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:56.913Z
+---
+
  Book:: [[Matthew]]
  1. In those days came John the Baptist, preaching in the wilderness of Judaea, ^1
  2. And saying, Repent ye: for the kingdom of heaven is at hand. ^2

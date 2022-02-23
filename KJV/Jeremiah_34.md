@@ -1,3 +1,13 @@
+---
+title: Jeremiah_34
+description: 
+published: true
+date: 2022-02-23T04:51:18.974Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:17.153Z
+---
+
  Book:: [[Jeremiah]]
  1. The word which came unto Jeremiah from the LORD, when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth of his dominion, and all the people, fought against Jerusalem, and against all the cities thereof, saying, ^1
  2. Thus saith the LORD, the God of Israel; Go and speak to Zedekiah king of Judah, and tell him, Thus saith the LORD; Behold, I will give this city into the hand of the king of Babylon, and he shall burn it with fire: ^2

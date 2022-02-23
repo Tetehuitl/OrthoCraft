@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_29
+description: 
+published: true
+date: 2022-02-23T04:27:53.534Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:51.692Z
+---
+
  Book:: [[2 Chronicles]]
  1. Hezekiah began to reign when he was five and twenty years old, and he reigned nine and twenty years in Jerusalem. And his mother's name was Abijah, the daughter of Zechariah. ^1
  2. And he did that which was right in the sight of the LORD, according to all that David his father had done. ^2

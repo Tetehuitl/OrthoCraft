@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_5
+description: 
+published: true
+date: 2022-02-23T04:23:05.823Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:04.073Z
+---
+
  Book:: [[1 Corinthians]]
  1. It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father's wife. ^1
  2. And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you. ^2

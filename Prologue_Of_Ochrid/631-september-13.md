@@ -1,3 +1,13 @@
+---
+title: 631-september-13
+description: 
+published: true
+date: 2022-02-23T05:31:46.058Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:31:44.189Z
+---
+
 
 **1. THE CONSECRATION OF THE CHURCH OF THE RESURRECTION OF CHRIST**
 

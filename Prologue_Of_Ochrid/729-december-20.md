@@ -1,3 +1,13 @@
+---
+title: 729-december-20
+description: 
+published: true
+date: 2022-02-23T05:36:41.345Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:36:39.517Z
+---
+
 
 **1. THE HIEROMARTYR IGNATIUS THE GOD-BEARER**
 

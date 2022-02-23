@@ -1,3 +1,13 @@
+---
+title: Jeremiah_44
+description: 
+published: true
+date: 2022-02-23T04:51:49.572Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:47.692Z
+---
+
  Book:: [[Jeremiah]]
  1. The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying, ^1
  2. Thus saith the LORD of hosts, the God of Israel; Ye have seen all the evil that I have brought upon Jerusalem, and upon all the cities of Judah; and, behold, this day they are a desolation, and no man dwelleth therein, ^2

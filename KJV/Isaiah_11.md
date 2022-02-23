@@ -1,3 +1,13 @@
+---
+title: Isaiah_11
+description: 
+published: true
+date: 2022-02-23T04:46:49.473Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:47.687Z
+---
+
  Book:: [[Isaiah]]
  1. And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots: ^1
  2. And the spirit of the LORD shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the LORD; ^2

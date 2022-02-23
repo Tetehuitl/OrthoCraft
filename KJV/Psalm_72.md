@@ -1,3 +1,13 @@
+---
+title: Psalm_72
+description: 
+published: true
+date: 2022-02-23T05:14:01.204Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:59.415Z
+---
+
  Book:: [[Psalm]]
  1. Give the king thy judgments, O God, and thy righteousness unto the king's son. ^1
  2. He shall judge thy people with righteousness, and thy poor with judgment. ^2

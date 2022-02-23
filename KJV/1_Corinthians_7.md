@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_7
+description: 
+published: true
+date: 2022-02-23T04:23:11.181Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:09.296Z
+---
+
  Book:: [[1 Corinthians]]
  1. Now concerning the things whereof ye wrote unto me: It is good for a man not to touch a woman. ^1
  2. Nevertheless, to avoid fornication, let every man have his own wife, and let every woman have her own husband. ^2

@@ -1,3 +1,13 @@
+---
+title: Galatians_2
+description: 
+published: true
+date: 2022-02-23T04:42:30.096Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:28.284Z
+---
+
  Book:: [[Galatians]]
  1. Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also. ^1
  2. And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain. ^2

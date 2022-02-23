@@ -1,3 +1,13 @@
+---
+title: 176_THE_BEAUTIFUL_STORY_OF_ABBA_ANDREW_ABOUT_TEN_TRAVELLERS_OF_WHOM_ONE_WAS_A_HEBREW
+description: 
+published: true
+date: 2022-02-23T05:41:32.734Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:41:30.937Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Palladios told us he had heard one of the fathers whose name was Andrew (whom we also met) say:  

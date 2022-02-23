@@ -1,3 +1,13 @@
+---
+title: Ephesians
+description: 
+published: true
+date: 2022-02-23T04:37:01.613Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:37:02.154Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[Ephesians 1]]

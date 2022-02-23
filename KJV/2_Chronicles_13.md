@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_13
+description: 
+published: true
+date: 2022-02-23T04:27:08.260Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:06.451Z
+---
+
  Book:: [[2 Chronicles]]
  1. Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah. ^1
  2. He reigned three years in Jerusalem. His mother's name also was Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam. ^2

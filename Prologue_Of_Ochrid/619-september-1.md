@@ -1,3 +1,13 @@
+---
+title: 619-september-1
+description: 
+published: true
+date: 2022-02-23T05:31:09.782Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:31:07.897Z
+---
+
 
 **1. THE BEGINNING OF THE CHURCH YEAR, OR THE BEGINNING OF THE INDICTION**
 

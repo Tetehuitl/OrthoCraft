@@ -1,3 +1,13 @@
+---
+title: 2_-_A_mind_distracted_by_a_thousand_worldly_cares_cannot_ascertain_the_truth
+description: 
+published: true
+date: 2022-02-23T05:48:49.835Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:48:48.068Z
+---
+
 - !!Reference: 
 - Source: [[Letter 2 - St Basil the Great]] | [[St Basil the Great]]
 - Keywords: [[Zettels]] 

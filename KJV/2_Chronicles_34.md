@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_34
+description: 
+published: true
+date: 2022-02-23T04:28:09.714Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:07.875Z
+---
+
  Book:: [[2 Chronicles]]
  1. Josiah was eight years old when he began to reign, and he reigned in Jerusalem one and thirty years. ^1
  2. And he did that which was right in the sight of the LORD, and walked in the ways of David his father, and declined neither to the right hand, nor to the left. ^2

@@ -1,3 +1,13 @@
+---
+title: Exodus_2
+description: 
+published: true
+date: 2022-02-23T04:38:21.771Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:19.958Z
+---
+
  Book:: [[Exodus]]
  1. And there went a man of the house of Levi, and took to wife a daughter of Levi. ^1
  2. And the woman conceived, and bare a son: and when she saw him that he was a goodly child, she hid him three months. ^2

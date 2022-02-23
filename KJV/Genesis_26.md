@@ -1,3 +1,13 @@
+---
+title: Genesis_26
+description: 
+published: true
+date: 2022-02-23T04:43:36.713Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:34.881Z
+---
+
  Book:: [[Genesis]]
  1. And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar. ^1
  2. And the LORD appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of: ^2

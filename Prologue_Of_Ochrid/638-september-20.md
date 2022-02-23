@@ -1,3 +1,13 @@
+---
+title: 638-september-20
+description: 
+published: true
+date: 2022-02-23T05:32:07.310Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:32:05.434Z
+---
+
 
 **1. THE HOLY GREAT-MARTYR EUSTATHIUS (PLACIDAS)**
 

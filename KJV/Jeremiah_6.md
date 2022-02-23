@@ -1,3 +1,13 @@
+---
+title: Jeremiah_6
+description: 
+published: true
+date: 2022-02-23T04:52:17.554Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:15.719Z
+---
+
  Book:: [[Jeremiah]]
  1. O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Bethhaccerem: for evil appeareth out of the north, and great destruction. ^1
  2. I have likened the daughter of Zion to a comely and delicate woman. ^2

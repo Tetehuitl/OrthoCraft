@@ -1,3 +1,13 @@
+---
+title: Psalm_78
+description: 
+published: true
+date: 2022-02-23T05:14:18.375Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:16.527Z
+---
+
  Book:: [[Psalm]]
  1. Give ear, O my people, to my law: incline your ears to the words of my mouth. ^1
  2. I will open my mouth in a parable: I will utter dark sayings of old: ^2

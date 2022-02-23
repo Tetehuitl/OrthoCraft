@@ -1,3 +1,13 @@
+---
+title: Romans_4
+description: 
+published: true
+date: 2022-02-23T05:17:02.897Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:01.134Z
+---
+
  Book:: [[Romans]]
  1. What shall we say then that Abraham our father, as pertaining to the flesh, hath found? ^1
  2. For if Abraham were justified by works, he hath whereof to glory; but not before God. ^2

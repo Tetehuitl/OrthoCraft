@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_23
+description: 
+published: true
+date: 2022-02-23T04:31:21.773Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:19.900Z
+---
+
  Book:: [[2 Samuel]]
  1. Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said, ^1
  2. The Spirit of the LORD spake by me, and his word was in my tongue. ^2

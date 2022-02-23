@@ -1,3 +1,13 @@
+---
+title: James_2
+description: 
+published: true
+date: 2022-02-23T04:49:49.844Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:48.032Z
+---
+
  Book:: [[James]]
  1. My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons. ^1
  2. For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment; ^2

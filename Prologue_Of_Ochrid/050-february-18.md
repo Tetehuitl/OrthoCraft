@@ -1,3 +1,13 @@
+---
+title: 050-february-18
+description: 
+published: true
+date: 2022-02-23T05:22:58.145Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:22:56.311Z
+---
+
 
 **1. SAINT LEO I, POPE OF ROME**
 

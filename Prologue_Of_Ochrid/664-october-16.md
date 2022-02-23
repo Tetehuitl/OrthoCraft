@@ -1,3 +1,13 @@
+---
+title: 664-october-16
+description: 
+published: true
+date: 2022-02-23T05:33:26.470Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:24.620Z
+---
+
 
 **1. THE HOLY MARTYR LONGINUS**
 

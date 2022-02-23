@@ -1,3 +1,13 @@
+---
+title: Jeremiah_31
+description: 
+published: true
+date: 2022-02-23T04:51:10.510Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:08.683Z
+---
+
  Book:: [[Jeremiah]]
  1. At the same time, saith the LORD, will I be the God of all the families of Israel, and they shall be my people. ^1
  2. Thus saith the LORD, The people which were left of the sword found grace in the wilderness; even Israel, when I went to cause him to rest. ^2

@@ -1,3 +1,13 @@
+---
+title: 2_Kings_25
+description: 
+published: true
+date: 2022-02-23T04:30:05.550Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:03.695Z
+---
+
  Book:: [[2 Kings]]
  1. And it came to pass in the ninth year of his reign, in the tenth month, in the tenth day of the month, that Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about. ^1
  2. And the city was besieged unto the eleventh year of king Zedekiah. ^2

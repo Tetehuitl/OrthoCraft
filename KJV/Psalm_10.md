@@ -1,3 +1,13 @@
+---
+title: Psalm_10
+description: 
+published: true
+date: 2022-02-23T05:08:26.222Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:24.431Z
+---
+
  Book:: [[Psalm]]
  1. Why standest thou afar off, O LORD? why hidest thou thyself in times of trouble? ^1
  2. The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined. ^2

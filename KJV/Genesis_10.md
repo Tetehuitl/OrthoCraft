@@ -1,3 +1,13 @@
+---
+title: Genesis_10
+description: 
+published: true
+date: 2022-02-23T04:42:50.033Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:48.239Z
+---
+
  Book:: [[Genesis]]
  1. Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood. ^1
  2. The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras. ^2

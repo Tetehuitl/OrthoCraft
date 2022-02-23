@@ -1,3 +1,13 @@
+---
+title: Numbers_24
+description: 
+published: true
+date: 2022-02-23T05:05:26.912Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:25.121Z
+---
+
  Book:: [[Numbers]]
  1. And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness. ^1
  2. And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him. ^2

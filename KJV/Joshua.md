@@ -1,3 +1,13 @@
+---
+title: Joshua
+description: 
+published: true
+date: 2022-02-23T04:55:53.586Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:37:58.053Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Joshua 1]]

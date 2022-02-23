@@ -1,3 +1,13 @@
+---
+title: Joshua_16
+description: 
+published: true
+date: 2022-02-23T04:56:15.149Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:13.420Z
+---
+
  Book:: [[Joshua]]
  1. And the lot of the children of Joseph fell from Jordan by Jericho, unto the water of Jericho on the east, to the wilderness that goeth up from Jericho throughout mount Bethel, ^1
  2. And goeth out from Bethel to Luz, and passeth along unto the borders of Archi to Ataroth, ^2

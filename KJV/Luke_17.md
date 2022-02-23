@@ -1,3 +1,13 @@
+---
+title: Luke_17
+description: 
+published: true
+date: 2022-02-23T05:00:09.288Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:07.442Z
+---
+
  Book:: [[Luke]]
  1. Then said he unto the disciples, It is impossible but that offences will come: but woe unto him, through whom they come! ^1
  2. It were better for him that a millstone were hanged about his neck, and he cast into the sea, than that he should offend one of these little ones. ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_80
+description: 
+published: true
+date: 2022-02-23T05:14:26.881Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:25.078Z
+---
+
  Book:: [[Psalm]]
  1. Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth. ^1
  2. Before Ephraim and Benjamin and Manasseh stir up thy strength, and come and save us. ^2

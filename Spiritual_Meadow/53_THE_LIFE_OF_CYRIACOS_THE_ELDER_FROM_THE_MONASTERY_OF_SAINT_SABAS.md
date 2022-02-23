@@ -1,3 +1,13 @@
+---
+title: 53_THE_LIFE_OF_CYRIACOS_THE_ELDER_FROM_THE_MONASTERY_OF_SAINT_SABAS
+description: 
+published: true
+date: 2022-02-23T05:45:42.799Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:45:41.058Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Stephan Trichinas told us about an elder named Cyriacos living at the Lavra of our saintly father Sabas, who once went down to Coutila. He stayed for a little while there beside the Dead Sea; then he started back to his cell. The heat was so intense that the elder was about to faint. So he stretched out his hands to heaven and prayed to God saying: ‘Lord, you know that I can hardly walk for thirst’, Immediately there came a cloud about him and it was  

@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_33
+description: 
+published: true
+date: 2022-02-23T04:36:05.401Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:03.581Z
+---
+
  Book:: [[Deuteronomy]]
  1. And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death. ^1
  2. And he said, The LORD came from Sinai, and rose up from Seir unto them; he shined forth from mount Paran, and he came with ten thousands of saints: from his right hand went a fiery law for them. ^2

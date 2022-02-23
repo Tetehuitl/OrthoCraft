@@ -1,3 +1,13 @@
+---
+title: Judges_16
+description: 
+published: true
+date: 2022-02-23T04:57:29.657Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:27.809Z
+---
+
  Book:: [[Judges]]
  1. Then went Samson to Gaza, and saw there an harlot, and went in unto her. ^1
  2. And it was told the Gazites, saying, Samson is come hither. And they compassed him in, and laid wait for him all night in the gate of the city, and were quiet all the night, saying, In the morning, when it is day, we shall kill him. ^2

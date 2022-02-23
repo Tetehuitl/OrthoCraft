@@ -1,3 +1,13 @@
+---
+title: 2_Kings_7
+description: 
+published: true
+date: 2022-02-23T04:30:19.064Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:17.244Z
+---
+
  Book:: [[2 Kings]]
  1. Then Elisha said, Hear ye the word of the LORD; Thus saith the LORD, To morrow about this time shall a measure of fine flour be sold for a shekel, and two measures of barley for a shekel, in the gate of Samaria. ^1
  2. Then a lord on whose hand the king leaned answered the man of God, and said, Behold, if the LORD would make windows in heaven, might this thing be? And he said, Behold, thou shalt see it with thine eyes, but shalt not eat thereof. ^2

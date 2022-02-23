@@ -1,3 +1,13 @@
+---
+title: Nehemiah_4
+description: 
+published: true
+date: 2022-02-23T05:04:18.034Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:16.213Z
+---
+
  Book:: [[Nehemiah]]
  1. But it came to pass, that when Sanballat heard that we builded the wall, he was wroth, and took great indignation, and mocked the Jews. ^1
  2. And he spake before his brethren and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the rubbish which are burned? ^2

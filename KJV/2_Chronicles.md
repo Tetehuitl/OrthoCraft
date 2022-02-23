@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles
+description: 
+published: true
+date: 2022-02-23T04:26:54.938Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:52.421Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[2 Chronicles 1]]

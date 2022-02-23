@@ -1,3 +1,13 @@
+---
+title: Leviticus_27
+description: 
+published: true
+date: 2022-02-23T04:59:21.332Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:19.491Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the LORD by thy estimation. ^2

@@ -1,3 +1,13 @@
+---
+title: Ezekiel_48
+description: 
+published: true
+date: 2022-02-23T04:41:39.362Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:37.554Z
+---
+
  Book:: [[Ezekiel]]
  1. Now these are the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazarenan, the border of Damascus northward, to the coast of Hamath; for these are his sides east and west; a portion for Dan. ^1
  2. And by the border of Dan, from the east side unto the west side, a portion for Asher. ^2

@@ -1,3 +1,13 @@
+---
+title: Numbers_13
+description: 
+published: true
+date: 2022-02-23T05:04:52.557Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:50.749Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them. ^2

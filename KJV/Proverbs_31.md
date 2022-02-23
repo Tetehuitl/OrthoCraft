@@ -1,3 +1,13 @@
+---
+title: Proverbs_31
+description: 
+published: true
+date: 2022-02-23T05:08:00.143Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:58.340Z
+---
+
  Book:: [[Proverbs]]
  1. The words of king Lemuel, the prophecy that his mother taught him. ^1
  2. What, my son? and what, the son of my womb? and what, the son of my vows? ^2

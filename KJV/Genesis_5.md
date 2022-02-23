@@ -1,3 +1,13 @@
+---
+title: Genesis_5
+description: 
+published: true
+date: 2022-02-23T04:44:48.676Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:46.862Z
+---
+
  Book:: [[Genesis]]
  1. This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him; ^1
  2. Male and female created he them; and blessed them, and called their name Adam, in the day when they were created. ^2

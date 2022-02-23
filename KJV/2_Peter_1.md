@@ -1,3 +1,13 @@
+---
+title: 2_Peter_1
+description: 
+published: true
+date: 2022-02-23T04:30:29.806Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:28.037Z
+---
+
  Book:: [[2 Peter]]
  1. Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ: ^1
  2. Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord, ^2

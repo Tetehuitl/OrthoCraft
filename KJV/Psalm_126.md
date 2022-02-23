@@ -1,3 +1,13 @@
+---
+title: Psalm_126
+description: 
+published: true
+date: 2022-02-23T05:09:47.721Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:45.990Z
+---
+
  Book:: [[Psalm]]
  1. When the LORD turned again the captivity of Zion, we were like them that dream. ^1
  2. Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them. ^2

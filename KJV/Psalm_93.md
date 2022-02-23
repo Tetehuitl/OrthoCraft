@@ -1,3 +1,13 @@
+---
+title: Psalm_93
+description: 
+published: true
+date: 2022-02-23T05:15:06.459Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:04.729Z
+---
+
  Book:: [[Psalm]]
  1. The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved. ^1
  2. Thy throne is established of old: thou art from everlasting. ^2

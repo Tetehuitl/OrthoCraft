@@ -1,3 +1,13 @@
+---
+title: John_13
+description: 
+published: true
+date: 2022-02-23T04:54:51.804Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:49.932Z
+---
+
  Book:: [[John]]
  1. Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end. ^1
  2. And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon's son, to betray him; ^2

@@ -1,3 +1,13 @@
+---
+title: Romans_14
+description: 
+published: true
+date: 2022-02-23T05:16:48.090Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:46.297Z
+---
+
  Book:: [[Romans]]
  1. Him that is weak in the faith receive ye, but not to doubtful disputations. ^1
  2. For one believeth that he may eat all things: another, who is weak, eateth herbs. ^2

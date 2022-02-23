@@ -1,3 +1,13 @@
+---
+title: Galatians_4
+description: 
+published: true
+date: 2022-02-23T04:42:36.002Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:33.946Z
+---
+
  Book:: [[Galatians]]
  1. Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all; ^1
  2. But is under tutors and governors until the time appointed of the father. ^2

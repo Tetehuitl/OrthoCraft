@@ -1,3 +1,13 @@
+---
+title: Psalm_130
+description: 
+published: true
+date: 2022-02-23T05:10:01.572Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:59.813Z
+---
+
  Book:: [[Psalm]]
  1. Out of the depths have I cried unto thee, O LORD. ^1
  2. Lord, hear my voice: let thine ears be attentive to the voice of my supplications. ^2

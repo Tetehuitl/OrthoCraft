@@ -1,3 +1,13 @@
+---
+title: 645-september-27
+description: 
+published: true
+date: 2022-02-23T05:32:28.864Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:32:26.996Z
+---
+
 
 **1. THE HOLY MARTYR CALLISTRATUS**
 

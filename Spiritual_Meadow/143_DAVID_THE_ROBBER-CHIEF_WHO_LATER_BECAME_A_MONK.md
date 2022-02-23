@@ -1,3 +1,13 @@
+---
+title: 143_DAVID_THE_ROBBER-CHIEF_WHO_LATER_BECAME_A_MONK
+description: 
+published: true
+date: 2022-02-23T05:39:47.006Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:39:45.241Z
+---
+
 [[Spiritual Meadow]]
  
 We came to the Thebaid and at the city of Antinoé we visited Phoebamon the Sophist for the benefit of his words. He told us that in the district around Hermopolis there had been a brigand whose name was David. He had rendered many people destitute, murdered many and committed every kind of evi] deed; more so than any other man, one might say. One day, whilst he was still engaged in brigandage on the mountain, together with a band of more than thirty, he came to his senses, conscience-stricken by his evil deeds. He left all those who were with him and went to a monastery. He knocked at the monastery gate; the porter came out and asked him what he wanted. The robber-chief replied that he wanted to become a monk, so the porter went inside and told the abbot about him. The abbot came out and, when he saw that the man was advanced in age, he said to him: ‘You cannot stay here, for the brethren labour very hard. They practice great austerity. ‘Your temperament is different from ours and you could not tolerate the rule of the monastery.’ But the brigand insisted that he could tolerate these things, if only the abbot would accept him. But the abbot was persistent in his conviction that the man would not be able. Then the robber-chief said to him: ‘Know, then, that I am  

@@ -1,3 +1,13 @@
+---
+title: 711-december-2
+description: 
+published: true
+date: 2022-02-23T05:35:46.157Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:35:44.213Z
+---
+
 
 **1. THE HOLY PROPHET HABAKKUK**
 

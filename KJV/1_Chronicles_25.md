@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_25
+description: 
+published: true
+date: 2022-02-23T04:22:01.836Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:00.045Z
+---
+
  Book:: [[1 Chronicles]]
  1. Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was: ^1
  2. Of the sons of Asaph; Zaccur, and Joseph, and Nethaniah, and Asarelah, the sons of Asaph under the hands of Asaph, which prophesied according to the order of the king. ^2

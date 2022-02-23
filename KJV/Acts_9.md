@@ -1,3 +1,13 @@
+---
+title: Acts_9
+description: 
+published: true
+date: 2022-02-23T04:33:34.191Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:32.363Z
+---
+
  Book:: [[Acts]]
  1. And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest, ^1
  2. And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem. ^2

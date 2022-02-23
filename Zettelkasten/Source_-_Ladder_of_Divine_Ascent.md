@@ -1,3 +1,13 @@
+---
+title: Source_-_Ladder_of_Divine_Ascent
+description: 
+published: true
+date: 2022-02-23T05:49:29.164Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:49:27.275Z
+---
+
 [[Source]]
 
 - [[Literature Notes]]

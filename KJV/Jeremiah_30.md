@@ -1,3 +1,13 @@
+---
+title: Jeremiah_30
+description: 
+published: true
+date: 2022-02-23T04:51:07.710Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:05.887Z
+---
+
  Book:: [[Jeremiah]]
  1. The word that came to Jeremiah from the LORD, saying, ^1
  2. Thus speaketh the LORD God of Israel, saying, Write thee all the words that I have spoken unto thee in a book. ^2

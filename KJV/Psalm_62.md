@@ -1,3 +1,13 @@
+---
+title: Psalm_62
+description: 
+published: true
+date: 2022-02-23T05:13:30.099Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:28.350Z
+---
+
  Book:: [[Psalm]]
  1. Truly my soul waiteth upon God: from him cometh my salvation. ^1
  2. He only is my rock and my salvation; he is my defence; I shall not be greatly moved. ^2

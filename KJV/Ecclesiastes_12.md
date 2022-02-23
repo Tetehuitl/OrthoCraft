@@ -1,3 +1,13 @@
+---
+title: Ecclesiastes_12
+description: 
+published: true
+date: 2022-02-23T04:36:37.156Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:35.396Z
+---
+
  Book:: [[Ecclesiastes]]
  1. Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them; ^1
  2. While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain: ^2

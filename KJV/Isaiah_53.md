@@ -1,3 +1,13 @@
+---
+title: Isaiah_53
+description: 
+published: true
+date: 2022-02-23T04:48:55.639Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:53.876Z
+---
+
  Book:: [[Isaiah]]
  1. Who hath believed our report? and to whom is the arm of the LORD revealed? ^1
  2. For he shall grow up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; and when we shall see him, there is no beauty that we should desire him. ^2

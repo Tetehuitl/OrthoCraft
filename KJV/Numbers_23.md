@@ -1,3 +1,13 @@
+---
+title: Numbers_23
+description: 
+published: true
+date: 2022-02-23T05:05:24.072Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:22.265Z
+---
+
  Book:: [[Numbers]]
  1. And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams. ^1
  2. And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram. ^2

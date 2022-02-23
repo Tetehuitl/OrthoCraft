@@ -1,3 +1,13 @@
+---
+title: Jeremiah_40
+description: 
+published: true
+date: 2022-02-23T04:51:38.431Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:36.619Z
+---
+
  Book:: [[Jeremiah]]
  1. The word that came to Jeremiah from the LORD, after that Nebuzaradan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all that were carried away captive of Jerusalem and Judah, which were carried away captive unto Babylon. ^1
  2. And the captain of the guard took Jeremiah, and said unto him, The LORD thy God hath pronounced this evil upon this place. ^2

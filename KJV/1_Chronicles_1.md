@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_1
+description: 
+published: true
+date: 2022-02-23T04:21:17.002Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:15.164Z
+---
+
  Book:: [[1 Chronicles]]
  1. Adam, Sheth, Enosh, ^1
  2. Kenan, Mahalaleel, Jered, ^2

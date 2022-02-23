@@ -1,3 +1,13 @@
+---
+title: 219_How_A_BROTHER_WAS_RECONCILED_WITH_A_DEACON_WHO_WAS_AGGRIEVED_AT_HIM
+description: 
+published: true
+date: 2022-02-23T05:43:55.628Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:43:53.876Z
+---
+
 [[Spiritual Meadow]]
  
 An elder told me something like this:  

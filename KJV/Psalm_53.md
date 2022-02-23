@@ -1,3 +1,13 @@
+---
+title: Psalm_53
+description: 
+published: true
+date: 2022-02-23T05:13:01.888Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:00.155Z
+---
+
  Book:: [[Psalm]]
  1. The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good. ^1
  2. God looked down from heaven upon the children of men, to see if there were any that did understand, that did seek God. ^2

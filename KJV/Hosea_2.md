@@ -1,3 +1,13 @@
+---
+title: Hosea_2
+description: 
+published: true
+date: 2022-02-23T04:46:19.117Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:17.319Z
+---
+
  Book:: [[Hosea]]
  1. Say ye unto your brethren, Ammi; and to your sisters, Ruhamah. ^1
  2. Plead with your mother, plead: for she is not my wife, neither am I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts; ^2

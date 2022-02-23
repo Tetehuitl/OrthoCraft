@@ -1,3 +1,13 @@
+---
+title: Isaiah_28
+description: 
+published: true
+date: 2022-02-23T04:47:38.597Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:36.767Z
+---
+
  Book:: [[Isaiah]]
  1. Woe to the crown of pride, to the drunkards of Ephraim, whose glorious beauty is a fading flower, which are on the head of the fat valleys of them that are overcome with wine! ^1
  2. Behold, the Lord hath a mighty and strong one, which as a tempest of hail and a destroying storm, as a flood of mighty waters overflowing, shall cast down to the earth with the hand. ^2

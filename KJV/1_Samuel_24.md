@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_24
+description: 
+published: true
+date: 2022-02-23T04:25:39.476Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:37.666Z
+---
+
  Book:: [[1 Samuel]]
  1. And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David is in the wilderness of Engedi. ^1
  2. Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men upon the rocks of the wild goats. ^2

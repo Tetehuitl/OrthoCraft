@@ -1,3 +1,13 @@
+---
+title: Acts_23
+description: 
+published: true
+date: 2022-02-23T04:33:01.276Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:59.454Z
+---
+
  Book:: [[Acts]]
  1. And Paul, earnestly beholding the council, said, Men and brethren, I have lived in all good conscience before God until this day. ^1
  2. And the high priest Ananias commanded them that stood by him to smite him on the mouth. ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_88
+description: 
+published: true
+date: 2022-02-23T05:14:49.428Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:47.677Z
+---
+
  Book:: [[Psalm]]
  1. O lord God of my salvation, I have cried day and night before thee: ^1
  2. Let my prayer come before thee: incline thine ear unto my cry; ^2

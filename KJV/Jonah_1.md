@@ -1,3 +1,13 @@
+---
+title: Jonah_1
+description: 
+published: true
+date: 2022-02-23T04:55:41.936Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:40.131Z
+---
+
  Book:: [[Jonah]]
  1. Now the word of the LORD came unto Jonah the son of Amittai, saying, ^1
  2. Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me. ^2

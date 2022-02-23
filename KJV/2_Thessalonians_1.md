@@ -1,3 +1,13 @@
+---
+title: 2_Thessalonians_1
+description: 
+published: true
+date: 2022-02-23T04:31:48.587Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:46.848Z
+---
+
  Book:: [[2 Thessalonians]]
  1. Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ: ^1
  2. Grace unto you, and peace, from God our Father and the Lord Jesus Christ. ^2

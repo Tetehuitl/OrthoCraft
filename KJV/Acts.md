@@ -1,3 +1,13 @@
+---
+title: Acts
+description: 
+published: true
+date: 2022-02-23T04:32:18.694Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:36:41.429Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[Acts 1]]

@@ -1,3 +1,13 @@
+---
+title: 2_Thessalonians
+description: 
+published: true
+date: 2022-02-23T04:31:45.960Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:44.119Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[2 Thessalonians 1]]

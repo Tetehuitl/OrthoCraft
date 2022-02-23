@@ -1,3 +1,13 @@
+---
+title: 2_Kings_24
+description: 
+published: true
+date: 2022-02-23T04:30:02.817Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:01.013Z
+---
+
  Book:: [[2 Kings]]
  1. In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him. ^1
  2. And the LORD sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the LORD, which he spake by his servants the prophets. ^2

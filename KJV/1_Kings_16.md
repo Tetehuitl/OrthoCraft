@@ -1,3 +1,13 @@
+---
+title: 1_Kings_16
+description: 
+published: true
+date: 2022-02-23T04:23:57.282Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:55.458Z
+---
+
  Book:: [[1 Kings]]
  1. Then the word of the LORD came to Jehu the son of Hanani against Baasha, saying, ^1
  2. Forasmuch as I exalted thee out of the dust, and made thee prince over my people Israel; and thou hast walked in the way of Jeroboam, and hast made my people Israel to sin, to provoke me to anger with their sins; ^2

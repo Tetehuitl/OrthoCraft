@@ -1,3 +1,13 @@
+---
+title: Esther_8
+description: 
+published: true
+date: 2022-02-23T04:37:43.332Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:41.543Z
+---
+
  Book:: [[Esther]]
  1. On that day did the king Ahasuerus give the house of Haman the Jews' enemy unto Esther the queen. And Mordecai came before the king; for Esther had told what he was unto her. ^1
  2. And the king took off his ring, which he had taken from Haman, and gave it unto Mordecai. And Esther set Mordecai over the house of Haman. ^2

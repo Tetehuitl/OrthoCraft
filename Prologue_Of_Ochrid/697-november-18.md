@@ -1,3 +1,13 @@
+---
+title: 697-november-18
+description: 
+published: true
+date: 2022-02-23T05:35:06.489Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:35:04.621Z
+---
+
 
 **1. THE HOLY MARTYR PLATO**
 

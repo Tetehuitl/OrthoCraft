@@ -1,3 +1,13 @@
+---
+title: Isaiah_55
+description: 
+published: true
+date: 2022-02-23T04:49:01.134Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:59.370Z
+---
+
  Book:: [[Isaiah]]
  1. Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price. ^1
  2. Wherefore do ye spend money for that which is not bread? and your labour for that which satisfieth not? hearken diligently unto me, and eat ye that which is good, and let your soul delight itself in fatness. ^2

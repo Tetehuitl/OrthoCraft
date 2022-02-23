@@ -1,3 +1,13 @@
+---
+title: Proverbs_16
+description: 
+published: true
+date: 2022-02-23T05:07:11.885Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:10.051Z
+---
+
  Book:: [[Proverbs]]
  1. The preparations of the heart in man, and the answer of the tongue, is from the LORD. ^1
  2. All the ways of a man are clean in his own eyes; but the LORD weigheth the spirits. ^2

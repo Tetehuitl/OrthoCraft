@@ -1,3 +1,13 @@
+---
+title: 637-september-19
+description: 
+published: true
+date: 2022-02-23T05:32:04.282Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:32:02.421Z
+---
+
 
 **1. THE HOLY MARTYRS TROPHIMUS, SABBATIUS AND DORYMEDON**
 

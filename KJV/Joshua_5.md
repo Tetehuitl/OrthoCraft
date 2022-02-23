@@ -1,3 +1,13 @@
+---
+title: Joshua_5
+description: 
+published: true
+date: 2022-02-23T04:56:48.922Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:47.105Z
+---
+
  Book:: [[Joshua]]
  1. And it came to pass, when all the kings of the Amorites, which were on the side of Jordan westward, and all the kings of the Canaanites, which were by the sea, heard that the LORD had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel. ^1
  2. At that time the LORD said unto Joshua, Make thee sharp knives, and circumcise again the children of Israel the second time. ^2

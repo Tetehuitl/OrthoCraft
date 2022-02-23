@@ -1,3 +1,13 @@
+---
+title: Matthew_26
+description: 
+published: true
+date: 2022-02-23T05:02:50.186Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:48.312Z
+---
+
  Book:: [[Matthew]]
  1. And it came to pass, when Jesus had finished all these sayings, he said unto his disciples, ^1
  2. Ye know that after two days is the feast of the passover, and the Son of man is betrayed to be crucified. ^2

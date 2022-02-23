@@ -1,3 +1,13 @@
+---
+title: 613-august-26
+description: 
+published: true
+date: 2022-02-23T05:30:51.762Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:30:49.885Z
+---
+
 
 **1. THE HOLY MARTYR ADRIAN AND HIS WIFE NATALIA**
 

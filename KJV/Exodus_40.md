@@ -1,3 +1,13 @@
+---
+title: Exodus_40
+description: 
+published: true
+date: 2022-02-23T04:39:25.018Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:23.206Z
+---
+
  Book:: [[Exodus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. On the first day of the first month shalt thou set up the tabernacle of the tent of the congregation. ^2

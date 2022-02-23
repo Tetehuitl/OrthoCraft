@@ -1,3 +1,13 @@
+---
+title: Micah_2
+description: 
+published: true
+date: 2022-02-23T05:03:28.800Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:03:27.042Z
+---
+
  Book:: [[Micah]]
  1. Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand. ^1
  2. And they covet fields, and take them by violence; and houses, and take them away: so they oppress a man and his house, even a man and his heritage. ^2

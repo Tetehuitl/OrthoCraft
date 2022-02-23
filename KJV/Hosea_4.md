@@ -1,3 +1,13 @@
+---
+title: Hosea_4
+description: 
+published: true
+date: 2022-02-23T04:46:24.551Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:22.748Z
+---
+
  Book:: [[Hosea]]
  1. Hear the word of the LORD, ye children of Israel: for the LORD hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land. ^1
  2. By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood. ^2

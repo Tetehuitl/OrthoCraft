@@ -1,3 +1,13 @@
+---
+title: Psalm_69
+description: 
+published: true
+date: 2022-02-23T05:13:49.877Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:48.057Z
+---
+
  Book:: [[Psalm]]
  1. Save me, O God; for the waters are come in unto my soul. ^1
  2. I sink in deep mire, where there is no standing: I am come into deep waters, where the floods overflow me. ^2

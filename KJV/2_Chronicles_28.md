@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_28
+description: 
+published: true
+date: 2022-02-23T04:27:50.819Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:48.974Z
+---
+
  Book:: [[2 Chronicles]]
  1. Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not that which was right in the sight of the LORD, like David his father: ^1
  2. For he walked in the ways of the kings of Israel, and made also molten images for Baalim. ^2

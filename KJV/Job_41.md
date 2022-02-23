@@ -1,3 +1,13 @@
+---
+title: Job_41
+description: 
+published: true
+date: 2022-02-23T04:54:08.228Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:06.425Z
+---
+
  Book:: [[Job]]
  1. Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down? ^1
  2. Canst thou put an hook into his nose? or bore his jaw through with a thorn? ^2

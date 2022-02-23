@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_10
+description: 
+published: true
+date: 2022-02-23T04:21:19.644Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:17.830Z
+---
+
  Book:: [[1 Chronicles]]
  1. Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa. ^1
  2. And the Philistines followed hard after Saul, and after his sons; and the Philistines slew Jonathan, and Abinadab, and Malchishua, the sons of Saul. ^2

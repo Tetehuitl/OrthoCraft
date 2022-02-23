@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_36
+description: 
+published: true
+date: 2022-02-23T04:28:15.086Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:13.275Z
+---
+
  Book:: [[2 Chronicles]]
  1. Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father's stead in Jerusalem. ^1
  2. Jehoahaz was twenty and three years old when he began to reign, and he reigned three months in Jerusalem. ^2

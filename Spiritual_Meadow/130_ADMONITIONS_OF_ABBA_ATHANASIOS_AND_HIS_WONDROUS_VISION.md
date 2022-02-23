@@ -1,3 +1,13 @@
+---
+title: 130_ADMONITIONS_OF_ABBA_ATHANASIOS_AND_HIS_WONDROUS_VISION
+description: 
+published: true
+date: 2022-02-23T05:39:06.111Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:39:04.403Z
+---
+
 [[Spiritual Meadow]]
  
 This same Abba Athanasios said: ‘Our fathers maintained self- discipline and indifference to worldly goods, but we have lined well both our bellies and our purses’.  

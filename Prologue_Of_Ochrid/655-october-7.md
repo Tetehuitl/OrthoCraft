@@ -1,3 +1,13 @@
+---
+title: 655-october-7
+description: 
+published: true
+date: 2022-02-23T05:32:59.074Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:32:57.173Z
+---
+
 
 **1. THE HOLY MARTYRS SERGIUS AND BACCHUS**
 

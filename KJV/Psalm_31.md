@@ -1,3 +1,13 @@
+---
+title: Psalm_31
+description: 
+published: true
+date: 2022-02-23T05:11:53.743Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:51.917Z
+---
+
  Book:: [[Psalm]]
  1. In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness. ^1
  2. Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me. ^2

@@ -1,3 +1,13 @@
+---
+title: 105_THE_LIFE_OF_A_HOLY_ELDER_NAMED_CHRISTOPHER_A_ROMAN
+description: 
+published: true
+date: 2022-02-23T05:37:43.847Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:37:42.066Z
+---
+
 [[Spiritual Meadow]]
  
 ‘When we were in Alexandria, we visited Abba Theodoulos who was at the Church of Saint Sophia = ‘holy wisdom' by the Lighthouse. He told us:  

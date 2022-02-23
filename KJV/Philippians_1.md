@@ -1,3 +1,13 @@
+---
+title: Philippians_1
+description: 
+published: true
+date: 2022-02-23T05:06:38.126Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:36.310Z
+---
+
  Book:: [[Philippians]]
  1. Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons: ^1
  2. Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ. ^2

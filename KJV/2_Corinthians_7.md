@@ -1,3 +1,13 @@
+---
+title: 2_Corinthians_7
+description: 
+published: true
+date: 2022-02-23T04:29:03.118Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:01.330Z
+---
+
  Book:: [[2 Corinthians]]
  1. Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God. ^1
  2. Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man. ^2

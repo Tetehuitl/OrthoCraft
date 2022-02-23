@@ -1,5 +1,11 @@
 ---
 title: cool seeds
+description: 
+published: true
+date: 2022-02-23T05:20:00.313Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:19:58.583Z
 ---
 
 - **Java**

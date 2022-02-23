@@ -1,3 +1,13 @@
+---
+title: Matthew_12
+description: 
+published: true
+date: 2022-02-23T05:02:07.550Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:05.726Z
+---
+
  Book:: [[Matthew]]
  1. At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn and to eat. ^1
  2. But when the Pharisees saw it, they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day. ^2

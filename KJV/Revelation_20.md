@@ -1,3 +1,13 @@
+---
+title: Revelation_20
+description: 
+published: true
+date: 2022-02-23T05:16:02.828Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:01.041Z
+---
+
  Book:: [[Revelation]]
  1. And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand. ^1
  2. And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years, ^2

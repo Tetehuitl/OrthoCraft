@@ -1,3 +1,13 @@
+---
+title: Exodus_1
+description: 
+published: true
+date: 2022-02-23T04:37:51.694Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:49.882Z
+---
+
  Book:: [[Exodus]]
  1. Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob. ^1
  2. Reuben, Simeon, Levi, and Judah, ^2

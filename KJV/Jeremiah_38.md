@@ -1,3 +1,13 @@
+---
+title: Jeremiah_38
+description: 
+published: true
+date: 2022-02-23T04:51:30.153Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:28.327Z
+---
+
  Book:: [[Jeremiah]]
  1. Then Shephatiah the son of Mattan, and Gedaliah the son of Pashur, and Jucal the son of Shelemiah, and Pashur the son of Malchiah, heard the words that Jeremiah had spoken unto all the people, saying, ^1
  2. Thus saith the LORD, He that remaineth in this city shall die by the sword, by the famine, and by the pestilence: but he that goeth forth to the Chaldeans shall live; for he shall have his life for a prey, and shall live. ^2

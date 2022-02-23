@@ -1,3 +1,13 @@
+---
+title: Judges_17
+description: 
+published: true
+date: 2022-02-23T04:57:32.415Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:30.643Z
+---
+
  Book:: [[Judges]]
  1. And there was a man of mount Ephraim, whose name was Micah. ^1
  2. And he said unto his mother, The eleven hundred shekels of silver that were taken from thee, about which thou cursedst, and spakest of also in mine ears, behold, the silver is with me; I took it. And his mother said, Blessed be thou of the LORD, my son. ^2

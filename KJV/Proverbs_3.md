@@ -1,3 +1,13 @@
+---
+title: Proverbs_3
+description: 
+published: true
+date: 2022-02-23T05:07:54.436Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:52.617Z
+---
+
  Book:: [[Proverbs]]
  1. My son, forget not my law; but let thine heart keep my commandments: ^1
  2. For length of days, and long life, and peace, shall they add to thee. ^2

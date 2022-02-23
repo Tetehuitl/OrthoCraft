@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_30
+description: 
+published: true
+date: 2022-02-23T04:27:58.860Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:57.052Z
+---
+
  Book:: [[2 Chronicles]]
  1. And Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to the house of the LORD at Jerusalem, to keep the passover unto the LORD God of Israel. ^1
  2. For the king had taken counsel, and his princes, and all the congregation in Jerusalem, to keep the passover in the second month. ^2

@@ -1,3 +1,13 @@
+---
+title: 2_Corinthians_5
+description: 
+published: true
+date: 2022-02-23T04:28:57.876Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:56.091Z
+---
+
  Book:: [[2 Corinthians]]
  1. For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens. ^1
  2. For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven: ^2

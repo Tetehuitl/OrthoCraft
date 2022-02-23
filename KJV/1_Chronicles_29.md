@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_29
+description: 
+published: true
+date: 2022-02-23T04:22:12.450Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:10.630Z
+---
+
  Book:: [[1 Chronicles]]
  1. Furthermore David the king said unto all the congregation, Solomon my son, whom alone God hath chosen, is yet young and tender, and the work is great: for the palace is not for man, but for the LORD God. ^1
  2. Now I have prepared with all my might for the house of my God the gold for things to be made of gold, and the silver for things of silver, and the brass for things of brass, the iron for things of iron, and wood for things of wood; onyx stones, and stones to be set, glistering stones, and of divers colors, and all manner of precious stones, and marble stones in abundance. ^2

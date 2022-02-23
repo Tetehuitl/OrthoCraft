@@ -1,3 +1,13 @@
+---
+title: Exodus_26
+description: 
+published: true
+date: 2022-02-23T04:38:40.781Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:38.939Z
+---
+
  Book:: [[Exodus]]
  1. Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubim of cunning work shalt thou make them. ^1
  2. The length of one curtain shall be eight and twenty cubits, and the breadth of one curtain four cubits: and every one of the curtains shall have one measure. ^2

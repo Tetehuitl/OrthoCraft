@@ -1,3 +1,13 @@
+---
+title: Hebrews_3
+description: 
+published: true
+date: 2022-02-23T04:45:41.376Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:45:39.609Z
+---
+
  Book:: [[Hebrews]]
  1. Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus; ^1
  2. Who was faithful to him that appointed him, as also Moses was faithful in all his house. ^2

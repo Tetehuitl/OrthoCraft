@@ -1,3 +1,13 @@
+---
+title: Ezekiel_35
+description: 
+published: true
+date: 2022-02-23T04:41:00.992Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:59.212Z
+---
+
  Book:: [[Ezekiel]]
  1. Moreover the word of the LORD came unto me, saying, ^1
  2. Son of man, set thy face against mount Seir, and prophesy against it, ^2

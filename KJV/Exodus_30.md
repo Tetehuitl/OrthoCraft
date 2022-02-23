@@ -1,3 +1,13 @@
+---
+title: Exodus_30
+description: 
+published: true
+date: 2022-02-23T04:38:54.526Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:52.701Z
+---
+
  Book:: [[Exodus]]
  1. And thou shalt make an altar to burn incense upon: of shittim wood shalt thou make it. ^1
  2. A cubit shall be the length thereof, and a cubit the breadth thereof; foursquare shall it be: and two cubits shall be the height thereof: the horns thereof shall be of the same. ^2

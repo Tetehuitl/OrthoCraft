@@ -1,7 +1,11 @@
 ---
-publish: true
-date updated: '2021-08-05T14:16:03-04:00'
-
+title: St_Benedict_Medal
+description: 
+published: true
+date: 2022-02-23T05:20:32.700Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:20:30.913Z
 ---
 
 links:

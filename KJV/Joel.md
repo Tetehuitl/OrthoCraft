@@ -1,3 +1,13 @@
+---
+title: Joel
+description: 
+published: true
+date: 2022-02-23T04:54:27.659Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:37:49.324Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Joel 1]]

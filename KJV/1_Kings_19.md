@@ -1,3 +1,13 @@
+---
+title: 1_Kings_19
+description: 
+published: true
+date: 2022-02-23T04:24:05.217Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:03.428Z
+---
+
  Book:: [[1 Kings]]
  1. And Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword. ^1
  2. Then Jezebel sent a messenger unto Elijah, saying, So let the gods do to me, and more also, if I make not thy life as the life of one of them by to morrow about this time. ^2

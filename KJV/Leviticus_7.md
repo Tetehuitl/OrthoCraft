@@ -1,3 +1,13 @@
+---
+title: Leviticus_7
+description: 
+published: true
+date: 2022-02-23T04:59:35.400Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:33.546Z
+---
+
  Book:: [[Leviticus]]
  1. Likewise this is the law of the trespass offering: it is most holy. ^1
  2. In the place where they kill the burnt offering shall they kill the trespass offering: and the blood thereof shall he sprinkle round about upon the altar. ^2

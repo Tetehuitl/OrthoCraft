@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_8
+description: 
+published: true
+date: 2022-02-23T04:28:28.396Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:26.594Z
+---
+
  Book:: [[2 Chronicles]]
  1. And it came to pass at the end of twenty years, wherein Solomon had built the house of the LORD, and his own house, ^1
  2. That the cities which Huram had restored to Solomon, Solomon built them, and caused the children of Israel to dwell there. ^2

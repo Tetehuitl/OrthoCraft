@@ -1,3 +1,13 @@
+---
+title: 118_THE_LIFE_OF_MENAS_THE_DEACON_A_MONK_OF_RAITHOU
+description: 
+published: true
+date: 2022-02-23T05:38:24.909Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:38:23.134Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Sergios of Raithou told us this about a brother from there called Menas, who became a deacon:  

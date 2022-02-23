@@ -1,3 +1,13 @@
+---
+title: Revelation_16
+description: 
+published: true
+date: 2022-02-23T05:15:48.507Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:46.692Z
+---
+
  Book:: [[Revelation]]
  1. And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth. ^1
  2. And the first went, and poured out his vial upon the earth; and there fell a noisome and grievous sore upon the men which had the mark of the beast, and upon them which worshipped his image. ^2

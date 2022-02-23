@@ -1,3 +1,13 @@
+---
+title: Psalm_43
+description: 
+published: true
+date: 2022-02-23T05:12:30.493Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:28.765Z
+---
+
  Book:: [[Psalm]]
  1. Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man. ^1
  2. For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy? ^2

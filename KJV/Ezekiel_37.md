@@ -1,3 +1,13 @@
+---
+title: Ezekiel_37
+description: 
+published: true
+date: 2022-02-23T04:41:06.534Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:04.717Z
+---
+
  Book:: [[Ezekiel]]
  1. The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones, ^1
  2. And caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry. ^2

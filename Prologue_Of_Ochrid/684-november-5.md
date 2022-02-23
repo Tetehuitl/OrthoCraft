@@ -1,3 +1,13 @@
+---
+title: 684-november-5
+description: 
+published: true
+date: 2022-02-23T05:34:27.011Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:34:25.124Z
+---
+
 
 **1. THE VENERABLE MARTYRS GALACTION AND EPISTEME**
 

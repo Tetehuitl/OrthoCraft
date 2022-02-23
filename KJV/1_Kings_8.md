@@ -1,3 +1,13 @@
+---
+title: 1_Kings_8
+description: 
+published: true
+date: 2022-02-23T04:24:32.190Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:30.299Z
+---
+
  Book:: [[1 Kings]]
  1. Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto king Solomon in Jerusalem, that they might bring up the ark of the covenant of the LORD out of the city of David, which is Zion. ^1
  2. And all the men of Israel assembled themselves unto king Solomon at the feast in the month Ethanim, which is the seventh month. ^2

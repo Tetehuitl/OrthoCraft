@@ -1,3 +1,13 @@
+---
+title: 1_Peter_1
+description: 
+published: true
+date: 2022-02-23T04:24:40.257Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:38.462Z
+---
+
  Book:: [[1 Peter]]
  1. Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, ^1
  2. Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied. ^2

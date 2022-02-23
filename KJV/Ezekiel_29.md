@@ -1,3 +1,13 @@
+---
+title: Ezekiel_29
+description: 
+published: true
+date: 2022-02-23T04:40:41.775Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:39.989Z
+---
+
  Book:: [[Ezekiel]]
  1. In the tenth year, in the tenth month, in the twelfth day of the month, the word of the LORD came unto me, saying, ^1
  2. Son of man, set thy face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt: ^2

@@ -1,3 +1,13 @@
+---
+title: Jeremiah_8
+description: 
+published: true
+date: 2022-02-23T04:52:23.137Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:21.306Z
+---
+
  Book:: [[Jeremiah]]
  1. At that time, saith the LORD, they shall bring out the bones of the kings of Judah, and the bones of his princes, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves: ^1
  2. And they shall spread them before the sun, and the moon, and all the host of heaven, whom they have loved, and whom they have served, and after whom they have walked, and whom they have sought, and whom they have worshipped: they shall not be gathered, nor be buried; they shall be for dung upon the face of the earth. ^2

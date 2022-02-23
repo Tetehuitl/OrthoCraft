@@ -1,3 +1,13 @@
+---
+title: Isaiah_46
+description: 
+published: true
+date: 2022-02-23T04:48:33.545Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:31.753Z
+---
+
  Book:: [[Isaiah]]
  1. Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages were heavy loaden; they are a burden to the weary beast. ^1
  2. They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity. ^2

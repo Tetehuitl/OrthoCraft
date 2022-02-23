@@ -1,3 +1,13 @@
+---
+title: 93_THE_LIFE_OF_ABBA_SISINIOS_(WHO_DECLINED_A_BISHOPRIC)_AND_OF_HIS_DISCIPLE
+description: 
+published: true
+date: 2022-02-23T05:47:53.861Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:47:52.083Z
+---
+
 [[Spiritual Meadow]]
  
 This same man, our father Abba George, told us:  

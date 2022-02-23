@@ -1,3 +1,13 @@
+---
+title: Isaiah_33
+description: 
+published: true
+date: 2022-02-23T04:47:55.004Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:53.216Z
+---
+
  Book:: [[Isaiah]]
  1. Woe to thee that spoilest, and thou wast not spoiled; and dealest treacherously, and they dealt not treacherously with thee! when thou shalt cease to spoil, thou shalt be spoiled; and when thou shalt make an end to deal treacherously, they shall deal treacherously with thee. ^1
  2. O LORD, be gracious unto us; we have waited for thee: be thou their arm every morning, our salvation also in the time of trouble. ^2

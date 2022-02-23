@@ -1,3 +1,13 @@
+---
+title: Isaiah_66
+description: 
+published: true
+date: 2022-02-23T04:49:34.087Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:32.270Z
+---
+
  Book:: [[Isaiah]]
  1. Thus saith the LORD, The heaven is my throne, and the earth is my footstool: where is the house that ye build unto me? and where is the place of my rest? ^1
  2. For all those things hath mine hand made, and all those things have been, saith the LORD: but to this man will I look, even to him that is poor and of a contrite spirit, and trembleth at my word. ^2

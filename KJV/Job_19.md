@@ -1,3 +1,13 @@
+---
+title: Job_19
+description: 
+published: true
+date: 2022-02-23T04:52:58.966Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:57.133Z
+---
+
  Book:: [[Job]]
  1. Then Job answered and said, ^1
  2. How long will ye vex my soul, and break me in pieces with words? ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_52
+description: 
+published: true
+date: 2022-02-23T05:12:58.699Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:56.962Z
+---
+
  Book:: [[Psalm]]
  1. Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually. ^1
  2. The tongue deviseth mischiefs; like a sharp razor, working deceitfully. ^2

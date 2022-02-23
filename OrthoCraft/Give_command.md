@@ -1,5 +1,11 @@
 ---
 title: Give command
+description: 
+published: true
+date: 2022-02-23T05:19:45.901Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:19:44.118Z
 ---
 
 - /give @p netherite_sword{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:sharpness,lvl:5},{id:smite,lvl:5},{id:bane_of_arthropods,lvl:5},{id:fire_aspect,lvl:2},{id:knockback,lvl:2},{id:looting,lvl:3},{id:sweeping_edge,lvl:3}]}

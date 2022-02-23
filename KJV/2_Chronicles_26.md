@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_26
+description: 
+published: true
+date: 2022-02-23T04:27:45.544Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:43.736Z
+---
+
  Book:: [[2 Chronicles]]
  1. Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah. ^1
  2. He built Eloth, and restored it to Judah, after that the king slept with his fathers. ^2

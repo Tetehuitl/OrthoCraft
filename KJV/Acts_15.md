@@ -1,3 +1,13 @@
+---
+title: Acts_15
+description: 
+published: true
+date: 2022-02-23T04:32:36.882Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:35.064Z
+---
+
  Book:: [[Acts]]
  1. And certain men which came down from Judaea taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved. ^1
  2. When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question. ^2

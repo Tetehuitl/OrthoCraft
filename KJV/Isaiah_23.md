@@ -1,3 +1,13 @@
+---
+title: Isaiah_23
+description: 
+published: true
+date: 2022-02-23T04:47:24.919Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:23.139Z
+---
+
  Book:: [[Isaiah]]
  1. The burden of Tyre. Howl, ye ships of Tarshish; for it is laid waste, so that there is no house, no entering in: from the land of Chittim it is revealed to them. ^1
  2. Be still, ye inhabitants of the isle; thou whom the merchants of Zidon, that pass over the sea, have replenished. ^2

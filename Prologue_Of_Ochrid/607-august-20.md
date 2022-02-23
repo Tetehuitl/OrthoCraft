@@ -1,3 +1,13 @@
+---
+title: 607-august-20
+description: 
+published: true
+date: 2022-02-23T05:30:33.569Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:30:31.732Z
+---
+
 
 **1. THE HOLY PROPHET SAMUEL**
 

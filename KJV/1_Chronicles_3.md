@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_3
+description: 
+published: true
+date: 2022-02-23T04:22:15.097Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:13.280Z
+---
+
  Book:: [[1 Chronicles]]
  1. Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess: ^1
  2. The third, Absalom the son of Maachah the daughter of Talmai king of Geshur: the fourth, Adonijah the son of Haggith: ^2

@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_14
+description: 
+published: true
+date: 2022-02-23T04:27:10.916Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:09.116Z
+---
+
  Book:: [[2 Chronicles]]
  1. So Abijah slept with his fathers, and they buried him in the city of David: and Asa his son reigned in his stead. In his days the land was quiet ten years. ^1
  2. And Asa did that which was good and right in the eyes of the LORD his God: ^2

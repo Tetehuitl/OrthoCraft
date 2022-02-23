@@ -1,3 +1,13 @@
+---
+title: 2_Corinthians_11
+description: 
+published: true
+date: 2022-02-23T04:28:41.970Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:40.151Z
+---
+
  Book:: [[2 Corinthians]]
  1. Would to God ye could bear with me a little in my folly: and indeed bear with me. ^1
  2. For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ. ^2

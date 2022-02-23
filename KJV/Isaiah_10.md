@@ -1,3 +1,13 @@
+---
+title: Isaiah_10
+description: 
+published: true
+date: 2022-02-23T04:46:46.757Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:44.901Z
+---
+
  Book:: [[Isaiah]]
  1. Woe unto them that decree unrighteous decrees, and that write grievousness which they have prescribed; ^1
  2. To turn aside the needy from judgment, and to take away the right from the poor of my people, that widows may be their prey, and that they may rob the fatherless! ^2

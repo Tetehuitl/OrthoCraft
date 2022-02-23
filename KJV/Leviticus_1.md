@@ -1,3 +1,13 @@
+---
+title: Leviticus_1
+description: 
+published: true
+date: 2022-02-23T04:58:27.695Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:25.875Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying, ^1
  2. Speak unto the children of Israel, and say unto them, If any man of you bring an offering unto the LORD, ye shall bring your offering of the cattle, even of the herd, and of the flock. ^2

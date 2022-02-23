@@ -1,3 +1,13 @@
+---
+title: Psalm_29
+description: 
+published: true
+date: 2022-02-23T05:11:45.296Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:43.561Z
+---
+
  Book:: [[Psalm]]
  1. Give unto the LORD, O ye mighty, give unto the LORD glory and strength. ^1
  2. Give unto the LORD the glory due unto his name; worship the LORD in the beauty of holiness. ^2

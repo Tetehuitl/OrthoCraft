@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_22
+description: 
+published: true
+date: 2022-02-23T04:21:53.954Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:52.155Z
+---
+
  Book:: [[1 Chronicles]]
  1. Then David said, This is the house of the LORD God, and this is the altar of the burnt offering for Israel. ^1
  2. And David commanded to gather together the strangers that were in the land of Israel; and he set masons to hew wrought stones to build the house of God. ^2

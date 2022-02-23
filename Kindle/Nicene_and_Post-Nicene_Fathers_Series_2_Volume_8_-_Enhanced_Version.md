@@ -1,3 +1,13 @@
+---
+title: Nicene_and_Post-Nicene_Fathers_Series_2_Volume_8_-_Enhanced_Version
+description: 
+published: true
+date: 2022-02-23T05:19:20.339Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:19:18.525Z
+---
+
 # Nicene and Post-Nicene Fathers Series 2, Volume 8 - Enhanced Version
 
 * Author: [Philip Schaff](https://www.amazon.comundefined)

@@ -1,3 +1,13 @@
+---
+title: 168_SAYINGS_OF_ABBA_ALEXANDER_THE_ELDER
+description: 
+published: true
+date: 2022-02-23T05:41:06.161Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:41:04.421Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Alexander, the elder of Abba Vincent, said to the brethren: ‘Our fathers sought out the wildemess and affliction; we seek for cities and comfort’.  

@@ -1,3 +1,13 @@
+---
+title: 1_Thessalonians_2
+description: 
+published: true
+date: 2022-02-23T04:26:24.608Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:22.812Z
+---
+
  Book:: [[1 Thessalonians]]
  1. For yourselves, brethren, know our entrance in unto you, that it was not in vain: ^1
  2. But even after that we had suffered before, and were shamefully entreated, as ye know, at Philippi, we were bold in our God to speak unto you the gospel of God with much contention. ^2

@@ -1,3 +1,13 @@
+---
+title: Mark_2
+description: 
+published: true
+date: 2022-02-23T05:01:33.611Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:31.777Z
+---
+
  Book:: [[Mark]]
  1. And again he entered into Capernaum after some days; and it was noised that he was in the house. ^1
  2. And straightway many were gathered together, insomuch that there was no room to receive them, no, not so much as about the door: and he preached the word unto them. ^2

@@ -1,3 +1,13 @@
+---
+title: Zechariah_8
+description: 
+published: true
+date: 2022-02-23T05:18:46.665Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:44.823Z
+---
+
  Book:: [[Zechariah]]
  1. Again the word of the LORD of hosts came to me, saying, ^1
  2. Thus saith the LORD of hosts; I was jealous for Zion with great jealousy, and I was jealous for her with great fury. ^2

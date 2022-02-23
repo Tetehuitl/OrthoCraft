@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_2
+description: 
+published: true
+date: 2022-02-23T04:21:46.074Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:44.249Z
+---
+
  Book:: [[1 Chronicles]]
  1. These are the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun, ^1
  2. Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher. ^2

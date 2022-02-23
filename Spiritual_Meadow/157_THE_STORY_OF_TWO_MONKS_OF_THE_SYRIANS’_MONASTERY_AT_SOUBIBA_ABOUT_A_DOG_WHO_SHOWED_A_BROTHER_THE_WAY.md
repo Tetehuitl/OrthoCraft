@@ -1,3 +1,13 @@
+---
+title: 157_THE_STORY_OF_TWO_MONKS_OF_THE_SYRIANS’_MONASTERY_AT_SOUBIBA_ABOUT_A_DOG_WHO_SHOWED_A_BROTHER_THE_WAY
+description: 
+published: true
+date: 2022-02-23T05:40:31.016Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:40:29.283Z
+---
+
 [[Spiritual Meadow]]
  
 At the Lavra of Calamén, near the holy Jordan, Sophronios the Sophist and I met Abba Alexander. There were two monks with him from the Syrians’ monastery at Soubiba. This is what they told us:  

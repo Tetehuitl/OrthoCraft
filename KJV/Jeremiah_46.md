@@ -1,3 +1,13 @@
+---
+title: Jeremiah_46
+description: 
+published: true
+date: 2022-02-23T04:51:55.023Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:53.235Z
+---
+
  Book:: [[Jeremiah]]
  1. The word of the LORD which came to Jeremiah the prophet against the Gentiles; ^1
  2. Against Egypt, against the army of Pharaohnecho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah king of Judah. ^2

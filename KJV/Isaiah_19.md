@@ -1,3 +1,13 @@
+---
+title: Isaiah_19
+description: 
+published: true
+date: 2022-02-23T04:47:11.265Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:09.444Z
+---
+
  Book:: [[Isaiah]]
  1. The burden of Egypt. Behold, the LORD rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it. ^1
  2. And I will set the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbour; city against city, and kingdom against kingdom. ^2

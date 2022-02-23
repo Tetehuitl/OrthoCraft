@@ -1,3 +1,13 @@
+---
+title: 603-august-16
+description: 
+published: true
+date: 2022-02-23T05:30:21.444Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:30:19.586Z
+---
+
 
 **1. THE ICON OF THE LORD JESUS CHRIST, "NOT MADE WITH HANDS"**
 

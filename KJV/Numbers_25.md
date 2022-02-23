@@ -1,3 +1,13 @@
+---
+title: Numbers_25
+description: 
+published: true
+date: 2022-02-23T05:05:29.760Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:27.957Z
+---
+
  Book:: [[Numbers]]
  1. And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab. ^1
  2. And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods. ^2

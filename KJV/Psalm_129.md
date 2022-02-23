@@ -1,3 +1,13 @@
+---
+title: Psalm_129
+description: 
+published: true
+date: 2022-02-23T05:09:56.045Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:54.304Z
+---
+
  Book:: [[Psalm]]
  1. Many a time have they afflicted me from my youth, may Israel now say: ^1
  2. Many a time have they afflicted me from my youth: yet they have not prevailed against me. ^2

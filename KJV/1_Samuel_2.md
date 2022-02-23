@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_2
+description: 
+published: true
+date: 2022-02-23T04:25:26.179Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:24.354Z
+---
+
  Book:: [[1 Samuel]]
  1. And Hannah prayed, and said, My heart rejoiceth in the LORD, mine horn is exalted in the LORD: my mouth is enlarged over mine enemies; because I rejoice in thy salvation. ^1
  2. There is none holy as the LORD: for there is none beside thee: neither is there any rock like our God. ^2

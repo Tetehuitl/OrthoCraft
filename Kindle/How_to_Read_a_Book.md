@@ -1,3 +1,13 @@
+---
+title: How_to_Read_a_Book
+description: 
+published: true
+date: 2022-02-23T05:19:11.545Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:19:09.763Z
+---
+
 # How to Read a Book
 
 * Author: [Charles Van Doren and Mortimer J. Adler](https://www.amazon.com/Charles-Van-Doren/e/B00EQCUTOU/ref=dp_byline_cont_ebooks_1)

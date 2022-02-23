@@ -1,3 +1,13 @@
+---
+title: 195_THE_LIFE_OF_EVAGRIOS_THE_PHILOSOPHER_WHO_WAS_CONVERTED_TO_THE_CHRISTIAN_FAITH_BY_SYNESIOS_BISHOP_OF_CYRENE
+description: 
+published: true
+date: 2022-02-23T05:42:35.537Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:42:33.769Z
+---
+
 [[Spiritual Meadow]]
  
 While we were in Alexandria, Leontios of Apamea, a devout man who loved Christ, came from Pentapolis (where he had made his home for some years at Cyrene). In those days of Eulogios, the saintly Pope of Alexandria, the future bishop of the same town of Cyrene came too. And when we were all together, he told us this: That in the time of Theophilos, the blessed Pope of Alexandria, Synesios the philosopher became Bishop of Cyrene. When he came to Cyrene, he found there a philosopher named Evagrios who had been his fellow student and had remained his good friend, even though he was strongly attached to the cult of idols. Bishop Synesios wanted to convert him. He not only wanted to, but also made great efforts and put himself to much trouble and care for the sake of the friendship in which he held him from the beginning. The other would neither be persuaded, nor would he in any way accept the bishop’s teaching. Yet, for the sake of his great friendship for him, the bishop was unfagging in his efforts, continuing day by day to instruct, entreat and exhort his friend to believe in Christ and to come to full knowledge of him. And it had this effect: that one day the philosopher said to him: ‘You know, Bishop, of all the things which you Christians say, there is this, sir, which displeases me. It is that there will be an end to this world and that, after the end, everybody who existed throughout this age shall arise in this human body and shall live for ever in that incorruptible and immortal flesh; that they shall receive their rewards, a body who has compassion on the poor lends to God; that anyone who distributes money to the poor and destitute lays up treasures in heaven and shall receive them back from Christ an hundredfold at the regener- ation, together with eternal life. All this seems to me to be deception  

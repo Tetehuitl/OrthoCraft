@@ -1,3 +1,13 @@
+---
+title: Isaiah_61
+description: 
+published: true
+date: 2022-02-23T04:49:20.291Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:18.533Z
+---
+
  Book:: [[Isaiah]]
  1. The Spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound; ^1
  2. To proclaim the acceptable year of the LORD, and the day of vengeance of our God; to comfort all that mourn; ^2

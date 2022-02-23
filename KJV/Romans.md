@@ -1,3 +1,13 @@
+---
+title: Romans
+description: 
+published: true
+date: 2022-02-23T05:16:31.799Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:56.692Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[Romans 1]]

@@ -1,3 +1,13 @@
+---
+title: 593-august
+description: 
+published: true
+date: 2022-02-23T05:29:51.300Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:29:49.426Z
+---
+
 
 **1. THE TRANSFIGURATION OF OUR LORD, GOD AND SAVIOR JESUS CHRIST**
 

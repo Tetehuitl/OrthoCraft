@@ -1,3 +1,13 @@
+---
+title: John_21
+description: 
+published: true
+date: 2022-02-23T04:55:17.443Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:15.617Z
+---
+
  Book:: [[John]]
  1. After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he himself. ^1
  2. There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the sons of Zebedee, and two other of his disciples. ^2

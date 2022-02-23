@@ -1,3 +1,13 @@
+---
+title: Ecclesiastes_6
+description: 
+published: true
+date: 2022-02-23T04:36:50.661Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:48.885Z
+---
+
  Book:: [[Ecclesiastes]]
  1. There is an evil which I have seen under the sun, and it is common among men: ^1
  2. A man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this is vanity, and it is an evil disease. ^2

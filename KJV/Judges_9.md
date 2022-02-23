@@ -1,3 +1,13 @@
+---
+title: Judges_9
+description: 
+published: true
+date: 2022-02-23T04:58:06.259Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:04.384Z
+---
+
  Book:: [[Judges]]
  1. And Abimelech the son of Jerubbaal went to Shechem unto his mother's brethren, and communed with them, and with all the family of the house of his mother's father, saying, ^1
  2. Speak, I pray you, in the ears of all the men of Shechem, Whether is better for you, either that all the sons of Jerubbaal, which are threescore and ten persons, reign over you, or that one reign over you? remember also that I am your bone and your flesh. ^2

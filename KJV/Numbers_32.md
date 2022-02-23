@@ -1,3 +1,13 @@
+---
+title: Numbers_32
+description: 
+published: true
+date: 2022-02-23T05:05:52.653Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:50.786Z
+---
+
  Book:: [[Numbers]]
  1. Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle; ^1
  2. The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying, ^2

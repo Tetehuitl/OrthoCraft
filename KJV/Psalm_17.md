@@ -1,3 +1,13 @@
+---
+title: Psalm_17
+description: 
+published: true
+date: 2022-02-23T05:11:08.608Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:06.845Z
+---
+
  Book:: [[Psalm]]
  1. Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips. ^1
  2. Let my sentence come forth from thy presence; let thine eyes behold the things that are equal. ^2

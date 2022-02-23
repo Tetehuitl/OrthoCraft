@@ -1,3 +1,13 @@
+---
+title: Psalm_66
+description: 
+published: true
+date: 2022-02-23T05:13:41.336Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:39.527Z
+---
+
  Book:: [[Psalm]]
  1. Make a joyful noise unto God, all ye lands: ^1
  2. Sing forth the honour of his name: make his praise glorious. ^2

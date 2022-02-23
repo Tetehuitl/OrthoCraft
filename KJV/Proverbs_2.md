@@ -1,3 +1,13 @@
+---
+title: Proverbs_2
+description: 
+published: true
+date: 2022-02-23T05:07:23.199Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:21.394Z
+---
+
  Book:: [[Proverbs]]
  1. My son, if thou wilt receive my words, and hide my commandments with thee; ^1
  2. So that thou incline thine ear unto wisdom, and apply thine heart to understanding; ^2

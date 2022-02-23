@@ -1,3 +1,13 @@
+---
+title: Numbers_19
+description: 
+published: true
+date: 2022-02-23T05:05:09.781Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:07.955Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses and unto Aaron, saying, ^1
  2. This is the ordinance of the law which the LORD hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein is no blemish, and upon which never came yoke: ^2

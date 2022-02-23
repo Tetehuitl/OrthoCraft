@@ -1,3 +1,13 @@
+---
+title: Proverbs_5
+description: 
+published: true
+date: 2022-02-23T05:08:05.796Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:04.005Z
+---
+
  Book:: [[Proverbs]]
  1. My son, attend unto my wisdom, and bow thine ear to my understanding: ^1
  2. That thou mayest regard discretion, and that thy lips may keep knowledge. ^2

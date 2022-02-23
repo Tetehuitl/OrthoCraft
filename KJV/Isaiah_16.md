@@ -1,3 +1,13 @@
+---
+title: Isaiah_16
+description: 
+published: true
+date: 2022-02-23T04:47:03.131Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:01.353Z
+---
+
  Book:: [[Isaiah]]
  1. Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion. ^1
  2. For it shall be, that, as a wandering bird cast out of the nest, so the daughters of Moab shall be at the fords of Arnon. ^2

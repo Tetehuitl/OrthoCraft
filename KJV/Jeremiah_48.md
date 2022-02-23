@@ -1,3 +1,13 @@
+---
+title: Jeremiah_48
+description: 
+published: true
+date: 2022-02-23T04:52:00.568Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:58.715Z
+---
+
  Book:: [[Jeremiah]]
  1. Against Moab thus saith the LORD of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded and taken: Misgab is confounded and dismayed. ^1
  2. There shall be no more praise of Moab: in Heshbon they have devised evil against it; come, and let us cut it off from being a nation. Also thou shalt be cut down, O Madmen; the sword shall pursue thee. ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_39
+description: 
+published: true
+date: 2022-02-23T05:12:16.375Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:14.616Z
+---
+
  Book:: [[Psalm]]
  1. I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me. ^1
  2. I was dumb with silence, I held my peace, even from good; and my sorrow was stirred. ^2

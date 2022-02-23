@@ -1,3 +1,13 @@
+---
+title: 146_THE_VISION_OF_EULOGIOS_PATRIARCH_OF_ALEXANDRIA
+description: 
+published: true
+date: 2022-02-23T05:39:55.811Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:39:54.059Z
+---
+
 [[Spiritual Meadow]]
  
 ‘When we were at the Community of Tougara, nine miles outside Alexandria, Abba Menas who ruled that community, told us this concerning the saintly Pope Eulogios:  

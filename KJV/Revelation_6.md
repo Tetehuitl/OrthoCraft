@@ -1,3 +1,13 @@
+---
+title: Revelation_6
+description: 
+published: true
+date: 2022-02-23T05:16:20.039Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:18.251Z
+---
+
  Book:: [[Revelation]]
  1. And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see. ^1
  2. And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer. ^2

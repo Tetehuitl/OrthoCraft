@@ -1,3 +1,13 @@
+---
+title: James_1
+description: 
+published: true
+date: 2022-02-23T04:49:47.066Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:45.245Z
+---
+
  Book:: [[James]]
  1. James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting. ^1
  2. My brethren, count it all joy when ye fall into divers temptations; ^2

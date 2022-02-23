@@ -1,3 +1,13 @@
+---
+title: Psalm_57
+description: 
+published: true
+date: 2022-02-23T05:13:13.236Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:11.485Z
+---
+
  Book:: [[Psalm]]
  1. Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast. ^1
  2. I will cry unto God most high; unto God that performeth all things for me. ^2

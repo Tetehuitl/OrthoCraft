@@ -1,3 +1,13 @@
+---
+title: John_9
+description: 
+published: true
+date: 2022-02-23T04:55:37.241Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:35.404Z
+---
+
  Book:: [[John]]
  1. And as Jesus passed by, he saw a man which was blind from his birth. ^1
  2. And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind? ^2

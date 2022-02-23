@@ -1,3 +1,13 @@
+---
+title: Ecclesiastes_10
+description: 
+published: true
+date: 2022-02-23T04:36:31.801Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:30.039Z
+---
+
  Book:: [[Ecclesiastes]]
  1. Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour. ^1
  2. A wise man's heart is at his right hand; but a fool's heart at his left. ^2

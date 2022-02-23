@@ -1,3 +1,13 @@
+---
+title: Genesis_29
+description: 
+published: true
+date: 2022-02-23T04:43:44.934Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:43.102Z
+---
+
  Book:: [[Genesis]]
  1. Then Jacob went on his journey, and came into the land of the people of the east. ^1
  2. And he looked, and behold a well in the field, and, lo, there were three flocks of sheep lying by it; for out of that well they watered the flocks: and a great stone was upon the well's mouth. ^2

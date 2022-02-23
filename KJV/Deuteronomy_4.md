@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_4
+description: 
+published: true
+date: 2022-02-23T04:36:10.843Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:08.986Z
+---
+
  Book:: [[Deuteronomy]]
  1. Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do them, that ye may live, and go in and possess the land which the LORD God of your fathers giveth you. ^1
  2. Ye shall not add unto the word which I command you, neither shall ye diminish ought from it, that ye may keep the commandments of the LORD your God which I command you. ^2

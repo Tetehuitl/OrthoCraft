@@ -1,3 +1,13 @@
+---
+title: 205_CONCERNING_ANOTHER_WISE_WOMAN_WHO_BY_JUDICIOUS_ADVICE_TURNED_ASIDE_A_MONK_WHO_WAS_HARASSING_HER
+description: 
+published: true
+date: 2022-02-23T05:43:11.196Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:43:09.446Z
+---
+
 [[Spiritual Meadow]]
  
 Somebody told of a brother who lived in a community and who used to be sent to conduct the business of his house. There was a devout secular person in a village who used to give him hospitality as an act of faith, as often as he came in and out of the village. This man had a daughter who had recently been widowed after living with her husband for a year or two. As the brother came in and out of their house, he began to be troubled by thoughts of her.  

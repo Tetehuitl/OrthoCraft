@@ -1,3 +1,13 @@
+---
+title: 604-august-17
+description: 
+published: true
+date: 2022-02-23T05:30:24.536Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:30:22.602Z
+---
+
 
 **1. THE HOLY MARTYR MYRON THE PRESBYTER**
 

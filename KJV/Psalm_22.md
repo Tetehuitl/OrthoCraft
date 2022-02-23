@@ -1,3 +1,13 @@
+---
+title: Psalm_22
+description: 
+published: true
+date: 2022-02-23T05:11:25.588Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:23.781Z
+---
+
  Book:: [[Psalm]]
  1. My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring? ^1
  2. O my God, I cry in the day time, but thou hearest not; and in the night season, and am not silent. ^2

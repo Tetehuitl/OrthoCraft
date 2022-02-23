@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_15
+description: 
+published: true
+date: 2022-02-23T04:30:57.394Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:55.548Z
+---
+
  Book:: [[2 Samuel]]
  1. And it came to pass after this, that Absalom prepared him chariots and horses, and fifty men to run before him. ^1
  2. And Absalom rose up early, and stood beside the way of the gate: and it was so, that when any man that had a controversy came to the king for judgment, then Absalom called unto him, and said, Of what city art thou? And he said, Thy servant is of one of the tribes of Israel. ^2

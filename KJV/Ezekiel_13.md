@@ -1,3 +1,13 @@
+---
+title: Ezekiel_13
+description: 
+published: true
+date: 2022-02-23T04:39:55.400Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:53.589Z
+---
+
  Book:: [[Ezekiel]]
  1. And the word of the LORD came unto me, saying, ^1
  2. Son of man, prophesy against the prophets of Israel that prophesy, and say thou unto them that prophesy out of their own hearts, Hear ye the word of the LORD; ^2

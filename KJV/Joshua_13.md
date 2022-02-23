@@ -1,3 +1,13 @@
+---
+title: Joshua_13
+description: 
+published: true
+date: 2022-02-23T04:56:06.765Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:04.945Z
+---
+
  Book:: [[Joshua]]
  1. Now Joshua was old and stricken in years; and the LORD said unto him, Thou art old and stricken in years, and there remaineth yet very much land to be possessed. ^1
  2. This is the land that yet remaineth: all the borders of the Philistines, and all Geshuri, ^2

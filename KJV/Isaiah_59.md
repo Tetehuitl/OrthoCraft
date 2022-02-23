@@ -1,3 +1,13 @@
+---
+title: Isaiah_59
+description: 
+published: true
+date: 2022-02-23T04:49:12.088Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:10.309Z
+---
+
  Book:: [[Isaiah]]
  1. Behold, the LORD's hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear: ^1
  2. But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear. ^2

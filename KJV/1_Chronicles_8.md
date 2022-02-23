@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_8
+description: 
+published: true
+date: 2022-02-23T04:22:28.354Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:26.539Z
+---
+
  Book:: [[1 Chronicles]]
  1. Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third, ^1
  2. Nohah the fourth, and Rapha the fifth. ^2

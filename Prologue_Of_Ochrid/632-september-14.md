@@ -1,3 +1,13 @@
+---
+title: 632-september-14
+description: 
+published: true
+date: 2022-02-23T05:31:49.059Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:31:47.212Z
+---
+
 
 **1. THE EXALTATION OF THE HONORABLE CROSS**
 

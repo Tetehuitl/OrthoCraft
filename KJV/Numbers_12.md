@@ -1,3 +1,13 @@
+---
+title: Numbers_12
+description: 
+published: true
+date: 2022-02-23T05:04:49.757Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:47.961Z
+---
+
  Book:: [[Numbers]]
  1. And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman. ^1
  2. And they said, Hath the LORD indeed spoken only by Moses? hath he not spoken also by us? And the LORD heard it. ^2

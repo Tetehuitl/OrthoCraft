@@ -1,3 +1,13 @@
+---
+title: Proverbs_21
+description: 
+published: true
+date: 2022-02-23T05:07:28.913Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:27.076Z
+---
+
  Book:: [[Proverbs]]
  1. The king's heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will. ^1
  2. Every way of a man is right in his own eyes: but the LORD pondereth the hearts. ^2

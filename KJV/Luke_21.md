@@ -1,3 +1,13 @@
+---
+title: Luke_21
+description: 
+published: true
+date: 2022-02-23T05:00:23.962Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:22.085Z
+---
+
  Book:: [[Luke]]
  1. And he looked up, and saw the rich men casting their gifts into the treasury. ^1
  2. And he saw also a certain poor widow casting in thither two mites. ^2

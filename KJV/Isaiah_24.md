@@ -1,3 +1,13 @@
+---
+title: Isaiah_24
+description: 
+published: true
+date: 2022-02-23T04:47:27.627Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:25.853Z
+---
+
  Book:: [[Isaiah]]
  1. Behold, the LORD maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof. ^1
  2. And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with the giver of usury to him. ^2

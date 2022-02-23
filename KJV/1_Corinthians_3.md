@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_3
+description: 
+published: true
+date: 2022-02-23T04:23:00.598Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:58.789Z
+---
+
  Book:: [[1 Corinthians]]
  1. And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ. ^1
  2. I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able. ^2

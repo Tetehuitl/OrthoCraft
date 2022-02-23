@@ -1,3 +1,13 @@
+---
+title: 2_Kings_4
+description: 
+published: true
+date: 2022-02-23T04:30:10.968Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:09.106Z
+---
+
  Book:: [[2 Kings]]
  1. Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen. ^1
  2. And Elisha said unto her, What shall I do for thee? tell me, what hast thou in the house? And she said, Thine handmaid hath not any thing in the house, save a pot of oil. ^2

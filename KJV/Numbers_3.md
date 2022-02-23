@@ -1,3 +1,13 @@
+---
+title: Numbers_3
+description: 
+published: true
+date: 2022-02-23T05:05:44.005Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:42.155Z
+---
+
  Book:: [[Numbers]]
  1. These also are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai. ^1
  2. And these are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar. ^2

@@ -1,3 +1,13 @@
+---
+title: Exodus_8
+description: 
+published: true
+date: 2022-02-23T04:39:35.996Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:34.173Z
+---
+
  Book:: [[Exodus]]
  1. And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me. ^1
  2. And if thou refuse to let them go, behold, I will smite all thy borders with frogs: ^2

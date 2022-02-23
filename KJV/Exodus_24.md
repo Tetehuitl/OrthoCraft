@@ -1,3 +1,13 @@
+---
+title: Exodus_24
+description: 
+published: true
+date: 2022-02-23T04:38:35.313Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:33.537Z
+---
+
  Book:: [[Exodus]]
  1. And he said unto Moses, Come up unto the LORD, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off. ^1
  2. And Moses alone shall come near the LORD: but they shall not come nigh; neither shall the people go up with him. ^2

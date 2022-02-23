@@ -1,3 +1,13 @@
+---
+title: Zechariah_13
+description: 
+published: true
+date: 2022-02-23T05:18:23.732Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:21.978Z
+---
+
  Book:: [[Zechariah]]
  1. In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness. ^1
  2. And it shall come to pass in that day, saith the LORD of hosts, that I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land. ^2

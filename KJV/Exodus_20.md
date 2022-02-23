@@ -1,3 +1,13 @@
+---
+title: Exodus_20
+description: 
+published: true
+date: 2022-02-23T04:38:24.434Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:22.654Z
+---
+
  Book:: [[Exodus]]
  1. And God spake all these words, saying, ^1
  2. I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage. ^2

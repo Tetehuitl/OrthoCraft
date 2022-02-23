@@ -1,6 +1,11 @@
 ---
-publish: true
-tags: #needsEdit 
+title: Prepratory_Prayers_for_Holy_Communion_-_Lazarus_Moore
+description: 
+published: true
+date: 2022-02-23T05:20:29.791Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:20:27.768Z
 ---
 
 links: [[HUB]] [[Prayer]]

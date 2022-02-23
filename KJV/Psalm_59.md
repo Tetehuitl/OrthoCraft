@@ -1,3 +1,13 @@
+---
+title: Psalm_59
+description: 
+published: true
+date: 2022-02-23T05:13:18.850Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:17.079Z
+---
+
  Book:: [[Psalm]]
  1. Deliver me from mine enemies, O my God: defend me from them that rise up against me. ^1
  2. Deliver me from the workers of iniquity, and save me from bloody men. ^2

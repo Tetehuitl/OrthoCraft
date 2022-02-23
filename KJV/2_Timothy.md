@@ -1,3 +1,13 @@
+---
+title: 2_Timothy
+description: 
+published: true
+date: 2022-02-23T04:31:56.596Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:54.687Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[2 Timothy 1]]

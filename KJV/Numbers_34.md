@@ -1,3 +1,13 @@
+---
+title: Numbers_34
+description: 
+published: true
+date: 2022-02-23T05:05:58.411Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:56.558Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this is the land that shall fall unto you for an inheritance, even the land of Canaan with the coasts thereof:) ^2

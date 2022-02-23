@@ -1,3 +1,13 @@
+---
+title: 644-september-26
+description: 
+published: true
+date: 2022-02-23T05:32:25.856Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:32:23.995Z
+---
+
 
 **1. SAINT JOHN THE THEOLOGIAN, APOSTLE AND EVANGELIST**
 

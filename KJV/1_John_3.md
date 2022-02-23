@@ -1,3 +1,13 @@
+---
+title: 1_John_3
+description: 
+published: true
+date: 2022-02-23T04:23:27.058Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:25.266Z
+---
+
  Book:: [[1 John]]
  1. Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not. ^1
  2. Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is. ^2

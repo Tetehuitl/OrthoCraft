@@ -1,3 +1,13 @@
+---
+title: 211_CONCERNING_AN_ELDER_OF_GREAT_VIRTUES_WHO_GOT_A_BROTHER_WHO_HAD_STOLEN_THINGS_FROM_HIM_OUT_OF_PRISON
+description: 
+published: true
+date: 2022-02-23T05:43:31.938Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:43:30.191Z
+---
+
 [[Spiritual Meadow]]
  
 One of the higoumens said:  

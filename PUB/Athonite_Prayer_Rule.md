@@ -1,6 +1,11 @@
 ---
-publish: true
-tags: #needsEdit 
+title: Athonite_Prayer_Rule
+description: 
+published: true
+date: 2022-02-23T05:20:03.226Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:20:01.375Z
 ---
 
 links: [[HUB]] [[Prayer]]

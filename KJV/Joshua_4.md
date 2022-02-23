@@ -1,3 +1,13 @@
+---
+title: Joshua_4
+description: 
+published: true
+date: 2022-02-23T04:56:46.126Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:44.324Z
+---
+
  Book:: [[Joshua]]
  1. And it came to pass, when all the people were clean passed over Jordan, that the LORD spake unto Joshua, saying, ^1
  2. Take you twelve men out of the people, out of every tribe a man, ^2

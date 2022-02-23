@@ -1,3 +1,13 @@
+---
+title: Numbers_16
+description: 
+published: true
+date: 2022-02-23T05:05:01.206Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:59.365Z
+---
+
  Book:: [[Numbers]]
  1. Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men: ^1
  2. And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown: ^2

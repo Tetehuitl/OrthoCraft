@@ -1,3 +1,13 @@
+---
+title: Mark_16
+description: 
+published: true
+date: 2022-02-23T05:01:30.751Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:28.967Z
+---
+
  Book:: [[Mark]]
  1. And when the sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint him. ^1
  2. And very early in the morning the first day of the week, they came unto the sepulchre at the rising of the sun. ^2

@@ -1,3 +1,13 @@
+---
+title: Hebrews_1
+description: 
+published: true
+date: 2022-02-23T04:45:24.804Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:45:23.010Z
+---
+
  Book:: [[Hebrews]]
  1. God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, ^1
  2. Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds; ^2

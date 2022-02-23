@@ -1,3 +1,13 @@
+---
+title: Psalm_23
+description: 
+published: true
+date: 2022-02-23T05:11:28.390Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:26.636Z
+---
+
  Book:: [[Psalm]]
  1. The LORD is my shepherd; I shall not want. ^1
  2. He maketh me to lie down in green pastures: he leadeth me beside the still waters. ^2

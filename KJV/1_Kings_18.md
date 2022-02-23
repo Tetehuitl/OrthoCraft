@@ -1,3 +1,13 @@
+---
+title: 1_Kings_18
+description: 
+published: true
+date: 2022-02-23T04:24:02.596Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:00.732Z
+---
+
  Book:: [[1 Kings]]
  1. And it came to pass after many days, that the word of the LORD came to Elijah in the third year, saying, Go, show thyself unto Ahab; and I will send rain upon the earth. ^1
  2. And Elijah went to show himself unto Ahab. And there was a sore famine in Samaria. ^2

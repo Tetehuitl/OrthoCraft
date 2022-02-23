@@ -1,3 +1,13 @@
+---
+title: Leviticus_16
+description: 
+published: true
+date: 2022-02-23T04:58:47.472Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:45.636Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died; ^1
  2. And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat. ^2

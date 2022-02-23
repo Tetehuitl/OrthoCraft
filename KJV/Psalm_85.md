@@ -1,3 +1,13 @@
+---
+title: Psalm_85
+description: 
+published: true
+date: 2022-02-23T05:14:40.940Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:39.197Z
+---
+
  Book:: [[Psalm]]
  1. Lord, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob. ^1
  2. Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah. ^2

@@ -1,3 +1,13 @@
+---
+title: 188_THE_LIFE_OF_TWO_BROTHERS_WHO_WERE_SYRIAN_MONEY-DEALERS
+description: 
+published: true
+date: 2022-02-23T05:42:11.602Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:42:09.836Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Theodore, higoumen of the Old Lavra, told us that there were two brothers, Syrian money-dealers, at Constantinople. The  

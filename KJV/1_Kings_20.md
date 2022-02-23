@@ -1,3 +1,13 @@
+---
+title: 1_Kings_20
+description: 
+published: true
+date: 2022-02-23T04:24:10.602Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:08.757Z
+---
+
  Book:: [[1 Kings]]
  1. And Benhadad the king of Syria gathered all his host together: and there were thirty and two kings with him, and horses, and chariots; and he went up and besieged Samaria, and warred against it. ^1
  2. And he sent messengers to Ahab king of Israel into the city, and said unto him, Thus saith Benhadad, ^2

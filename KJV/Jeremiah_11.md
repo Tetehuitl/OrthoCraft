@@ -1,3 +1,13 @@
+---
+title: Jeremiah_11
+description: 
+published: true
+date: 2022-02-23T04:50:09.432Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:07.609Z
+---
+
  Book:: [[Jeremiah]]
  1. The word that came to Jeremiah from the LORD saying, ^1
  2. Hear ye the words of this covenant, and speak unto the men of Judah, and to the inhabitants of Jerusalem; ^2

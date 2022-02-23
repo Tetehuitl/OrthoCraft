@@ -1,3 +1,13 @@
+---
+title: Numbers_5
+description: 
+published: true
+date: 2022-02-23T05:06:09.807Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:08.003Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is defiled by the dead: ^2

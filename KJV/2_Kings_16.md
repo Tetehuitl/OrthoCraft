@@ -1,3 +1,13 @@
+---
+title: 2_Kings_16
+description: 
+published: true
+date: 2022-02-23T04:29:38.560Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:36.752Z
+---
+
  Book:: [[2 Kings]]
  1. In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign. ^1
  2. Twenty years old was Ahaz when he began to reign, and reigned sixteen years in Jerusalem, and did not that which was right in the sight of the LORD his God, like David his father. ^2

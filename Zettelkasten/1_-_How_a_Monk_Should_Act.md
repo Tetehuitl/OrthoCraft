@@ -1,3 +1,13 @@
+---
+title: 1_-_How_a_Monk_Should_Act
+description: 
+published: true
+date: 2022-02-23T05:48:34.622Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:48:32.798Z
+---
+
 - [[Zettels]] 
 - [[[[humility]]]] [[[[howToBehave]]]]
 - Source: [[Letter 2 - St Basil the Great]]

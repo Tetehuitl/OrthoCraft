@@ -1,3 +1,13 @@
+---
+title: Jeremiah_39
+description: 
+published: true
+date: 2022-02-23T04:51:32.907Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:31.116Z
+---
+
  Book:: [[Jeremiah]]
  1. In the ninth year of Zedekiah king of Judah, in the tenth month, came Nebuchadrezzar king of Babylon and all his army against Jerusalem, and they besieged it. ^1
  2. And in the eleventh year of Zedekiah, in the fourth month, the ninth day of the month, the city was broken up. ^2

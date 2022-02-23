@@ -1,3 +1,13 @@
+---
+title: The_Autobiography_of_Benjamin_Franklin
+description: 
+published: true
+date: 2022-02-23T05:19:26.088Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:19:24.340Z
+---
+
 # The Autobiography of Benjamin Franklin
 
 * Author: [Benjamin Franklin](https://www.amazon.comundefined)

@@ -1,3 +1,13 @@
+---
+title: Exodus_29
+description: 
+published: true
+date: 2022-02-23T04:38:49.007Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:47.146Z
+---
+
  Book:: [[Exodus]]
  1. And this is the thing that thou shalt do unto them to hallow them, to minister unto me in the priest's office: Take one young bullock, and two rams without blemish, ^1
  2. And unleavened bread, and cakes unleavened tempered with oil, and wafers unleavened anointed with oil: of wheaten flour shalt thou make them. ^2

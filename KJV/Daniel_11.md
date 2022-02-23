@@ -1,3 +1,13 @@
+---
+title: Daniel_11
+description: 
+published: true
+date: 2022-02-23T04:34:25.040Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:23.168Z
+---
+
  Book:: [[Daniel]]
  1. Also I in the first year of Darius the Mede, even I, stood to confirm and to strengthen him. ^1
  2. And now will I shew thee the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than they all: and by his strength through his riches he shall stir up all against the realm of Grecia. ^2

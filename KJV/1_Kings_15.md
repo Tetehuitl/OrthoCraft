@@ -1,3 +1,13 @@
+---
+title: 1_Kings_15
+description: 
+published: true
+date: 2022-02-23T04:23:54.623Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:52.810Z
+---
+
  Book:: [[1 Kings]]
  1. Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah. ^1
  2. Three years reigned he in Jerusalem. and his mother's name was Maachah, the daughter of Abishalom. ^2

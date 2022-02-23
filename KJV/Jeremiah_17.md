@@ -1,3 +1,13 @@
+---
+title: Jeremiah_17
+description: 
+published: true
+date: 2022-02-23T04:50:26.072Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:24.255Z
+---
+
  Book:: [[Jeremiah]]
  1. The sin of Judah is written with a pen of iron, and with the point of a diamond: it is graven upon the table of their heart, and upon the horns of your altars; ^1
  2. Whilst their children remember their altars and their groves by the green trees upon the high hills. ^2

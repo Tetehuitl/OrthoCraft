@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_12
+description: 
+published: true
+date: 2022-02-23T04:27:05.593Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:03.786Z
+---
+
  Book:: [[2 Chronicles]]
  1. And it came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of the LORD, and all Israel with him. ^1
  2. And it came to pass, that in the fifth year of king Rehoboam Shishak king of Egypt came up against Jerusalem, because they had transgressed against the LORD, ^2

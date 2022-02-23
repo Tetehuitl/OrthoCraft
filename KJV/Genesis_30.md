@@ -1,3 +1,13 @@
+---
+title: Genesis_30
+description: 
+published: true
+date: 2022-02-23T04:43:50.438Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:48.614Z
+---
+
  Book:: [[Genesis]]
  1. And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die. ^1
  2. And Jacob's anger was kindled against Rachel: and he said, Am I in God's stead, who hath withheld from thee the fruit of the womb? ^2

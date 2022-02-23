@@ -1,3 +1,13 @@
+---
+title: 66_THE_LIFE_OF_ABBA_THEODOSIOS_THE_SOLITARY
+description: 
+published: true
+date: 2022-02-23T05:46:24.415Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:46:22.657Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Anthony, superior and builder of the Lavra of the Eliotes, told us this about Abba Theodosios the solitary. He said:  

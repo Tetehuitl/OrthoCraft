@@ -1,3 +1,13 @@
+---
+title: 668-october-20
+description: 
+published: true
+date: 2022-02-23T05:33:38.616Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:36.742Z
+---
+
 
 **1. THE HOLY GREAT-MARTYR ARTEMIUS**
 

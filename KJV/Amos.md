@@ -1,3 +1,13 @@
+---
+title: Amos
+description: 
+published: true
+date: 2022-02-23T04:33:37.054Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:36:44.780Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Amos 1]]

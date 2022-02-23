@@ -1,3 +1,13 @@
+---
+title: 117_A_BROTHER_WITH_A_DEMON_CURED_BY_ABBA_ANDREW
+description: 
+published: true
+date: 2022-02-23T05:38:21.938Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:38:20.176Z
+---
+
 [[Spiritual Meadow]]
  
 A brother possessed of a demon went to Abba Symeon the Stylite on the Wonderful Mountain to have a prayer offered for him to be rid of the demon. Abba Symeon said to him: ‘Where do you live?’ The elder answered: ‘At Raithou’. The elder answered him: ‘I am surprised at what toil you have endured, what a journey undertaken to come to me, to a mere sinful man, when you have such great fathers in your own lavra. Go, prostrate yourself before Abba  

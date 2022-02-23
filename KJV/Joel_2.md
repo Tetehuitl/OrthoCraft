@@ -1,3 +1,13 @@
+---
+title: Joel_2
+description: 
+published: true
+date: 2022-02-23T04:54:32.288Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:30.492Z
+---
+
  Book:: [[Joel]]
  1. Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for it is nigh at hand; ^1
  2. A day of darkness and of gloominess, a day of clouds and of thick darkness, as the morning spread upon the mountains: a great people and a strong; there hath not been ever the like, neither shall be any more after it, even to the years of many generations. ^2

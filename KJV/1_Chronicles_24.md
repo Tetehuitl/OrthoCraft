@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_24
+description: 
+published: true
+date: 2022-02-23T04:21:59.208Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:57.427Z
+---
+
  Book:: [[1 Chronicles]]
  1. Now these are the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar. ^1
  2. But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest's office. ^2

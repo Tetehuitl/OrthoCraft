@@ -1,3 +1,13 @@
+---
+title: Numbers_17
+description: 
+published: true
+date: 2022-02-23T05:05:04.036Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:02.241Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Speak unto the children of Israel, and take of every one of them a rod according to the house of their fathers, of all their princes according to the house of their fathers twelve rods: write thou every man's name upon his rod. ^2

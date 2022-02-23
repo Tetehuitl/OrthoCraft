@@ -1,3 +1,13 @@
+---
+title: Exodus_35
+description: 
+published: true
+date: 2022-02-23T04:39:08.249Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:06.402Z
+---
+
  Book:: [[Exodus]]
  1. And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the LORD hath commanded, that ye should do them. ^1
  2. Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the LORD: whosoever doeth work therein shall be put to death. ^2

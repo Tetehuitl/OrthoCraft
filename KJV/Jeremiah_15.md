@@ -1,3 +1,13 @@
+---
+title: Jeremiah_15
+description: 
+published: true
+date: 2022-02-23T04:50:20.544Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:18.722Z
+---
+
  Book:: [[Jeremiah]]
  1. Then said the LORD unto me, Though Moses and Samuel stood before me, yet my mind could not be toward this people: cast them out of my sight, and let them go forth. ^1
  2. And it shall come to pass, if they say unto thee, Whither shall we go forth? then thou shalt tell them, Thus saith the LORD; Such as are for death, to death; and such as are for the sword, to the sword; and such as are for the famine, to the famine; and such as are for the captivity, to the captivity. ^2

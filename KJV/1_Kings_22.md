@@ -1,3 +1,13 @@
+---
+title: 1_Kings_22
+description: 
+published: true
+date: 2022-02-23T04:24:15.998Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:14.128Z
+---
+
  Book:: [[1 Kings]]
  1. And they continued three years without war between Syria and Israel. ^1
  2. And it came to pass in the third year, that Jehoshaphat the king of Judah came down to the king of Israel. ^2

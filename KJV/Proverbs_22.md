@@ -1,3 +1,13 @@
+---
+title: Proverbs_22
+description: 
+published: true
+date: 2022-02-23T05:07:31.724Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:29.919Z
+---
+
  Book:: [[Proverbs]]
  1. A GOOD name is rather to be chosen than great riches, and loving favour rather than silver and gold. ^1
  2. The rich and poor meet together: the LORD is the maker of them all. ^2

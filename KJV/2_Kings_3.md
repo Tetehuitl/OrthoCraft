@@ -1,3 +1,13 @@
+---
+title: 2_Kings_3
+description: 
+published: true
+date: 2022-02-23T04:30:08.213Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:06.405Z
+---
+
  Book:: [[2 Kings]]
  1. Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years. ^1
  2. And he wrought evil in the sight of the LORD; but not like his father, and like his mother: for he put away the image of Baal that his father had made. ^2

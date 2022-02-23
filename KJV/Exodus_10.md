@@ -1,3 +1,13 @@
+---
+title: Exodus_10
+description: 
+published: true
+date: 2022-02-23T04:37:54.389Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:52.569Z
+---
+
  Book:: [[Exodus]]
  1. And the LORD said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might show these my signs before him: ^1
  2. And that thou mayest tell in the ears of thy son, and of thy son's son, what things I have wrought in Egypt, and my signs which I have done among them; that ye may know how that I am the LORD. ^2

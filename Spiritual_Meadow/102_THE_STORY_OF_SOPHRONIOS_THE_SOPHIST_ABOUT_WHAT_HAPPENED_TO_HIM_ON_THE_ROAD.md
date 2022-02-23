@@ -2,7 +2,7 @@
 title: The Story of Sophronios the Sophist About What Happened to Him
 description: 
 published: true
-date: 2022-02-23T11:31:07.960Z
+date: 2022-02-23T11:31:09.660Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-23T05:37:33.345Z

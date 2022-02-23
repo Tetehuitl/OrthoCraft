@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_5
+description: 
+published: true
+date: 2022-02-23T04:26:05.998Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:04.193Z
+---
+
  Book:: [[1 Samuel]]
  1. And the Philistines took the ark of God, and brought it from Ebenezer unto Ashdod. ^1
  2. When the Philistines took the ark of God, they brought it into the house of Dagon, and set it by Dagon. ^2

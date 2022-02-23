@@ -1,3 +1,13 @@
+---
+title: Leviticus_22
+description: 
+published: true
+date: 2022-02-23T04:59:07.199Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:05.365Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name in those things which they hallow unto me: I am the LORD. ^2

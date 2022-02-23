@@ -1,3 +1,13 @@
+---
+title: Exodus_16
+description: 
+published: true
+date: 2022-02-23T04:38:10.816Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:08.932Z
+---
+
  Book:: [[Exodus]]
  1. And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt. ^1
  2. And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness: ^2

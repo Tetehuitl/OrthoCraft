@@ -1,3 +1,13 @@
+---
+title: Matthew_23
+description: 
+published: true
+date: 2022-02-23T05:02:41.600Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:39.753Z
+---
+
  Book:: [[Matthew]]
  1. Then spake Jesus to the multitude, and to his disciples, ^1
  2. Saying The scribes and the Pharisees sit in Moses' seat: ^2

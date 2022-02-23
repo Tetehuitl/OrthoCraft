@@ -1,3 +1,13 @@
+---
+title: 160_How_A_DEMON_APPEARED_TO_AN_ELDER_IN_THE_FORM_OF_A_VERY_BLACK_BOY
+description: 
+published: true
+date: 2022-02-23T05:40:42.704Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:40:40.989Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Paul, higoumen of the monastery of Abba Theognias told us that a certain ascetic elder had said:  

@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_10
+description: 
+published: true
+date: 2022-02-23T04:30:43.856Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:42.087Z
+---
+
  Book:: [[2 Samuel]]
  1. And it came to pass after this, that the king of the children of Ammon died, and Hanun his son reigned in his stead. ^1
  2. Then said David, I will show kindness unto Hanun the son of Nahash, as his father showed kindness unto me. And David sent to comfort him by the hand of his servants for his father. And David's servants came into the land of the children of Ammon. ^2

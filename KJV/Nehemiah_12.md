@@ -1,3 +1,13 @@
+---
+title: Nehemiah_12
+description: 
+published: true
+date: 2022-02-23T05:04:06.725Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:04.871Z
+---
+
  Book:: [[Nehemiah]]
  1. Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra, ^1
  2. Amariah, Malluch, Hattush, ^2

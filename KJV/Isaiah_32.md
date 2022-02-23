@@ -1,3 +1,13 @@
+---
+title: Isaiah_32
+description: 
+published: true
+date: 2022-02-23T04:47:52.297Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:50.473Z
+---
+
  Book:: [[Isaiah]]
  1. Behold, a king shall reign in righteousness, and princes shall rule in judgment. ^1
  2. And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land. ^2

@@ -1,3 +1,13 @@
+---
+title: Hebrews_9
+description: 
+published: true
+date: 2022-02-23T04:45:57.817Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:45:55.986Z
+---
+
  Book:: [[Hebrews]]
  1. Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary. ^1
  2. For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary. ^2

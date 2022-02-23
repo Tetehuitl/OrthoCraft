@@ -1,5 +1,11 @@
 ---
 title: Fun commands
+description: 
+published: true
+date: 2022-02-23T05:19:43.006Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:19:41.175Z
 ---
 
 - /summon minecraft:rabbit 674.62 93.00 -1029.55 {Health:100.0f,RabbitType:99,Attributes:[{Name:"generic.followRange",Base:100},{Name:"generic.movementSpeed",Base:3.2f},{Name:"generic.max_health",Base:1000.0f}]}

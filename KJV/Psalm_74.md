@@ -1,3 +1,13 @@
+---
+title: Psalm_74
+description: 
+published: true
+date: 2022-02-23T05:14:06.934Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:05.153Z
+---
+
  Book:: [[Psalm]]
  1. O God, why hast thou cast us off for ever? why doth thine anger smoke against the sheep of thy pasture? ^1
  2. Remember thy congregation, which thou hast purchased of old; the rod of thine inheritance, which thou hast redeemed; this mount Zion, wherein thou hast dwelt. ^2

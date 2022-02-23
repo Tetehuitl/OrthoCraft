@@ -1,3 +1,13 @@
+---
+title: John_11
+description: 
+published: true
+date: 2022-02-23T04:54:46.141Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:44.286Z
+---
+
  Book:: [[John]]
  1. Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha. ^1
  2. (It was that Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.) ^2

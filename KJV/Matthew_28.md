@@ -1,3 +1,13 @@
+---
+title: Matthew_28
+description: 
+published: true
+date: 2022-02-23T05:02:55.889Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:54.080Z
+---
+
  Book:: [[Matthew]]
  1. In the end of the sabbath, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre. ^1
  2. And, behold, there was a great earthquake: for the angel of the Lord descended from heaven, and came and rolled back the stone from the door, and sat upon it. ^2

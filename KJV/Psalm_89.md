@@ -1,3 +1,13 @@
+---
+title: Psalm_89
+description: 
+published: true
+date: 2022-02-23T05:14:52.310Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:50.467Z
+---
+
  Book:: [[Psalm]]
  1. I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations. ^1
  2. For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens. ^2

@@ -1,3 +1,13 @@
+---
+title: Song_of_Solomon_6
+description: 
+published: true
+date: 2022-02-23T05:17:51.074Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:49.286Z
+---
+
  Book:: [[Song of Solomon]]
  1. Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee. ^1
  2. My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies. ^2

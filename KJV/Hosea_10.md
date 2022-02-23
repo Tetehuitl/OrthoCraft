@@ -1,3 +1,13 @@
+---
+title: Hosea_10
+description: 
+published: true
+date: 2022-02-23T04:46:05.364Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:03.534Z
+---
+
  Book:: [[Hosea]]
  1. Israel is an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images. ^1
  2. Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images. ^2

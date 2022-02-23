@@ -1,3 +1,13 @@
+---
+title: Job_16
+description: 
+published: true
+date: 2022-02-23T04:52:50.734Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:48.936Z
+---
+
  Book:: [[Job]]
  1. Then Job answered and said, ^1
  2. I have heard many such things: miserable comforters are ye all. ^2

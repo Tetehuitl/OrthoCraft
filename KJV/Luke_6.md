@@ -1,3 +1,13 @@
+---
+title: Luke_6
+description: 
+published: true
+date: 2022-02-23T05:00:43.899Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:42.048Z
+---
+
  Book:: [[Luke]]
  1. And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands. ^1
  2. And certain of the Pharisees said unto them, Why do ye that which is not lawful to do on the sabbath days? ^2

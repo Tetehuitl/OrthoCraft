@@ -1,3 +1,13 @@
+---
+title: 4_-_We_are_never_happy_with_what_we_have
+description: 
+published: true
+date: 2022-02-23T05:49:02.190Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:49:00.459Z
+---
+
 - !!Reference: 
 - Source: [[Letter 2 - St Basil the Great]] | [[St Basil the Great]]
 - Keywords: [[Zettels]] 

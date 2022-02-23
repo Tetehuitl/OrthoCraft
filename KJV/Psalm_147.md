@@ -1,3 +1,13 @@
+---
+title: Psalm_147
+description: 
+published: true
+date: 2022-02-23T05:10:51.901Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:50.106Z
+---
+
  Book:: [[Psalm]]
  1. Praise ye the LORD: for it is good to sing praises unto our God; for it is pleasant; and praise is comely. ^1
  2. The LORD doth build up Jerusalem: he gathereth together the outcasts of Israel. ^2

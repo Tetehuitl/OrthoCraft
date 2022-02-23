@@ -1,3 +1,13 @@
+---
+title: 202_THE_LIFE_OF_THE_SERVANT_OF_GOD_ABIBAS_THE_SON_OF_A_WORLDLY_MAN
+description: 
+published: true
+date: 2022-02-23T05:43:02.345Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:43:00.544Z
+---
+
 [[Spiritual Meadow]]
  
 One of the fathers said there was a man living in the world who had a pious son, pure and temperate in all things, who, from his childhood, had not drunk wine. It was his intention to withdraw from the world. The father wanted him to become involved in business matters but the son was reluctant. There were other brothers. but he was the oldest. As his father's wishes and his own could not be reconciled, the father was always reproaching him and casting his temperance in his teeth, saying: ‘Why are you not like your brothers, and why do you not get yourself involved in business affairs?’ The son endured it all in silence; everybody loved him for his piety and his moderation sdéphrosuné.  

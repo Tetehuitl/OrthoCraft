@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_22
+description: 
+published: true
+date: 2022-02-23T04:35:32.923Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:31.115Z
+---
+
  Book:: [[Deuteronomy]]
  1. Thou shalt not see thy brother's ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother. ^1
  2. And if thy brother be not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again. ^2

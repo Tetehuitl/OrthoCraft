@@ -1,3 +1,13 @@
+---
+title: 1_Peter_5
+description: 
+published: true
+date: 2022-02-23T04:24:50.779Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:49.032Z
+---
+
  Book:: [[1 Peter]]
  1. The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed: ^1
  2. Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind; ^2

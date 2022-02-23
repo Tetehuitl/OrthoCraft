@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_24
+description: 
+published: true
+date: 2022-02-23T04:27:40.171Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:38.341Z
+---
+
  Book:: [[2 Chronicles]]
  1. Joash was seven years old when he began to reign, and he reigned forty years in Jerusalem. His mother's name also was Zibiah of Beersheba. ^1
  2. And Joash did that which was right in the sight of the LORD all the days of Jehoiada the priest. ^2

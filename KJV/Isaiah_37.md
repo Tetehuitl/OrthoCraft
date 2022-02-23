@@ -1,3 +1,13 @@
+---
+title: Isaiah_37
+description: 
+published: true
+date: 2022-02-23T04:48:06.026Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:04.194Z
+---
+
  Book:: [[Isaiah]]
  1. And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD. ^1
  2. And he sent Eliakim, who was over the household, and Shebna the scribe, and the elders of the priests covered with sackcloth, unto Isaiah the prophet the son of Amoz. ^2

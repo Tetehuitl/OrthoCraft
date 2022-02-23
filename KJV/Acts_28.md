@@ -1,3 +1,13 @@
+---
+title: Acts_28
+description: 
+published: true
+date: 2022-02-23T04:33:14.754Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:12.933Z
+---
+
  Book:: [[Acts]]
  1. And when they were escaped, then they knew that the island was called Melita. ^1
  2. And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold. ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_116
+description: 
+published: true
+date: 2022-02-23T05:09:16.920Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:15.137Z
+---
+
  Book:: [[Psalm]]
  1. I love the LORD, because he hath heard my voice and my supplications. ^1
  2. Because he hath inclined his ear unto me, therefore will I call upon him as long as I live. ^2

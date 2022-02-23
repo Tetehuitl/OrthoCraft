@@ -1,3 +1,13 @@
+---
+title: Job_3
+description: 
+published: true
+date: 2022-02-23T04:53:32.091Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:30.295Z
+---
+
  Book:: [[Job]]
  1. After this opened Job his mouth, and cursed his day. ^1
  2. And Job spake, and said, ^2

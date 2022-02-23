@@ -1,3 +1,13 @@
+---
+title: Leviticus_3
+description: 
+published: true
+date: 2022-02-23T04:59:24.111Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:22.316Z
+---
+
  Book:: [[Leviticus]]
  1. And if his oblation be a sacrifice of peace offering, if he offer it of the herd; whether it be a male or female, he shall offer it without blemish before the LORD. ^1
  2. And he shall lay his hand upon the head of his offering, and kill it at the door of the tabernacle of the congregation: and Aaron's sons the priests shall sprinkle the blood upon the altar round about. ^2

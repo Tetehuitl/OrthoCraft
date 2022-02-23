@@ -1,3 +1,13 @@
+---
+title: Ezra_4
+description: 
+published: true
+date: 2022-02-23T04:42:08.900Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:07.033Z
+---
+
  Book:: [[Ezra]]
  1. Now when the adversaries of Judah and Benjamin heard that the children of the captivity builded the temple unto the LORD God of Israel; ^1
  2. Then they came to Zerubbabel, and to the chief of the fathers, and said unto them, Let us build with you: for we seek your God, as ye do; and we do sacrifice unto him since the days of Esarhaddon king of Assur, which brought us up hither. ^2

@@ -1,3 +1,13 @@
+---
+title: Genesis_17
+description: 
+published: true
+date: 2022-02-23T04:43:09.057Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:07.244Z
+---
+
  Book:: [[Genesis]]
  1. And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect. ^1
  2. And I will make my covenant between me and thee, and will multiply thee exceedingly. ^2

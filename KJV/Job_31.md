@@ -1,3 +1,13 @@
+---
+title: Job_31
+description: 
+published: true
+date: 2022-02-23T04:53:37.627Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:35.843Z
+---
+
  Book:: [[Job]]
  1. I made a covenant with mine eyes; why then should I think upon a maid? ^1
  2. For what portion of God is there from above? and what inheritance of the Almighty from on high? ^2

@@ -1,3 +1,13 @@
+---
+title: Ezekiel_14
+description: 
+published: true
+date: 2022-02-23T04:39:58.134Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:56.302Z
+---
+
  Book:: [[Ezekiel]]
  1. Then came certain of the elders of Israel unto me, and sat before me. ^1
  2. And the word of the LORD came unto me, saying, ^2

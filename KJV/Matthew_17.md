@@ -1,3 +1,13 @@
+---
+title: Matthew_17
+description: 
+published: true
+date: 2022-02-23T05:02:21.758Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:19.927Z
+---
+
  Book:: [[Matthew]]
  1. And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart, ^1
  2. And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light. ^2

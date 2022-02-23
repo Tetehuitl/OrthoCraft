@@ -1,3 +1,13 @@
+---
+title: Acts_2
+description: 
+published: true
+date: 2022-02-23T04:32:50.443Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:48.621Z
+---
+
  Book:: [[Acts]]
  1. And when the day of Pentecost was fully come, they were all with one accord in one place. ^1
  2. And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. ^2

@@ -1,3 +1,13 @@
+---
+title: 198_THE_REPLY_OF_SAINT_ATHANSIOS_BISHOP_OF_ALEXANDRIA_TO_THE_QUESTION_OF_WHETHER_ONE_CAN_BE_BAPTISED_WITHOUT_FAITH
+description: 
+published: true
+date: 2022-02-23T05:42:44.484Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:42:42.748Z
+---
+
 [[Spiritual Meadow]]
  
 Saint Athanasios, the Pope of Alexandria, was once asked whether a person could be baptised whose beliefs were not in accordance  

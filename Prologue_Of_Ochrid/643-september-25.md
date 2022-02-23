@@ -1,3 +1,13 @@
+---
+title: 643-september-25
+description: 
+published: true
+date: 2022-02-23T05:32:22.810Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:32:20.964Z
+---
+
 
 **1. THE VENERABLE EUPHROSYNE**
 

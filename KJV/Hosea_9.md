@@ -1,3 +1,13 @@
+---
+title: Hosea_9
+description: 
+published: true
+date: 2022-02-23T04:46:38.245Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:36.444Z
+---
+
  Book:: [[Hosea]]
  1. Rejoice not, O Israel, for joy, as other people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor. ^1
  2. The floor and the winepress shall not feed them, and the new wine shall fail in her. ^2

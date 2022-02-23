@@ -1,3 +1,13 @@
+---
+title: Daniel
+description: 
+published: true
+date: 2022-02-23T04:34:17.763Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:36:52.843Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Daniel 1]]

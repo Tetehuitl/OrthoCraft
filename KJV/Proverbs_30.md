@@ -1,3 +1,13 @@
+---
+title: Proverbs_30
+description: 
+published: true
+date: 2022-02-23T05:07:57.311Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:55.487Z
+---
+
  Book:: [[Proverbs]]
  1. The words of Agur the son of Jakeh, even the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal, ^1
  2. Surely I am more brutish than any man, and have not the understanding of a man. ^2

@@ -1,3 +1,13 @@
+---
+title: Micah_4
+description: 
+published: true
+date: 2022-02-23T05:03:34.376Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:03:32.589Z
+---
+
  Book:: [[Micah]]
  1. But in the last days it shall come to pass, that the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it. ^1
  2. And many nations shall come, and say, Come, and let us go up to the mountain of the LORD, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for the law shall go forth of Zion, and the word of the LORD from Jerusalem. ^2

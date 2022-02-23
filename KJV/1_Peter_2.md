@@ -1,3 +1,13 @@
+---
+title: 1_Peter_2
+description: 
+published: true
+date: 2022-02-23T04:24:42.927Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:41.082Z
+---
+
  Book:: [[1 Peter]]
  1. Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, all evil speakings, ^1
  2. As newborn babes, desire the sincere milk of the word, that ye may grow thereby: ^2

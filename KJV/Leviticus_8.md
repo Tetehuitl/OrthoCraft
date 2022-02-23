@@ -1,3 +1,13 @@
+---
+title: Leviticus_8
+description: 
+published: true
+date: 2022-02-23T04:59:38.257Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:36.424Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Take Aaron and his sons with him, and the garments, and the anointing oil, and a bullock for the sin offering, and two rams, and a basket of unleavened bread; ^2

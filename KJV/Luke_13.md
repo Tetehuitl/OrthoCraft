@@ -1,3 +1,13 @@
+---
+title: Luke_13
+description: 
+published: true
+date: 2022-02-23T04:59:58.000Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:56.179Z
+---
+
  Book:: [[Luke]]
  1. There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices. ^1
  2. And Jesus answering said unto them, Suppose ye that these Galilaeans were sinners above all the Galilaeans, because they suffered such things? ^2

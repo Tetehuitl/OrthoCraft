@@ -2,7 +2,7 @@
 title: 127 The Life of Abba George of The Holy Mountain of Sanai of Another Person From Phrygian Galatia
 description: 
 published: true
-date: 2022-02-23T11:38:17.988Z
+date: 2022-02-23T11:38:19.759Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-23T05:38:52.310Z

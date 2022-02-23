@@ -1,3 +1,13 @@
+---
+title: Matthew_11
+description: 
+published: true
+date: 2022-02-23T05:02:04.686Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:02.865Z
+---
+
  Book:: [[Matthew]]
  1. And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities. ^1
  2. Now when John had heard in the prison the works of Christ, he sent two of his disciples, ^2

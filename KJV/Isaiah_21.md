@@ -1,3 +1,13 @@
+---
+title: Isaiah_21
+description: 
+published: true
+date: 2022-02-23T04:47:19.450Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:17.671Z
+---
+
  Book:: [[Isaiah]]
  1. The burden of the desert of the sea. As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land. ^1
  2. A grievous vision is declared unto me; the treacherous dealer dealeth treacherously, and the spoiler spoileth. Go up, O Elam: besiege, O Media; all the sighing thereof have I made to cease. ^2

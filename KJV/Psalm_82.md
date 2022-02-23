@@ -1,3 +1,13 @@
+---
+title: Psalm_82
+description: 
+published: true
+date: 2022-02-23T05:14:32.492Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:30.722Z
+---
+
  Book:: [[Psalm]]
  1. God standeth in the congregation of the mighty; he judgeth among the gods. ^1
  2. How long will ye judge unjustly, and accept the persons of the wicked? Selah. ^2

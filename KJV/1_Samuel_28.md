@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_28
+description: 
+published: true
+date: 2022-02-23T04:25:50.136Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:48.313Z
+---
+
  Book:: [[1 Samuel]]
  1. And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men. ^1
  2. And David said to Achish, Surely thou shalt know what thy servant can do. And Achish said to David, Therefore will I make thee keeper of mine head for ever. ^2

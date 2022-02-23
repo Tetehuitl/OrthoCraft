@@ -1,3 +1,13 @@
+---
+title: Hosea_6
+description: 
+published: true
+date: 2022-02-23T04:46:29.989Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:28.207Z
+---
+
  Book:: [[Hosea]]
  1. Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up. ^1
  2. After two days will he revive us: in the third day he will raise us up, and we shall live in his sight. ^2

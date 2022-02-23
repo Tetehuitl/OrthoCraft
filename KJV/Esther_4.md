@@ -1,3 +1,13 @@
+---
+title: Esther_4
+description: 
+published: true
+date: 2022-02-23T04:37:32.541Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:30.762Z
+---
+
  Book:: [[Esther]]
  1. When Mordecai perceived all that was done, Mordecai rent his clothes, and put on sackcloth with ashes, and went out into the midst of the city, and cried with a loud and a bitter cry; ^1
  2. And came even before the king's gate: for none might enter into the king's gate clothed with sackcloth. ^2

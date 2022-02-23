@@ -1,3 +1,13 @@
+---
+title: Jeremiah_24
+description: 
+published: true
+date: 2022-02-23T04:50:48.211Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:46.422Z
+---
+
  Book:: [[Jeremiah]]
  1. The LORD shewed me, and, behold, two baskets of figs were set before the temple of the LORD, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon. ^1
  2. One basket had very good figs, even like the figs that are first ripe: and the other basket had very naughty figs, which could not be eaten, they were so bad. ^2

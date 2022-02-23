@@ -1,3 +1,13 @@
+---
+title: Exodus_25
+description: 
+published: true
+date: 2022-02-23T04:38:38.043Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:36.228Z
+---
+
  Book:: [[Exodus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Speak unto the children of Israel, that they bring me an offering: of every man that giveth it willingly with his heart ye shall take my offering. ^2

@@ -1,3 +1,13 @@
+---
+title: 692-november-13
+description: 
+published: true
+date: 2022-02-23T05:34:51.393Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:34:49.525Z
+---
+
 
 **1. SAINT JOHN CHRYSOSTOM, PATRIARCH OF CONSTANTINOPLE**
 

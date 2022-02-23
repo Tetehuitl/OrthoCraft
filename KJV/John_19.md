@@ -1,3 +1,13 @@
+---
+title: John_19
+description: 
+published: true
+date: 2022-02-23T04:55:09.019Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:07.167Z
+---
+
  Book:: [[John]]
  1. Then Pilate therefore took Jesus, and scourged him. ^1
  2. And the soldiers platted a crown of thorns, and put it on his head, and they put on him a purple robe, ^2

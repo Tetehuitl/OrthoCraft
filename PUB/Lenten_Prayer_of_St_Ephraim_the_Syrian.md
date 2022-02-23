@@ -1,6 +1,11 @@
 ---
-publish: true
-tags: #needsEdit 
+title: Lenten_Prayer_of_St_Ephraim_the_Syrian
+description: 
+published: true
+date: 2022-02-23T05:20:14.961Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:20:13.226Z
 ---
 
 links: [[HUB]] [[Prayer]]

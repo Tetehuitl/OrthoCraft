@@ -1,3 +1,13 @@
+---
+title: Joshua_22
+description: 
+published: true
+date: 2022-02-23T04:56:34.902Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:33.053Z
+---
+
  Book:: [[Joshua]]
  1. Then Joshua called the Reubenites, and the Gadites, and the half tribe of Manasseh, ^1
  2. And said unto them, Ye have kept all that Moses the servant of the LORD commanded you, and have obeyed my voice in all that I commanded you: ^2

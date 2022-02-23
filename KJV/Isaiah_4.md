@@ -1,3 +1,13 @@
+---
+title: Isaiah_4
+description: 
+published: true
+date: 2022-02-23T04:48:14.241Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:12.496Z
+---
+
  Book:: [[Isaiah]]
  1. And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach. ^1
  2. In that day shall the branch of the LORD be beautiful and glorious, and the fruit of the earth shall be excellent and comely for them that are escaped of Israel. ^2

@@ -1,3 +1,13 @@
+---
+title: Judges_1
+description: 
+published: true
+date: 2022-02-23T04:57:10.103Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:08.261Z
+---
+
  Book:: [[Judges]]
  1. Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them? ^1
  2. And the LORD said, Judah shall go up: behold, I have delivered the land into his hand. ^2

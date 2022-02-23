@@ -1,3 +1,13 @@
+---
+title: Psalm_144
+description: 
+published: true
+date: 2022-02-23T05:10:43.511Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:41.757Z
+---
+
  Book:: [[Psalm]]
  1. Blessed be the LORD my strength which teacheth my hands to war, and my fingers to fight: ^1
  2. My goodness, and my fortress; my high tower, and my deliverer; my shield, and he in whom I trust; who subdueth my people under me. ^2

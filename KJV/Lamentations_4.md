@@ -1,3 +1,13 @@
+---
+title: Lamentations_4
+description: 
+published: true
+date: 2022-02-23T04:58:19.532Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:17.747Z
+---
+
  Book:: [[Lamentations]]
  1. How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street. ^1
  2. The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter! ^2

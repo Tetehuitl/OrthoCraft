@@ -1,3 +1,13 @@
+---
+title: Genesis_19
+description: 
+published: true
+date: 2022-02-23T04:43:14.682Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:12.799Z
+---
+
  Book:: [[Genesis]]
  1. And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground; ^1
  2. And he said, Behold now, my lords, turn in, I pray you, into your servant's house, and tarry all night, and wash your feet, and ye shall rise up early, and go on your ways. And they said, Nay; but we will abide in the street all night. ^2

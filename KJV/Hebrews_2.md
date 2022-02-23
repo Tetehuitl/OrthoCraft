@@ -1,3 +1,13 @@
+---
+title: Hebrews_2
+description: 
+published: true
+date: 2022-02-23T04:45:38.645Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:45:36.867Z
+---
+
  Book:: [[Hebrews]]
  1. Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip. ^1
  2. For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward; ^2

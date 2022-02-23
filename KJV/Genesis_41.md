@@ -1,3 +1,13 @@
+---
+title: Genesis_41
+description: 
+published: true
+date: 2022-02-23T04:44:23.540Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:21.663Z
+---
+
  Book:: [[Genesis]]
  1. And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river. ^1
  2. And, behold, there came up out of the river seven well favored kine and fatfleshed; and they fed in a meadow. ^2

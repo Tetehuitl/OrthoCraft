@@ -1,3 +1,13 @@
+---
+title: Revelation_13
+description: 
+published: true
+date: 2022-02-23T05:15:39.976Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:38.195Z
+---
+
  Book:: [[Revelation]]
  1. And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy. ^1
  2. And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority. ^2

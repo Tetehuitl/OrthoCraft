@@ -1,3 +1,13 @@
+---
+title: Genesis_20
+description: 
+published: true
+date: 2022-02-23T04:43:20.126Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:18.332Z
+---
+
  Book:: [[Genesis]]
  1. And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar. ^1
  2. And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah. ^2

@@ -1,3 +1,13 @@
+---
+title: Acts_14
+description: 
+published: true
+date: 2022-02-23T04:32:34.200Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:32.404Z
+---
+
  Book:: [[Acts]]
  1. And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed. ^1
  2. But the unbelieving Jews stirred up the Gentiles, and made their minds evil affected against the brethren. ^2

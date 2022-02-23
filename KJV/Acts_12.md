@@ -1,3 +1,13 @@
+---
+title: Acts_12
+description: 
+published: true
+date: 2022-02-23T04:32:28.711Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:26.875Z
+---
+
  Book:: [[Acts]]
  1. Now about that time Herod the king stretched forth his hands to vex certain of the church. ^1
  2. And he killed James the brother of John with the sword. ^2

@@ -1,3 +1,13 @@
+---
+title: 008-january-8
+description: 
+published: true
+date: 2022-02-23T05:20:56.437Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:20:54.577Z
+---
+
 # THE HOLY MARTYRS JULIAN AND BASILISSA
 
 Julian and Basilissa were of noble and wealthy parents. United in marriage, they vowed to live chastely as brother and sister. They distributed all of their property to the poor and both were tonsured. Julian founded a monastery and Basilissa founded a convent. Julian had about ten-thousand monks and Basilissa about a thousand nuns. When a terrible persecution began under Diocletian, Basilissa implored God that none of her nuns would become frightened of the tortures and would not fall away from the Orthodox Faith. The Lord heard the prayers of His worthy handmaiden and, in the course of six months, received unto Himself all the nuns, one by one, and finally their abbess, Basilissa. Before her death, Basilissa had a vision of her nuns from the other world. All of them appeared to her radiant and joyful as angels of God, and beckoned their spiritual mother to come to them as soon as possible. Unlike Basilissa's convent, Julian's monastery was set ablaze by the persecutors, and Julian was inhumanly tortured and reposed amidst the most difficult sufferings. During his tortures, the Lord watched over him and strengthened him, so that he heroically endured, preserved his Faith, and glorified the name of Christ. Beheaded with Julian were Celsus and Maronilla, the son and the wife of the tormentor Marcian, who--witnessing Julian's heroism in suffering and torture--were themselves converted to the Christian Faith. Also beheaded were twenty Roman soldiers, seven brothers from that town, the presbyter Anthony, and a certain Anastasius, whom Julian, at the time of his torture, resurrected from the dead by prayer. All suffered honorably for Christ and became citizens of the Heavenly Kingdom in about the year 313 A.D.

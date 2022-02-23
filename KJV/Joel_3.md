@@ -1,3 +1,13 @@
+---
+title: Joel_3
+description: 
+published: true
+date: 2022-02-23T04:54:35.059Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:33.271Z
+---
+
  Book:: [[Joel]]
  1. For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem, ^1
  2. I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land. ^2

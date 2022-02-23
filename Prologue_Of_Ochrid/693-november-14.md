@@ -1,3 +1,13 @@
+---
+title: 693-november-14
+description: 
+published: true
+date: 2022-02-23T05:34:54.429Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:34:52.563Z
+---
+
 
 **1. THE HOLY APOSTLE PHILIP**
 

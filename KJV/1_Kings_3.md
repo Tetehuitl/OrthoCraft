@@ -1,3 +1,13 @@
+---
+title: 1_Kings_3
+description: 
+published: true
+date: 2022-02-23T04:24:18.702Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:16.864Z
+---
+
  Book:: [[1 Kings]]
  1. And Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh's daughter, and brought her into the city of David, until he had made an end of building his own house, and the house of the LORD, and the wall of Jerusalem round about. ^1
  2. Only the people sacrificed in high places, because there was no house built unto the name of the LORD, until those days. ^2

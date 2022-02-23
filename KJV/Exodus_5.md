@@ -1,3 +1,13 @@
+---
+title: Exodus_5
+description: 
+published: true
+date: 2022-02-23T04:39:27.755Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:25.932Z
+---
+
  Book:: [[Exodus]]
  1. And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness. ^1
  2. And Pharaoh said, Who is the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go. ^2

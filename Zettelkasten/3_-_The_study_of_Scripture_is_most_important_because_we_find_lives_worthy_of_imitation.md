@@ -1,3 +1,13 @@
+---
+title: 3_-_The_study_of_Scripture_is_most_important_because_we_find_lives_worthy_of_imitation
+description: 
+published: true
+date: 2022-02-23T05:48:59.141Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:48:57.352Z
+---
+
 ## Reference:
 - Source: [[Letter 2 - St Basil the Great]] | [[St Basil the Great]]
 - Keywords: [[Zettels]]

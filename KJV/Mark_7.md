@@ -1,3 +1,13 @@
+---
+title: Mark_7
+description: 
+published: true
+date: 2022-02-23T05:01:47.808Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:46.008Z
+---
+
  Book:: [[Mark]]
  1. Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem. ^1
  2. And when they saw some of his disciples eat bread with defiled, that is to say, with unwashen, hands, they found fault. ^2

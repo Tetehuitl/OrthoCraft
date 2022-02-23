@@ -1,3 +1,13 @@
+---
+title: Esther_3
+description: 
+published: true
+date: 2022-02-23T04:37:29.861Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:28.028Z
+---
+
  Book:: [[Esther]]
  1. After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him. ^1
  2. And all the king's servants, that were in the king's gate, bowed, and reverenced Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did him reverence. ^2

@@ -1,3 +1,13 @@
+---
+title: Jeremiah_52
+description: 
+published: true
+date: 2022-02-23T04:52:14.754Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:12.909Z
+---
+
  Book:: [[Jeremiah]]
  1. Zedekiah was one and twenty years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name was Hamutal the daughter of Jeremiah of Libnah. ^1
  2. And he did that which was evil in the eyes of the LORD, according to all that Jehoiakim had done. ^2

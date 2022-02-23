@@ -1,3 +1,13 @@
+---
+title: Joshua_10
+description: 
+published: true
+date: 2022-02-23T04:55:58.366Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:56.515Z
+---
+
  Book:: [[Joshua]]
  1. Now it came to pass, when Adonizedec king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them; ^1
  2. That they feared greatly, because Gibeon was a great city, as one of the royal cities, and because it was greater than Ai, and all the men thereof were mighty. ^2

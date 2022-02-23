@@ -1,3 +1,13 @@
+---
+title: Psalm_76
+description: 
+published: true
+date: 2022-02-23T05:14:12.573Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:10.820Z
+---
+
  Book:: [[Psalm]]
  1. In Judah is God known: his name is great in Israel. ^1
  2. In Salem also is his tabernacle, and his dwelling place in Zion. ^2

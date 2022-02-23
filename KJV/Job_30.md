@@ -1,3 +1,13 @@
+---
+title: Job_30
+description: 
+published: true
+date: 2022-02-23T04:53:34.872Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:33.055Z
+---
+
  Book:: [[Job]]
  1. But now they that are younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock. ^1
  2. Yea, whereto might the strength of their hands profit me, in whom old age was perished? ^2

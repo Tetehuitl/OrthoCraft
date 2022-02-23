@@ -1,3 +1,13 @@
+---
+title: Job_20
+description: 
+published: true
+date: 2022-02-23T04:53:04.529Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:02.699Z
+---
+
  Book:: [[Job]]
  1. Then answered Zophar the Naamathite, and said, ^1
  2. Therefore do my thoughts cause me to answer, and for this I make haste. ^2

@@ -1,3 +1,13 @@
+---
+title: 199_THE_STORY_OF_A_SIMPLE_ELDER_WHO_USED_TO_SEE_ANGELS_WHEN_HE_OFFERED_THE_EUCHARIST
+description: 
+published: true
+date: 2022-02-23T05:42:47.421Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:42:45.670Z
+---
+
 [[Spiritual Meadow]]
  
 One of the fathers said that there was one of the elders who was pure and holy; who, when he was celebrating the eucharist, used to see angels standing to his right hand and to his left. He had learned the eucharistic rite from heretics but, as he was unlearned in theological matters, when he offered the eucharist he spoke the prayer in all simplicity and innocence, unaware that he was at fault.  

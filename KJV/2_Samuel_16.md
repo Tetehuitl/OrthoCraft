@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_16
+description: 
+published: true
+date: 2022-02-23T04:31:00.074Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:58.274Z
+---
+
  Book:: [[2 Samuel]]
  1. And when David was a little past the top of the hill, behold, Ziba the servant of Mephibosheth met him, with a couple of asses saddled, and upon them two hundred loaves of bread, and an hundred bunches of raisins, and an hundred of summer fruits, and a bottle of wine. ^1
  2. And the king said unto Ziba, What meanest thou by these? And Ziba said, The asses be for the king's household to ride on; and the bread and summer fruit for the young men to eat; and the wine, that such as be faint in the wilderness may drink. ^2

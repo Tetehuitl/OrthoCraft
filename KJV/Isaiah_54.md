@@ -1,3 +1,13 @@
+---
+title: Isaiah_54
+description: 
+published: true
+date: 2022-02-23T04:48:58.415Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:56.578Z
+---
+
  Book:: [[Isaiah]]
  1. Sing, O barren, thou that didst not bear; break forth into singing, and cry aloud, thou that didst not travail with child: for more are the children of the desolate than the children of the married wife, saith the LORD. ^1
  2. Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes; ^2

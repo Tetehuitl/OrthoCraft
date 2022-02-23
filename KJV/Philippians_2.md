@@ -1,3 +1,13 @@
+---
+title: Philippians_2
+description: 
+published: true
+date: 2022-02-23T05:06:40.940Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:39.132Z
+---
+
  Book:: [[Philippians]]
  1. If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies, ^1
  2. Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind. ^2

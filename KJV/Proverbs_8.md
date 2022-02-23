@@ -1,3 +1,13 @@
+---
+title: Proverbs_8
+description: 
+published: true
+date: 2022-02-23T05:08:14.390Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:12.560Z
+---
+
  Book:: [[Proverbs]]
  1. Doth not wisdom cry? and understanding put forth her voice? ^1
  2. She standeth in the top of high places, by the way in the places of the paths. ^2

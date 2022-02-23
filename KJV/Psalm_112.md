@@ -1,3 +1,13 @@
+---
+title: Psalm_112
+description: 
+published: true
+date: 2022-02-23T05:09:05.718Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:03.955Z
+---
+
  Book:: [[Psalm]]
  1. Praise ye the LORD. Blessed is the man that feareth the LORD, that delighteth greatly in his commandments. ^1
  2. His seed shall be mighty upon earth: the generation of the upright shall be blessed. ^2

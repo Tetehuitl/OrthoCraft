@@ -1,3 +1,13 @@
+---
+title: OrthoCraft_Server_Rules
+description: 
+published: true
+date: 2022-02-23T05:19:54.609Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:19:52.771Z
+---
+
 *This is a Hermitcraft style server of people who wish to cooperate together. If you aren't willing to trust and be trusted of others this server isn't for you.*
 ## Vulgarity
 - Do not insult, talk down to, or be rude towards any of the players on the server. Vulgar language is prohibited, this includes racism and sexism.

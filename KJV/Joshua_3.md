@@ -1,3 +1,13 @@
+---
+title: Joshua_3
+description: 
+published: true
+date: 2022-02-23T04:56:43.335Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:41.490Z
+---
+
  Book:: [[Joshua]]
  1. And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over. ^1
  2. And it came to pass after three days, that the officers went through the host; ^2

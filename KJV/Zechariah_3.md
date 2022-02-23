@@ -1,3 +1,13 @@
+---
+title: Zechariah_3
+description: 
+published: true
+date: 2022-02-23T05:18:32.335Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:30.571Z
+---
+
  Book:: [[Zechariah]]
  1. And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him. ^1
  2. And the LORD said unto Satan, The LORD rebuke thee, O Satan; even the LORD that hath chosen Jerusalem rebuke thee: is not this a brand plucked out of the fire? ^2

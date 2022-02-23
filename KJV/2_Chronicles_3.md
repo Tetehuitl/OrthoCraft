@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_3
+description: 
+published: true
+date: 2022-02-23T04:27:56.192Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:54.413Z
+---
+
  Book:: [[2 Chronicles]]
  1. Then Solomon began to build the house of the LORD at Jerusalem in mount Moriah, where the Lord appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan the Jebusite. ^1
  2. And he began to build in the second day of the second month, in the fourth year of his reign. ^2

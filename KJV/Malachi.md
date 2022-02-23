@@ -1,3 +1,13 @@
+---
+title: Malachi
+description: 
+published: true
+date: 2022-02-23T05:00:55.399Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:16.594Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Malachi 1]]

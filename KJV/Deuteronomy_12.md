@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_12
+description: 
+published: true
+date: 2022-02-23T04:35:03.134Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:01.323Z
+---
+
  Book:: [[Deuteronomy]]
  1. These are the statutes and judgments, which ye shall observe to do in the land, which the LORD God of thy fathers giveth thee to possess it, all the days that ye live upon the earth. ^1
  2. Ye shall utterly destroy all the places, wherein the nations which ye shall possess served their gods, upon the high mountains, and upon the hills, and under every green tree: ^2

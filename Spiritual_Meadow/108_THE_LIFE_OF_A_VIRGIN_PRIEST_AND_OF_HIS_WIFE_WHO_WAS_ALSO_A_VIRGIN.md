@@ -1,3 +1,13 @@
+---
+title: 108_THE_LIFE_OF_A_VIRGIN_PRIEST_AND_OF_HIS_WIFE_WHO_WAS_ALSO_A_VIRGIN
+description: 
+published: true
+date: 2022-02-23T05:37:52.768Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:37:50.986Z
+---
+
 [[Spiritual Meadow]]
  
 When we were on the island of Samos, we went to the community named Charizenos where we met the higoumen, Abba Isidore, a man of distinguished virtue with a great love for all humanity, adorned with simplicity and infinite humility; later he became bishop of the same city on Samos. He told us this story:  

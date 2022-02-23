@@ -1,3 +1,13 @@
+---
+title: Exodus_15
+description: 
+published: true
+date: 2022-02-23T04:38:08.033Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:06.222Z
+---
+
  Book:: [[Exodus]]
  1. Then sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea. ^1
  2. The LORD is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him. ^2

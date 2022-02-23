@@ -1,3 +1,13 @@
+---
+title: 672-october-24
+description: 
+published: true
+date: 2022-02-23T05:33:50.701Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:48.841Z
+---
+
 
 **1. THE HOLY MARTYR ARETHAS** 
 

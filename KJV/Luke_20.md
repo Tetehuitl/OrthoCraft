@@ -1,3 +1,13 @@
+---
+title: Luke_20
+description: 
+published: true
+date: 2022-02-23T05:00:21.113Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:19.277Z
+---
+
  Book:: [[Luke]]
  1. And it came to pass, that on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon him with the elders, ^1
  2. And spake unto him, saying, Tell us, by what authority doest thou these things? or who is he that gave thee this authority? ^2

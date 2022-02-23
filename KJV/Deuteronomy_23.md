@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_23
+description: 
+published: true
+date: 2022-02-23T04:35:35.606Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:33.790Z
+---
+
  Book:: [[Deuteronomy]]
  1. He that is wounded in the stones, or hath his privy member cut off, shall not enter into the congregation of the LORD. ^1
  2. A bastard shall not enter into the congregation of the LORD; even to his tenth generation shall he not enter into the congregation of the LORD. ^2

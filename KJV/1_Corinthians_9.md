@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_9
+description: 
+published: true
+date: 2022-02-23T04:23:16.471Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:14.632Z
+---
+
  Book:: [[1 Corinthians]]
  1. Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord? ^1
  2. If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are ye in the Lord. ^2

@@ -1,3 +1,13 @@
+---
+title: AI-programma_uit_Utrecht_helpt_de_juiste_coronabehandeling_te_vinden
+description: 
+published: true
+date: 2022-02-23T04:32:15.196Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:13.387Z
+---
+
  artikel: [AI-programma uit Utrecht helpt de juiste coronabehandeling te vinden](https://fd.nl/ondernemen/1345230/ai-programma-uit-utrecht-helpt-de-juiste-coronabehandeling-te-vinden)
  datum:: [[May 21st, 2020]]
  auteur:: Jan Fred van Wijnen

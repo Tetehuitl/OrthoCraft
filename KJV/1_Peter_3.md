@@ -1,3 +1,13 @@
+---
+title: 1_Peter_3
+description: 
+published: true
+date: 2022-02-23T04:24:45.549Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:43.756Z
+---
+
  Book:: [[1 Peter]]
  1. Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives; ^1
  2. While they behold your chaste conversation coupled with fear. ^2

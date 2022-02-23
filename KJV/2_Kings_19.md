@@ -1,3 +1,13 @@
+---
+title: 2_Kings_19
+description: 
+published: true
+date: 2022-02-23T04:29:46.749Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:44.883Z
+---
+
  Book:: [[2 Kings]]
  1. And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD. ^1
  2. And he sent Eliakim, which was over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz. ^2

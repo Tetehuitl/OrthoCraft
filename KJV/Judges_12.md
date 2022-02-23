@@ -1,3 +1,13 @@
+---
+title: Judges_12
+description: 
+published: true
+date: 2022-02-23T04:57:18.474Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:16.723Z
+---
+
  Book:: [[Judges]]
  1. And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire. ^1
  2. And Jephthah said unto them, I and my people were at great strife with the children of Ammon; and when I called you, ye delivered me not out of their hands. ^2

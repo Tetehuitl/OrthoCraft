@@ -1,3 +1,13 @@
+---
+title: Jeremiah_10
+description: 
+published: true
+date: 2022-02-23T04:50:06.634Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:04.798Z
+---
+
  Book:: [[Jeremiah]]
  1. Hear ye the word which the LORD speaketh unto you, O house of Israel: ^1
  2. Thus saith the LORD, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them. ^2

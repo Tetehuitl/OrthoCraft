@@ -1,3 +1,13 @@
+---
+title: Jeremiah_21
+description: 
+published: true
+date: 2022-02-23T04:50:39.875Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:38.047Z
+---
+
  Book:: [[Jeremiah]]
  1. The word which came unto Jeremiah from the LORD, when king Zedekiah sent unto him Pashur the son of Melchiah, and Zephaniah the son of Maaseiah the priest, saying, ^1
  2. Enquire, I pray thee, of the LORD for us; for Nebuchadrezzar king of Babylon maketh war against us; if so be that the LORD will deal with us according to all his wondrous works, that he may go up from us. ^2

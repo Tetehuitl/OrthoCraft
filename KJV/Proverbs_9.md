@@ -1,3 +1,13 @@
+---
+title: Proverbs_9
+description: 
+published: true
+date: 2022-02-23T05:08:17.171Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:15.392Z
+---
+
  Book:: [[Proverbs]]
  1. Wisdom hath builded her house, she hath hewn out her seven pillars: ^1
  2. She hath killed her beasts; she hath mingled her wine; she hath also furnished her table. ^2

@@ -1,3 +1,13 @@
+---
+title: Ezekiel_8
+description: 
+published: true
+date: 2022-02-23T04:41:50.233Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:48.414Z
+---
+
  Book:: [[Ezekiel]]
  1. And it came to pass in the sixth year, in the sixth month, in the fifth day of the month, as I sat in mine house, and the elders of Judah sat before me, that the hand of the Lord GOD fell there upon me. ^1
  2. Then I beheld, and lo a likeness as the appearance of fire: from the appearance of his loins even downward, fire; and from his loins even upward, as the appearance of brightness, as the colour of amber. ^2

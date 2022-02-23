@@ -1,3 +1,13 @@
+---
+title: Isaiah_47
+description: 
+published: true
+date: 2022-02-23T04:48:36.281Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:34.511Z
+---
+
  Book:: [[Isaiah]]
  1. Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate. ^1
  2. Take the millstones, and grind meal: uncover thy locks, make bare the leg, uncover the thigh, pass over the rivers. ^2

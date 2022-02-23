@@ -1,3 +1,13 @@
+---
+title: Proverbs_15
+description: 
+published: true
+date: 2022-02-23T05:07:09.026Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:07.220Z
+---
+
  Book:: [[Proverbs]]
  1. A soft answer turneth away wrath: but grievous words stir up anger. ^1
  2. The tongue of the wise useth knowledge aright: but the mouth of fools poureth out foolishness. ^2

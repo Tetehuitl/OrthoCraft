@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_2
+description: 
+published: true
+date: 2022-02-23T04:22:57.915Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:56.136Z
+---
+
  Book:: [[1 Corinthians]]
  1. And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God. ^1
  2. For I determined not to know any thing among you, save Jesus Christ, and him crucified. ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_45
+description: 
+published: true
+date: 2022-02-23T05:12:36.191Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:34.406Z
+---
+
  Book:: [[Psalm]]
  1. My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue is the pen of a ready writer. ^1
  2. Thou art fairer than the children of men: grace is poured into thy lips: therefore God hath blessed thee for ever. ^2

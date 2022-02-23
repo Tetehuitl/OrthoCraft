@@ -1,3 +1,13 @@
+---
+title: Matthew_15
+description: 
+published: true
+date: 2022-02-23T05:02:16.144Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:14.298Z
+---
+
  Book:: [[Matthew]]
  1. Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying, ^1
  2. Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread. ^2

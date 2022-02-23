@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_12
+description: 
+published: true
+date: 2022-02-23T04:22:44.636Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:42.834Z
+---
+
  Book:: [[1 Corinthians]]
  1. Now concerning spiritual gifts, brethren, I would not have you ignorant. ^1
  2. Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led. ^2

@@ -1,3 +1,13 @@
+---
+title: Job_40
+description: 
+published: true
+date: 2022-02-23T04:54:05.466Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:03.644Z
+---
+
  Book:: [[Job]]
  1. Moreover the LORD answered Job, and said, ^1
  2. Shall he that contendeth with the Almighty instruct him? he that reproveth God, let him answer it. ^2

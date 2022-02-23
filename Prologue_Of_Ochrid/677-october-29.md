@@ -1,3 +1,13 @@
+---
+title: 677-october-29
+description: 
+published: true
+date: 2022-02-23T05:34:05.823Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:34:03.953Z
+---
+
 
 **1. THE VENERABLE MARTYR ANASTASIA THE ROMAN**
 

@@ -1,3 +1,13 @@
+---
+title: Isaiah_64
+description: 
+published: true
+date: 2022-02-23T04:49:28.527Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:26.717Z
+---
+
  Book:: [[Isaiah]]
  1. Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence, ^1
  2. As when the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, that the nations may tremble at thy presence! ^2

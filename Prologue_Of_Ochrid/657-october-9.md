@@ -1,3 +1,13 @@
+---
+title: 657-october-9
+description: 
+published: true
+date: 2022-02-23T05:33:05.176Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:03.295Z
+---
+
 
 **1. THE HOLY APOSTLE JAMES**
 

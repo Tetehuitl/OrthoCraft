@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_21
+description: 
+published: true
+date: 2022-02-23T04:35:30.222Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:28.344Z
+---
+
  Book:: [[Deuteronomy]]
  1. If one be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, and it be not known who hath slain him: ^1
  2. Then thy elders and thy judges shall come forth, and they shall measure unto the cities which are round about him that is slain: ^2

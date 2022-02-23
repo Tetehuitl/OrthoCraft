@@ -1,3 +1,13 @@
+---
+title: Psalm_149
+description: 
+published: true
+date: 2022-02-23T05:10:57.461Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:55.716Z
+---
+
  Book:: [[Psalm]]
  1. Praise ye the LORD. Sing unto the LORD a new song, and his praise in the congregation of saints. ^1
  2. Let Israel rejoice in him that made him: let the children of Zion be joyful in their King. ^2

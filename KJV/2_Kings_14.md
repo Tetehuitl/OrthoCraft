@@ -1,3 +1,13 @@
+---
+title: 2_Kings_14
+description: 
+published: true
+date: 2022-02-23T04:29:33.203Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:31.364Z
+---
+
  Book:: [[2 Kings]]
  1. In the second year of Joash son of Jehoahaz king of Israel reigned Amaziah the son of Joash king of Judah. ^1
  2. He was twenty and five years old when he began to reign, and reigned twenty and nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem. ^2

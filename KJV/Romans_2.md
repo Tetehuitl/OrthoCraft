@@ -1,3 +1,13 @@
+---
+title: Romans_2
+description: 
+published: true
+date: 2022-02-23T05:16:56.784Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:54.977Z
+---
+
  Book:: [[Romans]]
  1. Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things. ^1
  2. But we are sure that the judgment of God is according to truth against them which commit such things. ^2

@@ -1,3 +1,13 @@
+---
+title: 5_-_Familiar_Language_is_more_impactful
+description: 
+published: true
+date: 2022-02-23T05:49:05.221Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:49:03.430Z
+---
+
 - [[Zettels]] 
 - [[[[writing]]]] 
 - Source: 

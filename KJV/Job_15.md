@@ -1,3 +1,13 @@
+---
+title: Job_15
+description: 
+published: true
+date: 2022-02-23T04:52:47.953Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:46.136Z
+---
+
  Book:: [[Job]]
  1. Then answered Eliphaz the Temanite, and said, ^1
  2. Should a wise man utter vain knowledge, and fill his belly with the east wind? ^2

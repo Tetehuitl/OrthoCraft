@@ -1,3 +1,13 @@
+---
+title: Psalm_128
+description: 
+published: true
+date: 2022-02-23T05:09:53.270Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:51.529Z
+---
+
  Book:: [[Psalm]]
  1. Blessed is every one that feareth the LORD; that walketh in his ways. ^1
  2. For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee. ^2

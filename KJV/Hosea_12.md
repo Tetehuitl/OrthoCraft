@@ -1,3 +1,13 @@
+---
+title: Hosea_12
+description: 
+published: true
+date: 2022-02-23T04:46:10.861Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:09.092Z
+---
+
  Book:: [[Hosea]]
  1. Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt. ^1
  2. The LORD hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him. ^2

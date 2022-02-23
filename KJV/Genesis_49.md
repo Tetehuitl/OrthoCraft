@@ -1,3 +1,13 @@
+---
+title: Genesis_49
+description: 
+published: true
+date: 2022-02-23T04:44:45.545Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:43.698Z
+---
+
  Book:: [[Genesis]]
  1. And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days. ^1
  2. Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father. ^2

@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_16
+description: 
+published: true
+date: 2022-02-23T04:35:13.979Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:12.152Z
+---
+
  Book:: [[Deuteronomy]]
  1. Observe the month of Abib, and keep the passover unto the LORD thy God: for in the month of Abib the LORD thy God brought thee forth out of Egypt by night. ^1
  2. Thou shalt therefore sacrifice the passover unto the LORD thy God, of the flock and the herd, in the place which the LORD shall choose to place his name there. ^2

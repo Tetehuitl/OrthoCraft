@@ -1,3 +1,13 @@
+---
+title: Revelation_4
+description: 
+published: true
+date: 2022-02-23T05:16:14.335Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:12.523Z
+---
+
  Book:: [[Revelation]]
  1. After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter. ^1
  2. And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne. ^2

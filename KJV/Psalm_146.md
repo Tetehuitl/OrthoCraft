@@ -1,3 +1,13 @@
+---
+title: Psalm_146
+description: 
+published: true
+date: 2022-02-23T05:10:49.066Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:47.323Z
+---
+
  Book:: [[Psalm]]
  1. Praise ye the LORD. Praise the LORD, O my soul. ^1
  2. While I live will I praise the LORD: I will sing praises unto my God while I have any being. ^2

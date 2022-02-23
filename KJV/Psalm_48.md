@@ -1,3 +1,13 @@
+---
+title: Psalm_48
+description: 
+published: true
+date: 2022-02-23T05:12:44.580Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:42.809Z
+---
+
  Book:: [[Psalm]]
  1. Great is the LORD, and greatly to be praised in the city of our God, in the mountain of his holiness. ^1
  2. Beautiful for situation, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King. ^2

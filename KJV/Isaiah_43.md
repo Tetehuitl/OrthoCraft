@@ -1,3 +1,13 @@
+---
+title: Isaiah_43
+description: 
+published: true
+date: 2022-02-23T04:48:25.245Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:23.440Z
+---
+
  Book:: [[Isaiah]]
  1. But now thus saith the LORD that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called thee by thy name; thou art mine. ^1
  2. When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee. ^2

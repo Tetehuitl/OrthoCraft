@@ -1,3 +1,13 @@
+---
+title: De_Spiritu_Sanctu
+description: 
+published: true
+date: 2022-02-23T05:19:08.689Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:19:06.893Z
+---
+
 # De Spiritu Sanctu
 
 * Author: [St. Basil the Great](https://www.amazon.comundefined)

@@ -1,3 +1,13 @@
+---
+title: Hebrews_11
+description: 
+published: true
+date: 2022-02-23T04:45:30.372Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:45:28.518Z
+---
+
  Book:: [[Hebrews]]
  1. Now faith is the substance of things hoped for, the evidence of things not seen. ^1
  2. For by it the elders obtained a good report. ^2

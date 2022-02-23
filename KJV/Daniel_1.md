@@ -1,3 +1,13 @@
+---
+title: Daniel_1
+description: 
+published: true
+date: 2022-02-23T04:34:19.653Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:17.837Z
+---
+
  Book:: [[Daniel]]
  1. In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it. ^1
  2. And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God: which he carried into the land of Shinar to the house of his god; and he brought the vessels into the treasure house of his god. ^2

@@ -1,3 +1,13 @@
+---
+title: Isaiah_56
+description: 
+published: true
+date: 2022-02-23T04:49:03.862Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:02.075Z
+---
+
  Book:: [[Isaiah]]
  1. Thus saith the LORD, Keep ye judgment, and do justice: for my salvation is near to come, and my righteousness to be revealed. ^1
  2. Blessed is the man that doeth this, and the son of man that layeth hold on it; that keepeth the sabbath from polluting it, and keepeth his hand from doing any evil. ^2

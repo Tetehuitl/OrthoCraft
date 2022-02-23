@@ -1,3 +1,13 @@
+---
+title: Ecclesiastes_11
+description: 
+published: true
+date: 2022-02-23T04:36:34.510Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:32.758Z
+---
+
  Book:: [[Ecclesiastes]]
  1. Cast thy bread upon the waters: for thou shalt find it after many days. ^1
  2. Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth. ^2

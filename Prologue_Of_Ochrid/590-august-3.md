@@ -1,3 +1,13 @@
+---
+title: 590-august-3
+description: 
+published: true
+date: 2022-02-23T05:29:42.231Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:29:40.376Z
+---
+
 
 **1. THE VENERABLE ISAAC, DALMATUS AND FAUSTUS**
 

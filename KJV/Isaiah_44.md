@@ -1,3 +1,13 @@
+---
+title: Isaiah_44
+description: 
+published: true
+date: 2022-02-23T04:48:28.043Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:26.207Z
+---
+
  Book:: [[Isaiah]]
  1. Yet now hear, O Jacob my servant; and Israel, whom I have chosen: ^1
  2. Thus saith the LORD that made thee, and formed thee from the womb, which will help thee; Fear not, O Jacob, my servant; and thou, Jesurun, whom I have chosen. ^2

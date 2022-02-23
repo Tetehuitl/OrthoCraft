@@ -1,3 +1,13 @@
+---
+title: Romans_1
+description: 
+published: true
+date: 2022-02-23T05:16:33.697Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:31.870Z
+---
+
  Book:: [[Romans]]
  1. Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God, ^1
  2. (Which he had promised afore by his prophets in the holy scriptures,) ^2

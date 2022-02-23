@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_11
+description: 
+published: true
+date: 2022-02-23T04:35:00.412Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:58.510Z
+---
+
  Book:: [[Deuteronomy]]
  1. Therefore thou shalt love the LORD thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway. ^1
  2. And know ye this day: for I speak not with your children which have not known, and which have not seen the chastisement of the LORD your God, his greatness, his mighty hand, and his stretched out arm, ^2

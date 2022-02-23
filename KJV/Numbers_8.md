@@ -1,3 +1,13 @@
+---
+title: Numbers_8
+description: 
+published: true
+date: 2022-02-23T05:06:18.362Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:16.529Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Speak unto Aaron and say unto him, When thou lightest the lamps, the seven lamps shall give light over against the candlestick. ^2

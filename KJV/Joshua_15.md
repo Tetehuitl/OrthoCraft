@@ -1,3 +1,13 @@
+---
+title: Joshua_15
+description: 
+published: true
+date: 2022-02-23T04:56:12.401Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:10.524Z
+---
+
  Book:: [[Joshua]]
  1. This then was the lot of the tribe of the children of Judah by their families; even to the border of Edom the wilderness of Zin southward was the uttermost part of the south coast. ^1
  2. And their south border was from the shore of the salt sea, from the bay that looketh southward: ^2

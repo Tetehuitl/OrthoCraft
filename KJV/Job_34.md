@@ -1,3 +1,13 @@
+---
+title: Job_34
+description: 
+published: true
+date: 2022-02-23T04:53:45.982Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:44.127Z
+---
+
  Book:: [[Job]]
  1. Furthermore Elihu answered and said, ^1
  2. Hear my words, O ye wise men; and give ear unto me, ye that have knowledge. ^2

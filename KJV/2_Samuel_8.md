@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_8
+description: 
+published: true
+date: 2022-02-23T04:31:40.598Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:38.815Z
+---
+
  Book:: [[2 Samuel]]
  1. And after this it came to pass that David smote the Philistines, and subdued them: and David took Methegammah out of the hand of the Philistines. ^1
  2. And he smote Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And so the Moabites became David's servants, and brought gifts. ^2

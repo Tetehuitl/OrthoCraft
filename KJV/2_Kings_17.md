@@ -1,3 +1,13 @@
+---
+title: 2_Kings_17
+description: 
+published: true
+date: 2022-02-23T04:29:41.256Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:39.415Z
+---
+
  Book:: [[2 Kings]]
  1. In the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign in Samaria over Israel nine years. ^1
  2. And he did that which was evil in the sight of the LORD, but not as the kings of Israel that were before him. ^2

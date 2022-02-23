@@ -1,3 +1,13 @@
+---
+title: 588-august-1
+description: 
+published: true
+date: 2022-02-23T05:29:36.235Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:29:34.391Z
+---
+
 
 **1. THE SEVEN MACCABEES, THEIR MOTHER SOLOMONIA AND ELEAZAR THE PRIEST**
 

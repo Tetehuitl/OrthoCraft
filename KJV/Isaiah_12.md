@@ -1,3 +1,13 @@
+---
+title: Isaiah_12
+description: 
+published: true
+date: 2022-02-23T04:46:52.181Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:50.442Z
+---
+
  Book:: [[Isaiah]]
  1. And in that day thou shalt say, O LORD, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me. ^1
  2. Behold, God is my salvation; I will trust, and not be afraid: for the LORD JEHOVAH is my strength and my song; he also is become my salvation. ^2

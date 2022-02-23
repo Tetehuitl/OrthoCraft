@@ -1,3 +1,13 @@
+---
+title: Isaiah_27
+description: 
+published: true
+date: 2022-02-23T04:47:35.780Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:34.015Z
+---
+
  Book:: [[Isaiah]]
  1. In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea. ^1
  2. In that day sing ye unto her, A vineyard of red wine. ^2

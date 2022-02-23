@@ -1,3 +1,13 @@
+---
+title: Ecclesiastes
+description: 
+published: true
+date: 2022-02-23T04:36:27.352Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:36:59.314Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Ecclesiastes 1]]

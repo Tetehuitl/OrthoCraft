@@ -1,3 +1,13 @@
+---
+title: John_16
+description: 
+published: true
+date: 2022-02-23T04:55:00.170Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:58.350Z
+---
+
  Book:: [[John]]
  1. These things have I spoken unto you, that ye should not be offended. ^1
  2. They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service. ^2

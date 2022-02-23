@@ -1,3 +1,13 @@
+---
+title: John_6
+description: 
+published: true
+date: 2022-02-23T04:55:28.714Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:26.852Z
+---
+
  Book:: [[John]]
  1. After these things Jesus went over the sea of Galilee, which is the sea of Tiberias. ^1
  2. And a great multitude followed him, because they saw his miracles which he did on them that were diseased. ^2

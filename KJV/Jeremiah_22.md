@@ -1,3 +1,13 @@
+---
+title: Jeremiah_22
+description: 
+published: true
+date: 2022-02-23T04:50:42.664Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:40.843Z
+---
+
  Book:: [[Jeremiah]]
  1. Thus saith the LORD; Go down to the house of the king of Judah, and speak there this word, ^1
  2. And say, Hear the word of the LORD, O king of Judah, that sittest upon the throne of David, thou, and thy servants, and thy people that enter in by these gates: ^2

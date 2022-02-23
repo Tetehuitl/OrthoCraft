@@ -1,3 +1,13 @@
+---
+title: Numbers_9
+description: 
+published: true
+date: 2022-02-23T05:06:21.219Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:19.387Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying, ^1
  2. Let the children of Israel also keep the passover at his appointed season. ^2

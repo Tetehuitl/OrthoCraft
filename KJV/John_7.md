@@ -1,3 +1,13 @@
+---
+title: John_7
+description: 
+published: true
+date: 2022-02-23T04:55:31.585Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:29.717Z
+---
+
  Book:: [[John]]
  1. After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him. ^1
  2. Now the Jew's feast of tabernacles was at hand. ^2

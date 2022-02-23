@@ -1,3 +1,13 @@
+---
+title: 2_Thessalonians_2
+description: 
+published: true
+date: 2022-02-23T04:31:51.215Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:49.436Z
+---
+
  Book:: [[2 Thessalonians]]
  1. Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him, ^1
  2. That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand. ^2

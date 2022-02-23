@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_27
+description: 
+published: true
+date: 2022-02-23T04:22:07.135Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:05.312Z
+---
+
  Book:: [[1 Chronicles]]
  1. Now the children of Israel after their number, to wit, the chief fathers and captains of thousands and hundreds, and their officers that served the king in any matter of the courses, which came in and went out month by month throughout all the months of the year, of every course were twenty and four thousand. ^1
  2. Over the first course for the first month was Jashobeam the son of Zabdiel: and in his course were twenty and four thousand. ^2

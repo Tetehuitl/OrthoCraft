@@ -1,3 +1,13 @@
+---
+title: 42_THE_LIFE_OF_ABBA_AUXANON
+description: 
+published: true
+date: 2022-02-23T05:45:06.753Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:45:05.020Z
+---
+
 [[Spiritual Meadow]]
  
 At the same place we saw Abba Auxanén in his cell, a man of compassion, continence and solitude who treated himself so harshly that over a period of four days he would only eat a twenty-/epta loaf of bread, such as we offer at the eucharist. Sometimes this was sufficient for him during a whole week. Towards the end of his life,  

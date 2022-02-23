@@ -1,3 +1,13 @@
+---
+title: Proverbs_24
+description: 
+published: true
+date: 2022-02-23T05:07:37.423Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:35.597Z
+---
+
  Book:: [[Proverbs]]
  1. Be not thou envious against evil men, neither desire to be with them. ^1
  2. For their heart studieth destruction, and their lips talk of mischief. ^2

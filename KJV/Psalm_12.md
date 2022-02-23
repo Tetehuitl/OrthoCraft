@@ -1,3 +1,13 @@
+---
+title: Psalm_12
+description: 
+published: true
+date: 2022-02-23T05:09:28.302Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:26.580Z
+---
+
  Book:: [[Psalm]]
  1. Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men. ^1
  2. They speak vanity every one with his neighbour: with flattering lips and with a double heart do they speak. ^2

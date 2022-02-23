@@ -1,3 +1,13 @@
+---
+title: Numbers_11
+description: 
+published: true
+date: 2022-02-23T05:04:46.919Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:45.070Z
+---
+
  Book:: [[Numbers]]
  1. And when the people complained, it displeased the LORD: and the LORD heard it; and his anger was kindled; and the fire of the LORD burnt among them, and consumed them that were in the uttermost parts of the camp. ^1
  2. And the people cried unto Moses; and when Moses prayed unto the LORD, the fire was quenched. ^2

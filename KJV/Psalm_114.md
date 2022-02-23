@@ -1,3 +1,13 @@
+---
+title: Psalm_114
+description: 
+published: true
+date: 2022-02-23T05:09:11.299Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:09.569Z
+---
+
  Book:: [[Psalm]]
  1. When Israel went out of Egypt, the house of Jacob from a people of strange language; ^1
  2. Judah was his sanctuary, and Israel his dominion. ^2

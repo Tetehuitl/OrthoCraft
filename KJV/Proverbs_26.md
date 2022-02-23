@@ -1,3 +1,13 @@
+---
+title: Proverbs_26
+description: 
+published: true
+date: 2022-02-23T05:07:43.155Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:41.319Z
+---
+
  Book:: [[Proverbs]]
  1. As snow in summer, and as rain in harvest, so honour is not seemly for a fool. ^1
  2. As the bird by wandering, as the swallow by flying, so the curse causeless shall not come. ^2

@@ -1,3 +1,13 @@
+---
+title: Isaiah
+description: 
+published: true
+date: 2022-02-23T04:46:41.969Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:37:35.810Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Isaiah 1]]

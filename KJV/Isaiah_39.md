@@ -1,3 +1,13 @@
+---
+title: Isaiah_39
+description: 
+published: true
+date: 2022-02-23T04:48:11.547Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:09.786Z
+---
+
  Book:: [[Isaiah]]
  1. At that time Merodachbaladan, the son of Baladan, king of Babylon, sent letters and a present to Hezekiah: for he had heard that he had been sick, and was recovered. ^1
  2. And Hezekiah was glad of them, and shewed them the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not. ^2

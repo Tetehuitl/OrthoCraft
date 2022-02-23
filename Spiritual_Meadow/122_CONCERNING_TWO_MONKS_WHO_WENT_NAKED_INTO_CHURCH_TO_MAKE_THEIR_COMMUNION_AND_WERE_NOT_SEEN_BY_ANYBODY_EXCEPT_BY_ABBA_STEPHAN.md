@@ -1,3 +1,13 @@
+---
+title: 122_CONCERNING_TWO_MONKS_WHO_WENT_NAKED_INTO_CHURCH_TO_MAKE_THEIR_COMMUNION_AND_WERE_NOT_SEEN_BY_ANYBODY_EXCEPT_BY_ABBA_STEPHAN
+description: 
+published: true
+date: 2022-02-23T05:38:39.498Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:38:37.772Z
+---
+
 [[Spiritual Meadow]]
  
 We went to sce Abba Stephan the Cappadocian on Mount Sinai and this is what he told us:  

@@ -1,3 +1,13 @@
+---
+title: Exodus_21
+description: 
+published: true
+date: 2022-02-23T04:38:27.153Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:25.324Z
+---
+
  Book:: [[Exodus]]
  1. Now these are the judgments which thou shalt set before them. ^1
  2. If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing. ^2

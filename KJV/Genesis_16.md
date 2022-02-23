@@ -1,3 +1,13 @@
+---
+title: Genesis_16
+description: 
+published: true
+date: 2022-02-23T04:43:06.351Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:04.557Z
+---
+
  Book:: [[Genesis]]
  1. Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar. ^1
  2. And Sarai said unto Abram, Behold now, the LORD hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai. ^2

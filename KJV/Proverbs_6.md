@@ -1,3 +1,13 @@
+---
+title: Proverbs_6
+description: 
+published: true
+date: 2022-02-23T05:08:08.675Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:06.828Z
+---
+
  Book:: [[Proverbs]]
  1. My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger, ^1
  2. Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth. ^2

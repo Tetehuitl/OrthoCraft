@@ -1,3 +1,13 @@
+---
+title: Proverbs_13
+description: 
+published: true
+date: 2022-02-23T05:07:03.374Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:01.612Z
+---
+
  Book:: [[Proverbs]]
  1. A wise son heareth his father's instruction: but a scorner heareth not rebuke. ^1
  2. A man shall eat good by the fruit of his mouth: but the soul of the transgressors shall eat violence. ^2

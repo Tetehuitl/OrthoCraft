@@ -1,3 +1,13 @@
+---
+title: Isaiah_52
+description: 
+published: true
+date: 2022-02-23T04:48:52.901Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:51.097Z
+---
+
  Book:: [[Isaiah]]
  1. Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean. ^1
  2. Shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion. ^2

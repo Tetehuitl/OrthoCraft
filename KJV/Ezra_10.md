@@ -1,3 +1,13 @@
+---
+title: Ezra_10
+description: 
+published: true
+date: 2022-02-23T04:42:00.585Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:58.660Z
+---
+
  Book:: [[Ezra]]
  1. Now when Ezra had prayed, and when he had confessed, weeping and casting himself down before the house of God, there assembled unto him out of Israel a very great congregation of men and women and children: for the people wept very sore. ^1
  2. And Shechaniah the son of Jehiel, one of the sons of Elam, answered and said unto Ezra, We have trespassed against our God, and have taken strange wives of the people of the land: yet now there is hope in Israel concerning this thing. ^2

@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_9
+description: 
+published: true
+date: 2022-02-23T04:31:43.261Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:41.496Z
+---
+
  Book:: [[2 Samuel]]
  1. And David said, Is there yet any that is left of the house of Saul, that I may show him kindness for Jonathan's sake? ^1
  2. And there was of the house of Saul a servant whose name was Ziba. And when they had called him unto David, the king said unto him, Art thou Ziba? And he said, Thy servant is he. ^2

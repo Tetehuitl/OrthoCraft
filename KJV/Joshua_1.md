@@ -1,3 +1,13 @@
+---
+title: Joshua_1
+description: 
+published: true
+date: 2022-02-23T04:55:55.469Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:53.676Z
+---
+
  Book:: [[Joshua]]
  1. Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses' minister, saying, ^1
  2. Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, even to the children of Israel. ^2

@@ -1,3 +1,13 @@
+---
+title: Acts_11
+description: 
+published: true
+date: 2022-02-23T04:32:25.971Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:24.154Z
+---
+
  Book:: [[Acts]]
  1. And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God. ^1
  2. And when Peter was come up to Jerusalem, they that were of the circumcision contended with him, ^2

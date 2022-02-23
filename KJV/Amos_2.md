@@ -1,3 +1,13 @@
+---
+title: Amos_2
+description: 
+published: true
+date: 2022-02-23T04:33:41.566Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:39.796Z
+---
+
  Book:: [[Amos]]
  1. Thus saith the LORD; For three transgressions of Moab, and for four, I will not turn away the punishment thereof; because he burned the bones of the king of Edom into lime: ^1
  2. But I will send a fire upon Moab, and it shall devour the palaces of Kirioth: and Moab shall die with tumult, with shouting, and with the sound of the trumpet: ^2

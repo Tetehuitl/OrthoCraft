@@ -1,3 +1,13 @@
+---
+title: Jeremiah_43
+description: 
+published: true
+date: 2022-02-23T04:51:46.715Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:44.929Z
+---
+
  Book:: [[Jeremiah]]
  1. And it came to pass, that when Jeremiah had made an end of speaking unto all the people all the words of the LORD their God, for which the LORD their God had sent him to them, even all these words, ^1
  2. Then spake Azariah the son of Hoshaiah, and Johanan the son of Kareah, and all the proud men, saying unto Jeremiah, Thou speakest falsely: the LORD our God hath not sent thee to say, Go not into Egypt to sojourn there: ^2

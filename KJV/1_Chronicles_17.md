@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_17
+description: 
+published: true
+date: 2022-02-23T04:21:38.162Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:36.350Z
+---
+
  Book:: [[1 Chronicles]]
  1. Now it came to pass, as David sat in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedars, but the ark of the covenant of the LORD remaineth under curtains. ^1
  2. Then Nathan said unto David, Do all that is in thine heart; for God is with thee. ^2

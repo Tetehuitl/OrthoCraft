@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_11
+description: 
+published: true
+date: 2022-02-23T04:21:22.313Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:20.482Z
+---
+
  Book:: [[1 Chronicles]]
  1. Then all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh. ^1
  2. And moreover in time past, even when Saul was king, thou wast he that leddest out and broughtest in Israel: and the LORD thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel. ^2

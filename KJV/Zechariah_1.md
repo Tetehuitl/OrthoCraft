@@ -1,3 +1,13 @@
+---
+title: Zechariah_1
+description: 
+published: true
+date: 2022-02-23T05:18:12.263Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:10.466Z
+---
+
  Book:: [[Zechariah]]
  1. In the eighth month, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying, ^1
  2. The LORD hath been sore displeased with your fathers. ^2

@@ -1,3 +1,13 @@
+---
+title: Ezekiel_38
+description: 
+published: true
+date: 2022-02-23T04:41:09.251Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:07.424Z
+---
+
  Book:: [[Ezekiel]]
  1. And the word of the LORD came unto me, saying, ^1
  2. Son of man, set thy face against Gog, the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him, ^2

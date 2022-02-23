@@ -1,3 +1,13 @@
+---
+title: Psalm_95
+description: 
+published: true
+date: 2022-02-23T05:15:12.123Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:10.356Z
+---
+
  Book:: [[Psalm]]
  1. O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation. ^1
  2. Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms. ^2

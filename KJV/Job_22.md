@@ -1,3 +1,13 @@
+---
+title: Job_22
+description: 
+published: true
+date: 2022-02-23T04:53:10.083Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:08.271Z
+---
+
  Book:: [[Job]]
  1. Then Eliphaz the Temanite answered and said, ^1
  2. Can a man be profitable unto God, as he that is wise may be profitable unto himself? ^2

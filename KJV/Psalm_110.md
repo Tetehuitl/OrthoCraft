@@ -1,3 +1,13 @@
+---
+title: Psalm_110
+description: 
+published: true
+date: 2022-02-23T05:09:00.213Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:58.435Z
+---
+
  Book:: [[Psalm]]
  1. The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool. ^1
  2. The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies. ^2

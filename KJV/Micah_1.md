@@ -1,3 +1,13 @@
+---
+title: Micah_1
+description: 
+published: true
+date: 2022-02-23T05:03:26.012Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:03:24.204Z
+---
+
  Book:: [[Micah]]
  1. The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem. ^1
  2. Hear, all ye people; hearken, O earth, and all that therein is: and let the Lord GOD be witness against you, the LORD from his holy temple. ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_77
+description: 
+published: true
+date: 2022-02-23T05:14:15.463Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:13.644Z
+---
+
  Book:: [[Psalm]]
  1. I cried unto God with my voice, even unto God with my voice; and he gave ear unto me. ^1
  2. In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted. ^2

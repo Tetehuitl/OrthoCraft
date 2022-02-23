@@ -1,3 +1,13 @@
+---
+title: Job_36
+description: 
+published: true
+date: 2022-02-23T04:53:51.532Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:49.716Z
+---
+
  Book:: [[Job]]
  1. Elihu also proceeded, and said, ^1
  2. Suffer me a little, and I will shew thee that I have yet to speak on God's behalf. ^2

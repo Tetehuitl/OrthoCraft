@@ -1,3 +1,13 @@
+---
+title: Isaiah_30
+description: 
+published: true
+date: 2022-02-23T04:47:46.832Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:44.983Z
+---
+
  Book:: [[Isaiah]]
  1. Woe to the rebellious children, saith the LORD, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin: ^1
  2. That walk to go down into Egypt, and have not asked at my mouth; to strengthen themselves in the strength of Pharaoh, and to trust in the shadow of Egypt! ^2

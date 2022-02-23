@@ -1,3 +1,13 @@
+---
+title: Luke_14
+description: 
+published: true
+date: 2022-02-23T05:00:00.777Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:58.951Z
+---
+
  Book:: [[Luke]]
  1. And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him. ^1
  2. And, behold, there was a certain man before him which had the dropsy. ^2

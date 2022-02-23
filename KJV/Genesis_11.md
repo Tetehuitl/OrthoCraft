@@ -1,3 +1,13 @@
+---
+title: Genesis_11
+description: 
+published: true
+date: 2022-02-23T04:42:52.781Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:50.972Z
+---
+
  Book:: [[Genesis]]
  1. And the whole earth was of one language, and of one speech. ^1
  2. And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there. ^2

@@ -1,3 +1,13 @@
+---
+title: Genesis_12
+description: 
+published: true
+date: 2022-02-23T04:42:55.541Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:53.710Z
+---
+
  Book:: [[Genesis]]
  1. Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will show thee: ^1
  2. And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing: ^2

@@ -1,3 +1,13 @@
+---
+title: Habakkuk_3
+description: 
+published: true
+date: 2022-02-23T04:45:12.546Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:45:10.748Z
+---
+
  Book:: [[Habakkuk]]
  1. A prayer of Habakkuk the prophet upon Shigionoth. ^1
  2. O LORD, I have heard thy speech, and was afraid: O LORD, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy. ^2

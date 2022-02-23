@@ -1,3 +1,13 @@
+---
+title: 40_THE_LIFE_OF_ABBA_COSMAS_THE_EUNUCH
+description: 
+published: true
+date: 2022-02-23T05:45:00.879Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:44:59.101Z
+---
+
 [[Spiritual Meadow]]
  
 This story was told to us by Abba Basil, priest of the monastery of the Byzantines:  

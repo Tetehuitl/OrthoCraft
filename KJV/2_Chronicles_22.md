@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_22
+description: 
+published: true
+date: 2022-02-23T04:27:34.843Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:33.041Z
+---
+
  Book:: [[2 Chronicles]]
  1. And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead: for the band of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah the son of Jehoram king of Judah reigned. ^1
  2. Forty and two years old was Ahaziah when he began to reign, and he reigned one year in Jerusalem. His mother's name also was Athaliah the daughter of Omri. ^2

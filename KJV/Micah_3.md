@@ -1,3 +1,13 @@
+---
+title: Micah_3
+description: 
+published: true
+date: 2022-02-23T05:03:31.574Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:03:29.804Z
+---
+
  Book:: [[Micah]]
  1. And I said, Hear, I pray you, O heads of Jacob, and ye princes of the house of Israel; Is it not for you to know judgment? ^1
  2. Who hate the good, and love the evil; who pluck off their skin from off them, and their flesh from off their bones; ^2

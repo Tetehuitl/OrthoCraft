@@ -1,3 +1,13 @@
+---
+title: Micah_5
+description: 
+published: true
+date: 2022-02-23T05:03:37.231Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:03:35.408Z
+---
+
  Book:: [[Micah]]
  1. Now gather thyself in troops, O daughter of troops: he hath laid siege against us: they shall smite the judge of Israel with a rod upon the cheek. ^1
  2. But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting. ^2

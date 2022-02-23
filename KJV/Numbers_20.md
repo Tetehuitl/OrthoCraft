@@ -1,3 +1,13 @@
+---
+title: Numbers_20
+description: 
+published: true
+date: 2022-02-23T05:05:15.521Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:13.680Z
+---
+
  Book:: [[Numbers]]
  1. Then came the children of Israel, even the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there. ^1
  2. And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron. ^2

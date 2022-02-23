@@ -1,3 +1,13 @@
+---
+title: John_8
+description: 
+published: true
+date: 2022-02-23T04:55:34.411Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:32.546Z
+---
+
  Book:: [[John]]
  1. Jesus went unto the mount of Olives. ^1
  2. And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them. ^2

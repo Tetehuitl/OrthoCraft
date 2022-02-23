@@ -1,3 +1,13 @@
+---
+title: Isaiah_40
+description: 
+published: true
+date: 2022-02-23T04:48:17.017Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:15.182Z
+---
+
  Book:: [[Isaiah]]
  1. Comfort ye, comfort ye my people, saith your God. ^1
  2. Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of the LORD's hand double for all her sins. ^2

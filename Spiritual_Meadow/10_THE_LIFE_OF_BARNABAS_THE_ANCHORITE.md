@@ -1,3 +1,13 @@
+---
+title: 10_THE_LIFE_OF_BARNABAS_THE_ANCHORITE
+description: 
+published: true
+date: 2022-02-23T05:37:58.593Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:37:56.842Z
+---
+
 [[Spiritual Meadow]]
  
 There was an anchorite at The Caves of the holy Jordan called Barnabas. One day he went down to drink at the Jordan and he got something sharp deeply embedded in his foot. But he left it there, and would not let a doctor examine it. His foot turned septic and compelled him to seck assistance at one of the towers of The Towers. His foot became more and more infected and he used to say to everybody who called on him that the more the outer man suffered, the more the inner man flourished.  

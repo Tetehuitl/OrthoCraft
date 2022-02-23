@@ -1,3 +1,13 @@
+---
+title: 2_Peter_2
+description: 
+published: true
+date: 2022-02-23T04:30:32.498Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:30.692Z
+---
+
  Book:: [[2 Peter]]
  1. But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction. ^1
  2. And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of. ^2

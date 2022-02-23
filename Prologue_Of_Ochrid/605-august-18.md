@@ -1,3 +1,13 @@
+---
+title: 605-august-18
+description: 
+published: true
+date: 2022-02-23T05:30:27.516Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:30:25.665Z
+---
+
 
 **1. THE VENERABLE JOHN OF RILA**
 

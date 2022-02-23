@@ -1,3 +1,13 @@
+---
+title: 21_THE_DEATH_OF_AN_ANCHORITE_AND_OF_HIS_SLAYER
+description: 
+published: true
+date: 2022-02-23T05:43:58.584Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:43:56.843Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Gerontios, higoumen of the monastery of our holy father Euthymios, told me this:  

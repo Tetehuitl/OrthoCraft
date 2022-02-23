@@ -1,3 +1,13 @@
+---
+title: Job_39
+description: 
+published: true
+date: 2022-02-23T04:53:59.901Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:58.089Z
+---
+
  Book:: [[Job]]
  1. Knowest thou the time when the wild goats of the rock bring forth? or canst thou mark when the hinds do calve? ^1
  2. Canst thou number the months that they fulfil? or knowest thou the time when they bring forth? ^2

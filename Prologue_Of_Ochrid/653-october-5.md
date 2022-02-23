@@ -1,3 +1,13 @@
+---
+title: 653-october-5
+description: 
+published: true
+date: 2022-02-23T05:32:52.986Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:32:51.145Z
+---
+
 
 **1. THE HOLY MARTYR CHARITINA**
 

@@ -1,3 +1,13 @@
+---
+title: Genesis_7
+description: 
+published: true
+date: 2022-02-23T04:44:56.977Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:55.189Z
+---
+
  Book:: [[Genesis]]
  1. And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation. ^1
  2. Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that are not clean by two, the male and his female. ^2

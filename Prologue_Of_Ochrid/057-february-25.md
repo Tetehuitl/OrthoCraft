@@ -1,3 +1,13 @@
+---
+title: 057-february-25
+description: 
+published: true
+date: 2022-02-23T05:23:18.944Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:23:17.076Z
+---
+
 
 **1. SAINT TARASIUS, PATRIARCH OF CONSTANTINOPLE**
 

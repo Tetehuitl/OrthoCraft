@@ -1,3 +1,13 @@
+---
+title: 148_THE_VISION_OF_THEODORE_BISHOP_OF_DARA_CONCERNING_THE_SAME_MOST_BLESSED_LEO
+description: 
+published: true
+date: 2022-02-23T05:40:01.640Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:39:59.900Z
+---
+
 [[Spiritual Meadow]]
  
 Theodore, the most holy bishop of the city of Dara in Libya, told us this:  

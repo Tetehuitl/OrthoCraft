@@ -1,3 +1,13 @@
+---
+title: Psalm_35
+description: 
+published: true
+date: 2022-02-23T05:12:05.071Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:03.280Z
+---
+
  Book:: [[Psalm]]
  1. Plead my cause, O LORD, with them that strive with me: fight against them that fight against me. ^1
  2. Take hold of shield and buckler, and stand up for mine help. ^2

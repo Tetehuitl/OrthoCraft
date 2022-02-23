@@ -1,3 +1,13 @@
+---
+title: Mark_6
+description: 
+published: true
+date: 2022-02-23T05:01:45.031Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:43.147Z
+---
+
  Book:: [[Mark]]
  1. And he went out from thence, and came into his own country; and his disciples follow him. ^1
  2. And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands? ^2

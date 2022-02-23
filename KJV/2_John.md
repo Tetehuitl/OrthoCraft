@@ -1,3 +1,13 @@
+---
+title: 2_John
+description: 
+published: true
+date: 2022-02-23T04:29:11.078Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:09.311Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[2 John 1]]

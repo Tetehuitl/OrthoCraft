@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_1
+description: 
+published: true
+date: 2022-02-23T04:30:41.208Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:39.384Z
+---
+
  Book:: [[2 Samuel]]
  1. Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag; ^1
  2. It came even to pass on the third day, that, behold, a man came out of the camp from Saul with his clothes rent, and earth upon his head: and so it was, when he came to David, that he fell to the earth, and did obeisance. ^2

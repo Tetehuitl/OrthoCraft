@@ -1,3 +1,13 @@
+---
+title: 45_THE_LIFE_OF_A_MONK_A_RECLUSE_ON_THE_MOUNT_OF_OLIVES_AND_CONCERNING_THE_VENERATION_OF_AN_ICON_OF_THE_MOST_HOLY_MOTHER_OF_GOD
+description: 
+published: true
+date: 2022-02-23T05:45:15.677Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:45:13.918Z
+---
+
 [[Spiritual Meadow]]
  
 One of the elders told us that Abba Theodore the Aeliote said that there was a certain recluse on the Mount of Olives, a great warrior against whom the demon of sexual desire waged battle. One day  

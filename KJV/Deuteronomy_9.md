@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_9
+description: 
+published: true
+date: 2022-02-23T04:36:24.425Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:22.613Z
+---
+
  Book:: [[Deuteronomy]]
  1. Hear, O Israel: Thou art to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven, ^1
  2. A people great and tall, the children of the Anakims, whom thou knowest, and of whom thou hast heard say, Who can stand before the children of Anak! ^2

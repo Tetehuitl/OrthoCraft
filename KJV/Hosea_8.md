@@ -1,3 +1,13 @@
+---
+title: Hosea_8
+description: 
+published: true
+date: 2022-02-23T04:46:35.482Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:33.679Z
+---
+
  Book:: [[Hosea]]
  1. Set the trumpet to thy mouth. He shall come as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law. ^1
  2. Israel shall cry unto me, My God, we know thee. ^2

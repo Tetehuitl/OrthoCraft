@@ -1,3 +1,13 @@
+---
+title: Galatians_3
+description: 
+published: true
+date: 2022-02-23T04:42:32.909Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:31.043Z
+---
+
  Book:: [[Galatians]]
  1. O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you? ^1
  2. This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith? ^2

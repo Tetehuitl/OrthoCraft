@@ -1,3 +1,13 @@
+---
+title: 124_A_STORY_OF_THE_SAME_ELDER
+description: 
+published: true
+date: 2022-02-23T05:38:45.309Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:38:43.582Z
+---
+
 [[Spiritual Meadow]]
  
 The elder told us this too:  

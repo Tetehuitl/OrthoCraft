@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_14
+description: 
+published: true
+date: 2022-02-23T04:35:08.537Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:06.683Z
+---
+
  Book:: [[Deuteronomy]]
  1. Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead. ^1
  2. For thou art an holy people unto the LORD thy God, and the LORD hath chosen thee to be a peculiar people unto himself, above all the nations that are upon the earth. ^2

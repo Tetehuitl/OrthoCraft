@@ -1,3 +1,13 @@
+---
+title: Joshua_23
+description: 
+published: true
+date: 2022-02-23T04:56:37.667Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:35.866Z
+---
+
  Book:: [[Joshua]]
  1. And it came to pass a long time after that the LORD had given rest unto Israel from all their enemies round about, that Joshua waxed old and stricken in age. ^1
  2. And Joshua called for all Israel, and for their elders, and for their heads, and for their judges, and for their officers, and said unto them, I am old and stricken in age: ^2

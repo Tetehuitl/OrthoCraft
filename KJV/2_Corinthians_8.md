@@ -1,3 +1,13 @@
+---
+title: 2_Corinthians_8
+description: 
+published: true
+date: 2022-02-23T04:29:05.828Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:04.019Z
+---
+
  Book:: [[2 Corinthians]]
  1. Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia; ^1
  2. How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality. ^2

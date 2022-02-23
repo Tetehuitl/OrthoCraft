@@ -1,3 +1,13 @@
+---
+title: Ezekiel_16
+description: 
+published: true
+date: 2022-02-23T04:40:03.588Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:01.689Z
+---
+
  Book:: [[Ezekiel]]
  1. Again the word of the LORD came unto me, saying, ^1
  2. Son of man, cause Jerusalem to know her abominations, ^2

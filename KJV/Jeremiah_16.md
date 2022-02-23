@@ -1,3 +1,13 @@
+---
+title: Jeremiah_16
+description: 
+published: true
+date: 2022-02-23T04:50:23.302Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:21.512Z
+---
+
  Book:: [[Jeremiah]]
  1. The word of the LORD came also unto me, saying, ^1
  2. Thou shalt not take thee a wife, neither shalt thou have sons or daughters in this place. ^2

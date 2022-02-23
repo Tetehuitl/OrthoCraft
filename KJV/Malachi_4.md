@@ -1,3 +1,13 @@
+---
+title: Malachi_4
+description: 
+published: true
+date: 2022-02-23T05:01:05.497Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:03.748Z
+---
+
  Book:: [[Malachi]]
  1. For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch. ^1
  2. But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall. ^2

@@ -1,3 +1,13 @@
+---
+title: Genesis_18
+description: 
+published: true
+date: 2022-02-23T04:43:11.889Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:10.027Z
+---
+
  Book:: [[Genesis]]
  1. And the LORD appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day; ^1
  2. And he lift up his eyes and looked, and, lo, three men stood by him: and when he saw them, he ran to meet them from the tent door, and bowed himself toward the ground, ^2

@@ -1,3 +1,13 @@
+---
+title: Revelation_12
+description: 
+published: true
+date: 2022-02-23T05:15:37.135Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:35.348Z
+---
+
  Book:: [[Revelation]]
  1. And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars: ^1
  2. And she being with child cried, travailing in birth, and pained to be delivered. ^2

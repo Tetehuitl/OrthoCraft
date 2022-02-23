@@ -1,3 +1,13 @@
+---
+title: Mark_4
+description: 
+published: true
+date: 2022-02-23T05:01:39.270Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:37.445Z
+---
+
  Book:: [[Mark]]
  1. And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land. ^1
  2. And he taught them many things by parables, and said unto them in his doctrine, ^2

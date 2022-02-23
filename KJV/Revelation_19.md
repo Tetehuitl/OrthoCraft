@@ -1,3 +1,13 @@
+---
+title: Revelation_19
+description: 
+published: true
+date: 2022-02-23T05:15:57.076Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:55.288Z
+---
+
  Book:: [[Revelation]]
  1. And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God: ^1
  2. For true and righteous are his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, and hath avenged the blood of his servants at her hand. ^2

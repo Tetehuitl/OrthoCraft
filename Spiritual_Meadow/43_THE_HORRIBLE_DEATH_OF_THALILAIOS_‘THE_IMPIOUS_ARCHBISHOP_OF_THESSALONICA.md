@@ -1,3 +1,13 @@
+---
+title: 43_THE_HORRIBLE_DEATH_OF_THALILAIOS_‘THE_IMPIOUS_ARCHBISHOP_OF_THESSALONICA
+description: 
+published: true
+date: 2022-02-23T05:45:09.731Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:45:07.957Z
+---
+
 [[Spiritual Meadow]]
  
 In Thessalonica there was an archbishop named Thalilaios who feared neither God nor the reward which was in store for him. The wretch trampled christian teaching under foot and impiously treated the priestly dignity as nothing worth. He turned out to be a ravening wolf rather than a shepherd. He declined to worship the holy and consubstantial Trinity, turning instead (Oh Lord, forgive me!) to the worship of idols. So those who presided over the holy churches at that time expelled him by a canonical vote. A little while later however this man, so full of iniquity, wished to resume his priesthood. Since (as the most wise Solomon says) a// things are obedient to gold, he was recalled and ordered to return to his own diocese (for it was at Constantinople that the rulers lived, those of whom Isaiah spoke: Which justify the wicked for reward and take away the righteousness of the righteous man from him. Is 5:23)  

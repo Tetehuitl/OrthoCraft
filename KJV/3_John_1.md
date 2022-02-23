@@ -1,3 +1,13 @@
+---
+title: 3_John_1
+description: 
+published: true
+date: 2022-02-23T04:32:12.514Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:10.735Z
+---
+
  Book:: [[3 John]]
  1. The elder unto the wellbeloved Gaius, whom I love in the truth. ^1
  2. Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth. ^2

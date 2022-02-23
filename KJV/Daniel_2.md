@@ -1,3 +1,13 @@
+---
+title: Daniel_2
+description: 
+published: true
+date: 2022-02-23T04:34:30.499Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:28.616Z
+---
+
  Book:: [[Daniel]]
  1. And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him. ^1
  2. Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams. So they came and stood before the king. ^2

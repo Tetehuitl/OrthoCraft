@@ -1,3 +1,13 @@
+---
+title: Exodus_32
+description: 
+published: true
+date: 2022-02-23T04:38:59.983Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:58.120Z
+---
+
  Book:: [[Exodus]]
  1. And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him. ^1
  2. And Aaron said unto them, Break off the golden earrings, which are in the ears of your wives, of your sons, and of your daughters, and bring them unto me. ^2

@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_13
+description: 
+published: true
+date: 2022-02-23T04:30:51.950Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:50.121Z
+---
+
  Book:: [[2 Samuel]]
  1. And it came to pass after this, that Absalom the son of David had a fair sister, whose name was Tamar; and Amnon the son of David loved her. ^1
  2. And Amnon was so vexed, that he fell sick for his sister Tamar; for she was a virgin; and Amnon thought it hard for him to do anything to her. ^2

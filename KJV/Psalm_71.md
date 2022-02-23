@@ -1,3 +1,13 @@
+---
+title: Psalm_71
+description: 
+published: true
+date: 2022-02-23T05:13:58.383Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:56.622Z
+---
+
  Book:: [[Psalm]]
  1. In thee, O LORD, do I put my trust: let me never be put to confusion. ^1
  2. Deliver me in thy righteousness, and cause me to escape: incline thine ear unto me, and save me. ^2

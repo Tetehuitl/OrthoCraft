@@ -1,3 +1,13 @@
+---
+title: Habakkuk_2
+description: 
+published: true
+date: 2022-02-23T04:45:09.821Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:45:07.993Z
+---
+
  Book:: [[Habakkuk]]
  1. I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved. ^1
  2. And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it. ^2

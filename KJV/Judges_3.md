@@ -1,3 +1,13 @@
+---
+title: Judges_3
+description: 
+published: true
+date: 2022-02-23T04:57:49.338Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:47.519Z
+---
+
  Book:: [[Judges]]
  1. Now these are the nations which the LORD left, to prove Israel by them, even as many of Israel as had not known all the wars of Canaan; ^1
  2. Only that the generations of the children of Israel might know, to teach them war, at the least such as before knew nothing thereof; ^2

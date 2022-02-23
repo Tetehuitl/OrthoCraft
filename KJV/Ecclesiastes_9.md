@@ -1,3 +1,13 @@
+---
+title: Ecclesiastes_9
+description: 
+published: true
+date: 2022-02-23T04:36:58.749Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:56.939Z
+---
+
  Book:: [[Ecclesiastes]]
  1. For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knoweth either love or hatred by all that is before them. ^1
  2. All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as is the good, so is the sinner; and he that sweareth, as he that feareth an oath. ^2

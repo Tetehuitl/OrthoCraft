@@ -1,3 +1,13 @@
+---
+title: 2_Kings_23
+description: 
+published: true
+date: 2022-02-23T04:30:00.162Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:58.301Z
+---
+
  Book:: [[2 Kings]]
  1. And the king sent, and they gathered unto him all the elders of Judah and of Jerusalem. ^1
  2. And the king went up into the house of the LORD, and all the men of Judah and all the inhabitants of Jerusalem with him, and the priests, and the prophets, and all the people, both small and great: and he read in their ears all the words of the book of the covenant which was found in the house of the LORD. ^2

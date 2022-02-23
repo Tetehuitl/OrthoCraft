@@ -1,3 +1,13 @@
+---
+title: Jeremiah_5
+description: 
+published: true
+date: 2022-02-23T04:52:06.218Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:04.407Z
+---
+
  Book:: [[Jeremiah]]
  1. Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be any that executeth judgment, that seeketh the truth; and I will pardon it. ^1
  2. And though they say, The LORD liveth; surely they swear falsely. ^2

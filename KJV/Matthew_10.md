@@ -1,3 +1,13 @@
+---
+title: Matthew_10
+description: 
+published: true
+date: 2022-02-23T05:02:01.865Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:00.037Z
+---
+
  Book:: [[Matthew]]
  1. And when he had called unto him his twelve disciples, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease. ^1
  2. Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother; ^2

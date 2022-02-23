@@ -1,3 +1,13 @@
+---
+title: 2_Kings_8
+description: 
+published: true
+date: 2022-02-23T04:30:21.727Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:19.938Z
+---
+
  Book:: [[2 Kings]]
  1. Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for the LORD hath called for a famine; and it shall also come upon the land seven years. ^1
  2. And the woman arose, and did after the saying of the man of God: and she went with her household, and sojourned in the land of the Philistines seven years. ^2

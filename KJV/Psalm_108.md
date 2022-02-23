@@ -1,3 +1,13 @@
+---
+title: Psalm_108
+description: 
+published: true
+date: 2022-02-23T05:08:51.781Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:50.035Z
+---
+
  Book:: [[Psalm]]
  1. O god, my heart is fixed; I will sing and give praise, even with my glory. ^1
  2. Awake, psaltery and harp: I myself will awake early. ^2

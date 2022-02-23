@@ -1,3 +1,13 @@
+---
+title: 647-september-29
+description: 
+published: true
+date: 2022-02-23T05:32:34.887Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:32:33.004Z
+---
+
 
 **1. THE VENERABLE CYRIACUS THE RECLUSE**
 

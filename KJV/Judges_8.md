@@ -1,3 +1,13 @@
+---
+title: Judges_8
+description: 
+published: true
+date: 2022-02-23T04:58:03.404Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:01.540Z
+---
+
  Book:: [[Judges]]
  1. And the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with the Midianites? And they did chide with him sharply. ^1
  2. And he said unto them, What have I done now in comparison of you? Is not the gleaning of the grapes of Ephraim better than the vintage of Abiezer? ^2

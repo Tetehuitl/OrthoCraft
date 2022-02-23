@@ -1,3 +1,13 @@
+---
+title: 20_THE_CONVERSION_OF_A_SOLDIER_(WHOSE_LIFE_IS_BRIEFLY_DESCRIBED)_WHEN_GOD_WORKED_A_MIRACLE_FOR_HIM
+description: 
+published: true
+date: 2022-02-23T05:43:26.007Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:43:24.274Z
+---
+
 [[Spiritual Meadow]]
  
 One of the fathers told me that a military standard-bearer had told him this:  

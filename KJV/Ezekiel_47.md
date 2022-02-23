@@ -1,3 +1,13 @@
+---
+title: Ezekiel_47
+description: 
+published: true
+date: 2022-02-23T04:41:36.665Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:34.847Z
+---
+
  Book:: [[Ezekiel]]
  1. Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house stood toward the east, and the waters came down from under from the right side of the house, at the south side of the altar. ^1
  2. Then brought he me out of the way of the gate northward, and led me about the way without unto the utter gate by the way that looketh eastward; and, behold, there ran out waters on the right side. ^2

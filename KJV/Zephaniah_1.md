@@ -1,3 +1,13 @@
+---
+title: Zephaniah_1
+description: 
+published: true
+date: 2022-02-23T05:18:54.331Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:52.552Z
+---
+
  Book:: [[Zephaniah]]
  1. The word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah. ^1
  2. I will utterly consume all things from off the land, saith the LORD. ^2

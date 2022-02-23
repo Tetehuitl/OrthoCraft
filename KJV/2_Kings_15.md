@@ -1,3 +1,13 @@
+---
+title: 2_Kings_15
+description: 
+published: true
+date: 2022-02-23T04:29:35.916Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:34.066Z
+---
+
  Book:: [[2 Kings]]
  1. In the twenty and seventh year of Jeroboam king of Israel began Azariah son of Amaziah king of Judah to reign. ^1
  2. Sixteen years old was he when he began to reign, and he reigned two and fifty years in Jerusalem. And his mother's name was Jecholiah of Jerusalem. ^2

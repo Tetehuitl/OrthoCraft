@@ -1,3 +1,13 @@
+---
+title: Ephesians_2
+description: 
+published: true
+date: 2022-02-23T04:37:06.142Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:04.354Z
+---
+
  Book:: [[Ephesians]]
  1. And you hath he quickened, who were dead in trespasses and sins; ^1
  2. Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: ^2

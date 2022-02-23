@@ -1,6 +1,11 @@
 ---
-publish: true
-tags: #needsEdit 
+title: On_Humility_-_St_Benedict_of_Nursia
+description: 
+published: true
+date: 2022-02-23T05:20:17.919Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:20:16.046Z
 ---
 
 links: [[HUB]] [[St Benedict of Nursia]]

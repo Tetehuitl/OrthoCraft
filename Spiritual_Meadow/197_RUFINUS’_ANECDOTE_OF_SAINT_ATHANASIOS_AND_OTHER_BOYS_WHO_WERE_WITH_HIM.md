@@ -1,3 +1,13 @@
+---
+title: 197_RUFINUS’_ANECDOTE_OF_SAINT_ATHANASIOS_AND_OTHER_BOYS_WHO_WERE_WITH_HIM
+description: 
+published: true
+date: 2022-02-23T05:42:41.543Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:42:39.725Z
+---
+
 [[Spiritual Meadow]]
  
 Rufinus, the ecclesiastical historian, reported something similar which happened a long time ago to children at play. It concerns Saint Athanasios, the great proclaimer and defender of the truth, the bishop of the great city of Alexandria, who shepherded all his charges prudently and according to the will of God. Speaking of the saint’s childhood, Rufinus shows how his elevation to the episcopate was originally foreshadowed by a revelation to him from God. Let us trace the history of this man, the kind of life he led as  

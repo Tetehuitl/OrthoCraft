@@ -1,3 +1,13 @@
+---
+title: Isaiah_7
+description: 
+published: true
+date: 2022-02-23T04:49:36.841Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:35.041Z
+---
+
  Book:: [[Isaiah]]
  1. And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it. ^1
  2. And it was told the house of David, saying, Syria is confederate with Ephraim. And his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind. ^2

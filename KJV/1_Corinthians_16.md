@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_16
+description: 
+published: true
+date: 2022-02-23T04:22:55.239Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:53.457Z
+---
+
  Book:: [[1 Corinthians]]
  1. Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye. ^1
  2. Upon the first day of the week let every one of you lay by him in store, as God hath prospered him, that there be no gatherings when I come. ^2

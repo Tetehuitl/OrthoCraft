@@ -1,3 +1,13 @@
+---
+title: Psalm_150
+description: 
+published: true
+date: 2022-02-23T05:11:02.992Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:01.243Z
+---
+
  Book:: [[Psalm]]
  1. Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power. ^1
  2. Praise him for his mighty acts: praise him according to his excellent greatness. ^2

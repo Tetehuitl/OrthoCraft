@@ -1,3 +1,13 @@
+---
+title: Hebrews_12
+description: 
+published: true
+date: 2022-02-23T04:45:33.183Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:45:31.335Z
+---
+
  Book:: [[Hebrews]]
  1. Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us, ^1
  2. Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God. ^2

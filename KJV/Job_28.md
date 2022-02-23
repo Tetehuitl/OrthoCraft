@@ -1,3 +1,13 @@
+---
+title: Job_28
+description: 
+published: true
+date: 2022-02-23T04:53:26.528Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:24.741Z
+---
+
  Book:: [[Job]]
  1. Surely there is a vein for the silver, and a place for gold where they fine it. ^1
  2. Iron is taken out of the earth, and brass is molten out of the stone. ^2

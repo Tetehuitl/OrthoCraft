@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_7
+description: 
+published: true
+date: 2022-02-23T04:28:25.757Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:23.922Z
+---
+
  Book:: [[2 Chronicles]]
  1. Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the LORD filled the house. ^1
  2. And the priests could not enter into the house of the LORD, because the glory of the LORD had filled the LORD's house. ^2

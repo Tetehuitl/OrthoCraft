@@ -1,3 +1,13 @@
+---
+title: Jeremiah_19
+description: 
+published: true
+date: 2022-02-23T04:50:31.571Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:29.774Z
+---
+
  Book:: [[Jeremiah]]
  1. Thus saith the LORD, Go and get a potter's earthen bottle, and take of the ancients of the people, and of the ancients of the priests; ^1
  2. And go forth unto the valley of the son of Hinnom, which is by the entry of the east gate, and proclaim there the words that I shall tell thee, ^2

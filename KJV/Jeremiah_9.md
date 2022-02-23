@@ -1,3 +1,13 @@
+---
+title: Jeremiah_9
+description: 
+published: true
+date: 2022-02-23T04:52:25.916Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:24.115Z
+---
+
  Book:: [[Jeremiah]]
  1. Oh that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people! ^1
  2. Oh that I had in the wilderness a lodging place of wayfaring men; that I might leave my people, and go from them! for they be all adulterers, an assembly of treacherous men. ^2

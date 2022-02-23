@@ -1,3 +1,13 @@
+---
+title: Psalm_139
+description: 
+published: true
+date: 2022-02-23T05:10:26.743Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:24.945Z
+---
+
  Book:: [[Psalm]]
  1. O lord, thou hast searched me, and known me. ^1
  2. Thou knowest my downsitting and mine uprising, thou understandest my thought afar off. ^2

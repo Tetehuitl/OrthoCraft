@@ -1,3 +1,13 @@
+---
+title: Matthew_1
+description: 
+published: true
+date: 2022-02-23T05:01:59.003Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:57.199Z
+---
+
  Book:: [[Matthew]]
  1. The book of the generation of Jesus Christ, the son of David, the son of Abraham. ^1
  2. Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren; ^2

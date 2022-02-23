@@ -1,3 +1,13 @@
+---
+title: Lamentations
+description: 
+published: true
+date: 2022-02-23T04:58:09.213Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:06.982Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Lamentations 1]]

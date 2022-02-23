@@ -1,3 +1,13 @@
+---
+title: 1_Thessalonians
+description: 
+published: true
+date: 2022-02-23T04:26:19.361Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:17.473Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[1 Thessalonians 1]]

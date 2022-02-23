@@ -1,3 +1,13 @@
+---
+title: Matthew_18
+description: 
+published: true
+date: 2022-02-23T05:02:24.618Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:22.791Z
+---
+
  Book:: [[Matthew]]
  1. At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven? ^1
  2. And Jesus called a little child unto him, and set him in the midst of them, ^2

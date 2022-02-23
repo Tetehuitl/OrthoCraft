@@ -1,3 +1,13 @@
+---
+title: Nahum_2
+description: 
+published: true
+date: 2022-02-23T05:03:50.336Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:03:48.575Z
+---
+
  Book:: [[Nahum]]
  1. He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make thy loins strong, fortify thy power mightily. ^1
  2. For the LORD hath turned away the excellency of Jacob, as the excellency of Israel: for the emptiers have emptied them out, and marred their vine branches. ^2

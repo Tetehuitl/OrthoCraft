@@ -1,3 +1,13 @@
+---
+title: 608-august-21
+description: 
+published: true
+date: 2022-02-23T05:30:36.601Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:30:34.707Z
+---
+
 
 **1. THE HOLY APOSTLE THADDAEUS**
 

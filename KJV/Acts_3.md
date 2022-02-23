@@ -1,3 +1,13 @@
+---
+title: Acts_3
+description: 
+published: true
+date: 2022-02-23T04:33:17.863Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:16.048Z
+---
+
  Book:: [[Acts]]
  1. Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour. ^1
  2. And a certain man lame from his mother's womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms of them that entered into the temple; ^2

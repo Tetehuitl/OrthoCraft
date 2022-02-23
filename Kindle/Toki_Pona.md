@@ -1,3 +1,13 @@
+---
+title: Toki_Pona
+description: 
+published: true
+date: 2022-02-23T05:19:38.298Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:19:36.498Z
+---
+
 # Toki Pona
 
 * Author: [Sonja Lang](https://www.amazon.comundefined)

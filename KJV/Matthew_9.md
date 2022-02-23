@@ -1,3 +1,13 @@
+---
+title: Matthew_9
+description: 
+published: true
+date: 2022-02-23T05:03:15.704Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:03:13.884Z
+---
+
  Book:: [[Matthew]]
  1. And he entered into a ship, and passed over, and came into his own city. ^1
  2. And, behold, they brought to him a man sick of the palsy, lying on a bed: and Jesus seeing their faith said unto the sick of the palsy; Son, be of good cheer; thy sins be forgiven thee. ^2

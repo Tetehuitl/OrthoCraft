@@ -1,3 +1,13 @@
+---
+title: Genesis_44
+description: 
+published: true
+date: 2022-02-23T04:44:31.779Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:29.963Z
+---
+
  Book:: [[Genesis]]
  1. And he commanded the steward of his house, saying, Fill the men's sacks with food, as much as they can carry, and put every man's money in his sack's mouth. ^1
  2. And put my cup, the silver cup, in the sack's mouth of the youngest, and his corn money. And he did according to the word that Joseph had spoken. ^2

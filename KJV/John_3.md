@@ -1,3 +1,13 @@
+---
+title: John_3
+description: 
+published: true
+date: 2022-02-23T04:55:20.246Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:18.432Z
+---
+
  Book:: [[John]]
  1. There was a man of the Pharisees, named Nicodemus, a ruler of the Jews: ^1
  2. The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him. ^2

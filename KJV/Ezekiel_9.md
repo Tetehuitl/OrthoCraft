@@ -1,3 +1,13 @@
+---
+title: Ezekiel_9
+description: 
+published: true
+date: 2022-02-23T04:41:52.947Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:51.156Z
+---
+
  Book:: [[Ezekiel]]
  1. He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man with his destroying weapon in his hand. ^1
  2. And, behold, six men came from the way of the higher gate, which lieth toward the north, and every man a slaughter weapon in his hand; and one man among them was clothed with linen, with a writer's inkhorn by his side: and they went in, and stood beside the brasen altar. ^2

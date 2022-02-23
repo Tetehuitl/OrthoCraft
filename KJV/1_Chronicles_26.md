@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_26
+description: 
+published: true
+date: 2022-02-23T04:22:04.494Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:02.653Z
+---
+
  Book:: [[1 Chronicles]]
  1. Concerning the divisions of the porters: Of the Korhites was Meshelemiah the son of Kore, of the sons of Asaph. ^1
  2. And the sons of Meshelemiah were, Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth, ^2

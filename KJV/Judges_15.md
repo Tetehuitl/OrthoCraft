@@ -1,3 +1,13 @@
+---
+title: Judges_15
+description: 
+published: true
+date: 2022-02-23T04:57:26.822Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:25.036Z
+---
+
  Book:: [[Judges]]
  1. But it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in. ^1
  2. And her father said, I verily thought that thou hadst utterly hated her; therefore I gave her to thy companion: is not her younger sister fairer than she? take her, I pray thee, instead of her. ^2

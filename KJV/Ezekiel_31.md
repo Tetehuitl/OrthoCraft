@@ -1,3 +1,13 @@
+---
+title: Ezekiel_31
+description: 
+published: true
+date: 2022-02-23T04:40:49.997Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:48.167Z
+---
+
  Book:: [[Ezekiel]]
  1. And it came to pass in the eleventh year, in the third month, in the first day of the month, that the word of the LORD came unto me, saying, ^1
  2. Son of man, speak unto Pharaoh king of Egypt, and to his multitude; Whom art thou like in thy greatness? ^2

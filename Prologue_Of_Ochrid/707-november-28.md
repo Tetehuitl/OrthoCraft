@@ -1,3 +1,13 @@
+---
+title: 707-november-28
+description: 
+published: true
+date: 2022-02-23T05:35:33.901Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:35:32.084Z
+---
+
 
 **1. THE VENERABLE MARTYR STEPHEN THE NEW**
 

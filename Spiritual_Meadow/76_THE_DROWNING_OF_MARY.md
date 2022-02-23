@@ -1,3 +1,13 @@
+---
+title: 76_THE_DROWNING_OF_MARY
+description: 
+published: true
+date: 2022-02-23T05:46:57.218Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:46:55.420Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Palladios also told us that he had heard a shipmaster telling a story something like this:  

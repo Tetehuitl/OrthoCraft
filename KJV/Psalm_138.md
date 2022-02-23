@@ -1,3 +1,13 @@
+---
+title: Psalm_138
+description: 
+published: true
+date: 2022-02-23T05:10:23.905Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:22.183Z
+---
+
  Book:: [[Psalm]]
  1. I will praise thee with my whole heart: before the gods will I sing praise unto thee. ^1
  2. I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name. ^2

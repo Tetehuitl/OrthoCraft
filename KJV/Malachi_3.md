@@ -1,3 +1,13 @@
+---
+title: Malachi_3
+description: 
+published: true
+date: 2022-02-23T05:01:02.739Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:00.978Z
+---
+
  Book:: [[Malachi]]
  1. Behold, I will send my messenger, and he shall prepare the way before me: and the LORD, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts. ^1
  2. But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner's fire, and like fullers' soap: ^2

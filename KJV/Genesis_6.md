@@ -1,3 +1,13 @@
+---
+title: Genesis_6
+description: 
+published: true
+date: 2022-02-23T04:44:54.235Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:52.393Z
+---
+
  Book:: [[Genesis]]
  1. And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them, ^1
  2. That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose. ^2

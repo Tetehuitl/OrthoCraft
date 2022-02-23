@@ -1,3 +1,13 @@
+---
+title: Ezra_1
+description: 
+published: true
+date: 2022-02-23T04:41:57.756Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:56.012Z
+---
+
  Book:: [[Ezra]]
  1. Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying, ^1
  2. Thus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah. ^2

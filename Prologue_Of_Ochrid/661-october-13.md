@@ -1,3 +1,13 @@
+---
+title: 661-october-13
+description: 
+published: true
+date: 2022-02-23T05:33:17.335Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:15.459Z
+---
+
 
 **1. THE HOLY MARTYRS CARPUS AND PAPYLUS**
 

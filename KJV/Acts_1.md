@@ -1,3 +1,13 @@
+---
+title: Acts_1
+description: 
+published: true
+date: 2022-02-23T04:32:20.585Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:18.794Z
+---
+
  Book:: [[Acts]]
  1. The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach, ^1
  2. Until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen: ^2

@@ -1,3 +1,13 @@
+---
+title: Exodus_37
+description: 
+published: true
+date: 2022-02-23T04:39:13.724Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:11.895Z
+---
+
  Book:: [[Exodus]]
  1. And Bezaleel made the ark of shittim wood: two cubits and a half was the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it: ^1
  2. And he overlaid it with pure gold within and without, and made a crown of gold to it round about. ^2

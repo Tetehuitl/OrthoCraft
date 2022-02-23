@@ -1,3 +1,13 @@
+---
+title: 630-september-12
+description: 
+published: true
+date: 2022-02-23T05:31:43.042Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:31:41.150Z
+---
+
 
 **1. THE HIEROMARTYR (PRIESTLY-MARTYR) AUTONOMUS**
 

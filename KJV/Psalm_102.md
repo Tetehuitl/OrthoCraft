@@ -1,3 +1,13 @@
+---
+title: Psalm_102
+description: 
+published: true
+date: 2022-02-23T05:08:34.642Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:32.838Z
+---
+
  Book:: [[Psalm]]
  1. Hear my prayer, O LORD, and let my cry come unto thee. ^1
  2. Hide not thy face from me in the day when I am in trouble; incline thine ear unto me: in the day when I call answer me speedily. ^2

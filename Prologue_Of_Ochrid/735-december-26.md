@@ -1,3 +1,13 @@
+---
+title: 735-december-26
+description: 
+published: true
+date: 2022-02-23T05:36:59.644Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:36:57.781Z
+---
+
 
 **1. THE SYNAXIS OF THE MOST-HOLY THEOTOKOS**
 

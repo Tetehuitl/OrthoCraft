@@ -1,3 +1,13 @@
+---
+title: 034-february-3
+description: 
+published: true
+date: 2022-02-23T05:22:13.467Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:22:11.607Z
+---
+
 
 **1. SAINT SIMEON THE GOD-RECEIVER**
 

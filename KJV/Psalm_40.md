@@ -1,3 +1,13 @@
+---
+title: Psalm_40
+description: 
+published: true
+date: 2022-02-23T05:12:22.037Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:20.250Z
+---
+
  Book:: [[Psalm]]
  1. I waited patiently for the LORD; and he inclined unto me, and heard my cry. ^1
  2. He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings. ^2

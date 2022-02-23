@@ -1,3 +1,13 @@
+---
+title: 84_THE_LIFE_AND_DEATH_OF_AN_ANCHORITE_OF_THE_SAME_MONASTERY_A_SERVANT_OF_GOD
+description: 
+published: true
+date: 2022-02-23T05:47:24.074Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:47:22.332Z
+---
+
 [[Spiritual Meadow]]
  
 The fathers of the same monastery told us this:  

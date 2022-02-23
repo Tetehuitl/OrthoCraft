@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians
+description: 
+published: true
+date: 2022-02-23T04:22:34.033Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:31.871Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[1 Corinthians 1]] ^8da264

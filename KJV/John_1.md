@@ -1,3 +1,13 @@
+---
+title: John_1
+description: 
+published: true
+date: 2022-02-23T04:54:40.471Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:38.612Z
+---
+
  Book:: [[John]]
  1. In the beginning was the Word, and the Word was with God, and the Word was God. ^1
  2. The same was in the beginning with God. ^2

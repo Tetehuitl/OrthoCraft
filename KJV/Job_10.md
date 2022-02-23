@@ -1,3 +1,13 @@
+---
+title: Job_10
+description: 
+published: true
+date: 2022-02-23T04:52:34.157Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:32.360Z
+---
+
  Book:: [[Job]]
  1. My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul. ^1
  2. I will say unto God, Do not condemn me; shew me wherefore thou contendest with me. ^2

@@ -1,3 +1,13 @@
+---
+title: Titus
+description: 
+published: true
+date: 2022-02-23T05:17:59.720Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:39:02.423Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[Titus 1]]

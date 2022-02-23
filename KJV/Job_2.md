@@ -1,3 +1,13 @@
+---
+title: Job_2
+description: 
+published: true
+date: 2022-02-23T04:53:01.746Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:59.959Z
+---
+
  Book:: [[Job]]
  1. Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD. ^1
  2. And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it. ^2

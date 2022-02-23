@@ -1,3 +1,13 @@
+---
+title: Proverbs_20
+description: 
+published: true
+date: 2022-02-23T05:07:26.039Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:24.235Z
+---
+
  Book:: [[Proverbs]]
  1. Wine is a mocker, strong drink is raging: and whosoever is deceived thereby is not wise. ^1
  2. The fear of a king is as the roaring of a lion: whoso provoketh him to anger sinneth against his own soul. ^2

@@ -1,3 +1,13 @@
+---
+title: Ephesians_6
+description: 
+published: true
+date: 2022-02-23T04:37:16.923Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:15.157Z
+---
+
  Book:: [[Ephesians]]
  1. Children, obey your parents in the Lord: for this is right. ^1
  2. Honour thy father and mother; which is the first commandment with promise; ^2

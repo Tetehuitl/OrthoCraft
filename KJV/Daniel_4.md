@@ -1,3 +1,13 @@
+---
+title: Daniel_4
+description: 
+published: true
+date: 2022-02-23T04:34:35.937Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:34.048Z
+---
+
  Book:: [[Daniel]]
  1. Nebuchadnezzar the king, unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you. ^1
  2. I thought it good to shew the signs and wonders that the high God hath wrought toward me. ^2

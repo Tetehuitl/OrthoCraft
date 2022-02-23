@@ -1,3 +1,13 @@
+---
+title: Mark
+description: 
+published: true
+date: 2022-02-23T05:01:08.928Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:19.326Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[Mark 1]]

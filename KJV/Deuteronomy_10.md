@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_10
+description: 
+published: true
+date: 2022-02-23T04:34:57.630Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:55.832Z
+---
+
  Book:: [[Deuteronomy]]
  1. At that time the LORD said unto me, Hew thee two tables of stone like unto the first, and come up unto me into the mount, and make thee an ark of wood. ^1
  2. And I will write on the tables the words that were in the first tables which thou brakest, and thou shalt put them in the ark. ^2

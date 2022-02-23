@@ -1,3 +1,13 @@
+---
+title: Bible
+description: 
+published: true
+date: 2022-02-23T04:34:02.868Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:36:47.560Z
+---
+
  #[[Old Testament]]
  #[[Table of Contents]]
  [[Genesis]]

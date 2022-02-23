@@ -1,3 +1,13 @@
+---
+title: 128_THE_LIFE_OF_ADELPHIOS_BISHOP_OF_ARABESSOS_AND_CONCERNING_THE_BLESSED_JOHN_CHRYSOSTOM
+description: 
+published: true
+date: 2022-02-23T05:38:57.029Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:38:55.257Z
+---
+
 [[Spiritual Meadow]]
  
 We visited Abba Athanasios at the lavra of our saintly father, Sabas, and he told us a story which he had heard from Abba Athenogenes, Bishop of Petra, the son of Amma Damiana. It was something like this:  

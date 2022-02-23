@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_6
+description: 
+published: true
+date: 2022-02-23T04:36:16.310Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:36:14.505Z
+---
+
  Book:: [[Deuteronomy]]
  1. Now these are the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do them in the land whither ye go to possess it: ^1
  2. That thou mightest fear the LORD thy God, to keep all his statutes and his commandments, which I command thee, thou, and thy son, and thy son's son, all the days of thy life; and that thy days may be prolonged. ^2

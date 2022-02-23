@@ -1,3 +1,13 @@
+---
+title: Proverbs_29
+description: 
+published: true
+date: 2022-02-23T05:07:51.601Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:07:49.820Z
+---
+
  Book:: [[Proverbs]]
  1. He, that being often reproved hardeneth his neck, shall suddenly be destroyed, and that without remedy. ^1
  2. When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn. ^2

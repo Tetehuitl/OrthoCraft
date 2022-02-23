@@ -1,3 +1,13 @@
+---
+title: Job_38
+description: 
+published: true
+date: 2022-02-23T04:53:57.112Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:55.287Z
+---
+
  Book:: [[Job]]
  1. Then the LORD answered Job out of the whirlwind, and said, ^1
  2. Who is this that darkeneth counsel by words without knowledge? ^2

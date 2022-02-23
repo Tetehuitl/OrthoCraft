@@ -1,3 +1,13 @@
+---
+title: Psalm_122
+description: 
+published: true
+date: 2022-02-23T05:09:36.586Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:34.859Z
+---
+
  Book:: [[Psalm]]
  1. I was glad when they said unto me, Let us go into the house of the LORD. ^1
  2. Our feet shall stand within thy gates, O Jerusalem. ^2

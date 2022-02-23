@@ -1,3 +1,13 @@
+---
+title: Zephaniah_2
+description: 
+published: true
+date: 2022-02-23T05:18:57.224Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:55.385Z
+---
+
  Book:: [[Zephaniah]]
  1. Gather yourselves together, yea, gather together, O nation not desired; ^1
  2. Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the LORD come upon you, before the day of the LORD's anger come upon you. ^2

@@ -1,3 +1,13 @@
+---
+title: Romans_5
+description: 
+published: true
+date: 2022-02-23T05:17:05.802Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:03.981Z
+---
+
  Book:: [[Romans]]
  1. Therefore being justified by faith, we have peace with God through our Lord Jesus Christ: ^1
  2. By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God. ^2

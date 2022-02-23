@@ -1,3 +1,13 @@
+---
+title: 2_Kings_18
+description: 
+published: true
+date: 2022-02-23T04:29:43.991Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:42.122Z
+---
+
  Book:: [[2 Kings]]
  1. Now it came to pass in the third year of Hoshea son of Elah king of Israel, that Hezekiah the son of Ahaz king of Judah began to reign. ^1
  2. Twenty and five years old was he when he began to reign; and he reigned twenty and nine years in Jerusalem. His mother's name also was Abi, the daughter of Zachariah. ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_61
+description: 
+published: true
+date: 2022-02-23T05:13:27.284Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:25.549Z
+---
+
  Book:: [[Psalm]]
  1. Hear my cry, O God; attend unto my prayer. ^1
  2. From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I. ^2

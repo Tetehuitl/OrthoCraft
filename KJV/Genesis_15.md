@@ -1,3 +1,13 @@
+---
+title: Genesis_15
+description: 
+published: true
+date: 2022-02-23T04:43:03.667Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:01.883Z
+---
+
  Book:: [[Genesis]]
  1. After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward. ^1
  2. And Abram said, LORD God, what wilt thou give me, seeing I go childless, and the steward of my house is this Eliezer of Damascus? ^2

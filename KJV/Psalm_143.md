@@ -1,3 +1,13 @@
+---
+title: Psalm_143
+description: 
+published: true
+date: 2022-02-23T05:10:40.680Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:38.911Z
+---
+
  Book:: [[Psalm]]
  1. Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness. ^1
  2. And enter not into judgment with thy servant: for in thy sight shall no man living be justified. ^2

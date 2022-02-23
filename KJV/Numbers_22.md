@@ -1,3 +1,13 @@
+---
+title: Numbers_22
+description: 
+published: true
+date: 2022-02-23T05:05:21.240Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:19.389Z
+---
+
  Book:: [[Numbers]]
  1. And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan by Jericho. ^1
  2. And Balak the son of Zippor saw all that Israel had done to the Amorites. ^2

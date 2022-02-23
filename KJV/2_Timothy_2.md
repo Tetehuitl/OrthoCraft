@@ -1,3 +1,13 @@
+---
+title: 2_Timothy_2
+description: 
+published: true
+date: 2022-02-23T04:32:01.962Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:00.167Z
+---
+
  Book:: [[2 Timothy]]
  1. Thou therefore, my son, be strong in the grace that is in Christ Jesus. ^1
  2. And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also. ^2

@@ -1,3 +1,13 @@
+---
+title: Leviticus_14
+description: 
+published: true
+date: 2022-02-23T04:58:41.762Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:39.897Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. This shall be the law of the leper in the day of his cleansing: He shall be brought unto the priest: ^2

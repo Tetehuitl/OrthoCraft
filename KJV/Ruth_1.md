@@ -1,3 +1,13 @@
+---
+title: Ruth_1
+description: 
+published: true
+date: 2022-02-23T05:17:22.219Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:20.414Z
+---
+
  Book:: [[Ruth]]
  1. Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons. ^1
  2. And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there. ^2

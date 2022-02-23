@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_12
+description: 
+published: true
+date: 2022-02-23T04:25:04.814Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:02.963Z
+---
+
  Book:: [[1 Samuel]]
  1. And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you. ^1
  2. And now, behold, the king walketh before you: and I am old and grayheaded; and, behold, my sons are with you: and I have walked before you from my childhood unto this day. ^2

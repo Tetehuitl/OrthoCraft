@@ -1,3 +1,13 @@
+---
+title: Leviticus
+description: 
+published: true
+date: 2022-02-23T04:58:25.772Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:09.787Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Leviticus 1]]

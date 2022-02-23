@@ -1,6 +1,11 @@
 ---
-publish: false
-tags: #needsEdit 
+title: The_Meeting_of_Our_Lord_God_and_Saviour_Jesus_Christ
+description: 
+published: true
+date: 2022-02-23T05:20:35.734Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:20:33.864Z
 ---
 
 links: [[HUB]]

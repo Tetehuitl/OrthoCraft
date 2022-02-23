@@ -1,3 +1,13 @@
+---
+title: Acts_22
+description: 
+published: true
+date: 2022-02-23T04:32:58.562Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:56.721Z
+---
+
  Book:: [[Acts]]
  1. Men, brethren, and fathers, hear ye my defence which I make now unto you. ^1
  2. (And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,) ^2

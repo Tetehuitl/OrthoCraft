@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_19
+description: 
+published: true
+date: 2022-02-23T04:25:23.498Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:21.670Z
+---
+
  Book:: [[1 Samuel]]
  1. And Saul spake to Jonathan his son, and to all his servants, that they should kill David. ^1
  2. But Jonathan Saul's son delighted much in David: and Jonathan told David, saying, Saul my father seeketh to kill thee: now therefore, I pray thee, take heed to thyself until the morning, and abide in a secret place, and hide thyself: ^2

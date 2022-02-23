@@ -1,3 +1,13 @@
+---
+title: 11_THE_LIFE_OF_ABBA_HAGIODOULOS
+description: 
+published: true
+date: 2022-02-23T05:38:30.772Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:38:29.030Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Peter, priest of the Lavra of our holy father Saint Sabas, told us that when Hagiodoulos was higoumen of the Lavra of the blessed Gerasimos, one of the brethren there died without the elder knowing of it. When the precentor struck the wood -en signal for all the brethren to mourn together and send the dead man on his way, the elder came and saw the body of the brother lying in the church. He grieved at not having been able to take leave of him before he died. Going up to the bier, he said to the dead man: ‘Rise up and greet me, brother’, and the dead man rose up and greeted him. Then the elder said to him: ‘Take your rest now until the Son of God shall come and raise you up again’. When this same Hagiodoulos had come down to the banks of the holy Jordan he pondered in his mind as to what had become of the stones which Joshua the son of Nun collected and set up before his chosen leaders. As he was pondering these things, the waters suddenly parted to cither side and he saw the twelve stones. He humbly prostrated himself before God and went his way. 

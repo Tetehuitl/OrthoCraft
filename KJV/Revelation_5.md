@@ -1,3 +1,13 @@
+---
+title: Revelation_5
+description: 
+published: true
+date: 2022-02-23T05:16:17.162Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:15.395Z
+---
+
  Book:: [[Revelation]]
  1. And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals. ^1
  2. And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof? ^2

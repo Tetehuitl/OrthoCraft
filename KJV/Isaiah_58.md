@@ -1,3 +1,13 @@
+---
+title: Isaiah_58
+description: 
+published: true
+date: 2022-02-23T04:49:09.365Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:07.554Z
+---
+
  Book:: [[Isaiah]]
  1. Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins. ^1
  2. Yet they seek me daily, and delight to know my ways, as a nation that did righteousness, and forsook not the ordinance of their God: they ask of me the ordinances of justice; they take delight in approaching to God. ^2

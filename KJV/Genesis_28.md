@@ -1,3 +1,13 @@
+---
+title: Genesis_28
+description: 
+published: true
+date: 2022-02-23T04:43:42.167Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:40.374Z
+---
+
  Book:: [[Genesis]]
  1. And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan. ^1
  2. Arise, go to Padanaram, to the house of Bethuel thy mother's father; and take thee a wife from thence of the daughters of Laban thy mother's brother. ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_65
+description: 
+published: true
+date: 2022-02-23T05:13:38.502Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:36.749Z
+---
+
  Book:: [[Psalm]]
  1. Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed. ^1
  2. O thou that hearest prayer, unto thee shall all flesh come. ^2

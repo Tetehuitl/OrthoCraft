@@ -1,3 +1,13 @@
+---
+title: Numbers_29
+description: 
+published: true
+date: 2022-02-23T05:05:41.155Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:39.329Z
+---
+
  Book:: [[Numbers]]
  1. And in the seventh month, on the first day of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you. ^1
  2. And ye shall offer a burnt offering for a sweet savor unto the LORD; one young bullock, one ram, and seven lambs of the first year without blemish: ^2

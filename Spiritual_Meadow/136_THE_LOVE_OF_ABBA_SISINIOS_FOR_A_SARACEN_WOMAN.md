@@ -1,3 +1,13 @@
+---
+title: 136_THE_LOVE_OF_ABBA_SISINIOS_FOR_A_SARACEN_WOMAN
+description: 
+published: true
+date: 2022-02-23T05:39:23.641Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:39:21.909Z
+---
+
 [[Spiritual Meadow]]
  
 Abba John, priest of the Monastery of the Eunuchs, told us that he had heard Abba Sisinios the anchorite say:  

@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_30
+description: 
+published: true
+date: 2022-02-23T04:35:57.244Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:55.449Z
+---
+
  Book:: [[Deuteronomy]]
  1. And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call them to mind among all the nations, whither the LORD thy God hath driven thee, ^1
  2. And shalt return unto the LORD thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thine heart, and with all thy soul; ^2

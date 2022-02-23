@@ -1,3 +1,13 @@
+---
+title: Luke
+description: 
+published: true
+date: 2022-02-23T04:59:44.631Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:13.168Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[Luke 1]]

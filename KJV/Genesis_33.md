@@ -1,3 +1,13 @@
+---
+title: Genesis_33
+description: 
+published: true
+date: 2022-02-23T04:43:58.777Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:56.994Z
+---
+
  Book:: [[Genesis]]
  1. And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids. ^1
  2. And he put the handmaids and their children foremost, and Leah and her children after, and Rachel and Joseph hindermost. ^2

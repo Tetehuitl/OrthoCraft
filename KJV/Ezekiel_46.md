@@ -1,3 +1,13 @@
+---
+title: Ezekiel_46
+description: 
+published: true
+date: 2022-02-23T04:41:33.922Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:32.076Z
+---
+
  Book:: [[Ezekiel]]
  1. Thus saith the Lord GOD; The gate of the inner court that looketh toward the east shall be shut the six working days; but on the sabbath it shall be opened, and in the day of the new moon it shall be opened. ^1
  2. And the prince shall enter by the way of the porch of that gate without, and shall stand by the post of the gate, and the priests shall prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate: then he shall go forth; but the gate shall not be shut until the evening. ^2

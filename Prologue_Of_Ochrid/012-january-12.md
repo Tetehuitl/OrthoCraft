@@ -1,3 +1,13 @@
+---
+title: 012-january-12
+description: 
+published: true
+date: 2022-02-23T05:21:08.582Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:21:06.699Z
+---
+
 
 **1. THE HOLY FEMALE MARTYR TATIANA**
 

@@ -1,3 +1,13 @@
+---
+title: Job_29
+description: 
+published: true
+date: 2022-02-23T04:53:29.324Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:27.521Z
+---
+
  Book:: [[Job]]
  1. Moreover Job continued his parable, and said, ^1
  2. Oh that I were as in months past, as in the days when God preserved me; ^2

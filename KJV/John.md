@@ -1,3 +1,13 @@
+---
+title: John
+description: 
+published: true
+date: 2022-02-23T04:54:38.513Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:37:52.055Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[John 1]]

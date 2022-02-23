@@ -1,3 +1,13 @@
+---
+title: Matthew_25
+description: 
+published: true
+date: 2022-02-23T05:02:47.304Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:02:45.453Z
+---
+
  Book:: [[Matthew]]
  1. Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom. ^1
  2. And five of them were wise, and five were foolish. ^2

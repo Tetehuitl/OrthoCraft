@@ -1,3 +1,13 @@
+---
+title: Romans_12
+description: 
+published: true
+date: 2022-02-23T05:16:42.298Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:16:40.518Z
+---
+
  Book:: [[Romans]]
  1. I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service. ^1
  2. And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God. ^2

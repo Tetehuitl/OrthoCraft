@@ -1,3 +1,13 @@
+---
+title: Psalm_51
+description: 
+published: true
+date: 2022-02-23T05:12:55.897Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:54.133Z
+---
+
  Book:: [[Psalm]]
  1. Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. ^1
  2. Wash me throughly from mine iniquity, and cleanse me from my sin. ^2

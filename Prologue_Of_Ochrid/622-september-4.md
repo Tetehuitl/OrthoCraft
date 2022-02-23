@@ -1,3 +1,13 @@
+---
+title: 622-september-4
+description: 
+published: true
+date: 2022-02-23T05:31:18.894Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:31:17.031Z
+---
+
 
 **1. THE HOLY HIEROMARTYR (PRIESTLY-MARTYR) BABYLAS**
 

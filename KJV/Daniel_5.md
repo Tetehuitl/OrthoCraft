@@ -1,3 +1,13 @@
+---
+title: Daniel_5
+description: 
+published: true
+date: 2022-02-23T04:34:38.648Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:36.809Z
+---
+
  Book:: [[Daniel]]
  1. Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand. ^1
  2. Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which was in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein. ^2

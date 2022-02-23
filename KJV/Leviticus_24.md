@@ -1,3 +1,13 @@
+---
+title: Leviticus_24
+description: 
+published: true
+date: 2022-02-23T04:59:12.801Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:11.028Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Command the children of Israel, that they bring unto thee pure oil olive beaten for the light, to cause the lamps to burn continually. ^2

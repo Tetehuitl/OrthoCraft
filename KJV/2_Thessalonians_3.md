@@ -1,3 +1,13 @@
+---
+title: 2_Thessalonians_3
+description: 
+published: true
+date: 2022-02-23T04:31:53.843Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:52.075Z
+---
+
  Book:: [[2 Thessalonians]]
  1. Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you: ^1
  2. And that we may be delivered from unreasonable and wicked men: for all men have not faith. ^2

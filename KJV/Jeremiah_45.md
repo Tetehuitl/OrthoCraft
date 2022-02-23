@@ -1,3 +1,13 @@
+---
+title: Jeremiah_45
+description: 
+published: true
+date: 2022-02-23T04:51:52.285Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:51:50.521Z
+---
+
  Book:: [[Jeremiah]]
  1. The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying, ^1
  2. Thus saith the LORD, the God of Israel, unto thee, O Baruch: ^2

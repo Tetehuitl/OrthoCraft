@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_18
+description: 
+published: true
+date: 2022-02-23T04:31:05.440Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:03.626Z
+---
+
  Book:: [[2 Samuel]]
  1. And David numbered the people that were with him, and set captains of thousands, and captains of hundreds over them. ^1
  2. And David sent forth a third part of the people under the hand of Joab, and a third part under the hand of Abishai the son of Zeruiah, Joab's brother, and a third part under the hand of Ittai the Gittite. And the king said unto the people, I will surely go forth with you myself also. ^2

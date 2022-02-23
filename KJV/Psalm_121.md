@@ -1,3 +1,13 @@
+---
+title: Psalm_121
+description: 
+published: true
+date: 2022-02-23T05:09:33.818Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:32.105Z
+---
+
  Book:: [[Psalm]]
  1. I will lift up mine eyes unto the hills, from whence cometh my help. ^1
  2. My help cometh from the LORD, which made heaven and earth. ^2

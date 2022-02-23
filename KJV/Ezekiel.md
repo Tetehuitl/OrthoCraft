@@ -1,3 +1,13 @@
+---
+title: Ezekiel
+description: 
+published: true
+date: 2022-02-23T04:39:42.472Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:37:11.506Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Ezekiel 1]]

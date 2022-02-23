@@ -1,3 +1,13 @@
+---
+title: 29_A_MIRACLE_OF_THE_MOST_HOLY_EUCHARIST
+description: 
+published: true
+date: 2022-02-23T05:44:22.219Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:44:20.455Z
+---
+
 [[Spiritual Meadow]]
  
 About twenty miles from the city of Aégaion in Cilicia there were two stylites located about six miles from each other. One of them was in communion with the holy catholic and apostolic church. The other, who had been the longer time on his column (which was near an estate called Cassiodora) adhered to the Severan sect. The heretical stylite disputed with the orthodox one in various ways, contriving and desiring to win him over to his own sect. And having  

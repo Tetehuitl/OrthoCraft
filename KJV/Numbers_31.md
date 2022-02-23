@@ -1,3 +1,13 @@
+---
+title: Numbers_31
+description: 
+published: true
+date: 2022-02-23T05:05:49.637Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:05:47.790Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Avenge the children of Israel of the Midianites: afterward shalt thou be gathered unto thy people. ^2

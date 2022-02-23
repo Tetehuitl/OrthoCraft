@@ -1,3 +1,13 @@
+---
+title: Mark_10
+description: 
+published: true
+date: 2022-02-23T05:01:13.670Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:01:11.808Z
+---
+
  Book:: [[Mark]]
  1. And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again. ^1
  2. And the Pharisees came to him, and asked him, Is it lawful for a man to put away his wife? tempting him. ^2

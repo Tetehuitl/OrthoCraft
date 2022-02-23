@@ -1,3 +1,13 @@
+---
+title: Song_of_Solomon_7
+description: 
+published: true
+date: 2022-02-23T05:17:53.923Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:52.155Z
+---
+
  Book:: [[Song of Solomon]]
  1. How beautiful are thy feet with shoes, O prince's daughter! the joints of thy thighs are like jewels, the work of the hands of a cunning workman. ^1
  2. Thy navel is like a round goblet, which wanteth not liquor: thy belly is like an heap of wheat set about with lilies. ^2

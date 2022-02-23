@@ -1,3 +1,13 @@
+---
+title: Psalm_30
+description: 
+published: true
+date: 2022-02-23T05:11:50.883Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:49.141Z
+---
+
  Book:: [[Psalm]]
  1. I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me. ^1
  2. O LORD my God, I cried unto thee, and thou hast healed me. ^2

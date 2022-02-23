@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_5
+description: 
+published: true
+date: 2022-02-23T04:31:32.531Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:30.685Z
+---
+
  Book:: [[2 Samuel]]
  1. Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh. ^1
  2. Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the LORD said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel. ^2

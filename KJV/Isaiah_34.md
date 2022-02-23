@@ -1,3 +1,13 @@
+---
+title: Isaiah_34
+description: 
+published: true
+date: 2022-02-23T04:47:57.791Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:55.945Z
+---
+
  Book:: [[Isaiah]]
  1. Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it. ^1
  2. For the indignation of the LORD is upon all nations, and his fury upon all their armies: he hath utterly destroyed them, he hath delivered them to the slaughter. ^2

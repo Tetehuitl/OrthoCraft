@@ -1,3 +1,13 @@
+---
+title: Psalm_81
+description: 
+published: true
+date: 2022-02-23T05:14:29.694Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:27.921Z
+---
+
  Book:: [[Psalm]]
  1. Sing aloud unto God our strength: make a joyful noise unto the God of Jacob. ^1
  2. Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery. ^2

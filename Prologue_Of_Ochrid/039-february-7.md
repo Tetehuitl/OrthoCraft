@@ -1,3 +1,13 @@
+---
+title: 039-february-7
+description: 
+published: true
+date: 2022-02-23T05:22:25.358Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:22:23.504Z
+---
+
 
 **1. SAINT PARTHENIUS, BISHOP OF LAMPSACUS**
 

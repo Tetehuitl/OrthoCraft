@@ -1,3 +1,13 @@
+---
+title: 1_Thessalonians_3
+description: 
+published: true
+date: 2022-02-23T04:26:27.259Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:25.480Z
+---
+
  Book:: [[1 Thessalonians]]
  1. Wherefore when we could no longer forbear, we thought it good to be left at Athens alone; ^1
  2. And sent Timotheus, our brother, and minister of God, and our fellowlabourer in the gospel of Christ, to establish you, and to comfort you concerning your faith: ^2

@@ -1,7 +1,11 @@
 ---
-publish: true
-date updated: '2021-07-16T01:35:01-04:00'
-
+title: Starting_Out_on_OrthoCraft_Server
+description: 
+published: true
+date: 2022-02-23T05:19:57.510Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:19:55.694Z
 ---
 
 1. Download [GDlauncher](https://gdevs.io/) and follow the installation instructions.

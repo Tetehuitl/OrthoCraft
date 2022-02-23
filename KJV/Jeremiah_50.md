@@ -1,3 +1,13 @@
+---
+title: Jeremiah_50
+description: 
+published: true
+date: 2022-02-23T04:52:09.060Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:07.194Z
+---
+
  Book:: [[Jeremiah]]
  1. The word that the LORD spake against Babylon and against the land of the Chaldeans by Jeremiah the prophet. ^1
  2. Declare ye among the nations, and publish, and set up a standard; publish, and conceal not: say, Babylon is taken, Bel is confounded, Merodach is broken in pieces; her idols are confounded, her images are broken in pieces. ^2

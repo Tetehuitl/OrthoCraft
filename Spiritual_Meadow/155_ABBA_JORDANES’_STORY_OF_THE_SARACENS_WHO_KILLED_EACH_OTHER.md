@@ -1,3 +1,13 @@
+---
+title: 155_ABBA_JORDANES’_STORY_OF_THE_SARACENS_WHO_KILLED_EACH_OTHER
+description: 
+published: true
+date: 2022-02-23T05:40:25.171Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:40:23.442Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Jordanes also told us that Abba Nicholas said to him:  

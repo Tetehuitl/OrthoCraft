@@ -1,3 +1,13 @@
+---
+title: Song_of_Solomon
+description: 
+published: true
+date: 2022-02-23T05:17:33.896Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:31.996Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Song of Solomon 1]]

@@ -1,3 +1,13 @@
+---
+title: 207_THE_LIFE_OF_AN_ALEXANDRINE_GIRL_WHO_WAS_RECEIVED_FROM_THE_SACRED_FONT_BY_ANGELS
+description: 
+published: true
+date: 2022-02-23T05:43:17.191Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:43:15.389Z
+---
+
 [[Spiritual Meadow]]
  
 Abba Theonas and Abba Theodore said that in the time of the Patriarch Paul, there was a maiden in Alexandria who lost both her parents—and they possessed a great fortune. The girl was unbaptised at the time of her bereavement. One day she went apart into the garden which her parents had left her (for there are gardens in the middle of the city, in the houses of the great ones). Whilst she was in the garden, she saw a man preparing to hang himself. She rushed to him and said: ‘What are you doing, good man?’ He said to her: ‘Look, leave me alone woman, for I am in  

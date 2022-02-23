@@ -1,3 +1,13 @@
+---
+title: Raku_cheatsheet
+description: 
+published: true
+date: 2022-02-23T05:37:25.881Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:39:15.932Z
+---
+
 Raku cheat sheet v7 20200702                                         »ö«
 
 SIGILS    MAJOR/MINOR CONTEXTS         ACCESS ARRAYS      HASHES

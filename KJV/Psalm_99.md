@@ -1,3 +1,13 @@
+---
+title: Psalm_99
+description: 
+published: true
+date: 2022-02-23T05:15:23.448Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:15:21.672Z
+---
+
  Book:: [[Psalm]]
  1. The LORD reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved. ^1
  2. The LORD is great in Zion; and he is high above all the people. ^2

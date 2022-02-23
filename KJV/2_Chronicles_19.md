@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_19
+description: 
+published: true
+date: 2022-02-23T04:27:24.107Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:22.316Z
+---
+
  Book:: [[2 Chronicles]]
  1. And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem. ^1
  2. And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the LORD? therefore is wrath upon thee from before the LORD. ^2

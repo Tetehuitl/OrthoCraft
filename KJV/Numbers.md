@@ -1,3 +1,13 @@
+---
+title: Numbers
+description: 
+published: true
+date: 2022-02-23T05:04:39.196Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:34.383Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Numbers 1]]

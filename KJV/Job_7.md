@@ -1,3 +1,13 @@
+---
+title: Job_7
+description: 
+published: true
+date: 2022-02-23T04:54:19.284Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:17.493Z
+---
+
  Book:: [[Job]]
  1. Is there not an appointed time to man upon earth? are not his days also like the days of an hireling? ^1
  2. As a servant earnestly desireth the shadow, and as an hireling looketh for the reward of his work: ^2

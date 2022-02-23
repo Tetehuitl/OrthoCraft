@@ -1,3 +1,13 @@
+---
+title: Zephaniah_3
+description: 
+published: true
+date: 2022-02-23T05:19:00.081Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:58.296Z
+---
+
  Book:: [[Zephaniah]]
  1. Woe to her that is filthy and polluted, to the oppressing city! ^1
  2. She obeyed not the voice; she received not correction; she trusted not in the LORD; she drew not near to her God. ^2

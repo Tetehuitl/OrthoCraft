@@ -1,3 +1,13 @@
+---
+title: 1_Peter_4
+description: 
+published: true
+date: 2022-02-23T04:24:48.181Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:46.370Z
+---
+
  Book:: [[1 Peter]]
  1. Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin; ^1
  2. That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God. ^2

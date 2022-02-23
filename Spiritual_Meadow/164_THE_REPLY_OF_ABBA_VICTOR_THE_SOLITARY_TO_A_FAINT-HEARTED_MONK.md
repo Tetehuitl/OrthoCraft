@@ -1,3 +1,13 @@
+---
+title: 164_THE_REPLY_OF_ABBA_VICTOR_THE_SOLITARY_TO_A_FAINT-HEARTED_MONK
+description: 
+published: true
+date: 2022-02-23T05:40:54.434Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:40:52.686Z
+---
+
 [[Spiritual Meadow]]
  
 A brother visited Abba Victor the solitary at the lavra of Eleousa and said to him: ‘What shall I do, father, for I am in the grips of the spiritual disease of faint-heartedness?’ The elder replied: ‘This is a disease of the soul. Just as those who suffer from ophthalmia have  

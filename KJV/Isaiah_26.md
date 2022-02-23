@@ -1,3 +1,13 @@
+---
+title: Isaiah_26
+description: 
+published: true
+date: 2022-02-23T04:47:33.099Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:31.326Z
+---
+
  Book:: [[Isaiah]]
  1. In that day shall this song be sung in the land of Judah; We have a strong city; salvation will God appoint for walls and bulwarks. ^1
  2. Open ye the gates, that the righteous nation which keepeth the truth may enter in. ^2

@@ -1,3 +1,13 @@
+---
+title: Genesis_36
+description: 
+published: true
+date: 2022-02-23T04:44:07.021Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:05.192Z
+---
+
  Book:: [[Genesis]]
  1. Now these are the generations of Esau, who is Edom. ^1
  2. Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite; ^2

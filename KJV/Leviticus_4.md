@@ -1,3 +1,13 @@
+---
+title: Leviticus_4
+description: 
+published: true
+date: 2022-02-23T04:59:26.944Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:25.097Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the LORD concerning things which ought not to be done, and shall do against any of them: ^2

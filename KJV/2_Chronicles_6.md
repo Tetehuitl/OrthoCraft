@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_6
+description: 
+published: true
+date: 2022-02-23T04:28:23.089Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:21.200Z
+---
+
  Book:: [[2 Chronicles]]
  1. Then said Solomon, The LORD hath said that he would dwell in the thick darkness. ^1
  2. But I have built an house of habitation for thee, and a place for thy dwelling for ever. ^2

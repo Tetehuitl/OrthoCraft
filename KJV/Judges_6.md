@@ -1,3 +1,13 @@
+---
+title: Judges_6
+description: 
+published: true
+date: 2022-02-23T04:57:57.764Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:55.918Z
+---
+
  Book:: [[Judges]]
  1. And the children of Israel did evil in the sight of the LORD: and the LORD delivered them into the hand of Midian seven years. ^1
  2. And the hand of Midian prevailed against Israel: and because of the Midianites the children of Israel made them the dens which are in the mountains, and caves, and strong holds. ^2

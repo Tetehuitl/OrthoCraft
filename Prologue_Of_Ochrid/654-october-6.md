@@ -1,3 +1,13 @@
+---
+title: 654-october-6
+description: 
+published: true
+date: 2022-02-23T05:32:56.001Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:32:54.121Z
+---
+
 
 **1. THE HOLY APOSTLE THOMAS**
 

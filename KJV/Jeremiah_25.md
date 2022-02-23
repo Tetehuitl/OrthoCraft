@@ -1,3 +1,13 @@
+---
+title: Jeremiah_25
+description: 
+published: true
+date: 2022-02-23T04:50:51.024Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:49.162Z
+---
+
  Book:: [[Jeremiah]]
  1. The word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim the son of Josiah king of Judah, that was the first year of Nebuchadrezzar king of Babylon; ^1
  2. The which Jeremiah the prophet spake unto all the people of Judah, and to all the inhabitants of Jerusalem, saying, ^2

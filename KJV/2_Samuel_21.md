@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_21
+description: 
+published: true
+date: 2022-02-23T04:31:16.304Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:14.464Z
+---
+
  Book:: [[2 Samuel]]
  1. Then there was a famine in the days of David three years, year after year; and David inquired of the LORD. And the LORD answered, It is for Saul, and for his bloody house, because he slew the Gibeonites. ^1
  2. And the king called the Gibeonites, and said unto them; (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn unto them: and Saul sought to slay them in his zeal to the children of Israel and Judah.) ^2

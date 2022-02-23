@@ -1,3 +1,13 @@
+---
+title: Exodus_28
+description: 
+published: true
+date: 2022-02-23T04:38:46.276Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:44.411Z
+---
+
  Book:: [[Exodus]]
  1. And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest's office, even Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron's sons. ^1
  2. And thou shalt make holy garments for Aaron thy brother for glory and for beauty. ^2

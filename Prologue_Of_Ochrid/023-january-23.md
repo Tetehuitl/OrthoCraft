@@ -1,3 +1,13 @@
+---
+title: 023-january-23
+description: 
+published: true
+date: 2022-02-23T05:21:40.983Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:21:39.126Z
+---
+
 
 **1. THE HIEROMARTYR [PRIESTLY-MARTYR] CLEMENT, BISHOP OF ANCYRA**
 

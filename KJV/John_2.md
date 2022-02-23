@@ -1,3 +1,13 @@
+---
+title: John_2
+description: 
+published: true
+date: 2022-02-23T04:55:11.825Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:10.002Z
+---
+
  Book:: [[John]]
  1. And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there: ^1
  2. And both Jesus was called, and his disciples, to the marriage. ^2

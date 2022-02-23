@@ -1,3 +1,13 @@
+---
+title: Exodus_18
+description: 
+published: true
+date: 2022-02-23T04:38:16.271Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:14.410Z
+---
+
  Book:: [[Exodus]]
  1. When Jethro, the priest of Midian, Moses' father in law, heard of all that God had done for Moses, and for Israel his people, and that the LORD had brought Israel out of Egypt; ^1
  2. Then Jethro, Moses' father in law, took Zipporah, Moses' wife, after he had sent her back, ^2

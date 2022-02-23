@@ -1,3 +1,13 @@
+---
+title: Source_-_The_Domostroi_-_Rules_for_Russian_Households_in_the_time_of_Ivan_the_Terrible
+description: 
+published: true
+date: 2022-02-23T05:49:35.405Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:49:33.556Z
+---
+
 - [[Author]]: Carolyn Johnston Pouncy
 	- [[Category]]: #history #culture #edicate
 	- [[Subject]]: edicate

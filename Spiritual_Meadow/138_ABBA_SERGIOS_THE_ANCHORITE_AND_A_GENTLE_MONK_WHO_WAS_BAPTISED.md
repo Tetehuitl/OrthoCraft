@@ -1,3 +1,13 @@
+---
+title: 138_ABBA_SERGIOS_THE_ANCHORITE_AND_A_GENTLE_MONK_WHO_WAS_BAPTISED
+description: 
+published: true
+date: 2022-02-23T05:39:29.473Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:39:27.742Z
+---
+
 [[Spiritual Meadow]]
  
 The elder told us this too:  

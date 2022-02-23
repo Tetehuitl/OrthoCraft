@@ -1,3 +1,13 @@
+---
+title: 2_Kings_1
+description: 
+published: true
+date: 2022-02-23T04:29:19.703Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:17.883Z
+---
+
  Book:: [[2 Kings]]
  1. Then Moab rebelled against Israel after the death of Ahab. ^1
  2. And Ahaziah fell down through a lattice in his upper chamber that was in Samaria, and was sick: and he sent messengers, and said unto them, Go, enquire of Baalzebub the god of Ekron whether I shall recover of this disease. ^2

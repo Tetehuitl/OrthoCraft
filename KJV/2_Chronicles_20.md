@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_20
+description: 
+published: true
+date: 2022-02-23T04:27:29.537Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:27.676Z
+---
+
  Book:: [[2 Chronicles]]
  1. It came to pass after this also, that the children of Moab, and the children of Ammon, and with them other beside the Ammonites, came against Jehoshaphat to battle. ^1
  2. Then there came some that told Jehoshaphat, saying, There cometh a great multitude against thee from beyond the sea on this side Syria; and, behold, they be in Hazazontamar, which is Engedi. ^2

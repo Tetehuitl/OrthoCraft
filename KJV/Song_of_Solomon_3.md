@@ -1,3 +1,13 @@
+---
+title: Song_of_Solomon_3
+description: 
+published: true
+date: 2022-02-23T05:17:42.479Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:17:40.731Z
+---
+
  Book:: [[Song of Solomon]]
  1. By night on my bed I sought him whom my soul loveth: I sought him, but I found him not. ^1
  2. I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not. ^2

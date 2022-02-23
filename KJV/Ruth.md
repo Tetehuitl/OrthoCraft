@@ -1,3 +1,13 @@
+---
+title: Ruth
+description: 
+published: true
+date: 2022-02-23T05:17:20.373Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:59.663Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Ruth 1]]

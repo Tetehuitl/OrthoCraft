@@ -1,3 +1,13 @@
+---
+title: Judges_19
+description: 
+published: true
+date: 2022-02-23T04:57:38.075Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:36.227Z
+---
+
  Book:: [[Judges]]
  1. And it came to pass in those days, when there was no king in Israel, that there was a certain Levite sojourning on the side of mount Ephraim, who took to him a concubine out of Bethlehemjudah. ^1
  2. And his concubine played the whore against him, and went away from him unto her father's house to Bethlehemjudah, and was there four whole months. ^2

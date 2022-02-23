@@ -1,3 +1,13 @@
+---
+title: Psalm_91
+description: 
+published: true
+date: 2022-02-23T05:15:00.846Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:59.081Z
+---
+
  Book:: [[Psalm]]
  1. He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty. ^1
  2. I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust. ^2

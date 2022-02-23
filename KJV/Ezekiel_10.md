@@ -1,3 +1,13 @@
+---
+title: Ezekiel_10
+description: 
+published: true
+date: 2022-02-23T04:39:47.174Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:45.367Z
+---
+
  Book:: [[Ezekiel]]
  1. Then I looked, and, behold, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne. ^1
  2. And he spake unto the man clothed with linen, and said, Go in between the wheels, even under the cherub, and fill thine hand with coals of fire from between the cherubims, and scatter them over the city. And he went in in my sight. ^2

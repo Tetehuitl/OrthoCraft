@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_7
+description: 
+published: true
+date: 2022-02-23T04:26:11.317Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:09.508Z
+---
+
  Book:: [[1 Samuel]]
  1. And the men of Kirjathjearim came, and fetched up the ark of the LORD, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the LORD. ^1
  2. And it came to pass, while the ark abode in Kirjathjearim, that the time was long; for it was twenty years: and all the house of Israel lamented after the LORD. ^2

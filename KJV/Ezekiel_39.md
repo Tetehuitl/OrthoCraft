@@ -1,3 +1,13 @@
+---
+title: Ezekiel_39
+description: 
+published: true
+date: 2022-02-23T04:41:11.989Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:10.182Z
+---
+
  Book:: [[Ezekiel]]
  1. Therefore, thou son of man, prophesy against Gog, and say, Thus saith the Lord GOD; Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal: ^1
  2. And I will turn thee back, and leave but the sixth part of thee, and will cause thee to come up from the north parts, and will bring thee upon the mountains of Israel: ^2

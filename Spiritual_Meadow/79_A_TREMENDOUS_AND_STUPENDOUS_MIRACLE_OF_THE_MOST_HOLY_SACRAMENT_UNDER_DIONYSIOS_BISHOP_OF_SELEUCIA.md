@@ -1,3 +1,13 @@
+---
+title: 79_A_TREMENDOUS_AND_STUPENDOUS_MIRACLE_OF_THE_MOST_HOLY_SACRAMENT_UNDER_DIONYSIOS_BISHOP_OF_SELEUCIA
+description: 
+published: true
+date: 2022-02-23T05:47:06.241Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:47:04.498Z
+---
+
 [[Spiritual Meadow]]
  
 When we came to Seleucia (which is not far from Antioch) we met Abba Theodore, bishop of that same city, Seleucia, and he told us this:  

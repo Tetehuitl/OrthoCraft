@@ -1,3 +1,13 @@
+---
+title: Isaiah_36
+description: 
+published: true
+date: 2022-02-23T04:48:03.254Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:01.427Z
+---
+
  Book:: [[Isaiah]]
  1. Now it came to pass in the fourteenth year of king Hezekiah, that Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them. ^1
  2. And the king of Assyria sent Rabshakeh from Lachish to Jerusalem unto king Hezekiah with a great army. And he stood by the conduit of the upper pool in the highway of the fuller's field. ^2

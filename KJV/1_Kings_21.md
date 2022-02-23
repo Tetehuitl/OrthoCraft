@@ -1,3 +1,13 @@
+---
+title: 1_Kings_21
+description: 
+published: true
+date: 2022-02-23T04:24:13.294Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:11.428Z
+---
+
  Book:: [[1 Kings]]
  1. And it came to pass after these things, that Naboth the Jezreelite had a vineyard, which was in Jezreel, hard by the palace of Ahab king of Samaria. ^1
  2. And Ahab spake unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it is near unto my house: and I will give thee for it a better vineyard than it; or, if it seem good to thee, I will give thee the worth of it in money. ^2

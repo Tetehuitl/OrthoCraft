@@ -1,3 +1,13 @@
+---
+title: 1_Kings_13
+description: 
+published: true
+date: 2022-02-23T04:23:49.252Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:47.407Z
+---
+
  Book:: [[1 Kings]]
  1. And, behold, there came a man of God out of Judah by the word of the LORD unto Bethel: and Jeroboam stood by the altar to burn incense. ^1
  2. And he cried against the altar in the word of the LORD, and said, O altar, altar, thus saith the LORD; Behold, a child shall be born unto the house of David, Josiah by name; and upon thee shall he offer the priests of the high places that burn incense upon thee, and men's bones shall be burnt upon thee. ^2

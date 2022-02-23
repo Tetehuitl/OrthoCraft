@@ -1,3 +1,13 @@
+---
+title: Psalm_73
+description: 
+published: true
+date: 2022-02-23T05:14:04.095Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:02.277Z
+---
+
  Book:: [[Psalm]]
  1. Truly God is good to Israel, even to such as are of a clean heart. ^1
  2. But as for me, my feet were almost gone; my steps had well nigh slipped. ^2

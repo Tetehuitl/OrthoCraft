@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_1
+description: 
+published: true
+date: 2022-02-23T04:24:56.820Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:54.989Z
+---
+
  Book:: [[1 Samuel]]
  1. Now there was a certain man of Ramathaimzophim, of mount Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite: ^1
  2. And he had two wives; the name of the one was Hannah, and the name of the other Peninnah: and Peninnah had children, but Hannah had no children. ^2

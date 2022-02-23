@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_6
+description: 
+published: true
+date: 2022-02-23T04:22:23.045Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:21.189Z
+---
+
  Book:: [[1 Chronicles]]
  1. The sons of Levi; Gershon, Kohath, and Merari. ^1
  2. And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel. ^2

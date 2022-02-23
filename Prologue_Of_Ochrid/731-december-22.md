@@ -1,3 +1,13 @@
+---
+title: 731-december-22
+description: 
+published: true
+date: 2022-02-23T05:36:47.395Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:36:45.559Z
+---
+
 
 **1. THE HOLY GREAT-MARTYR ANASTASIA THE DELIVERER FROM BONDS, AND OTHERS WITH HER**
 

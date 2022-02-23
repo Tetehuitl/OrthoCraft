@@ -1,3 +1,13 @@
+---
+title: 92_THE_LIFE_OF_BROTHER_GEORGE_THE_CAPPADOCIAN_AND_THE_FINDING_OF_THE_BODY_OF_PETER_THE_SOLITARY_OF_THE_HOLY_JORDAN
+description: 
+published: true
+date: 2022-02-23T05:47:50.866Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:47:49.138Z
+---
+
 [[Spiritual Meadow]]
  
 Our holy father, Abba George, archimandrite of the monastery of our holy father Theodosios which lies in the wilderness of the Holy City of Christ our God, told this to me and to brother Sophronios the Sophist:  

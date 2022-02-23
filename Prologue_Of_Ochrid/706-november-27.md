@@ -1,3 +1,13 @@
+---
+title: 706-november-27
+description: 
+published: true
+date: 2022-02-23T05:35:30.869Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:35:29.027Z
+---
+
 
 **1. THE HOLY MARTYR JAMES THE PERSIAN**
 

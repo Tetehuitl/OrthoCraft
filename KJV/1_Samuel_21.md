@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_21
+description: 
+published: true
+date: 2022-02-23T04:25:31.489Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:29.706Z
+---
+
  Book:: [[1 Samuel]]
  1. Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why art thou alone, and no man with thee? ^1
  2. And David said unto Ahimelech the priest, The king hath commanded me a business, and hath said unto me, Let no man know any thing of the business whereabout I send thee, and what I have commanded thee: and I have appointed my servants to such and such a place. ^2

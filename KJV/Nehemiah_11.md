@@ -1,3 +1,13 @@
+---
+title: Nehemiah_11
+description: 
+published: true
+date: 2022-02-23T05:04:03.836Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:02.005Z
+---
+
  Book:: [[Nehemiah]]
  1. And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts to dwell in other cities. ^1
  2. And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem. ^2

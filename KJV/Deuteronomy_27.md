@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_27
+description: 
+published: true
+date: 2022-02-23T04:35:46.361Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:44.551Z
+---
+
  Book:: [[Deuteronomy]]
  1. And Moses with the elders of Israel commanded the people, saying, Keep all the commandments which I command you this day. ^1
  2. And it shall be on the day when ye shall pass over Jordan unto the land which the LORD thy God giveth thee, that thou shalt set thee up great stones, and plaster them with plaster: ^2

@@ -1,3 +1,13 @@
+---
+title: Genesis_45
+description: 
+published: true
+date: 2022-02-23T04:44:34.539Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:32.720Z
+---
+
  Book:: [[Genesis]]
  1. Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren. ^1
  2. And he wept aloud: and the Egyptians and the house of Pharaoh heard. ^2

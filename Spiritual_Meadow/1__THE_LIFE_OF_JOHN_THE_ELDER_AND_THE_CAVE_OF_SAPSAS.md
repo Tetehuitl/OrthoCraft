@@ -1,3 +1,13 @@
+---
+title: 1__THE_LIFE_OF_JOHN_THE_ELDER_AND_THE_CAVE_OF_SAPSAS
+description: 
+published: true
+date: 2022-02-23T05:42:53.401Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:42:51.647Z
+---
+
 links: [[Spiritual Meadow]]
 tags: #HolyFathers #HolyLand
 

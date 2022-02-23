@@ -1,3 +1,13 @@
+---
+title: Psalm_142
+description: 
+published: true
+date: 2022-02-23T05:10:37.890Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:36.161Z
+---
+
  Book:: [[Psalm]]
  1. I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication. ^1
  2. I poured out my complaint before him; I shewed before him my trouble. ^2

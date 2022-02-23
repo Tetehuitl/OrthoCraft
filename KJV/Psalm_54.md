@@ -1,3 +1,13 @@
+---
+title: Psalm_54
+description: 
+published: true
+date: 2022-02-23T05:13:04.717Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:13:02.961Z
+---
+
  Book:: [[Psalm]]
  1. Save me, O God, by thy name, and judge me by thy strength. ^1
  2. Hear my prayer, O God; give ear to the words of my mouth. ^2

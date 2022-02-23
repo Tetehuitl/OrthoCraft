@@ -1,3 +1,13 @@
+---
+title: 189_THE_LIFE_OF_A_WOMAN_WHO_REMAINED_FAITHFUL_TO_HER_HUSBAND_A_MERCHANT_AND_HOW_GOD_HELPED_THEM_BOTH
+description: 
+published: true
+date: 2022-02-23T05:42:14.588Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:42:12.801Z
+---
+
 [[Spiritual Meadow]]
  
 We came too the hospice of the Fathers at Ascalon and there Eusebios the priest said to us:  

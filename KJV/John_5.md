@@ -1,3 +1,13 @@
+---
+title: John_5
+description: 
+published: true
+date: 2022-02-23T04:55:25.838Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:24.008Z
+---
+
  Book:: [[John]]
  1. After this there was a feast of the Jews; and Jesus went up to Jerusalem. ^1
  2. Now there is at Jerusalem by the sheep market a pool, which is called in the Hebrew tongue Bethesda, having five porches. ^2

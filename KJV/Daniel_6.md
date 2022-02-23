@@ -1,3 +1,13 @@
+---
+title: Daniel_6
+description: 
+published: true
+date: 2022-02-23T04:34:41.355Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:39.530Z
+---
+
  Book:: [[Daniel]]
  1. It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom; ^1
  2. And over these three presidents; of whom Daniel was first: that the princes might give accounts unto them, and the king should have no damage. ^2

@@ -1,3 +1,13 @@
+---
+title: Acts_19
+description: 
+published: true
+date: 2022-02-23T04:32:47.770Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:45.895Z
+---
+
  Book:: [[Acts]]
  1. And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples, ^1
  2. He said unto them, Have ye received the Holy Ghost since ye believed? And they said unto him, We have not so much as heard whether there be any Holy Ghost. ^2

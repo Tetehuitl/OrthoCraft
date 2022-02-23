@@ -1,3 +1,13 @@
+---
+title: Hosea
+description: 
+published: true
+date: 2022-02-23T04:46:00.770Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:37:32.759Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Hosea 1]]

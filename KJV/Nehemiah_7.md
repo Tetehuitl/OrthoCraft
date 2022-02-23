@@ -1,3 +1,13 @@
+---
+title: Nehemiah_7
+description: 
+published: true
+date: 2022-02-23T05:04:26.484Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:24.631Z
+---
+
  Book:: [[Nehemiah]]
  1. Now it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed, ^1
  2. That I gave my brother Hanani, and Hananiah the ruler of the palace, charge over Jerusalem: for he was a faithful man, and feared God above many. ^2

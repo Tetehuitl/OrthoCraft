@@ -1,3 +1,13 @@
+---
+title: Genesis_1
+description: 
+published: true
+date: 2022-02-23T04:42:47.334Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:45.501Z
+---
+
  Book:: [[Genesis]]
  1. In the beginning God created the heaven and the earth. ^1
  2. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. ^2

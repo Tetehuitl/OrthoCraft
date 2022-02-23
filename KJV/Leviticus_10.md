@@ -1,3 +1,13 @@
+---
+title: Leviticus_10
+description: 
+published: true
+date: 2022-02-23T04:58:30.495Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:28.677Z
+---
+
  Book:: [[Leviticus]]
  1. And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the LORD, which he commanded them not. ^1
  2. And there went out fire from the LORD, and devoured them, and they died before the LORD. ^2

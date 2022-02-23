@@ -1,3 +1,13 @@
+---
+title: 2_Corinthians
+description: 
+published: true
+date: 2022-02-23T04:28:33.970Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:31.910Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[2 Corinthians 1]]

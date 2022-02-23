@@ -1,3 +1,13 @@
+---
+title: Psalm_21
+description: 
+published: true
+date: 2022-02-23T05:11:22.745Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:20.978Z
+---
+
  Book:: [[Psalm]]
  1. The king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice! ^1
  2. Thou hast given him his heart's desire, and hast not withholden the request of his lips. Selah. ^2

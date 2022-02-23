@@ -1,3 +1,13 @@
+---
+title: Ephesians_4
+description: 
+published: true
+date: 2022-02-23T04:37:11.549Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:37:09.744Z
+---
+
  Book:: [[Ephesians]]
  1. I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called, ^1
  2. With all lowliness and meekness, with longsuffering, forbearing one another in love; ^2

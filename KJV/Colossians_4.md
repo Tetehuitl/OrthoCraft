@@ -1,3 +1,13 @@
+---
+title: Colossians_4
+description: 
+published: true
+date: 2022-02-23T04:34:14.718Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:34:12.918Z
+---
+
  Book:: [[Colossians]]
  1. Masters, give unto your servants that which is just and equal; knowing that ye also have a Master in heaven. ^1
  2. Continue in prayer, and watch in the same with thanksgiving; ^2

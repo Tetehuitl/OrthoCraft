@@ -1,3 +1,13 @@
+---
+title: Exodus_38
+description: 
+published: true
+date: 2022-02-23T04:39:16.866Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:15.035Z
+---
+
  Book:: [[Exodus]]
  1. And he made the altar of burnt offering of shittim wood: five cubits was the length thereof, and five cubits the breadth thereof; it was foursquare; and three cubits the height thereof. ^1
  2. And he made the horns thereof on the four corners of it; the horns thereof were of the same: and he overlaid it with brass. ^2

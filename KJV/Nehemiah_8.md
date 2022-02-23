@@ -1,3 +1,13 @@
+---
+title: Nehemiah_8
+description: 
+published: true
+date: 2022-02-23T05:04:29.761Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:27.940Z
+---
+
  Book:: [[Nehemiah]]
  1. And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel. ^1
  2. And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month. ^2

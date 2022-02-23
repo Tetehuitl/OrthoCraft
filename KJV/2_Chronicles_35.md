@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_35
+description: 
+published: true
+date: 2022-02-23T04:28:12.416Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:10.554Z
+---
+
  Book:: [[2 Chronicles]]
  1. Moreover Josiah kept a passover unto the LORD in Jerusalem: and they killed the passover on the fourteenth day of the first month. ^1
  2. And he set the priests in their charges, and encouraged them to the service of the house of the LORD, ^2

@@ -1,3 +1,13 @@
+---
+title: Luke_15
+description: 
+published: true
+date: 2022-02-23T05:00:03.593Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:00:01.764Z
+---
+
  Book:: [[Luke]]
  1. Then drew near unto him all the publicans and sinners for to hear him. ^1
  2. And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them. ^2

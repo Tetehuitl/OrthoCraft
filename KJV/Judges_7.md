@@ -1,3 +1,13 @@
+---
+title: Judges_7
+description: 
+published: true
+date: 2022-02-23T04:58:00.587Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:58.748Z
+---
+
  Book:: [[Judges]]
  1. Then Jerubbaal, who is Gideon, and all the people that were with him, rose up early, and pitched beside the well of Harod: so that the host of the Midianites were on the north side of them, by the hill of Moreh, in the valley. ^1
  2. And the LORD said unto Gideon, The people that are with thee are too many for me to give the Midianites into their hands, lest Israel vaunt themselves against me, saying, Mine own hand hath saved me. ^2

@@ -1,3 +1,13 @@
+---
+title: Leviticus_15
+description: 
+published: true
+date: 2022-02-23T04:58:44.634Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:42.773Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses and to Aaron, saying, ^1
  2. Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, because of his issue he is unclean. ^2

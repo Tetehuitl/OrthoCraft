@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_20
+description: 
+published: true
+date: 2022-02-23T04:21:48.636Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:46.886Z
+---
+
  Book:: [[1 Chronicles]]
  1. And it came to pass, that after the year was expired, at the time that kings go out to battle, Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it. ^1
  2. And David took the crown of their king from off his head, and found it to weigh a talent of gold, and there were precious stones in it; and it was set upon David's head: and he brought also exceeding much spoil out of the city. ^2

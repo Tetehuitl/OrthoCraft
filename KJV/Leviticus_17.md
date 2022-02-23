@@ -1,3 +1,13 @@
+---
+title: Leviticus_17
+description: 
+published: true
+date: 2022-02-23T04:58:50.249Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:48.466Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them; This is the thing which the LORD hath commanded, saying, ^2

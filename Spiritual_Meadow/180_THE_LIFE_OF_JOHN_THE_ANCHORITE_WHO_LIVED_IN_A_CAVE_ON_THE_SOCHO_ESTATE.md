@@ -1,3 +1,13 @@
+---
+title: 180_THE_LIFE_OF_JOHN_THE_ANCHORITE_WHO_LIVED_IN_A_CAVE_ON_THE_SOCHO_ESTATE
+description: 
+published: true
+date: 2022-02-23T05:41:47.565Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:41:45.817Z
+---
+
 [[Spiritual Meadow]]
  
 The most holy Dionysios, priest and sacristan of the most holy church of Ascalon, said to us concerning Abba John the Anchorite: ‘This was a man who, in our own generation, was truly great in the eyes of God’, and as a demonstration of the extent to which he was pleasing to God, he related this miracle attributed to him:  

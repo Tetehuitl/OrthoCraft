@@ -1,3 +1,13 @@
+---
+title: 16_ABBA_NICOLAS’_STORY_ABOUT_HIMSELF_AND_HIS_FRIENDS
+description: 
+published: true
+date: 2022-02-23T05:41:12.049Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:41:10.320Z
+---
+
 [[Spiritual Meadow]]
  
 There was an elder living at the Lavra of Abba Peter near the holy Jordan whose name was Nicolas. He told us that when he was staying at Raithou, three of the brethren, of whom he was one were sent to perform a service at the Thebaid. “But when we were going through the desert’, he said, ‘we lost our way and wandered. far and wide. Our water was all used up and we went for days without finding any. We began to faint from thirst and heat. When we could not take one more step, we found some tamarisk trees there in the desert and flung ourselves down wherever any shade could be found, fully expecting to die of thirst. As I lay there I fell into an ecstasy and I saw a pool of water full to overflowing. Two people were standing at the edge of the pool, drawing water with a wooden vessel. I began to make a request of one of them in these words: ‘Of your charity, sir, give me a little water, for I am faint’, but he was unwilling to grant my request. The other one said to him: ‘Give him a little’, but he replied: ‘No, let us not give him any, for he is too easy-going, and does not take care of his soul’. The other said: ‘Yes, yes; it is true that he is easy-going but he is hospitable to strangers’,—and so he gave some to me and also to my companions. We drank and went on our way, travelling three more days without drinking until we reached civilisation.

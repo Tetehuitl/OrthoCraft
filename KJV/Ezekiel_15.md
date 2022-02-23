@@ -1,3 +1,13 @@
+---
+title: Ezekiel_15
+description: 
+published: true
+date: 2022-02-23T04:40:00.765Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:59.025Z
+---
+
  Book:: [[Ezekiel]]
  1. And the word of the LORD came unto me, saying, ^1
  2. Son of man, what is the vine tree more than any tree, or than a branch which is among the trees of the forest? ^2

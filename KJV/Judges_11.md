@@ -1,3 +1,13 @@
+---
+title: Judges_11
+description: 
+published: true
+date: 2022-02-23T04:57:15.721Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:57:13.872Z
+---
+
  Book:: [[Judges]]
  1. Now Jephthah the Gileadite was a mighty man of valor, and he was the son of an harlot: and Gilead begat Jephthah. ^1
  2. And Gilead's wife bare him sons; and his wife's sons grew up, and they thrust out Jephthah, and said unto him, Thou shalt not inherit in our father's house; for thou art the son of a strange woman. ^2

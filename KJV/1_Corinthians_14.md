@@ -1,3 +1,13 @@
+---
+title: 1_Corinthians_14
+description: 
+published: true
+date: 2022-02-23T04:22:49.890Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:22:48.038Z
+---
+
  Book:: [[1 Corinthians]]
  1. Follow after charity, and desire spiritual gifts, but rather that ye may prophesy. ^1
  2. For he that speaketh in an unknown tongue speaketh not unto men, but unto God: for no man understandeth him; howbeit in the spirit he speaketh mysteries. ^2

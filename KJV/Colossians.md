@@ -1,3 +1,13 @@
+---
+title: Colossians
+description: 
+published: true
+date: 2022-02-23T04:34:04.850Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:36:50.122Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[Colossians 1]]

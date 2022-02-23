@@ -1,3 +1,13 @@
+---
+title: 618-august-31
+description: 
+published: true
+date: 2022-02-23T05:31:06.772Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:31:04.914Z
+---
+
 
 **1. THE FEAST OF THE CINCTURE (GIRDLE) OF THE HOLY THEOTOKOS**
 

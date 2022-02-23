@@ -1,3 +1,13 @@
+---
+title: Leviticus_23
+description: 
+published: true
+date: 2022-02-23T04:59:10.027Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:08.203Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Speak unto the children of Israel, and say unto them, Concerning the feasts of the LORD, which ye shall proclaim to be holy convocations, even these are my feasts. ^2

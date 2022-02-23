@@ -1,3 +1,13 @@
+---
+title: 2_Corinthians_1
+description: 
+published: true
+date: 2022-02-23T04:28:36.623Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:28:34.842Z
+---
+
  Book:: [[2 Corinthians]]
  1. Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia: ^1
  2. Grace be to you and peace from God our Father, and from the Lord Jesus Christ. ^2

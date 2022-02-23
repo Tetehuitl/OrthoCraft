@@ -1,3 +1,13 @@
+---
+title: Genesis_25
+description: 
+published: true
+date: 2022-02-23T04:43:33.983Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:32.137Z
+---
+
  Book:: [[Genesis]]
  1. Then again Abraham took a wife, and her name was Keturah. ^1
  2. And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. ^2

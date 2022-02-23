@@ -1,3 +1,13 @@
+---
+title: Galatians_1
+description: 
+published: true
+date: 2022-02-23T04:42:27.383Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:42:25.579Z
+---
+
  Book:: [[Galatians]]
  1. Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;) ^1
  2. And all the brethren which are with me, unto the churches of Galatia: ^2

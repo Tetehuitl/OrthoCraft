@@ -1,3 +1,13 @@
+---
+title: 1_John_4
+description: 
+published: true
+date: 2022-02-23T04:23:29.688Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:23:27.897Z
+---
+
  Book:: [[1 John]]
  1. Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world. ^1
  2. Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God: ^2

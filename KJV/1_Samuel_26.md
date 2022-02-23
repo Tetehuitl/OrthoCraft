@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_26
+description: 
+published: true
+date: 2022-02-23T04:25:44.847Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:42.991Z
+---
+
  Book:: [[1 Samuel]]
  1. And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, which is before Jeshimon? ^1
  2. Then Saul arose, and went down to the wilderness of Ziph, having three thousand chosen men of Israel with him, to seek David in the wilderness of Ziph. ^2

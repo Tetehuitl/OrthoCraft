@@ -1,3 +1,13 @@
+---
+title: Jeremiah_26
+description: 
+published: true
+date: 2022-02-23T04:50:53.767Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:50:51.968Z
+---
+
  Book:: [[Jeremiah]]
  1. In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word from the LORD, saying, ^1
  2. Thus saith the LORD; Stand in the court of the LORD's house, and speak unto all the cities of Judah, which come to worship in the LORD's house, all the words that I command thee to speak unto them; diminish not a word: ^2

@@ -1,3 +1,13 @@
+---
+title: Psalm_11
+description: 
+published: true
+date: 2022-02-23T05:08:57.405Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:55.677Z
+---
+
  Book:: [[Psalm]]
  1. In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain? ^1
  2. For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart. ^2

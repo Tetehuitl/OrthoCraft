@@ -1,3 +1,13 @@
+---
+title: Job_12
+description: 
+published: true
+date: 2022-02-23T04:52:39.653Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:37.854Z
+---
+
  Book:: [[Job]]
  1. And Job answered and said, ^1
  2. No doubt but ye are the people, and wisdom shall die with you. ^2

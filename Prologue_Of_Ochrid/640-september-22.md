@@ -1,3 +1,13 @@
+---
+title: 640-september-22
+description: 
+published: true
+date: 2022-02-23T05:32:13.396Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:32:11.504Z
+---
+
 
 **1. THE HIEROMARTYR PHOCAS, BISHOP OF SINOPE**
 

@@ -1,3 +1,13 @@
+---
+title: Amos_6
+description: 
+published: true
+date: 2022-02-23T04:33:52.231Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:50.480Z
+---
+
  Book:: [[Amos]]
  1. Woe to them that are at ease in Zion, and trust in the mountain of Samaria, which are named chief of the nations, to whom the house of Israel came! ^1
  2. Pass ye unto Calneh, and see; and from thence go ye to Hamath the great: then go down to Gath of the Philistines: be they better than these kingdoms? or their border greater than your border? ^2

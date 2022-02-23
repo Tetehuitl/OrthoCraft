@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_16
+description: 
+published: true
+date: 2022-02-23T04:25:15.477Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:13.677Z
+---
+
  Book:: [[1 Samuel]]
  1. And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Bethlehemite: for I have provided me a king among his sons. ^1
  2. And Samuel said, How can I go? if Saul hear it, he will kill me. And the LORD said, Take an heifer with thee, and say, I am come to sacrifice to the LORD. ^2

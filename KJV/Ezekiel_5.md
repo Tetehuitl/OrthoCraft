@@ -1,3 +1,13 @@
+---
+title: Ezekiel_5
+description: 
+published: true
+date: 2022-02-23T04:41:42.034Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:41:40.279Z
+---
+
  Book:: [[Ezekiel]]
  1. And thou, son of man, take thee a sharp knife, take thee a barber's razor, and cause it to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the hair. ^1
  2. Thou shalt burn with fire a third part in the midst of the city, when the days of the siege are fulfilled: and thou shalt take a third part, and smite about it with a knife: and a third part thou shalt scatter in the wind; and I will draw out a sword after them. ^2

@@ -1,3 +1,13 @@
+---
+title: Zechariah_12
+description: 
+published: true
+date: 2022-02-23T05:18:20.926Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:19.125Z
+---
+
  Book:: [[Zechariah]]
  1. The burden of the word of the LORD for Israel, saith the LORD, which stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him. ^1
  2. Behold, I will make Jerusalem a cup of trembling unto all the people round about, when they shall be in the siege both against Judah and against Jerusalem. ^2

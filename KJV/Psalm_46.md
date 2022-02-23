@@ -1,3 +1,13 @@
+---
+title: Psalm_46
+description: 
+published: true
+date: 2022-02-23T05:12:38.977Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:12:37.238Z
+---
+
  Book:: [[Psalm]]
  1. God is our refuge and strength, a very present help in trouble. ^1
  2. Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea; ^2

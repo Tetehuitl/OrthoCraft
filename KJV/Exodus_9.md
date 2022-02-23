@@ -1,3 +1,13 @@
+---
+title: Exodus_9
+description: 
+published: true
+date: 2022-02-23T04:39:38.727Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:36.914Z
+---
+
  Book:: [[Exodus]]
  1. Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me. ^1
  2. For if thou refuse to let them go, and wilt hold them still, ^2

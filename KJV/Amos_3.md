@@ -1,3 +1,13 @@
+---
+title: Amos_3
+description: 
+published: true
+date: 2022-02-23T04:33:44.209Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:42.437Z
+---
+
  Book:: [[Amos]]
  1. Hear this word that the LORD hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying, ^1
  2. You only have I known of all the families of the earth: therefore I will punish you for all your iniquities. ^2

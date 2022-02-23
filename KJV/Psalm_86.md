@@ -1,3 +1,13 @@
+---
+title: Psalm_86
+description: 
+published: true
+date: 2022-02-23T05:14:43.815Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:14:42.021Z
+---
+
  Book:: [[Psalm]]
  1. Bow down thine ear, O LORD, hear me: for I am poor and needy. ^1
  2. Preserve my soul; for I am holy: O thou my God, save thy servant that trusteth in thee. ^2

@@ -1,3 +1,13 @@
+---
+title: 2_Kings_20
+description: 
+published: true
+date: 2022-02-23T04:29:52.069Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:50.276Z
+---
+
  Book:: [[2 Kings]]
  1. In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set thine house in order; for thou shalt die, and not live. ^1
  2. Then he turned his face to the wall, and prayed unto the LORD, saying, ^2

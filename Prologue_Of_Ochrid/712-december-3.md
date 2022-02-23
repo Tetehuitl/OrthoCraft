@@ -1,3 +1,13 @@
+---
+title: 712-december-3
+description: 
+published: true
+date: 2022-02-23T05:35:49.209Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:35:47.364Z
+---
+
 
 **1. THE HOLY PROPHET ZEPHANIAH**
 

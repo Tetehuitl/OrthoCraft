@@ -1,3 +1,13 @@
+---
+title: Luke_10
+description: 
+published: true
+date: 2022-02-23T04:59:49.489Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:47.631Z
+---
+
  Book:: [[Luke]]
  1. After these things the LORD appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come. ^1
  2. Therefore said he unto them, The harvest truly is great, but the labourers are few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest. ^2

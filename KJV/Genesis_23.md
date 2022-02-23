@@ -1,3 +1,13 @@
+---
+title: Genesis_23
+description: 
+published: true
+date: 2022-02-23T04:43:28.357Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:26.567Z
+---
+
  Book:: [[Genesis]]
  1. And Sarah was an hundred and seven and twenty years old: these were the years of the life of Sarah. ^1
  2. And Sarah died in Kirjatharba; the same is Hebron in the land of Canaan: and Abraham came to mourn for Sarah, and to weep for her. ^2

@@ -1,3 +1,13 @@
+---
+title: Leviticus_13
+description: 
+published: true
+date: 2022-02-23T04:58:38.912Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:37.061Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses and Aaron, saying, ^1
  2. When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests: ^2

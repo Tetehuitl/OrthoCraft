@@ -1,3 +1,13 @@
+---
+title: Job_24
+description: 
+published: true
+date: 2022-02-23T04:53:15.569Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:13.789Z
+---
+
  Book:: [[Job]]
  1. Why, seeing times are not hidden from the Almighty, do they that know him not see his days? ^1
  2. Some remove the landmarks; they violently take away flocks, and feed thereof. ^2

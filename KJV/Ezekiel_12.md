@@ -1,3 +1,13 @@
+---
+title: Ezekiel_12
+description: 
+published: true
+date: 2022-02-23T04:39:52.679Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:50.822Z
+---
+
  Book:: [[Ezekiel]]
  1. The word of the LORD also came unto me, saying, ^1
  2. Son of man, thou dwellest in the midst of a rebellious house, which have eyes to see, and see not; they have ears to hear, and hear not: for they are a rebellious house. ^2

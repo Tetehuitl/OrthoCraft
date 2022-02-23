@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_24
+description: 
+published: true
+date: 2022-02-23T04:31:24.418Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:22.619Z
+---
+
  Book:: [[2 Samuel]]
  1. And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah. ^1
  2. For the king said to Joab the captain of the host, which was with him, Go now through all the tribes of Israel, from Dan even to Beersheba, and number ye the people, that I may know the number of the people. ^2

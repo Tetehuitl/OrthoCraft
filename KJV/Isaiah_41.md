@@ -1,3 +1,13 @@
+---
+title: Isaiah_41
+description: 
+published: true
+date: 2022-02-23T04:48:19.759Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:17.962Z
+---
+
  Book:: [[Isaiah]]
  1. Keep silence before me, O islands; and let the people renew their strength: let them come near; then let them speak: let us come near together to judgment. ^1
  2. Who raised up the righteous man from the east, called him to his foot, gave the nations before him, and made him rule over kings? he gave them as the dust to his sword, and as driven stubble to his bow. ^2

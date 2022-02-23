@@ -1,3 +1,13 @@
+---
+title: Zechariah_6
+description: 
+published: true
+date: 2022-02-23T05:18:40.928Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:39.117Z
+---
+
  Book:: [[Zechariah]]
  1. And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains were mountains of brass. ^1
  2. In the first chariot were red horses; and in the second chariot black horses; ^2

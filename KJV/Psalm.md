@@ -1,3 +1,13 @@
+---
+title: Psalm
+description: 
+published: true
+date: 2022-02-23T05:08:21.536Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:38:49.633Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Psalm 1]]

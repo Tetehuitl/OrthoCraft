@@ -1,3 +1,13 @@
+---
+title: Numbers_7
+description: 
+published: true
+date: 2022-02-23T05:06:15.505Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:13.618Z
+---
+
  Book:: [[Numbers]]
  1. And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them; ^1
  2. That the princes of Israel, heads of the house of their fathers, who were the princes of the tribes, and were over them that were numbered, offered: ^2

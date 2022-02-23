@@ -1,3 +1,13 @@
+---
+title: 1_Kings_5
+description: 
+published: true
+date: 2022-02-23T04:24:24.051Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:22.235Z
+---
+
  Book:: [[1 Kings]]
  1. And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David. ^1
  2. And Solomon sent to Hiram, saying, ^2

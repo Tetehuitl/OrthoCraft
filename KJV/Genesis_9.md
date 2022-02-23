@@ -1,3 +1,13 @@
+---
+title: Genesis_9
+description: 
+published: true
+date: 2022-02-23T04:45:02.412Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:45:00.626Z
+---
+
  Book:: [[Genesis]]
  1. And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth. ^1
  2. And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered. ^2

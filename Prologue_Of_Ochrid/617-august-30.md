@@ -1,3 +1,13 @@
+---
+title: 617-august-30
+description: 
+published: true
+date: 2022-02-23T05:31:03.765Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:31:01.899Z
+---
+
 
 **1. THE SYNAXIS [ASSEMBLY] OF THE HOLY SERBIAN ENLIGHTENERS AND TEACHERS**
 

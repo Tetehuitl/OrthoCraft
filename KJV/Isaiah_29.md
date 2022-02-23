@@ -1,3 +1,13 @@
+---
+title: Isaiah_29
+description: 
+published: true
+date: 2022-02-23T04:47:41.330Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:39.535Z
+---
+
  Book:: [[Isaiah]]
  1. Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices. ^1
  2. Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel. ^2

@@ -1,3 +1,13 @@
+---
+title: 674-october-26
+description: 
+published: true
+date: 2022-02-23T05:33:56.755Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:33:54.874Z
+---
+
 
 **1. THE HOLY GREAT-MARTYR DEMETRIUS**
 

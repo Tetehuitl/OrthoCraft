@@ -1,3 +1,13 @@
+---
+title: 698-november-19
+description: 
+published: true
+date: 2022-02-23T05:35:09.457Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:35:07.626Z
+---
+
 
 **1. THE HOLY PROPHET OBADIAH**
 

@@ -1,3 +1,13 @@
+---
+title: Proverbs_7
+description: 
+published: true
+date: 2022-02-23T05:08:11.534Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:08:09.748Z
+---
+
  Book:: [[Proverbs]]
  1. My son, keep my words, and lay up my commandments with thee. ^1
  2. Keep my commandments, and live; and my law as the apple of thine eye. ^2

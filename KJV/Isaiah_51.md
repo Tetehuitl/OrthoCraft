@@ -1,3 +1,13 @@
+---
+title: Isaiah_51
+description: 
+published: true
+date: 2022-02-23T04:48:50.133Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:48.316Z
+---
+
  Book:: [[Isaiah]]
  1. Hearken to me, ye that follow after righteousness, ye that seek the LORD: look unto the rock whence ye are hewn, and to the hole of the pit whence ye are digged. ^1
  2. Look unto Abraham your father, and unto Sarah that bare you: for I called him alone, and blessed him, and increased him. ^2

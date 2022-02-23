@@ -1,3 +1,13 @@
+---
+title: Joshua_12
+description: 
+published: true
+date: 2022-02-23T04:56:03.940Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:02.145Z
+---
+
  Book:: [[Joshua]]
  1. Now these are the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east: ^1
  2. Sihon king of the Amorites, who dwelt in Heshbon, and ruled from Aroer, which is upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, which is the border of the children of Ammon; ^2

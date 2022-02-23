@@ -1,3 +1,13 @@
+---
+title: Acts_4
+description: 
+published: true
+date: 2022-02-23T04:33:20.592Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:18.760Z
+---
+
  Book:: [[Acts]]
  1. And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them, ^1
  2. Being grieved that they taught the people, and preached through Jesus the resurrection from the dead. ^2

@@ -1,3 +1,13 @@
+---
+title: 137_ABBA_JOHN’S_STORY_ABOUT_ABBA_CALINICOS
+description: 
+published: true
+date: 2022-02-23T05:39:26.539Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:39:24.801Z
+---
+
 [[Spiritual Meadow]]
  
 The same Abba John said:  

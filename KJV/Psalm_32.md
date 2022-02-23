@@ -1,3 +1,13 @@
+---
+title: Psalm_32
+description: 
+published: true
+date: 2022-02-23T05:11:56.554Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:11:54.794Z
+---
+
  Book:: [[Psalm]]
  1. Blessed is he whose transgression is forgiven, whose sin is covered. ^1
  2. Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile. ^2

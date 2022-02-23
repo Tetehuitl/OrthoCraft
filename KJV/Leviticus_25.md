@@ -1,3 +1,13 @@
+---
+title: Leviticus_25
+description: 
+published: true
+date: 2022-02-23T04:59:15.622Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:59:13.790Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses in mount Sinai, saying, ^1
  2. Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the LORD. ^2

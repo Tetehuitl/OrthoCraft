@@ -1,3 +1,13 @@
+---
+title: Joshua_21
+description: 
+published: true
+date: 2022-02-23T04:56:32.031Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:30.158Z
+---
+
  Book:: [[Joshua]]
  1. Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel; ^1
  2. And they spake unto them at Shiloh in the land of Canaan, saying, The LORD commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle. ^2

@@ -1,3 +1,13 @@
+---
+title: 717-december-8
+description: 
+published: true
+date: 2022-02-23T05:36:04.817Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:36:02.981Z
+---
+
 
 **1. THE VENERABLE PATAPIUS**
 

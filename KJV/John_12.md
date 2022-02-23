@@ -1,3 +1,13 @@
+---
+title: John_12
+description: 
+published: true
+date: 2022-02-23T04:54:48.945Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:47.107Z
+---
+
  Book:: [[John]]
  1. Then Jesus six days before the passover came to Bethany, where Lazarus was, which had been dead, whom he raised from the dead. ^1
  2. There they made him a supper; and Martha served: but Lazarus was one of them that sat at the table with him. ^2

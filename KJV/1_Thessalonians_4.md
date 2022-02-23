@@ -1,3 +1,13 @@
+---
+title: 1_Thessalonians_4
+description: 
+published: true
+date: 2022-02-23T04:26:29.895Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:28.117Z
+---
+
  Book:: [[1 Thessalonians]]
  1. Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more. ^1
  2. For ye know what commandments we gave you by the Lord Jesus. ^2

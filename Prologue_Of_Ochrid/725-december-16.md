@@ -1,3 +1,13 @@
+---
+title: 725-december-16
+description: 
+published: true
+date: 2022-02-23T05:36:29.183Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:36:27.327Z
+---
+
 
 **1. THE HOLY PROPHET HAGGAI**
 

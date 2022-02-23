@@ -1,3 +1,13 @@
+---
+title: Job_14
+description: 
+published: true
+date: 2022-02-23T04:52:45.173Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:52:43.390Z
+---
+
  Book:: [[Job]]
  1. Man that is born of a woman is of few days and full of trouble. ^1
  2. He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not. ^2

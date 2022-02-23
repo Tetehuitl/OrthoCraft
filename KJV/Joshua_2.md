@@ -1,3 +1,13 @@
+---
+title: Joshua_2
+description: 
+published: true
+date: 2022-02-23T04:56:26.400Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:56:24.588Z
+---
+
  Book:: [[Joshua]]
  1. And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot's house, named Rahab, and lodged there. ^1
  2. And it was told the king of Jericho, saying, Behold, there came men in hither to night of the children of Israel to search out the country. ^2

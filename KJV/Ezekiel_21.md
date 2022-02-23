@@ -1,3 +1,13 @@
+---
+title: Ezekiel_21
+description: 
+published: true
+date: 2022-02-23T04:40:19.962Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:18.158Z
+---
+
  Book:: [[Ezekiel]]
  1. And the word of the LORD came unto me, saying, ^1
  2. Son of man, set thy face toward Jerusalem, and drop thy word toward the holy places, and prophesy against the land of Israel, ^2

@@ -1,3 +1,13 @@
+---
+title: Proverbs_10
+description: 
+published: true
+date: 2022-02-23T05:06:54.881Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:06:53.058Z
+---
+
  Book:: [[Proverbs]]
  1. The proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother. ^1
  2. Treasures of wickedness profit nothing: but righteousness delivereth from death. ^2

@@ -1,3 +1,13 @@
+---
+title: 1_Timothy
+description: 
+published: true
+date: 2022-02-23T04:26:35.335Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:33.400Z
+---
+
  Testament:: [[New Testament]]
  [[Table of Contents]]
  [[1 Timothy 1]]

@@ -1,3 +1,13 @@
+---
+title: Deuteronomy
+description: 
+published: true
+date: 2022-02-23T04:34:53.011Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-22T08:36:55.947Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[Deuteronomy 1]]

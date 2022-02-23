@@ -1,3 +1,13 @@
+---
+title: 2_Samuel_4
+description: 
+published: true
+date: 2022-02-23T04:31:29.810Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:31:28.023Z
+---
+
  Book:: [[2 Samuel]]
  1. And when Saul's son heard that Abner was dead in Hebron, his hands were feeble, and all the Israelites were troubled. ^1
  2. And Saul's son had two men that were captains of bands: the name of the one was Baanah, and the name of the other Rechab, the sons of Rimmon a Beerothite, of the children of Benjamin: (for Beeroth also was reckoned to Benjamin. ^2

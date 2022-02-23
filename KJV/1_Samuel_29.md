@@ -1,3 +1,13 @@
+---
+title: 1_Samuel_29
+description: 
+published: true
+date: 2022-02-23T04:25:52.751Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:25:50.974Z
+---
+
  Book:: [[1 Samuel]]
  1. Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountain which is in Jezreel. ^1
  2. And the lords of the Philistines passed on by hundreds, and by thousands: but David and his men passed on in the rearward with Achish. ^2

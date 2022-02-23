@@ -1,3 +1,13 @@
+---
+title: Isaiah_25
+description: 
+published: true
+date: 2022-02-23T04:47:30.336Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:28.576Z
+---
+
  Book:: [[Isaiah]]
  1. O Lord, thou art my God; I will exalt thee, I will praise thy name; for thou hast done wonderful things; thy counsels of old are faithfulness and truth. ^1
  2. For thou hast made of a city an heap; of a defenced city a ruin: a palace of strangers to be no city; it shall never be built. ^2

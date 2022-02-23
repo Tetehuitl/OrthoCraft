@@ -1,3 +1,13 @@
+---
+title: Hosea_14
+description: 
+published: true
+date: 2022-02-23T04:46:16.401Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:46:14.612Z
+---
+
  Book:: [[Hosea]]
  1. O israel, return unto the LORD thy God; for thou hast fallen by thine iniquity. ^1
  2. Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips. ^2

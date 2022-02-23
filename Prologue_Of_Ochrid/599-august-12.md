@@ -1,3 +1,13 @@
+---
+title: 599-august-12
+description: 
+published: true
+date: 2022-02-23T05:30:09.406Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:30:07.547Z
+---
+
 
 **1. THE HOLY MARTYRS ANICETAS AND PHOTIUS**
 

@@ -1,3 +1,13 @@
+---
+title: Genesis_46
+description: 
+published: true
+date: 2022-02-23T04:44:37.269Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:35.451Z
+---
+
  Book:: [[Genesis]]
  1. And Israel took his journey with all that he had, and came to Beersheba, and offered sacrifices unto the God of his father Isaac. ^1
  2. And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here am I. ^2

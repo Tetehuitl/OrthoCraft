@@ -1,3 +1,13 @@
+---
+title: Ezekiel_24
+description: 
+published: true
+date: 2022-02-23T04:40:28.271Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:40:26.446Z
+---
+
  Book:: [[Ezekiel]]
  1. Again in the ninth year, in the tenth month, in the tenth day of the month, the word of the LORD came unto me, saying, ^1
  2. Son of man, write thee the name of the day, even of this same day: the king of Babylon set himself against Jerusalem this same day. ^2

@@ -1,3 +1,13 @@
+---
+title: Leviticus_19
+description: 
+published: true
+date: 2022-02-23T04:58:55.971Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:58:54.117Z
+---
+
  Book:: [[Leviticus]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the LORD your God am holy. ^2

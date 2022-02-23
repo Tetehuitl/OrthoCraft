@@ -1,3 +1,13 @@
+---
+title: 620-september-2
+description: 
+published: true
+date: 2022-02-23T05:31:12.836Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:31:10.961Z
+---
+
 **1. THE HOLY MARTYR MAMAS**
 
 He was born in Paphlagonia of renowned Christian parents, Theodotus and Rufina. His parents were cast into prison for Christ's name. His father died first in prison, and as soon as Rufina bore Mamas, she also died. Thus the newborn child was left alone between the dead bodies of his parents. However, God the Provider sent an angel to a noble widow, Ammia. Ammia saw the angel in a dream: he told her to go to the prison and take the child in. The local eparch granted Ammia permission to bury the dead and to take the child to her home. When Mamas reached his fifth year, he began to talk and his first word was "Mama!''--for which he received the name "Mamas.'' In school, Mamas displayed unusual intelligence, and as he had been reared in a Christian spirit, he did not hide his faith, but confessed it to the other children and laughed at the idols. During the reign of Aurelian there was a bitter persecution of Christians. The pagans did not even spare the Christian children. Mamas was fifteen years old when he was brought before the emperor. The emperor told him that he needed only to deny Christ verbally. Mamas replied: "Neither in my heart nor with my lips will I renounce my God and King, Jesus Christ.'' The emperor ordered him to be beaten, burned with torches, and finally thrown into the sea. But an angel of God saved him, and took him to a high mountain near Caesarea. There he lived in solitude and prayer. Even the wild beasts were tamed by his sanctity. He was finally discovered by his persecutors and subjected to torture again. When he had overcome torture both by fire and by wild beasts, St. Mamas was run through with a trident by a pagan priest. Thus he gave his holy soul to God, to Whom he had been faithful during all of his tortures. From his relics many healings of the sick have taken place.

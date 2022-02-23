@@ -1,3 +1,13 @@
+---
+title: 1_Timothy_2
+description: 
+published: true
+date: 2022-02-23T04:26:40.618Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:38.825Z
+---
+
  Book:: [[1 Timothy]]
  1. I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men; ^1
  2. For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty. ^2

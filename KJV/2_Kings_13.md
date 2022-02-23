@@ -1,3 +1,13 @@
+---
+title: 2_Kings_13
+description: 
+published: true
+date: 2022-02-23T04:29:30.470Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:29:28.639Z
+---
+
  Book:: [[2 Kings]]
  1. In the three and twentieth year of Joash the son of Ahaziah king of Judah Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years. ^1
  2. And he did that which was evil in the sight of the LORD, and followed the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom. ^2

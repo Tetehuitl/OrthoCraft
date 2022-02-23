@@ -1,3 +1,13 @@
+---
+title: 1_Chronicles_21
+description: 
+published: true
+date: 2022-02-23T04:21:51.315Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:21:49.461Z
+---
+
  Book:: [[1 Chronicles]]
  1. And Satan stood up against Israel, and provoked David to number Israel. ^1
  2. And David said to Joab and to the rulers of the people, Go, number Israel from Beersheba even to Dan; and bring the number of them to me, that I may know it. ^2

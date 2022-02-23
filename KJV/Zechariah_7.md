@@ -1,3 +1,13 @@
+---
+title: Zechariah_7
+description: 
+published: true
+date: 2022-02-23T05:18:43.772Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:18:42.005Z
+---
+
  Book:: [[Zechariah]]
  1. And it came to pass in the fourth year of king Darius, that the word of the LORD came unto Zechariah in the fourth day of the ninth month, even in Chisleu; ^1
  2. When they had sent unto the house of God Sherezer and Regemmelech, and their men, to pray before the LORD, ^2

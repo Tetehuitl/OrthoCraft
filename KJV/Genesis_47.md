@@ -1,3 +1,13 @@
+---
+title: Genesis_47
+description: 
+published: true
+date: 2022-02-23T04:44:39.999Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:44:38.191Z
+---
+
  Book:: [[Genesis]]
  1. Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen. ^1
  2. And he took some of his brethren, even five men, and presented them unto Pharaoh. ^2

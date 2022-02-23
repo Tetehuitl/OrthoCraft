@@ -1,3 +1,13 @@
+---
+title: 696-november-17
+description: 
+published: true
+date: 2022-02-23T05:35:03.456Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:35:01.603Z
+---
+
 
 **1. SAINT GREGORY THE WONDERWORKER, BISHOP OF NEOCAESAREA**
 

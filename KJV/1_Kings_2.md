@@ -1,3 +1,13 @@
+---
+title: 1_Kings_2
+description: 
+published: true
+date: 2022-02-23T04:24:07.910Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:24:06.048Z
+---
+
  Book:: [[1 Kings]]
  1. Now the days of David drew nigh that he should die; and he charged Solomon his son, saying, ^1
  2. I go the way of all the earth: be thou strong therefore, and show thyself a man; ^2

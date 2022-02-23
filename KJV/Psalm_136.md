@@ -1,3 +1,13 @@
+---
+title: Psalm_136
+description: 
+published: true
+date: 2022-02-23T05:10:18.344Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:10:16.551Z
+---
+
  Book:: [[Psalm]]
  1. O give thanks unto the LORD; for he is good: for his mercy endureth for ever. ^1
  2. O give thanks unto the God of gods: for his mercy endureth for ever. ^2

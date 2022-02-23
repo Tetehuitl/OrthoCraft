@@ -1,3 +1,13 @@
+---
+title: Exodus_4
+description: 
+published: true
+date: 2022-02-23T04:39:22.294Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:39:20.463Z
+---
+
  Book:: [[Exodus]]
  1. And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee. ^1
  2. And the LORD said unto him, What is that in thine hand? And he said, A rod. ^2

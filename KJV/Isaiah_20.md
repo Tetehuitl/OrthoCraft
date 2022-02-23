@@ -1,3 +1,13 @@
+---
+title: Isaiah_20
+description: 
+published: true
+date: 2022-02-23T04:47:16.757Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:47:14.988Z
+---
+
  Book:: [[Isaiah]]
  1. In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it; ^1
  2. At the same time spake the LORD by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off thy loins, and put off thy shoe from thy foot. And he did so, walking naked and barefoot. ^2

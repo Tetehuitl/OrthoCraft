@@ -1,3 +1,13 @@
+---
+title: 2_Chronicles_18
+description: 
+published: true
+date: 2022-02-23T04:27:21.480Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:27:19.625Z
+---
+
  Book:: [[2 Chronicles]]
  1. Now Jehoshaphat had riches and honor in abundance, and joined affinity with Ahab. ^1
  2. And after certain years he went down to Ahab to Samaria. And Ahab killed sheep and oxen for him in abundance, and for the people that he had with him, and persuaded him to go up with him to Ramothgilead. ^2

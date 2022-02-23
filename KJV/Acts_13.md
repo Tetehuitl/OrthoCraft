@@ -1,3 +1,13 @@
+---
+title: Acts_13
+description: 
+published: true
+date: 2022-02-23T04:32:31.492Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:32:29.621Z
+---
+
  Book:: [[Acts]]
  1. Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul. ^1
  2. As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them. ^2

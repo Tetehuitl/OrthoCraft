@@ -1,3 +1,13 @@
+---
+title: 1_Thessalonians_1
+description: 
+published: true
+date: 2022-02-23T04:26:21.975Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:20.225Z
+---
+
  Book:: [[1 Thessalonians]]
  1. Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ. ^1
  2. We give thanks to God always for you all, making mention of you in our prayers; ^2

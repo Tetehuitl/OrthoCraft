@@ -1,3 +1,13 @@
+---
+title: 592-august
+description: 
+published: true
+date: 2022-02-23T05:29:48.264Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:29:46.421Z
+---
+
 
 **1. THE HOLY MARTYR EUSIGNIUS**
 

@@ -1,3 +1,13 @@
+---
+title: Jonah_2
+description: 
+published: true
+date: 2022-02-23T04:55:44.655Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:55:42.882Z
+---
+
  Book:: [[Jonah]]
  1. Then Jonah prayed unto the LORD his God out of the fish's belly, ^1
  2. And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and thou heardest my voice. ^2

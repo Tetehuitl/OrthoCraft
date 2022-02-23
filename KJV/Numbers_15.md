@@ -1,3 +1,13 @@
+---
+title: Numbers_15
+description: 
+published: true
+date: 2022-02-23T05:04:58.337Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:04:56.505Z
+---
+
  Book:: [[Numbers]]
  1. And the LORD spake unto Moses, saying, ^1
  2. Speak unto the children of Israel, and say unto them, When ye be come into the land of your habitations, which I give unto you, ^2

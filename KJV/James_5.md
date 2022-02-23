@@ -1,3 +1,13 @@
+---
+title: James_5
+description: 
+published: true
+date: 2022-02-23T04:49:58.027Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:49:56.223Z
+---
+
  Book:: [[James]]
  1. Go to now, ye rich men, weep and howl for your miseries that shall come upon you. ^1
  2. Your riches are corrupted, and your garments are motheaten. ^2

@@ -1,3 +1,13 @@
+---
+title: Exodus_19
+description: 
+published: true
+date: 2022-02-23T04:38:19.030Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:38:17.188Z
+---
+
  Book:: [[Exodus]]
  1. In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they into the wilderness of Sinai. ^1
  2. For they were departed from Rephidim, and were come to the desert of Sinai, and had pitched in the wilderness; and there Israel camped before the mount. ^2

@@ -1,3 +1,13 @@
+---
+title: Isaiah_48
+description: 
+published: true
+date: 2022-02-23T04:48:39.050Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:48:37.245Z
+---
+
  Book:: [[Isaiah]]
  1. Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the LORD, and make mention of the God of Israel, but not in truth, nor in righteousness. ^1
  2. For they call themselves of the holy city, and stay themselves upon the God of Israel; The LORD of hosts is his name. ^2

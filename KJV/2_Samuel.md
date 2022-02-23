@@ -1,3 +1,13 @@
+---
+title: 2_Samuel
+description: 
+published: true
+date: 2022-02-23T04:30:38.468Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:30:36.046Z
+---
+
  Testament:: [[Old Testament]]
  [[Table of Contents]]
  [[2 Samuel 1]]

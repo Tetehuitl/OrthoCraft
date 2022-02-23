@@ -1,3 +1,13 @@
+---
+title: 1_Timothy_6
+description: 
+published: true
+date: 2022-02-23T04:26:51.567Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:26:49.385Z
+---
+
  Book:: [[1 Timothy]]
  1. Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and his doctrine be not blasphemed. ^1
  2. And they that have believing masters, let them not despise them, because they are brethren; but rather do them service, because they are faithful and beloved, partakers of the benefit. These things teach and exhort. ^2

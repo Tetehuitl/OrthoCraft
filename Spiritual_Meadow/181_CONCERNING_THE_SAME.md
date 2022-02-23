@@ -1,3 +1,13 @@
+---
+title: 181_CONCERNING_THE_SAME
+description: 
+published: true
+date: 2022-02-23T05:41:50.665Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:41:48.858Z
+---
+
 [[Spiritual Meadow]]
  
 This Dionysios the priest also told us this about the same man:  

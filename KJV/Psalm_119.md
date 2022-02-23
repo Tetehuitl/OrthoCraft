@@ -1,3 +1,13 @@
+---
+title: Psalm_119
+description: 
+published: true
+date: 2022-02-23T05:09:25.539Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:09:23.595Z
+---
+
  Book:: [[Psalm]]
  1. Blessed are the undefiled in the way, who walk in the law of the LORD. ^1
  2. Blessed are they that keep his testimonies, and that seek him with the whole heart. ^2

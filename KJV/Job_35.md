@@ -1,3 +1,13 @@
+---
+title: Job_35
+description: 
+published: true
+date: 2022-02-23T04:53:48.735Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:53:46.982Z
+---
+
  Book:: [[Job]]
  1. Elihu spake moreover, and said, ^1
  2. Thinkest thou this to be right, that thou saidst, My righteousness is more than God's? ^2

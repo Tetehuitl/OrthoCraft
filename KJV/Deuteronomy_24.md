@@ -1,3 +1,13 @@
+---
+title: Deuteronomy_24
+description: 
+published: true
+date: 2022-02-23T04:35:38.312Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:35:36.510Z
+---
+
  Book:: [[Deuteronomy]]
  1. When a man hath taken a wife, and married her, and it come to pass that she find no favor in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give it in her hand, and send her out of his house. ^1
  2. And when she is departed out of his house, she may go and be another man's wife. ^2

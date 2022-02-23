@@ -1,3 +1,13 @@
+---
+title: Genesis_3
+description: 
+published: true
+date: 2022-02-23T04:43:47.680Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:43:45.873Z
+---
+
  Book:: [[Genesis]]
  1. Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? ^1
  2. And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: ^2

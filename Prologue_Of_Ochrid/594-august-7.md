@@ -1,3 +1,13 @@
+---
+title: 594-august-7
+description: 
+published: true
+date: 2022-02-23T05:29:54.332Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:29:52.445Z
+---
+
 
 **1. THE VENERABLE MARTYR DOMETIUS**
 

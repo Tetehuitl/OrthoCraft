@@ -1,3 +1,13 @@
+---
+title: Job_6
+description: 
+published: true
+date: 2022-02-23T04:54:16.557Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:54:14.746Z
+---
+
  Book:: [[Job]]
  1. But Job answered and said, ^1
  2. Oh that my grief were throughly weighed, and my calamity laid in the balances together! ^2

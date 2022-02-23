@@ -1,3 +1,13 @@
+---
+title: Acts_6
+description: 
+published: true
+date: 2022-02-23T04:33:25.962Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T04:33:24.180Z
+---
+
  Book:: [[Acts]]
  1. And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration. ^1
  2. Then the twelve called the multitude of the disciples unto them, and said, It is not reason that we should leave the word of God, and serve tables. ^2
