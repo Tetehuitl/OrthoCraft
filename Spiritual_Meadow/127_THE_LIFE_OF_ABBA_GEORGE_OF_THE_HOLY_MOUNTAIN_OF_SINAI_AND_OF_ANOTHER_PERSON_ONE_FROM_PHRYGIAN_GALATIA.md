@@ -1,5 +1,14 @@
-[[Spiritual Meadow]]
- 
+---
+title: 127 The Life of Abba George of The Holy Mountain of Sanai of Another Person From Phrygian Galatia
+description: 
+published: true
+date: 2022-02-23T11:38:17.988Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:38:52.310Z
+---
+
+127 The Life of Abba George of The Holy Mountain of Sanai of Another Person From Phrygian Galatia
 This story was told to us by Amma Damiana the solitary, the mother of Abba Athenogenes, Bishop of Petra:  
  
 There was a higoumen at Mount Sinai who was truly great, and an ascetic, George by name. As he was sitting in his cell one Holy Saturday, this Abba George conceived a desire to celebrate the holy resurrection in the Holy City and to partake of the holy mysteries in the Church of the Holy Resurrection of Christ our God. All day long the elder continued in prayer meditating upon the validity of these thoughts. With evening, his disciple came and said: ‘Father, give the word for us to proceed to the canonical service’. The elder replied: ‘You go, and when it is time for holy communion, return home and I will come too. Then the elder stayed in his cell. When it came to the time for holy communion at the Church of the Holy Resurrection, the elder was found near the blessed Bishop Peter and he, together with the priests, was given commu- nion by the bishop. When the patriarch saw him, he said to his syncellos, Menas: ‘When did the abbot abbas of Sinai come here’? The syncellos replied: ‘With all due respect, my lord, I had not seen him until only this very instant’. Then the patriarch said to the syncellos: ‘Tell him not to go away; I want him to take food with me’, The syncellos went and said this to the elder, who responded: ‘The will of God be done’. When the elder had left the service and venerated the holy sepulchre, he found himself back in his cell again, and there was his disciple knocking at the door and saying: ‘Father, if you please, come and communicate’. The elder went to the church with his disciple and partook of the holy mysteries. Archbishop Peter was saddened that the elder should have disobeyed him. After the feast, he sent him a letter; likewise to  
