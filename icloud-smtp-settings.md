@@ -2,7 +2,7 @@
 title: iCloud SMTP settings
 description: 
 published: true
-date: 2022-02-23T13:42:23.968Z
+date: 2022-02-23T14:01:13.085Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-23T13:35:50.384Z
@@ -16,7 +16,7 @@ IMAP information for the incoming mail server
     SSL Required: Yes
     If you see an error message when using SSL, try using TLS instead.
     Port: 993
-    Username: This is usually the name part of your iCloud email address (for example, emilyparker, not emilyparker@icloud.com). If your email client can't connect to iCloud using just the name part of your iCloud email address, try using the full address.
+    Username: This is usually the name part of your iCloud email address (for example, emilyparker, not emilyparker@icloud.com).
     Password: Generate an app-specific password.
 ```
 
