@@ -1,3 +1,13 @@
+---
+title: classical-hierarchy-of-things
+description: 
+published: true
+date: 2022-02-23T13:13:00.738Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T12:29:03.126Z
+---
+
 # Classical Hierarchy of Things
 
 Date Published: February 11, 2022
