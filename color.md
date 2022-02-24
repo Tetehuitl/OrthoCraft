@@ -2,7 +2,7 @@
 title: Favorite Colors
 description: 
 published: true
-date: 2022-02-24T01:15:23.996Z
+date: 2022-02-24T01:16:04.290Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-24T00:51:42.089Z
@@ -23,4 +23,3 @@ here are some good colors:
 #408080 - Ming : green
 ```
 
-<iframe width="400" height="215" src="https://nc.orthocraft.net/apps/calendar/embed/RAwJwWW68ftkp66E"></iframe>
