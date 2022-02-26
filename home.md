@@ -2,7 +2,7 @@
 title: Welcome 
 description: 
 published: true
-date: 2022-02-23T22:33:56.996Z
+date: 2022-02-26T03:48:18.370Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-23T04:42:32.603Z
@@ -10,7 +10,7 @@ dateCreated: 2022-02-23T04:42:32.603Z
 
 
 
-I would like to welcome you with a the oldest story—the story of pride:
+I would like to welcome you with the oldest story—the story of pride:
 
 
 
