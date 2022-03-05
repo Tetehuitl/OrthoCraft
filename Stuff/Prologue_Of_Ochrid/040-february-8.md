@@ -2,12 +2,11 @@
 title: 040-february-8
 description: 
 published: true
-date: 2022-02-23T05:22:28.389Z
+date: 2022-03-05T21:28:56.154Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:22:26.515Z
+dateCreated: 2022-03-05T21:28:53.490Z
 ---
-
 
 **1. THE HOLY GREAT-MARTYR THEODORE STRATELATES**
 

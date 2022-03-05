@@ -1,3 +1,13 @@
+---
+title: on-giving-to-poor
+description: 
+published: true
+date: 2022-03-05T21:30:43.715Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:30:39.521Z
+---
+
 # On Not Giving Directly to the Poor
 
 Date Published: February 11, 2022

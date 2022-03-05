@@ -1,3 +1,13 @@
+---
+title: life-of-palamas
+description: 
+published: true
+date: 2022-03-05T21:30:58.748Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:26:49.530Z
+---
+
 # Life of Saint Gregory Palamas
 
 Date Published: February 11, 2022

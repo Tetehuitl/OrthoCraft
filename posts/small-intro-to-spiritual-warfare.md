@@ -1,3 +1,13 @@
+---
+title: small-intro-to-spiritual-warfare
+description: 
+published: true
+date: 2022-03-05T21:28:44.758Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:28:41.138Z
+---
+
 # Small Intro to Spiritual Warfare
 
 Date Published: February 11, 2022

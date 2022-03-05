@@ -2,10 +2,10 @@
 title: Lenten_Prayer_of_St_Ephraim_the_Syrian
 description: 
 published: true
-date: 2022-02-23T05:20:14.961Z
+date: 2022-03-05T21:25:48.870Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:20:13.226Z
+dateCreated: 2022-03-05T21:25:46.592Z
 ---
 
 links: [[HUB]] [[Prayer]]

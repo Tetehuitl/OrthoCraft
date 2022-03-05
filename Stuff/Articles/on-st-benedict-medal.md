@@ -1,3 +1,13 @@
+---
+title: on-st-benedict-medal
+description: 
+published: true
+date: 2022-03-05T21:31:08.778Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:31:04.508Z
+---
+
 # On the St Benedict Medal
 
 Date Published: February 11, 2022

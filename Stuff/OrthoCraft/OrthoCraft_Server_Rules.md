@@ -2,10 +2,10 @@
 title: OrthoCraft_Server_Rules
 description: 
 published: true
-date: 2022-02-23T05:19:54.609Z
+date: 2022-03-05T21:25:22.985Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:19:52.771Z
+dateCreated: 2022-03-05T21:25:20.701Z
 ---
 
 *This is a Hermitcraft style server of people who wish to cooperate together. If you aren't willing to trust and be trusted of others this server isn't for you.*

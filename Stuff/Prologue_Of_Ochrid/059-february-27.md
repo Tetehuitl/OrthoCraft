@@ -2,12 +2,11 @@
 title: 059-february-27
 description: 
 published: true
-date: 2022-02-23T05:23:24.881Z
+date: 2022-03-05T21:30:24.461Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:23:23.022Z
+dateCreated: 2022-03-05T21:30:21.218Z
 ---
-
 
 **1. THE VENERABLE PROCOPIUS OF DECAPOLIS**
 

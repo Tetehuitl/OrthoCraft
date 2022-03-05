@@ -1,3 +1,13 @@
+---
+title: lenten-prayer-of-st-ephraim
+description: 
+published: true
+date: 2022-03-05T21:30:06.561Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:30:03.201Z
+---
+
 # Lenten Prayer of St. Ephrem
 
 Date Published: February 11, 2022

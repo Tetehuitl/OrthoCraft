@@ -2,12 +2,11 @@
 title: 006-january-6
 description: 
 published: true
-date: 2022-02-23T05:20:50.444Z
+date: 2022-03-05T21:26:36.618Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:20:48.625Z
+dateCreated: 2022-03-05T21:26:33.949Z
 ---
-
 
 **1. THE THEOPHANY [EPIPHANY] OF OUR LORD AND SAVIOR JESUS CHRIST**
 

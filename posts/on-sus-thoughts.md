@@ -1,3 +1,13 @@
+---
+title: on-sus-thoughts
+description: 
+published: true
+date: 2022-03-05T21:28:02.953Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:27:56.043Z
+---
+
 # The sin of suspicious thoughts
 
 Featured: No

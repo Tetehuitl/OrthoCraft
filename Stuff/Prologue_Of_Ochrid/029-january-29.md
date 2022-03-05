@@ -2,12 +2,11 @@
 title: 029-january-29
 description: 
 published: true
-date: 2022-02-23T05:21:58.716Z
+date: 2022-03-05T21:28:13.559Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:21:56.881Z
+dateCreated: 2022-03-05T21:28:10.707Z
 ---
-
 
 **1. THE HOLY HIEROMARTYR [PRIESTLY-MARTYR] IGNATIUS THE GOD-BEARER
 **

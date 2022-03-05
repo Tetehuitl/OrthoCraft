@@ -2,10 +2,10 @@
 title: Prayer_of_Optina_Elders
 description: 
 published: true
-date: 2022-02-23T05:20:20.757Z
+date: 2022-03-05T21:25:56.288Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:20:19.029Z
+dateCreated: 2022-03-05T21:25:53.868Z
 ---
 
 links: [[HUB]] [[Prayer]]

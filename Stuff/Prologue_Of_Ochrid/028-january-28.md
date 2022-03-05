@@ -2,12 +2,11 @@
 title: 028-january-28
 description: 
 published: true
-date: 2022-02-23T05:21:55.810Z
+date: 2022-03-05T21:28:09.197Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:21:53.944Z
+dateCreated: 2022-03-05T21:28:06.353Z
 ---
-
 
 **1. THE VENERABLE EPHRAIM THE SYRIAN**
 

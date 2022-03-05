@@ -2,12 +2,11 @@
 title: 005-january-5
 description: 
 published: true
-date: 2022-02-23T05:20:47.510Z
+date: 2022-03-05T21:26:32.589Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:20:45.637Z
+dateCreated: 2022-03-05T21:26:29.925Z
 ---
-
 
 **1. THE HIEROMARTYR [PRIESTLY-MARTYR] THEOPEMPTOS AND THE MARTYR THEONAS**
 

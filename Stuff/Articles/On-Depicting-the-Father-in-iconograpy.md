@@ -1,3 +1,13 @@
+---
+title: On-Depicting-the-Father-in-iconograpy
+description: 
+published: true
+date: 2022-03-05T21:29:21.768Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:29:18.864Z
+---
+
 “We decree that from now on the image of the Lord Sabaoth will no longer be painted according to senseless and unsuitable imaginings, for no one has ever seen the Lord Sabaoth (that is, God the Father) in the flesh. Only Christ was seen in the flesh, and in this way He is portrayed, that is, in the flesh and not according to His divinity. Likewise, the most Holy Mother of God and other Saints of God…
 
 To paint on icons the Lord Sabaoth (that is, the Father) with a white beard holding the Only-Begotten Son in His lap with a dove between them is altogether absurd and improper, for no one has ever seen the Father in His Divinity.”

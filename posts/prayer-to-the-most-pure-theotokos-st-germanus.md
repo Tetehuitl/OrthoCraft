@@ -1,3 +1,13 @@
+---
+title: prayer-to-the-most-pure-theotokos-st-germanus
+description: 
+published: true
+date: 2022-03-05T21:28:18.855Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:28:15.877Z
+---
+
 # Prayer to the Most Pure Mother of God - St Germanus
 
 Date Published: February 11, 2022

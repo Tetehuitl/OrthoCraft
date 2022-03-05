@@ -1,0 +1,53 @@
+---
+title: Source-_Counsels_from_the_Holy_Mountain
+description: 
+published: true
+date: 2022-02-23T05:49:21.042Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-23T05:49:19.123Z
+---
+
+- [[Source]]
+- Author:: [[Elder Ephraim of Arizona]]
+- Category:: [[Hesychia]] 
+- Subject:: [[Spiritual Warfare]] 
+- Published:: 2010
+- Thesis::
+- Pagination:: Book pages
+- Preparatory Brain Dump:: 
+- Table of Contents::
+    - On Salvation and Paradise
+    - On Affliction, Pain, and Labors
+- Notes::
+    - Chapter 1 Pre Read
+    - Chapter 1
+        - [[Claim|➡]] Heaven is incomprehensibly wonderful. We forget this for two reasons: one, because we think we won't make it, two, we are ignorant of it. pg 3
+        - [[Quote|❝]] "Everything will pass and will end as if had never existed, whereas works done in God will remain with the soul that worked them so that the worker may reap eternal life from them."
+        - [➡]([[Claim]]) Blessed are they who work now so they may reap their reward in heaven. pg 4
+        - [➡]([[Claim]]) There is no suffering in this life that can out do the joys of the next. pg 4
+        - [❝]([[Quote]]) "The grandeur of man, whom God raises to such heights and glory, is unrivaled! Yet we passionate sinners are unaware of and indifferent to these great riches, and our way of thinking is completely earthly. Just think: this body which is fetid dirt is counted worthy to be conformed to God's glory, to become angelic!" pg 4
+        - [➡]([[Claim]]) Men are material compared to [[Angels]] and angels are somewhat material compared to God. So, the more Godlike we become the more angelic, so to speak. pg 5
+        - [➡]([[Claim]]) This life is temporary and we hold on to it by a thread. Because it will pass away we should not passionately desire anything temporary. Especially knowing what awaits us in heaven. pg 5
+        - [➡]([[Claim]]) Earthly joy is followed by sorrow, but heavenly joy is unending. pg 6
+        - [❝]([[Quote]]) "See what beauty awaits us! If you could only see how beautiful it is! You would disregard everything; you would even become like trash to be stepped on, just as long as you would not be deprived of everything that the sweet love of Jesus has prepared!"
+        - [➡]([[Claim]]) Heavenly beauty far surpasses any earthly beauty. We cannot even fathom the beauty of heaven. pg 7
+    - Chapter 1 Summary
+        - [☩]([[Crux]]) This life will end and the only thing we can bring with us to the next life is the works we do in God. Heaven is more beautiful than we can imagine, so we should not neglect the work we must do to get there.
+    - Chapter 2 pre read
+    - Chapter 2
+        - [➡]([[Claim]]) Because all things come from God we are obliged to obey his will - to accept all sufferings that come to us. pg 9
+        - [➡]([[Claim]]) through patience we show our obedience to God. pg 10
+        - [➡]([[Claim]]) Faith, hope and patience is how Christ showed us to endure suffering and affliction. pg 10
+        - [➡]([[Claim]]) God uses suffering and trials and an "excuse" to give us gifts. pg 10
+        - [➡]([[Claim]]) Even trials brought be other people are from God pg 10
+        - [❝]([[Quote]]) "May no trace of evil or hatred be found in ours souls, so that we may be called children of God." pg 10
+        - [➡]([[Claim]]) by fighting the trials we make ourselves worthy to recieve gifts from God. whether the trials come from the enemy, other people, or from our nature. pg 11
+        - [❝]([[Quote]]) "For this reason, my child, endure everything, for a crown is being woven invisibly for the head of each one of us. Winter is bitter but paradise is sweet. Endure the frost of trials, so that your feet my joyfully dance in heaven." pg 11
+        - [➡]([[Claim]]) all trials and afflictions are given in order to make the heart pure and cleanse us of the passions. pg 11
+        - [➡]([[Claim]]) many saints suffered many trials even though sin didn't hold sway over them, so we shouldn't grumble when we have trials because we deserve the trials we receive because of our love for sin. pg 11
+        - [❝]([[Quote]]) "Why are you sorrowful and glum while walking along the way of God? Those who have forgotten God, who have no home in the living and eternal fountain of God, should grieve. But we, who believe in the living God and whose hopes depend upon Him, ought to rejoice that we have such a Father in the heavens, Who loves us more than all fathers and mothers and Who takes infinite care to render us worthy of Him." pg 12
+        - [➡]([[Claim]]) We shouldn't grieve that we sin many times, we are men of clay and are inclined toward evil from our youths, because out good intentions will prevail and God has given us the tools we need to overcome our nature and has saved us by his [[Cross]] and [[Resurrection]]. pg 12
+        - [➡]([[Claim]]) Grief is good when it spurs us to be courageous and put of the armor of righteousness. pg 12
+        - [➡]([[Claim]]) All our lives we go from joy to grief, from blessing to trial over again. This is how God cleanses us. pg 13
+    - Chapter 2 summary

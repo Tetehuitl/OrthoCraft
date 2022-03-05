@@ -1,3 +1,13 @@
+---
+title: canon-of-repentance-to-our-lord-jesus-christ
+description: 
+published: true
+date: 2022-03-05T21:29:28.607Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:29:25.647Z
+---
+
 # Canon of Repentance To our Lord Jesus Christ
 
 Date Published: February 11, 2022

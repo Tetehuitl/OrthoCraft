@@ -1,3 +1,13 @@
+---
+title: Guide-to-confession
+description: 
+published: true
+date: 2022-03-05T21:29:11.200Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:29:07.389Z
+---
+
 # Guide to Confession
 
 Date Published: February 11, 2022

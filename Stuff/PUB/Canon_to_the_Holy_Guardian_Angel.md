@@ -2,10 +2,10 @@
 title: Canon_to_the_Holy_Guardian_Angel
 description: 
 published: true
-date: 2022-02-23T05:20:06.179Z
+date: 2022-03-05T21:25:37.756Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:20:04.316Z
+dateCreated: 2022-03-05T21:25:35.217Z
 ---
 
 links: [[HUB]] [[Prayer]]

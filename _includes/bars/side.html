@@ -1,0 +1,36 @@
+<!--
+title: side
+description: 
+published: true
+date: 2022-03-01T18:43:43.303Z
+tags: 
+editor: ckeditor
+dateCreated: 2022-03-01T18:43:41.372Z
+-->
+
+{% if page.show_profile %}
+    <div class="card bg-light">
+        <div class="card-body text-center">
+            {{site.author.name}}
+            {% include components/profile-avatar.html %}
+            {% include components/profile-body.html %}
+        </div>
+    </div>
+{% endif %}
+
+{% if page.show_tags %}
+    {% include components/all-tags.html %}
+{% endif %}
+
+{% if page.show_skills %}
+    {% include components/all-skills.html %}
+{% endif %}
+
+{% if page.path contains '_projects' %}
+    {% include components/project-meta.html %}
+{% endif %}
+
+{% if page.path contains '_posts' %}
+    {% include components/post-meta.html %}
+{% endif %}
+

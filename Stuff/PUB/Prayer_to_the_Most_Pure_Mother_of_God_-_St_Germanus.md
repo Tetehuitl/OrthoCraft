@@ -2,10 +2,10 @@
 title: Prayer_to_the_Most_Pure_Mother_of_God_-_St_Germanus
 description: 
 published: true
-date: 2022-02-23T05:20:23.604Z
+date: 2022-03-05T21:26:00.096Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:20:21.809Z
+dateCreated: 2022-03-05T21:25:57.592Z
 ---
 
 links: [[HUB]] [[Prayer]]

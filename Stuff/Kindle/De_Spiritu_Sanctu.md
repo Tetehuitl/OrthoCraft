@@ -2,10 +2,10 @@
 title: De_Spiritu_Sanctu
 description: 
 published: true
-date: 2022-02-23T05:19:08.689Z
+date: 2022-03-05T21:25:14.714Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:19:06.893Z
+dateCreated: 2022-03-05T21:25:12.387Z
 ---
 
 # De Spiritu Sanctu

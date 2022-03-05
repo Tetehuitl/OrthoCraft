@@ -2,12 +2,11 @@
 title: 009-january-9
 description: 
 published: true
-date: 2022-02-23T05:20:59.390Z
+date: 2022-03-05T21:26:49.070Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:20:57.533Z
+dateCreated: 2022-03-05T21:26:46.432Z
 ---
-
 
 **1. THE HOLY MARTYR POLYEUCTUS**
 

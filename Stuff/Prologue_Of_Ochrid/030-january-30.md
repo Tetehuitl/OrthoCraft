@@ -2,12 +2,11 @@
 title: 030-january-30
 description: 
 published: true
-date: 2022-02-23T05:22:01.679Z
+date: 2022-03-05T21:28:18.265Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:21:59.819Z
+dateCreated: 2022-03-05T21:28:15.002Z
 ---
-
 
 **1. THE THREE HIERARCHS: SAINT BASIL THE GREAT, SAINT GREGORY THE THEOLOGIAN, AND SAINT JOHN CHRYSOSTOM**
 

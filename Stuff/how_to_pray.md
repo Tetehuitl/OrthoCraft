@@ -2,7 +2,7 @@
 title: Hot to Learn to Pray
 description: 
 published: true
-date: 2022-02-23T09:53:08.913Z
+date: 2022-03-05T21:29:59.469Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-23T09:53:07.055Z

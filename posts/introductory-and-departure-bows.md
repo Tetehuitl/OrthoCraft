@@ -1,3 +1,13 @@
+---
+title: introductory-and-departure-bows
+description: 
+published: true
+date: 2022-03-05T21:30:45.023Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:26:33.288Z
+---
+
 # Introductory and Departure Bows
 
 Date Published: February 11, 2022

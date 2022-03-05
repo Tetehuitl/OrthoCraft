@@ -1,3 +1,13 @@
+---
+title: prayer-of-optina-elders
+description: 
+published: true
+date: 2022-03-05T21:28:15.733Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:28:11.742Z
+---
+
 # Prayer of the Optina Elders
 
 Date Published: February 11, 2022

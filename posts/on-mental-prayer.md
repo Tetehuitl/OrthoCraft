@@ -1,3 +1,13 @@
+---
+title: on-mental-prayer
+description: 
+published: true
+date: 2022-03-05T21:27:54.433Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:27:43.414Z
+---
+
 # What is mental or inner prayer, and of what kinds can it be?
 
 Date Published: February 11, 2022

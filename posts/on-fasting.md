@@ -1,3 +1,13 @@
+---
+title: on-fasting
+description: 
+published: true
+date: 2022-03-05T21:31:24.360Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:27:23.029Z
+---
+
 # On Fasting
 
 Date Published: February 11, 2022

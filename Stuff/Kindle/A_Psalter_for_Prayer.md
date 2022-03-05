@@ -2,10 +2,10 @@
 title: A_Psalter_for_Prayer
 description: 
 published: true
-date: 2022-02-23T05:19:02.943Z
+date: 2022-03-05T21:25:07.604Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:19:01.143Z
+dateCreated: 2022-03-05T21:25:05.338Z
 ---
 
 # A Psalter for Prayer

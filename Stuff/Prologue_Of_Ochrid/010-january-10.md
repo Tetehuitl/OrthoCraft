@@ -2,12 +2,11 @@
 title: 010-january-10
 description: 
 published: true
-date: 2022-02-23T05:21:02.682Z
+date: 2022-03-05T21:26:53.163Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:21:00.854Z
+dateCreated: 2022-03-05T21:26:50.419Z
 ---
-
 
 **1. SAINT GREGORY, BISHOP OF NYSSA**
 

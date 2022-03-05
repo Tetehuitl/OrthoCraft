@@ -1,3 +1,13 @@
+---
+title: athonite-prayer-rule
+description: 
+published: true
+date: 2022-03-05T21:29:25.581Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:29:21.828Z
+---
+
 ### Trisagion Prayers
 
 In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.

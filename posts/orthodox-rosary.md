@@ -1,3 +1,13 @@
+---
+title: orthodox-rosary
+description: 
+published: true
+date: 2022-03-05T21:28:11.678Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:28:08.556Z
+---
+
 # How to Pray the Orthodox Rosary
 
 Date Published: February 11, 2022

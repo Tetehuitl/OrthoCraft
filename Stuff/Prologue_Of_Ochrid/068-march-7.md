@@ -2,12 +2,11 @@
 title: 068-march-7
 description: 
 published: true
-date: 2022-02-23T05:23:51.761Z
+date: 2022-03-05T21:31:08.472Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:23:49.889Z
+dateCreated: 2022-03-05T21:31:05.370Z
 ---
-
 
 **1. THE HOLY SEVEN HIEROMARTYRS [PRIESTLY-MARTYRS] IN CHERSON: BASIL, EPHRAIM, EUGENE, ELPIDIUS, AGATHADORUS, AETHERIUS AND CAPITO**
 

@@ -1,14 +1,12 @@
 ---
-title: Welcome 
+title: Welcome
 description: 
 published: true
-date: 2022-02-26T03:48:18.370Z
+date: 2022-03-05T21:29:56.153Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-23T04:42:32.603Z
 ---
-
-
 
 I would like to welcome you with the oldest story—the story of pride:
 

@@ -2,12 +2,11 @@
 title: 003-january-3
 description: 
 published: true
-date: 2022-02-23T05:20:41.586Z
+date: 2022-03-05T21:26:24.492Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:20:39.773Z
+dateCreated: 2022-03-05T21:26:21.759Z
 ---
-
 
 **1. THE PROPHET MALACHI**
 

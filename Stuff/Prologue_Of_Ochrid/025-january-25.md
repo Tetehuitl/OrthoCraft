@@ -2,12 +2,11 @@
 title: 025-january-25
 description: 
 published: true
-date: 2022-02-23T05:21:46.884Z
+date: 2022-03-05T21:27:56.316Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:21:45.021Z
+dateCreated: 2022-03-05T21:27:53.677Z
 ---
-
 
 **1. ST GREGORY THE THEOLOGIAN, ARCHBISHOP OF CONSTANTINOPLE**
 

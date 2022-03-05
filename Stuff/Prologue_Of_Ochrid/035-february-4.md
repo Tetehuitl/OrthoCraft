@@ -2,12 +2,11 @@
 title: 035-february-4
 description: 
 published: true
-date: 2022-02-23T05:22:16.447Z
+date: 2022-03-05T21:28:39.533Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:22:14.591Z
+dateCreated: 2022-03-05T21:28:36.722Z
 ---
-
 
 **1. THE VENERABLE ISIDORE OF PELUSIUM**
 

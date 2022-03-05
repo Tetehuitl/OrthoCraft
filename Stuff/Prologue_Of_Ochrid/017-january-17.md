@@ -2,12 +2,11 @@
 title: 017-january-17
 description: 
 published: true
-date: 2022-02-23T05:21:23.286Z
+date: 2022-03-05T21:27:22.947Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:21:21.444Z
+dateCreated: 2022-03-05T21:27:20.072Z
 ---
-
 
 **1. THE VENERABLE ANTHONY THE GREAT**
 

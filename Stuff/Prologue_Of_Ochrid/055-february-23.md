@@ -2,12 +2,11 @@
 title: 055-february-23
 description: 
 published: true
-date: 2022-02-23T05:23:12.973Z
+date: 2022-03-05T21:30:04.769Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:23:11.098Z
+dateCreated: 2022-03-05T21:30:01.783Z
 ---
-
 
 **1. THE HOLY HIEROMARTYR [PRIESTLY-MARTYR] POLYCARP, BISHOP OF SMYRNA**
 

@@ -1,3 +1,13 @@
+---
+title: on-praying-in-own-words
+description: 
+published: true
+date: 2022-03-05T21:31:04.440Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:31:01.065Z
+---
+
 # On Praying in One’s Own Words
 
 Date Published: February 11, 2022

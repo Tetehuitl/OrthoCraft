@@ -2,12 +2,11 @@
 title: 033-february-2
 description: 
 published: true
-date: 2022-02-23T05:22:10.495Z
+date: 2022-03-05T21:28:30.780Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:22:08.657Z
+dateCreated: 2022-03-05T21:28:27.939Z
 ---
-
 
 **1. THE MEETING [PRESENTATION] OF OUR LORD IN THE TEMPLE**
 

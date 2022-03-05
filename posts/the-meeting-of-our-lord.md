@@ -1,3 +1,13 @@
+---
+title: the-meeting-of-our-lord
+description: 
+published: true
+date: 2022-03-05T21:29:02.620Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:28:59.005Z
+---
+
 # The Meeting of Our Lord, God and Saviour Jesus Christ
 
 Featured: No

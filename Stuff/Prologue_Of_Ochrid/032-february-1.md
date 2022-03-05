@@ -2,12 +2,11 @@
 title: 032-february-1
 description: 
 published: true
-date: 2022-02-23T05:22:07.542Z
+date: 2022-03-05T21:28:26.526Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:22:05.708Z
+dateCreated: 2022-03-05T21:28:23.796Z
 ---
-
 
 **1. THE HOLY MARTYR TRYPHON**
 

@@ -1,3 +1,13 @@
+---
+title: laziness-no-excuse
+description: 
+published: true
+date: 2022-03-05T21:30:03.134Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:29:58.818Z
+---
+
 # Those Who Because of Their Laziness Have Failed to Attain Salvation Will Have No Excuse
 
 Author: St Symeon the New Theologian

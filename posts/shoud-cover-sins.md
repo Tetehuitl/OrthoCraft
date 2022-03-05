@@ -1,3 +1,13 @@
+---
+title: shoud-cover-sins
+description: 
+published: true
+date: 2022-03-05T21:28:41.035Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:28:37.824Z
+---
+
 # We Should Cover Other’s Sins
 
 Featured: No

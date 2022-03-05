@@ -1,3 +1,13 @@
+---
+title: prep-canon-for-holy-communion
+description: 
+published: true
+date: 2022-03-05T21:28:23.056Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:28:18.956Z
+---
+
 # Preparatory Canon for Holy Communion - Lazarus Moore
 
 Date Published: February 11, 2022

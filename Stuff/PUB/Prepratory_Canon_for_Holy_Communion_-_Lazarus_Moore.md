@@ -2,10 +2,10 @@
 title: Prepratory_Canon_for_Holy_Communion_-_Lazarus_Moore
 description: 
 published: true
-date: 2022-02-23T05:20:26.643Z
+date: 2022-03-05T21:26:04.074Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:20:24.735Z
+dateCreated: 2022-03-05T21:26:01.337Z
 ---
 
 links: [[HUB]] [[Prayer]]

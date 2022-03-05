@@ -1,3 +1,13 @@
+---
+title: thanksgiving-post-communion
+description: 
+published: true
+date: 2022-03-05T21:28:58.945Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:28:55.371Z
+---
+
 # Thanksgiving Prayers after Holy Communion - Lazarus Moore
 
 Date Published: February 11, 2022

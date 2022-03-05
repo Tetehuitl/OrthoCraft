@@ -1,3 +1,13 @@
+---
+title: service-of-schema
+description: 
+published: true
+date: 2022-03-05T21:28:37.714Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:28:33.448Z
+---
+
 # Service of Angelic Schema
 
 Date Published: February 11, 2022

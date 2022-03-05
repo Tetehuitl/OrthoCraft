@@ -1,3 +1,13 @@
+---
+title: deadly-sins
+description: 
+published: true
+date: 2022-03-05T21:29:35.179Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:29:31.363Z
+---
+
 # On Sins that Require Confession
 
 Date Published: February 14, 2022

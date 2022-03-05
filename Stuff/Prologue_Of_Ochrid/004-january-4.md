@@ -2,12 +2,11 @@
 title: 004-january-4
 description: 
 published: true
-date: 2022-02-23T05:20:44.550Z
+date: 2022-03-05T21:26:28.535Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:20:42.691Z
+dateCreated: 2022-03-05T21:26:25.917Z
 ---
-
 
 **1. THE SYNAXIS [ASSEMBLY] OF THE SEVENTY HOLY APOSTLES**
 

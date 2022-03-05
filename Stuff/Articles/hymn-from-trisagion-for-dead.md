@@ -1,3 +1,13 @@
+---
+title: hymn-from-trisagion-for-dead
+description: 
+published: true
+date: 2022-03-05T21:29:50.455Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:29:46.379Z
+---
+
 # Hymn from the Trisagion for the Dead
 
 Date Published: February 11, 2022

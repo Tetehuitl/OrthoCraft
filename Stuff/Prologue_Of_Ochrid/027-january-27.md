@@ -2,12 +2,11 @@
 title: 027-january-27
 description: 
 published: true
-date: 2022-02-23T05:21:52.839Z
+date: 2022-03-05T21:28:04.872Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:21:50.986Z
+dateCreated: 2022-03-05T21:28:02.133Z
 ---
-
 
 **1. SAINT JOHN CHRYSOSTOM, THE GOLDEN TRUMPET OF ORTHODOXY**
 

@@ -2,12 +2,11 @@
 title: 022-january-22
 description: 
 published: true
-date: 2022-02-23T05:21:38.036Z
+date: 2022-03-05T21:27:43.571Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:21:36.203Z
+dateCreated: 2022-03-05T21:27:40.902Z
 ---
-
 
 **1. THE HOLY APOSTLE TIMOTHY**
 

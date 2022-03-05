@@ -2,12 +2,11 @@
 title: 031-january-31
 description: 
 published: true
-date: 2022-02-23T05:22:04.612Z
+date: 2022-03-05T21:28:22.395Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:22:02.748Z
+dateCreated: 2022-03-05T21:28:19.676Z
 ---
-
 
 **1. CYRUS AND JOHN, UNMERCENARIES AND MIRACLE-WORKERS**
 

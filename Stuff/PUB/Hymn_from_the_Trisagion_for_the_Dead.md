@@ -2,10 +2,10 @@
 title: Hymn_from_the_Trisagion_for_the_Dead
 description: 
 published: true
-date: 2022-02-23T05:20:12.094Z
+date: 2022-03-05T21:25:45.325Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:20:10.354Z
+dateCreated: 2022-03-05T21:25:42.903Z
 ---
 
 links: [[HUB]]

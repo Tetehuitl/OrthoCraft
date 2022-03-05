@@ -1,3 +1,13 @@
+---
+title: optina-prayer-rule
+description: 
+published: true
+date: 2022-03-05T21:28:08.490Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:28:04.200Z
+---
+
 ## The Cell Rule of Five Hundred of the Optina Monastery
 
 In ADDITION to the church services: the Liturgy, Matins, and Vespers with Compline, which all of the brethren of the monastery are obligated to attend, many of them daily read in their cells:

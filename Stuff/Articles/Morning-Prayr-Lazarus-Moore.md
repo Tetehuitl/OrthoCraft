@@ -1,3 +1,13 @@
+---
+title: Morning-Prayr-Lazarus-Moore
+description: 
+published: true
+date: 2022-03-05T21:29:18.747Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:29:14.312Z
+---
+
 On rising, make the sign of the Cross and say:
 
 In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.

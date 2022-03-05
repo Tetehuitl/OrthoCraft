@@ -2,12 +2,11 @@
 title: 002-january-2
 description: 
 published: true
-date: 2022-02-23T05:20:38.692Z
+date: 2022-03-05T21:26:20.293Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:20:36.877Z
+dateCreated: 2022-03-05T21:26:17.646Z
 ---
-
 
 **1. SAINT SYLVESTER, BISHOP OF ROME**
 

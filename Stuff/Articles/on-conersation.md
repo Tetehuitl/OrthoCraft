@@ -1,3 +1,13 @@
+---
+title: on-conersation
+description: 
+published: true
+date: 2022-03-05T21:30:27.635Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:30:23.474Z
+---
+
 # How One Should Converse
 
 Date Published: February 11, 2022

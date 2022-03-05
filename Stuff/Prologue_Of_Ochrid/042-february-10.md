@@ -2,12 +2,11 @@
 title: 042-february-10
 description: 
 published: true
-date: 2022-02-23T05:22:34.370Z
+date: 2022-03-05T21:29:05.202Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:22:32.477Z
+dateCreated: 2022-03-05T21:29:02.161Z
 ---
-
 
 **1. THE HIEROMARTYR [PRIESTLY-MARTYR] CHARALAMPUS**
 

@@ -2,10 +2,10 @@
 title: cool seeds
 description: 
 published: true
-date: 2022-02-23T05:20:00.313Z
+date: 2022-03-05T21:25:30.021Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:19:58.583Z
+dateCreated: 2022-03-05T21:25:27.601Z
 ---
 
 - **Java**

@@ -2,15 +2,11 @@
 title: Athonite Prayer Rule
 description: 
 published: true
-date: 2022-02-23T11:28:51.394Z
+date: 2022-03-05T21:29:45.898Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-23T11:28:49.575Z
 ---
-
-
-
-
 
 ### Trisagion Prayers
 

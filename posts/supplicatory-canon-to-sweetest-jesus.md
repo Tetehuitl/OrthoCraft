@@ -1,3 +1,13 @@
+---
+title: supplicatory-canon-to-sweetest-jesus
+description: 
+published: true
+date: 2022-03-05T21:28:55.315Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:28:51.880Z
+---
+
 # Supplicatory Canon to our Sweetest Lord Jesus Christ
 
 Date Published: February 11, 2022

@@ -2,10 +2,10 @@
 title: Athonite_Prayer_Rule
 description: 
 published: true
-date: 2022-02-23T05:20:03.226Z
+date: 2022-03-05T21:25:33.876Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-23T05:20:01.375Z
+dateCreated: 2022-03-05T21:25:31.328Z
 ---
 
 links: [[HUB]] [[Prayer]]

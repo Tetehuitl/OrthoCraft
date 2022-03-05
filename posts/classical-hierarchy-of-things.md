@@ -1,11 +1,11 @@
 ---
 title: classical-hierarchy-of-things
-description:
+description: 
 published: true
-date: 2022-02-23T13:13:00.738Z
-tags:
+date: 2022-03-05T21:30:25.931Z
+tags: 
 editor: markdown
-dateCreated: 2022-02-23T12:29:03.126Z
+dateCreated: 2022-03-05T21:26:07.622Z
 ---
 
 # Classical Hierarchy of Things

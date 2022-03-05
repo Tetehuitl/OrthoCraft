@@ -1,3 +1,13 @@
+---
+title: prep-prayers-for-holy-communion
+description: 
+published: true
+date: 2022-03-05T21:28:26.312Z
+tags: 
+editor: markdown
+dateCreated: 2022-03-05T21:28:23.116Z
+---
+
 # Preparatory Prayers for Holy Communion - Lazarus Moore
 
 Date Published: February 11, 2022
