@@ -1,8 +1,8 @@
 ---
-title: athonite-prayer-rule
+title: Athonite Prayer Rule
 description: 
 published: true
-date: 2022-03-05T21:30:02.880Z
+date: 2022-03-05T22:01:05.003Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-05T21:25:40.985Z
