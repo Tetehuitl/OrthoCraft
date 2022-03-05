@@ -1,8 +1,8 @@
 ---
-title: On-Depicting-the-Father-in-iconograpy
+title: On Depicting the Father in iconography
 description: 
 published: true
-date: 2022-02-23T12:28:56.418Z
+date: 2022-03-05T21:59:04.412Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-23T12:28:54.665Z
