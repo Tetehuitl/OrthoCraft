@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title> $title$ </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="./w3.css">
+<style>
+</style>
+<script src=""></script>
+<body>
+
+<div class="w3-row">
+  <div class="w3-quarter 3-container w3-green">
+    <h2>MENU</h2>
+  </div>
+  <div class="w3-half 3-container">
+    <h1>$title$</h1>
+    $subtitle$
+    $description$
+    $author$
+    $body$
+  </div>
+  <div class="w3-quarter w3-container">
+    <h1>$title$</h1>
+    $subtitle$
+    $description$
+    $author$
+  </div>
+</div>
+</body>
+</html>
